@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T10:03:19.852224-04:00",
+  "updated_at": "2026-06-06T03:25:59.925229-04:00",
   "companies": {
     "AAL": {
       "name": "American Airlines Group",
@@ -40,30 +40,24 @@
       "enriched_at": "2026-05-30T09:25:05.087780-04:00"
     },
     "BA": {
-      "name": "Boeing",
-      "summary": "Boeing is a major aerospace firm that operates in three reportable segments: Commercial Airplanes, Defense, Space & Security, and Global Services. It develops, produces, and markets commercial jet aircraft and defense systems. The company is a leading producer of commercial aircraft and offers a family of commercial jetliners.",
-      "news_role": "Boeing is currently positioned as a major player in the commercial aircraft market, having secured a major order of 200 aircraft from China valued at approximately $23 billion.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
-      "industry": null,
-      "exchange": null,
-      "industry_peers": [
-        "TDG",
-        "HXL",
-        "TXT",
-        "KRMN",
-        "LOAR"
+      "name": "BOEING CO",
+      "summary": "Boeing is a major aerospace firm that develops, produces, and markets commercial jet aircraft, defense systems, and global services. The company operates in three reportable segments: Commercial Airplanes, Defense, Space & Security, and Global Services. Its commercial jet aircraft include the 737 narrow-body model.",
+      "news_role": "Boeing's production of the 737 Max 10 is expected to be certified by the FAA before the end of the year, clearing the way for the first deliveries.",
+      "contextual_peers": [
+        "SPGI",
+        "TSLA"
       ],
-      "industry_peer_names": {
-        "TDG": "TransDigm Group",
-        "HXL": "Hexcel",
-        "TXT": "Textron",
-        "KRMN": "Karman",
-        "LOAR": "Loar"
+      "contextual_peer_names": {
+        "SPGI": "S&P Global",
+        "TSLA": "Tesla"
       },
-      "industry_peer_theme": "Aerospace Manufacturing",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:11.432679-04:00"
+      "industry": "Aircraft",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-01-30",
+      "enriched_at": "2026-06-06T03:25:59.529735-04:00"
     },
     "BAC": {
       "name": "Bank of America",
@@ -140,42 +134,40 @@
       "enriched_at": "2026-05-30T09:25:24.765117-04:00"
     },
     "COIN": {
-      "name": "Coinbase Global",
-      "summary": "Coinbase Global is a cryptocurrency exchange platform aiming to increase economic freedom by providing a trusted platform for trading various assets, including stocks and commodities. The company seeks to create a comprehensive experience for retail users, institutions, and developers. Its mission is to update the century-old financial system.",
-      "news_role": "Coinbase Global is currently positioned in financial news due to its involvement with the Coalition for Prediction Markets, which faces regulatory uncertainty surrounding prediction markets.",
+      "name": "Coinbase Global, Inc.",
+      "summary": "Coinbase Global, Inc. is a platform that enables easy engagement with crypto assets, aiming to update the century-old financial system. It provides a trusted and secure platform for retail users, institutions, and developers to engage in the future of finance. The company has expanded its assets to include stocks, commodity futures, perpetual futures, and prediction markets.",
+      "news_role": null,
       "contextual_peers": [
-        "HOOD",
-        "FLUT",
         "GOOG",
-        "CRM",
-        "ORCL"
+        "HOOD",
+        "NVDA",
+        "TSLA",
+        "MSFT"
       ],
       "contextual_peer_names": {
-        "HOOD": "Robinhood Markets",
-        "FLUT": "Flutter Entertainment",
         "GOOG": "Alphabet",
-        "CRM": "Salesforce",
-        "ORCL": "Oracle"
+        "HOOD": "Robinhood Markets",
+        "NVDA": "Nvidia",
+        "TSLA": "Tesla",
+        "MSFT": "Microsoft"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "Finance Services",
+      "exchange": "NASDAQ",
       "industry_peers": [
-        "TW",
         "BLSH",
         "CRCL",
         "MSTR",
         "SOFI"
       ],
       "industry_peer_names": {
-        "TW": "Tradeweb Markets",
         "BLSH": "Bullish",
         "CRCL": "Circle Internet Group",
         "MSTR": "Strategy",
         "SOFI": "SoFi Technologies"
       },
-      "industry_peer_theme": "Digital Payments",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:31.635134-04:00"
+      "industry_peer_theme": "Cryptocurrency Frenzy",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-04T06:07:12.753550-04:00"
     },
     "COO": {
       "name": "Cooper",
@@ -212,72 +204,68 @@
       "enriched_at": "2026-05-30T09:25:38.090473-04:00"
     },
     "CRM": {
-      "name": "Salesforce",
-      "summary": "Salesforce is a global leader in customer relationship management (CRM) technology, providing a unified platform to help organizations become agile enterprises. The company's AI-powered platform unites its offerings, spanning sales, service, marketing, and more, to create a complete view of customers. This platform enables trusted enterprise execution.",
+      "name": "Salesforce, Inc.",
+      "summary": "Salesforce is a global leader in customer relationship management (CRM) technology, providing a unified platform to help organizations become agile enterprises. The company's AI-powered platform unites its offerings, spanning sales, service, marketing, and more, to create a complete view of customers. This platform enables trusted enterprise execution and growth innovation.",
       "news_role": null,
       "contextual_peers": [
-        "ORCL",
-        "MSFT"
+        "GOOG",
+        "AMZN",
+        "NVDA",
+        "DASH"
       ],
       "contextual_peer_names": {
-        "ORCL": "Oracle",
-        "MSFT": "Microsoft"
+        "GOOG": "Alphabet",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "DASH": "DoorDash"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NYSE",
       "industry_peers": [
-        "FOUR",
         "SNOW",
         "NOW",
-        "RNG",
-        "EXLS"
+        "PCTY",
+        "NTNX",
+        "NCNO"
       ],
       "industry_peer_names": {
-        "FOUR": "Shift4 Payments,",
         "SNOW": "Snowflake",
         "NOW": "ServiceNow",
-        "RNG": "RingCentral",
-        "EXLS": "Exlservice"
+        "PCTY": "Paylocity Holding",
+        "NTNX": "Nutanix",
+        "NCNO": "nCino"
       },
       "industry_peer_theme": "Cloud Software Services",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:43.790942-04:00"
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-04T06:07:19.533082-04:00"
     },
     "DIS": {
-      "name": "Walt Disney",
-      "summary": "Walt Disney is a diversified worldwide entertainment company with operations in three segments: Entertainment, Sports and Experiences. The Entertainment segment includes global film and episodic content production and distribution activities. The company produces content for various networks, including ABC, Disney, Freeform, FX, and National Geographic.",
-      "news_role": "Disney is currently under investigation by the FCC regarding its diversity, equity, and inclusion practices, which may impact its financial performance.",
+      "name": "Walt Disney Co",
+      "summary": "The Walt Disney Company is a diversified worldwide entertainment company with operations in three segments: Entertainment, Sports and Experiences. The Entertainment segment includes global film and episodic content production and distribution activities. The company produces content for various networks, including ABC, Disney, Freeform, FX, and National Geographic.",
+      "news_role": "Walt Disney is currently positioned in financial news as the parent company of Disney Advertising, with Rita Ferro leading the advertising business, and is emphasizing international growth as a priority for its media and streaming services.",
       "contextual_peers": [
-        "UAL",
-        "AAL",
-        "COO",
-        "TMO"
+        "GOOG",
+        "META",
+        "MSFT",
+        "NVDA"
       ],
       "contextual_peer_names": {
-        "UAL": "United Airlines",
-        "AAL": "American Airlines Group",
-        "COO": "Cooper",
-        "TMO": "Thermo Fisher Scientific"
+        "GOOG": "Alphabet",
+        "META": "Meta Platforms",
+        "MSFT": "Microsoft",
+        "NVDA": "Nvidia"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "Services-Miscellaneous Amusement & Recreation",
+      "exchange": "NYSE",
       "industry_peers": [
-        "CMCSA",
-        "HAS",
-        "VSNT",
-        "WBD",
-        "MAR"
+        "MTN"
       ],
       "industry_peer_names": {
-        "CMCSA": "Comcast",
-        "HAS": "Hasbro",
-        "VSNT": "Versant Media Group",
-        "WBD": "Warner Bros Discovery",
-        "MAR": "Marriott International"
+        "MTN": "Vail Resorts"
       },
-      "industry_peer_theme": "Entertainment Media",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:50.627935-04:00"
+      "industry_peer_theme": "Recreational Services",
+      "filing_date": "2025-11-13",
+      "enriched_at": "2026-06-04T06:07:41.149880-04:00"
     },
     "FLUT": {
       "name": "Flutter Entertainment",
@@ -318,80 +306,78 @@
       "enriched_at": "2026-05-30T09:25:57.822830-04:00"
     },
     "GOOG": {
-      "name": "Alphabet",
-      "summary": "Alphabet is a collection of businesses, with Google being the largest, and continues to invest in artificial intelligence (AI) and other moonshots. The company reports Google in two segments and all non-Google businesses as Other Bets. Alphabet is driven by its unconventional spirit and aims to tackle big problems.",
-      "news_role": "Alphabet is currently positioned in financial news due to a recent insider trading charge against a Google employee, who allegedly used confidential information to place bets on a prediction platform.",
+      "name": "Alphabet Inc.",
+      "summary": "Alphabet Inc. is a parent company of Google, investing in artificial intelligence and other moonshots, with a focus on tackling big problems and driving innovation. The company reports its businesses in two segments: Google Services and Google Cloud, and Other Bets. Alphabet is an AI-first company, with a collection of businesses led by CEO Sundar Pichai.",
+      "news_role": "Alphabet is ramping up spending on artificial intelligence to meet unprecedented customer demand, but faces challenges with insider trading and regulatory scrutiny.",
       "contextual_peers": [
-        "HOOD",
-        "COIN",
-        "FLUT",
-        "CRM",
-        "ORCL"
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "INTC",
+        "JPM"
       ],
       "contextual_peer_names": {
-        "HOOD": "Robinhood Markets",
-        "COIN": "Coinbase Global",
-        "FLUT": "Flutter Entertainment",
-        "CRM": "Salesforce",
-        "ORCL": "Oracle"
+        "AAPL": "Apple",
+        "MSFT": "Microsoft",
+        "NVDA": "Nvidia",
+        "INTC": "Intel",
+        "JPM": "JPMorgan Chase"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "Services-Computer Programming, Data Processing, Etc.",
+      "exchange": "NASDAQ",
       "industry_peers": [
         "META",
-        "RDDT",
         "PINS",
         "TTD",
-        "CNXC"
+        "FDS",
+        "APP"
       ],
       "industry_peer_names": {
         "META": "Meta Platforms",
-        "RDDT": "Reddit",
         "PINS": "Pinterest",
         "TTD": "Trade Desk",
-        "CNXC": "Concentrix"
+        "FDS": "Factset Research Systems",
+        "APP": "Applovin"
       },
       "industry_peer_theme": "Digital Advertising",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:26:05.163475-04:00"
+      "filing_date": "2026-02-05",
+      "enriched_at": "2026-06-04T06:07:49.644041-04:00"
     },
     "GS": {
-      "name": "Goldman Sachs Group",
-      "summary": "Goldman Sachs Group, Inc. is a global investment firm that provides investment banking, securities, asset management, and consumer and commercial banking services. The company operates in a resilient global economy, despite inflationary pressures and geopolitical concerns. Its business environment is impacted by central bank policy interest rate cuts.",
-      "news_role": null,
+      "name": "GOLDMAN SACHS GROUP INC",
+      "summary": "Goldman Sachs is a leading global financial institution that delivers a wide range of financial services, including global banking and markets, asset and wealth management, platform solutions, and more. The company aims to deliver long-term value to its shareholders through its various business segments. Goldman Sachs operates in a competitive landscape with other financial institutions.",
+      "news_role": "Goldman Sachs is positioning itself as a leader in the financial services industry, highlighting its expertise in helping European companies remain competitive in the face of a shift towards domestic semiconductors in China.",
       "contextual_peers": [
-        "MCO",
-        "BAC",
-        "CARR",
-        "NVDA",
-        "MSFT"
+        "BRK-B",
+        "JPM",
+        "GOOG",
+        "BX",
+        "AAPL"
       ],
       "contextual_peer_names": {
-        "MCO": "Moody's",
-        "BAC": "Bank of America",
-        "CARR": "Carrier Global",
-        "NVDA": "Nvidia",
-        "MSFT": "Microsoft"
+        "BRK-B": "Berkshire Hathaway",
+        "JPM": "JPMorgan Chase",
+        "GOOG": "Alphabet",
+        "BX": "Blackstone",
+        "AAPL": "Apple"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NYSE",
       "industry_peers": [
-        "STWD",
-        "LNC",
-        "LCID",
-        "UNH",
-        "WAL"
+        "MS",
+        "IBKR",
+        "SF",
+        "FRHC"
       ],
       "industry_peer_names": {
-        "STWD": "Starwood Property Trust (Maryland)",
-        "LNC": "Lincoln National",
-        "LCID": "Lucid Group",
-        "UNH": "UnitedHealth Group",
-        "WAL": "Western Alliance Bancorp"
+        "MS": "Morgan Stanley",
+        "IBKR": "Interactive Brokers Group",
+        "SF": "Stifel Financial",
+        "FRHC": "Freedom Holding"
       },
       "industry_peer_theme": "Financial Services",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:26:11.146204-04:00"
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-04T06:07:58.129688-04:00"
     },
     "HOOD": {
       "name": "Robinhood Markets, Inc.",
@@ -1310,6 +1296,2286 @@
       "industry_peer_theme": "Media and Entertainment",
       "filing_date": "2026-02-27",
       "enriched_at": "2026-05-30T09:29:18.702168-04:00"
+    },
+    "AAPL": {
+      "name": "Apple Inc.",
+      "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, with a focus on its iPhone, Mac, and iPad product lines.",
+      "news_role": "Apple is a significant competitor in the premium PC market, having recently transitioned from Intel x86 chips to its own Arm-based processors.",
+      "contextual_peers": [
+        "NVDA",
+        "MRVL",
+        "MSFT",
+        "QCOM",
+        "MU"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MRVL": "Marvell Technology",
+        "MSFT": "Microsoft",
+        "QCOM": "Qualcomm",
+        "MU": "Micron Technology"
+      },
+      "industry": "Electronic Computers",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "DELL"
+      ],
+      "industry_peer_names": {
+        "DELL": "Dell Technologies"
+      },
+      "industry_peer_theme": "Technology Hardware",
+      "filing_date": "2025-10-31",
+      "enriched_at": "2026-06-04T06:06:34.822676-04:00"
+    },
+    "AMZN": {
+      "name": "AMAZON COM INC",
+      "summary": "Amazon.com Inc. is a customer-centric company guided by four principles: customer obsession, passion for invention, commitment to operational excellence, and long-term thinking. It serves its primary customer sets across various segments and seeks to be Earth's most customer-centric company. The company's products and services include e-commerce, cloud computing, and artificial intelligence.",
+      "news_role": "Amazon.com is currently positioned in financial news as a leader in AI-driven innovation, with its Prime Day event promoting products and services amidst economic uncertainty, and a pending deadline to deploy half of its constellation by next month.",
+      "contextual_peers": [
+        "GOOG",
+        "NVDA",
+        "DASH",
+        "CRM",
+        "MRP"
+      ],
+      "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "NVDA": "Nvidia",
+        "DASH": "DoorDash",
+        "CRM": "Salesforce",
+        "MRP": "Millrose Properties"
+      },
+      "industry": "Retail-Catalog & Mail-Order Houses",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "CPNG"
+      ],
+      "industry_peer_names": {
+        "CPNG": "Coupang"
+      },
+      "industry_peer_theme": "E-commerce and Retail",
+      "filing_date": "2026-02-06",
+      "enriched_at": "2026-06-04T06:06:43.551779-04:00"
+    },
+    "ASTS": {
+      "name": "AST SpaceMobile, Inc.",
+      "summary": "AST SpaceMobile, Inc. is building a global Cellular Broadband network in space to provide cost-effective, high-speed services to end-users with existing mobile devices, out of terrestrial cellular coverage. The company plans to utilize its extensive intellectual property and patent portfolio. The SpaceMobile Service is designed to be accessible directly by everyday smartphones.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "TSLA",
+        "DE",
+        "RKLB",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "TSLA": "Tesla",
+        "DE": "Deere",
+        "RKLB": "Rocket Lab",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Communications Services, NEC",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "IRDM"
+      ],
+      "industry_peer_names": {
+        "IRDM": "Iridium Communications"
+      },
+      "industry_peer_theme": "Satellite Communications",
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-04T06:06:50.300142-04:00"
+    },
+    "BRK-B": {
+      "name": "BERKSHIRE HATHAWAY INC",
+      "summary": "Berkshire Hathaway Inc. is a holding company owning subsidiaries engaged in diverse business activities, including insurance, freight rail transportation, and utility and energy generation and distribution, with a decentralized management structure.",
+      "news_role": "Berkshire Hathaway is making significant investments in the U.S. housing market through its acquisition of Taylor Morrison Home and a $10 billion investment in Alphabet, demonstrating its strategic focus on key industries.",
+      "contextual_peers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "QCOM",
+        "MU"
+      ],
+      "contextual_peer_names": {
+        "AAPL": "Apple",
+        "MSFT": "Microsoft",
+        "NVDA": "Nvidia",
+        "QCOM": "Qualcomm",
+        "MU": "Micron Technology"
+      },
+      "industry": "Fire, Marine & Casualty Insurance",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "WRB",
+        "TRV",
+        "HIG",
+        "RLI",
+        "EG"
+      ],
+      "industry_peer_names": {
+        "WRB": "W. R. Berkley",
+        "TRV": "Travelers",
+        "HIG": "Hartford Insurance Group",
+        "RLI": "RLI",
+        "EG": "Everest Group"
+      },
+      "industry_peer_theme": "Insurance Industry",
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-04T06:06:57.093552-04:00"
+    },
+    "BX": {
+      "name": "Blackstone Inc.",
+      "summary": "Blackstone Inc. is the world's largest alternative asset manager, delivering compelling returns for institutional and individual investors through its global investment strategies focused on real estate, private equity, infrastructure, and more. Its scale, diversified business, and rigorous investment process position it to perform well in various market conditions. Blackstone seeks to strengthen companies and assets in which it invests.",
+      "news_role": "Blackstone's significant investments in Asia, particularly in India and Japan, demonstrate its growing presence in the region and reinforce its position as a major player in the Asian private equity market.",
+      "contextual_peers": [
+        "BRK-B",
+        "JPM",
+        "GOOG",
+        "GS",
+        "AAPL"
+      ],
+      "contextual_peer_names": {
+        "BRK-B": "Berkshire Hathaway",
+        "JPM": "JPMorgan Chase",
+        "GOOG": "Alphabet",
+        "GS": "Goldman Sachs Group",
+        "AAPL": "Apple"
+      },
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "HLNE",
+        "BAM",
+        "ARES",
+        "KKR",
+        "TPG"
+      ],
+      "industry_peer_names": {
+        "HLNE": "Hamilton Lane",
+        "BAM": "Brookfield Asset Management",
+        "ARES": "Ares Management",
+        "KKR": "KKR",
+        "TPG": "TPG"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-04T06:07:05.658143-04:00"
+    },
+    "DASH": {
+      "name": "DoorDash, Inc.",
+      "summary": "DoorDash, Inc. is a food delivery and logistics company that aims to grow and empower local economies by providing services that reduce friction in local commerce. Its primary offerings include the DoorDash Marketplace and Commerce Platform, which operate in over 40 countries. The company's Marketplaces serve merchants, consumers, and Dashers.",
+      "news_role": null,
+      "contextual_peers": [
+        "GOOG",
+        "AMZN",
+        "NVDA",
+        "NOW"
+      ],
+      "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "NOW": "ServiceNow"
+      },
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "UBER",
+        "CART",
+        "LYFT"
+      ],
+      "industry_peer_names": {
+        "UBER": "Uber Technologies",
+        "CART": "Maplebear (Instacart)",
+        "LYFT": "Lyft"
+      },
+      "industry_peer_theme": "Food Delivery Services",
+      "filing_date": "2026-02-18",
+      "enriched_at": "2026-06-04T06:07:26.238954-04:00"
+    },
+    "DE": {
+      "name": "DEERE & CO",
+      "summary": "DEERE & CO is a manufacturer of heavy equipment, including tractors, backhoes, and other agricultural and construction equipment. The company's products are used in various industries such as agriculture, construction, and forestry. DEERE & CO's forward-looking statements relate to its financial condition, results of operations, and business.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "TSLA",
+        "RKLB",
+        "ASTS",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "TSLA": "Tesla",
+        "RKLB": "Rocket Lab",
+        "ASTS": "AST SpaceMobile",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Farm Machinery & Equipment",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "AGCO"
+      ],
+      "industry_peer_names": {
+        "AGCO": "AGCO"
+      },
+      "industry_peer_theme": "Agricultural Equipment",
+      "filing_date": "2025-12-18",
+      "enriched_at": "2026-06-04T06:07:33.079780-04:00"
+    },
+    "IBKR": {
+      "name": "Interactive Brokers Group, Inc.",
+      "summary": "Interactive Brokers Group, Inc. is an automated global broker that specializes in routing orders and executing trades in various financial instruments, including stocks, options, futures, and cryptocurrencies. The company provides custody and servicing services for hedge and mutual funds, exchange-traded funds, and individual investors. It operates in 40 countries and 29 currencies around the world.",
+      "news_role": null,
+      "contextual_peers": [
+        "SCHW",
+        "TW",
+        "NVDA",
+        "XP",
+        "NIQ"
+      ],
+      "contextual_peer_names": {
+        "SCHW": "Charles Schwab",
+        "TW": "Tradeweb Markets",
+        "NVDA": "Nvidia",
+        "XP": "XP",
+        "NIQ": "NIQ Global Intelligence"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "VIRT",
+        "GS",
+        "MKTX",
+        "FRHC",
+        "SF"
+      ],
+      "industry_peer_names": {
+        "VIRT": "Virtu Financial",
+        "GS": "Goldman Sachs Group",
+        "MKTX": "Marketaxess",
+        "FRHC": "Freedom Holding",
+        "SF": "Stifel Financial"
+      },
+      "industry_peer_theme": "Financial Technology",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-04T06:08:05.171617-04:00"
+    },
+    "KBR": {
+      "name": "KBR, INC.",
+      "summary": "KBR, Inc. delivers science, technology, engineering and logistics support solutions to the U.S. federal government, allied nations and commercial clients around the world, focusing on national security and defense systems engineering, data analytics, and sustainment engineering.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "NVDA",
+        "LMT",
+        "RBC",
+        "DE"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "LMT": "Lockheed Martin",
+        "RBC": "RBC Bearings",
+        "DE": "Deere"
+      },
+      "industry": "Heavy Construction Other Than Bldg Const - Contractors",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "J"
+      ],
+      "industry_peer_names": {
+        "J": "Jacobs Solutions"
+      },
+      "industry_peer_theme": "Energy Infrastructure",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-04T06:08:11.365805-04:00"
+    },
+    "LMT": {
+      "name": "LOCKHEED MARTIN CORP",
+      "summary": "Lockheed Martin is a global aerospace and defense technology company providing integrated solutions across all warfighting domains, serving U.S. and international customers in defense, civil, and commercial applications.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "TSLA",
+        "DE",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "TSLA": "Tesla",
+        "DE": "Deere",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Guided Missiles & Space Vehicles & Parts",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-01-29",
+      "enriched_at": "2026-06-04T06:08:16.243903-04:00"
+    },
+    "META": {
+      "name": "Meta Platforms, Inc.",
+      "summary": "Meta Platforms, Inc. develops technology that enables people to connect and share through various devices and platforms, innovating in artificial intelligence to build transformative experiences. The company aims to deliver personal superintelligence for everyone. Its products include social media platforms, virtual reality headsets, and AI-powered capabilities.",
+      "news_role": "Meta Platforms is currently positioned as a leader in artificial intelligence, with its strong orientation and implementation of AI technologies ranking it among the top companies in its sector.",
+      "contextual_peers": [
+        "GOOG",
+        "AMZN",
+        "NVDA",
+        "DASH",
+        "CRM"
+      ],
+      "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "DASH": "DoorDash",
+        "CRM": "Salesforce"
+      },
+      "industry": "Services-Computer Programming, Data Processing, Etc.",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "PINS",
+        "TTD",
+        "APP",
+        "DV"
+      ],
+      "industry_peer_names": {
+        "PINS": "Pinterest",
+        "TTD": "Trade Desk",
+        "APP": "Applovin",
+        "DV": "Doubleverify"
+      },
+      "industry_peer_theme": "Digital Advertising",
+      "filing_date": "2026-01-29",
+      "enriched_at": "2026-06-04T06:08:24.085599-04:00"
+    },
+    "MRNA": {
+      "name": "Moderna, Inc.",
+      "summary": "Moderna, Inc. is a pioneer in mRNA medicine, developing vaccine and therapeutic candidates for various diseases. Its mRNA platform has enabled the development of commercial products such as Spikevax and mNEXSPIKE, and mRESVIA. The company aims to deliver the greatest possible impact through mRNA medicines.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "NVDA",
+        "KBR",
+        "LMT",
+        "DE"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "KBR": "KBR",
+        "LMT": "Lockheed Martin",
+        "DE": "Deere"
+      },
+      "industry": "Biological Products, (No Diagnostic Substances)",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "EXEL",
+        "AMGN",
+        "GILD",
+        "RVMD",
+        "BIIB"
+      ],
+      "industry_peer_names": {
+        "EXEL": "Exelixis",
+        "AMGN": "Amgen",
+        "GILD": "Gilead Sciences,",
+        "RVMD": "Revolution Medicines",
+        "BIIB": "Biogen"
+      },
+      "industry_peer_theme": "Biotechnology",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-06-04T06:08:30.964121-04:00"
+    },
+    "MRP": {
+      "name": "Millrose Properties, Inc.",
+      "summary": "Millrose Properties, Inc. (MRP) is a publicly traded company that purchases and develops residential land, selling finished homesites to homebuilders through option contracts. This strategy allows homebuilders to expand access to finished homesites while maintaining an asset-light approach. MRP serves as a solution for homebuilders seeking to increase access to finished homesites.",
+      "news_role": null,
+      "contextual_peers": [
+        "GOOG",
+        "AMZN",
+        "NVDA",
+        "NOW"
+      ],
+      "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia",
+        "NOW": "ServiceNow"
+      },
+      "industry": "Real Estate",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-04T06:08:36.976727-04:00"
+    },
+    "MRVL": {
+      "name": "Marvell Technology, Inc.",
+      "summary": "Marvell Technology, Inc. is a leading supplier of data infrastructure semiconductor solutions, developing high-performance chips for cloud computing, AI, enterprise networking, 5G carrier networks, and automotive systems.",
+      "news_role": "Marvell's expertise aligns with Nvidia's recent investment and growth in the PC market, positioning it as a key player in the data infrastructure sector.",
+      "contextual_peers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QCOM",
+        "MU"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "AAPL": "Apple",
+        "MSFT": "Microsoft",
+        "QCOM": "Qualcomm",
+        "MU": "Micron Technology"
+      },
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "Q",
+        "ALAB",
+        "AVGO",
+        "ON",
+        "NVDA"
+      ],
+      "industry_peer_names": {
+        "Q": "Qnity Electronics",
+        "ALAB": "Astera Labs,",
+        "AVGO": "Broadcom",
+        "ON": "ON Semiconductor",
+        "NVDA": "Nvidia"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2026-03-11",
+      "enriched_at": "2026-06-04T06:08:43.673420-04:00"
+    },
+    "NIQ": {
+      "name": "NIQ Global Intelligence plc",
+      "summary": "NIQ Global Intelligence plc provides a holistic view of consumer shopping behavior globally, driving strategic and operating decisions for brands, retailers, and clients. The company aggregates and enriches vast amounts of global consumer shopping data using its unified, AI-powered technology platform. This enables better economic outcomes.",
+      "news_role": null,
+      "contextual_peers": [
+        "SCHW",
+        "IBKR",
+        "TW",
+        "NVDA",
+        "XP"
+      ],
+      "contextual_peer_names": {
+        "SCHW": "Charles Schwab",
+        "IBKR": "Interactive Brokers Group",
+        "TW": "Tradeweb Markets",
+        "NVDA": "Nvidia",
+        "XP": "XP"
+      },
+      "industry": "Services-Computer Programming, Data Processing, Etc.",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "DV",
+        "APP",
+        "TTD"
+      ],
+      "industry_peer_names": {
+        "DV": "Doubleverify",
+        "APP": "Applovin",
+        "TTD": "Trade Desk"
+      },
+      "industry_peer_theme": "Digital Advertising",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-04T06:08:50.129065-04:00"
+    },
+    "PEP": {
+      "name": "PEPSICO INC",
+      "summary": "PepsiCo Inc is a leading global beverage and convenient food company with a portfolio of brands including Lay's, Doritos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker and SodaStream. The company makes, markets, distributes and sells a wide variety of beverages and convenient foods through its operations, authorized bottlers, contract manufacturers and other third parties. PepsiCo serves customers and consumers globally.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "BRK-B",
+        "TSLA",
+        "GOOG",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "BRK-B": "Berkshire Hathaway",
+        "TSLA": "Tesla",
+        "GOOG": "Alphabet",
+        "MSFT": "Microsoft"
+      },
+      "industry": "Beverages",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "KO",
+        "PRMB",
+        "KDP"
+      ],
+      "industry_peer_names": {
+        "KO": "Coca-Cola",
+        "PRMB": "Primo Brands",
+        "KDP": "Keurig Dr Pepper"
+      },
+      "industry_peer_theme": "Soft Drink Beverages",
+      "filing_date": "2026-02-03",
+      "enriched_at": "2026-06-04T06:08:57.791434-04:00"
+    },
+    "QCOM": {
+      "name": "QUALCOMM INC/DE",
+      "summary": "QUALCOMM INC/DE is a global technology leader that develops and manufactures wireless and wired communication systems, and is helping to bring intelligent computing everywhere through the development of 5G, AI, and automotive technologies. The company operates using a 52-53 week fiscal year ending on the last Sunday in September. Its products and technologies are used in a variety of markets, including mobile devices, automotive systems, and industrial equipment.",
+      "news_role": "Qualcomm is currently positioned in financial news as a competitor to Nvidia in the PC market, with its new SoCs for Windows laptops indicating its involvement in the market.",
+      "contextual_peers": [
+        "NVDA",
+        "MRVL",
+        "AAPL",
+        "INTC",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MRVL": "Marvell Technology",
+        "AAPL": "Apple",
+        "INTC": "Intel",
+        "MSFT": "Microsoft"
+      },
+      "industry": "Radio & Tv Broadcasting & Communications Equipment",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "MSI"
+      ],
+      "industry_peer_names": {
+        "MSI": "Motorola Solutions"
+      },
+      "industry_peer_theme": "Wireless Communications",
+      "filing_date": "2025-11-05",
+      "enriched_at": "2026-06-04T06:09:06.862016-04:00"
+    },
+    "RKLB": {
+      "name": "Rocket Lab Corp",
+      "summary": "Rocket Lab Corp is an end-to-end space company delivering reliable launch services, spacecraft design services, and other solutions to make space access faster, easier, and more affordable. The company aims to improve life on Earth by leveraging space for innovation, exploration, and infrastructure. With a proven track record of mission success, Rocket Lab is one of the select few commercial companies delivering regular access to orbit.",
+      "news_role": null,
+      "contextual_peers": [
+        "AMZN",
+        "TSLA",
+        "DE",
+        "NVDA",
+        "KBR"
+      ],
+      "contextual_peer_names": {
+        "AMZN": "Amazon.com",
+        "TSLA": "Tesla",
+        "DE": "Deere",
+        "NVDA": "Nvidia",
+        "KBR": "KBR"
+      },
+      "industry": "Guided Missiles & Space Vehicles & Parts",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "LMT"
+      ],
+      "industry_peer_names": {
+        "LMT": "Lockheed Martin"
+      },
+      "industry_peer_theme": "Space Technology",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-04T06:09:15.888914-04:00"
+    },
+    "SCHW": {
+      "name": "SCHWAB CHARLES CORP",
+      "summary": "Charles Schwab Corporation is a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. It operates through its subsidiaries, including Charles Schwab & Co., Inc., Charles Schwab Bank, SSB, and Charles Schwab Investment Management, Inc. The company had $11.90 trillion in client assets as of December 31, 2025.",
+      "news_role": null,
+      "contextual_peers": [
+        "IBKR",
+        "TW",
+        "NVDA",
+        "XP",
+        "NIQ"
+      ],
+      "contextual_peer_names": {
+        "IBKR": "Interactive Brokers Group",
+        "TW": "Tradeweb Markets",
+        "NVDA": "Nvidia",
+        "XP": "XP",
+        "NIQ": "NIQ Global Intelligence"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "SF",
+        "MS",
+        "IBKR",
+        "RJF",
+        "GS"
+      ],
+      "industry_peer_names": {
+        "SF": "Stifel Financial",
+        "MS": "Morgan Stanley",
+        "IBKR": "Interactive Brokers Group",
+        "RJF": "Raymond James Financial",
+        "GS": "Goldman Sachs Group"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-04T06:09:24.918204-04:00"
+    },
+    "SNX": {
+      "name": "TD SYNNEX CORP",
+      "summary": "TD Synnex Corp is a Fortune 100 corporation that distributes and aggregates IT products from leading vendors, helping customers create solutions to maximize business outcomes. The company serves a critical role in the IT ecosystem, providing a wide range of products including hardware, software, and systems. It also designs and delivers purpose-built server, storage, and networking solutions for hyperscale computing.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "MRVL",
+        "AAPL",
+        "INTC",
+        "MSFT"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "MRVL": "Marvell Technology",
+        "AAPL": "Apple",
+        "INTC": "Intel",
+        "MSFT": "Microsoft"
+      },
+      "industry": "Wholesale-Computers & Peripheral Equipment & Software",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "INGM"
+      ],
+      "industry_peer_names": {
+        "INGM": "Ingram Micro Holding"
+      },
+      "industry_peer_theme": "Technology Distribution",
+      "filing_date": "2026-01-27",
+      "enriched_at": "2026-06-04T06:09:32.367372-04:00"
+    },
+    "SPGI": {
+      "name": "S&P Global Inc.",
+      "summary": "S&P Global Inc. is a global provider of benchmarks, data, analytics, and workflow solutions for the capital, energy, commodity, and automotive markets. The company serves a broad range of customers, including asset managers, investment banks, and producers, through its diversified offerings. Its solutions are used in various industries, including finance, energy, and manufacturing.",
+      "news_role": null,
+      "contextual_peers": [
+        "GS",
+        "NVDA",
+        "MSFT",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "TSLA": "Tesla"
+      },
+      "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "MCO",
+        "EFX",
+        "TRU"
+      ],
+      "industry_peer_names": {
+        "MCO": "Moody's",
+        "EFX": "Equifax",
+        "TRU": "TransUnion"
+      },
+      "industry_peer_theme": "Credit Rating Agencies",
+      "filing_date": "2026-02-11",
+      "enriched_at": "2026-06-04T06:09:39.440074-04:00"
+    },
+    "TGT": {
+      "name": "TARGET CORP",
+      "summary": "Target Corporation is a retail company that offers fashionable merchandise and everyday essentials at discounted prices, aiming to help all families discover the joy of everyday life. The company operates as a single segment, enabling guests to purchase products seamlessly in stores or through digital channels. Target has a corporate purpose to give 5% of its profit to communities since 1946.",
+      "news_role": null,
+      "contextual_peers": [
+        "GS",
+        "MCO",
+        "MCD",
+        "AMZN",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCO": "Moody's",
+        "MCD": "McDonald's",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Retail-Variety Stores",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "FIVE",
+        "COST",
+        "DG",
+        "DLTR"
+      ],
+      "industry_peer_names": {
+        "FIVE": "Five Below",
+        "COST": "Costco Wholesale",
+        "DG": "Dollar General",
+        "DLTR": "Dollar Tree"
+      },
+      "industry_peer_theme": "Discount Retail",
+      "filing_date": "2026-03-11",
+      "enriched_at": "2026-06-04T06:09:47.085740-04:00"
+    },
+    "TW": {
+      "name": "Tradeweb Markets Inc.",
+      "summary": "Tradeweb Markets Inc. is a leader in building and operating electronic marketplaces for the global financial ecosystem, facilitating trading of various asset classes across multiple clients. The company supports clients across the trade lifecycle, from pre-trade to post-trade solutions. Its platform includes marketplaces for rates, credit, equities, and money markets.",
+      "news_role": null,
+      "contextual_peers": [
+        "SCHW",
+        "IBKR",
+        "NVDA",
+        "XP",
+        "NIQ"
+      ],
+      "contextual_peer_names": {
+        "SCHW": "Charles Schwab",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "XP": "XP",
+        "NIQ": "NIQ Global Intelligence"
+      },
+      "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "NDAQ",
+        "ICE",
+        "CBOE",
+        "CME"
+      ],
+      "industry_peer_names": {
+        "NDAQ": "Nasdaq",
+        "ICE": "Intercontinental Exchange",
+        "CBOE": "Cboe Global Markets",
+        "CME": "CME Group"
+      },
+      "industry_peer_theme": "Financial Market Infrastructure",
+      "filing_date": "2026-02-05",
+      "enriched_at": "2026-06-04T06:09:54.268529-04:00"
+    },
+    "V": {
+      "name": "VISA INC.",
+      "summary": "Visa Inc. facilitates secure, reliable, and efficient global commerce and money movement through its transaction processing services, primarily authorization, clearing, and settlement, and has expanded its model to include digital banks, wallets, fintechs, governments, and NGOs.",
+      "news_role": null,
+      "contextual_peers": [
+        "GS",
+        "MCO",
+        "MCD",
+        "AMZN",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GS": "Goldman Sachs Group",
+        "MCO": "Moody's",
+        "MCD": "McDonald's",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "MA",
+        "FOUR",
+        "FIS",
+        "GPN",
+        "CPAY"
+      ],
+      "industry_peer_names": {
+        "MA": "Mastercard",
+        "FOUR": "Shift4 Payments,",
+        "FIS": "Fidelity National Information Services",
+        "GPN": "Global Payments",
+        "CPAY": "Corpay"
+      },
+      "industry_peer_theme": "Payment Processing",
+      "filing_date": "2025-11-06",
+      "enriched_at": "2026-06-04T06:10:01.348408-04:00"
+    },
+    "XP": {
+      "name": "XP Inc.",
+      "summary": "XP Inc. is a financial holding company that provides financial solutions by universalizing access to top-quality financial services through a strategy that explores the synergy between retail investment, retail cross-sell, and wholesale banking. The company offers financial services through its affiliates. XP Inc. is incorporated under the laws of the Cayman Islands.",
+      "news_role": null,
+      "contextual_peers": [
+        "SCHW",
+        "IBKR",
+        "TW",
+        "NVDA",
+        "NIQ"
+      ],
+      "contextual_peer_names": {
+        "SCHW": "Charles Schwab",
+        "IBKR": "Interactive Brokers Group",
+        "TW": "Tradeweb Markets",
+        "NVDA": "Nvidia",
+        "NIQ": "NIQ Global Intelligence"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "VIRT",
+        "MS",
+        "SCHW",
+        "MKTX",
+        "SF"
+      ],
+      "industry_peer_names": {
+        "VIRT": "Virtu Financial",
+        "MS": "Morgan Stanley",
+        "SCHW": "Charles Schwab",
+        "MKTX": "Marketaxess",
+        "SF": "Stifel Financial"
+      },
+      "industry_peer_theme": "Financial Technology",
+      "filing_date": "2026-04-29",
+      "enriched_at": "2026-06-04T06:10:08.380187-04:00"
+    },
+    "ACGL": {
+      "name": "ARCH CAPITAL GROUP LTD.",
+      "summary": "Arch Capital Group Ltd. is a publicly listed Bermuda exempted company providing insurance, reinsurance, and mortgage insurance on a worldwide basis through its wholly owned subsidiaries. It is part of the S&P 500 index with approximately $26.9 billion in capital. The company offers a full range of property, casualty, and mortgage insurance and reinsurance lines.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "GLPI"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "GLPI": "Gaming and Leisure Properties"
+      },
+      "industry": "Fire, Marine & Casualty Insurance",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "TRV",
+        "KMPR",
+        "WTM",
+        "RNR",
+        "AXS"
+      ],
+      "industry_peer_names": {
+        "TRV": "Travelers",
+        "KMPR": "Kemper",
+        "WTM": "White Mountains Insurance Group",
+        "RNR": "Renaissancere",
+        "AXS": "AXIS Capital"
+      },
+      "industry_peer_theme": "Property Casualty Insurance",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-05T19:05:13.442330-04:00"
+    },
+    "AGO": {
+      "name": "ASSURED GUARANTY LTD",
+      "summary": "Assured Guaranty Ltd. provides credit protection products to the U.S. and non-U.S. public finance and structured finance markets, offering financial guaranty insurance to protect holders of debt instruments from defaults. The company applies its credit underwriting judgment and risk management skills to offer financial guaranty insurance. Assured Guaranty also participates in the asset management business.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "GLPI"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "GLPI": "Gaming and Leisure Properties"
+      },
+      "industry": "Surety Insurance",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-05T19:05:19.506798-04:00"
+    },
+    "AMG": {
+      "name": "AFFILIATED MANAGERS GROUP, INC.",
+      "summary": "Affiliated Managers Group, Inc. (AMG) is a strategic partner to leading independent investment firms globally, investing in high-quality independent partner-owned firms through a proven partnership approach. AMG generates long-term value by allocating resources across its unique opportunity set to areas of highest growth and return. This approach enables high-quality, partner-owned firms to capitalize on opportunities and meet client objectives.",
+      "news_role": null,
+      "contextual_peers": [
+        "MS",
+        "JPM",
+        "GS",
+        "NVDA",
+        "AMZN"
+      ],
+      "contextual_peer_names": {
+        "MS": "Morgan Stanley",
+        "JPM": "JPMorgan Chase",
+        "GS": "Goldman Sachs Group",
+        "NVDA": "Nvidia",
+        "AMZN": "Amazon.com"
+      },
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "HLNE",
+        "LAZ",
+        "OWL",
+        "JHG",
+        "AMP"
+      ],
+      "industry_peer_names": {
+        "HLNE": "Hamilton Lane",
+        "LAZ": "Lazard",
+        "OWL": "Blue Owl Capital",
+        "JHG": "Janus Henderson Group",
+        "AMP": "Ameriprise Financial"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-02-17",
+      "enriched_at": "2026-06-05T19:05:26.577155-04:00"
+    },
+    "AMGN": {
+      "name": "AMGEN INC",
+      "summary": "Amgen Inc. discovers, develops, manufactures and delivers innovative medicines to fight some of the world's toughest diseases, focusing on areas of high unmet medical need. The company has a robust pipeline and a presence in approximately 100 countries worldwide. Amgen has grown to be one of the world's leading independent biotechnology companies.",
+      "news_role": null,
+      "contextual_peers": [
+        "DE",
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "GOOG"
+      ],
+      "contextual_peer_names": {
+        "DE": "Deere",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "AAPL": "Apple",
+        "GOOG": "Alphabet"
+      },
+      "industry": "Biological Products, (No Diagnostic Substances)",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "BIIB",
+        "EXEL",
+        "GILD",
+        "RVMD",
+        "NBIX"
+      ],
+      "industry_peer_names": {
+        "BIIB": "Biogen",
+        "EXEL": "Exelixis",
+        "GILD": "Gilead Sciences,",
+        "RVMD": "Revolution Medicines",
+        "NBIX": "Neurocrine Biosciences,"
+      },
+      "industry_peer_theme": "Biotechnology Therapeutics",
+      "filing_date": "2026-02-13",
+      "enriched_at": "2026-06-05T19:05:33.507480-04:00"
+    },
+    "AVGO": {
+      "name": "Broadcom Inc.",
+      "summary": "Broadcom Inc. is a global technology leader that designs, develops and supplies semiconductor and software solutions, with a diverse history of innovation through acquisitions.",
+      "news_role": null,
+      "contextual_peers": [
+        "TSLA",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG"
+      ],
+      "contextual_peer_names": {
+        "TSLA": "Tesla",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "AMZN": "Amazon.com",
+        "GOOG": "Alphabet"
+      },
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "GFS",
+        "SWKS",
+        "Q",
+        "ADI",
+        "AMD"
+      ],
+      "industry_peer_names": {
+        "GFS": "GlobalFoundries",
+        "SWKS": "Skyworks Solutions",
+        "Q": "Qnity Electronics",
+        "ADI": "Analog Devices",
+        "AMD": "Advanced Micro Devices"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2025-12-18",
+      "enriched_at": "2026-06-05T19:05:38.551387-04:00"
+    },
+    "CRWD": {
+      "name": "CrowdStrike Holdings, Inc.",
+      "summary": "CrowdStrike Holdings, Inc. is a cloud-native cybersecurity platform provider that utilizes artificial intelligence to deliver real-time threat protection. Founded in 2011, the company has transformed the way cybersecurity is delivered and experienced by customers. Its Falcon platform serves as the operating system for cybersecurity.",
+      "news_role": null,
+      "contextual_peers": [
+        "TSLA",
+        "AVGO",
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "contextual_peer_names": {
+        "TSLA": "Tesla",
+        "AVGO": "Broadcom",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "AMZN": "Amazon.com"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "S",
+        "RBRK",
+        "DDOG",
+        "ESTC",
+        "GEN"
+      ],
+      "industry_peer_names": {
+        "S": "SentinelOne",
+        "RBRK": "Rubrik",
+        "DDOG": "Datadog",
+        "ESTC": "Elastic NV",
+        "GEN": "Gen Digital"
+      },
+      "industry_peer_theme": "Cybersecurity Software",
+      "filing_date": "2026-03-05",
+      "enriched_at": "2026-06-05T19:05:45.204909-04:00"
+    },
+    "EG": {
+      "name": "EVEREST GROUP, LTD.",
+      "summary": "Everest Group, Ltd. is a Bermuda-based reinsurance and insurance organization focused on diversifying its portfolio and geographic presence. It serves a diverse group of clients worldwide, providing extensive product and distribution capabilities, a strong balance sheet, and access to world-class talent. As a leading financial services institution, it operates through its Reinsurance and Insurance reportable segments.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "GLPI"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "GLPI": "Gaming and Leisure Properties"
+      },
+      "industry": "Fire, Marine & Casualty Insurance",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "AXS",
+        "ACGL",
+        "RLI",
+        "KNSL",
+        "CB"
+      ],
+      "industry_peer_names": {
+        "AXS": "AXIS Capital",
+        "ACGL": "Arch Capital Group",
+        "RLI": "RLI",
+        "KNSL": "Kinsale Capital Group",
+        "CB": "Chubb Limited"
+      },
+      "industry_peer_theme": "Reinsurance Industry",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-05T19:05:52.159599-04:00"
+    },
+    "EMR": {
+      "name": "EMERSON ELECTRIC CO",
+      "summary": "Emerson Electric Co. relies on the skills and experience of its management and key employees to succeed in its operations and performance. The company's ability to attract, develop, and retain highly qualified personnel is crucial to its business goals. Failure to do so could negatively impact its business and operating results.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "GLOB",
+        "PLTR",
+        "NIQ",
+        "G"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "GLOB": "Globant",
+        "PLTR": "Palantir Technologies",
+        "NIQ": "NIQ Global Intelligence",
+        "G": "Genpact"
+      },
+      "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2025-11-10",
+      "enriched_at": "2026-06-05T19:05:57.951497-04:00"
+    },
+    "G": {
+      "name": "Genpact LTD",
+      "summary": "Genpact LTD is an agentic and advanced technology solutions company providing innovative solutions to transform how businesses run, leveraging decades of client trust and a strong partner ecosystem. With a team of over 146,500 employees and $5.1 billion in total net revenues for 2025, Genpact delivers lasting value to the world's leading enterprises. The company was established over 25 years ago as the global capability center for General Electric Company.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "META",
+        "AMZN",
+        "GLOB",
+        "PLTR"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "META": "Meta Platforms",
+        "AMZN": "Amazon.com",
+        "GLOB": "Globant",
+        "PLTR": "Palantir Technologies"
+      },
+      "industry": "Services-Management Consulting Services",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "FCN"
+      ],
+      "industry_peer_names": {
+        "FCN": "FTI Consulting"
+      },
+      "industry_peer_theme": "Business Process Outsourcing",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-05T19:06:05.491922-04:00"
+    },
+    "GLOB": {
+      "name": "Globant S.A.",
+      "summary": "Globant S.A. is a global technology services company focused on supporting organizations' digital transformation and creating opportunities for talent worldwide. Founded in 2003, the company has expanded its network to 31 countries through organic growth and strategic acquisitions. Its objective is to build a global technology services company with a positive global impact.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "META",
+        "AMZN",
+        "PLTR",
+        "NIQ"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "META": "Meta Platforms",
+        "AMZN": "Amazon.com",
+        "PLTR": "Palantir Technologies",
+        "NIQ": "NIQ Global Intelligence"
+      },
+      "industry": "Services-Computer Processing & Data Preparation",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-05T19:06:11.649650-04:00"
+    },
+    "GLPI": {
+      "name": "Gaming & Leisure Properties, Inc.",
+      "summary": "Gaming & Leisure Properties, Inc. (GLPI) is a self-administered and self-managed Pennsylvania REIT that owns and operates gaming and hospitality properties. The company was spun off from Penn National Gaming, Inc. in 2013 and has been focused on growing its portfolio of gaming and hospitality assets. GLPI's business is centered around the operation and management of its properties.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "COIN",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "COIN": "Coinbase Global",
+        "TSLA": "Tesla"
+      },
+      "industry": "Real Estate Investment Trusts",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "FRT",
+        "WELL",
+        "AGNC",
+        "NSA",
+        "VICI"
+      ],
+      "industry_peer_names": {
+        "FRT": "Federal Realty Investment Trust",
+        "WELL": "Welltower",
+        "AGNC": "AGNC Investment",
+        "NSA": "National Storage Affiliates Trust",
+        "VICI": "VICI Properties"
+      },
+      "industry_peer_theme": "Real Estate Investment",
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-06-05T19:06:19.163645-04:00"
+    },
+    "HSIC": {
+      "name": "HENRY SCHEIN INC",
+      "summary": "Henry Schein Inc is a solutions company for health care professionals, providing products and services to office-based dental and medical practitioners, as well as alternate sites of care. With 94 years of experience, they serve over one million customers worldwide. Their philosophy is to serve as trusted advisors to help customers operate more efficiently and successfully.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "GLOB",
+        "PLTR",
+        "NIQ",
+        "EMR"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "GLOB": "Globant",
+        "PLTR": "Palantir Technologies",
+        "NIQ": "NIQ Global Intelligence",
+        "EMR": "Emerson Electric"
+      },
+      "industry": "Wholesale-Medical, Dental & Hospital Equipment & Supplies",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-05T19:06:25.223466-04:00"
+    },
+    "LLY": {
+      "name": "ELI LILLY & Co",
+      "summary": "ELI LILLY & Co (LLY) is a pharmaceutical company that discovers, develops, manufactures, and markets human pharmaceutical products. The company aims to unite caring with discovery to create medicines that make life better for people around the world. Its products are sold in approximately 90 countries.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "PFE",
+        "VRTX",
+        "OGN",
+        "ALNY",
+        "MRK"
+      ],
+      "industry_peer_names": {
+        "PFE": "Pfizer",
+        "VRTX": "Vertex Pharmaceuticals",
+        "OGN": "Organon",
+        "ALNY": "Alnylam Pharmaceuticals",
+        "MRK": "Merck"
+      },
+      "industry_peer_theme": "Biotechnology Pharmaceuticals",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-05T19:06:30.704692-04:00"
+    },
+    "MET": {
+      "name": "METLIFE INC",
+      "summary": "MetLife Inc. is a leading financial services company providing insurance, annuities, employee benefits, and asset management. It holds market positions in the US, Asia, Latin America, Europe, and the Middle East. The company is a Delaware corporation incorporated in 1999.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "GLPI"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "GLPI": "Gaming and Leisure Properties"
+      },
+      "industry": "Life Insurance",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "BHF",
+        "VOYA",
+        "PRU",
+        "LNC",
+        "PRI"
+      ],
+      "industry_peer_names": {
+        "BHF": "Brighthouse Financial",
+        "VOYA": "Voya Financial",
+        "PRU": "Prudential Financial",
+        "LNC": "Lincoln National",
+        "PRI": "Primerica"
+      },
+      "industry_peer_theme": "Life Insurance",
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-06-05T19:06:37.136042-04:00"
+    },
+    "OXY": {
+      "name": "OCCIDENTAL PETROLEUM CORP /DE/",
+      "summary": "Occidental Petroleum Corporation is an international energy company with diversified assets in the US, Middle East, and North Africa, ranking among the largest oil and gas producers in the US. The company holds leading positions in the Permian and DJ Basin. It is recognized for its premier diversified assets and sustainable value creation for shareholders.",
+      "news_role": null,
+      "contextual_peers": [
+        "BRK-B"
+      ],
+      "contextual_peer_names": {
+        "BRK-B": "Berkshire Hathaway"
+      },
+      "industry": "Crude Petroleum & Natural Gas",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "VNOM",
+        "RRC",
+        "APA",
+        "DVN",
+        "CHRD"
+      ],
+      "industry_peer_names": {
+        "VNOM": "Viper Energy",
+        "RRC": "Range Resources",
+        "APA": "APA (US)",
+        "DVN": "Devon Energy",
+        "CHRD": "Chord Energy"
+      },
+      "industry_peer_theme": "Shale Oil Production",
+      "filing_date": "2026-02-18",
+      "enriched_at": "2026-06-05T19:06:43.388110-04:00"
+    },
+    "PHM": {
+      "name": "PULTEGROUP INC/MI/",
+      "summary": "PulteGroup, Inc. is a homebuilding company that has delivered over 875,000 homes, and is one of the largest homebuilders in the United States. The company's common shares are included in the S&P 500 Index and trade on the New York Stock Exchange under the ticker symbol PHM. PulteGroup has subsidiaries that engage in homebuilding and financial services businesses.",
+      "news_role": null,
+      "contextual_peers": [
+        "TSLA",
+        "AVGO",
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "contextual_peer_names": {
+        "TSLA": "Tesla",
+        "AVGO": "Broadcom",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "AMZN": "Amazon.com"
+      },
+      "industry": "Operative Builders",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "TOL",
+        "DHI",
+        "NVR"
+      ],
+      "industry_peer_names": {
+        "TOL": "Toll Brothers",
+        "DHI": "D.R. Horton",
+        "NVR": "NVR"
+      },
+      "industry_peer_theme": "Homebuilding Industry",
+      "filing_date": "2026-02-04",
+      "enriched_at": "2026-06-05T19:06:51.176068-04:00"
+    },
+    "PLTR": {
+      "name": "Palantir Technologies Inc.",
+      "summary": "Palantir Technologies Inc. builds software to integrate data, decisions, and operations at scale for organizations, initially serving the intelligence community before expanding to commercial enterprises. The company has developed four software platforms: Gotham, Foundry, Apollo, and Artificial Intelligence Platform. Palantir's software empowers organizations to effectively manage and analyze large datasets.",
+      "news_role": null,
+      "contextual_peers": [
+        "NVDA",
+        "GLOB",
+        "NIQ",
+        "EMR",
+        "HSIC"
+      ],
+      "contextual_peer_names": {
+        "NVDA": "Nvidia",
+        "GLOB": "Globant",
+        "NIQ": "NIQ Global Intelligence",
+        "EMR": "Emerson Electric",
+        "HSIC": "Henry Schein"
+      },
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-17",
+      "enriched_at": "2026-06-05T19:06:57.348286-04:00"
+    },
+    "PRU": {
+      "name": "PRUDENTIAL FINANCIAL INC",
+      "summary": "Prudential Financial, Inc. is a global financial services leader offering a wide array of financial products and services, including life insurance, retirement strategies, and investment management, with operations in the United States, Asia, Europe, and Latin America.",
+      "news_role": null,
+      "contextual_peers": [
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "TSLA": "Tesla"
+      },
+      "industry": "Life Insurance",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "PRI",
+        "LNC",
+        "MET",
+        "BHF",
+        "RGA"
+      ],
+      "industry_peer_names": {
+        "PRI": "Primerica",
+        "LNC": "Lincoln National",
+        "MET": "MetLife",
+        "BHF": "Brighthouse Financial",
+        "RGA": "Reinsurance Group of America"
+      },
+      "industry_peer_theme": "Life Insurance",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-05T19:07:02.824001-04:00"
+    },
+    "RDDT": {
+      "name": "Reddit, Inc.",
+      "summary": "Reddit, Inc. is a platform that empowers communities and makes their knowledge accessible to everyone. It provides a global digital city where users can join communities to learn, engage, and explore passions. The company believes that community is essential to human creativity and well-being.",
+      "news_role": null,
+      "contextual_peers": [
+        "GOOG",
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "NVDA": "Nvidia",
+        "MSFT": "Microsoft",
+        "AMZN": "Amazon.com"
+      },
+      "industry": "Services-Computer Processing & Data Preparation",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "VRSK"
+      ],
+      "industry_peer_names": {
+        "VRSK": "Verisk Analytics"
+      },
+      "industry_peer_theme": "Financial Technology",
+      "filing_date": "2026-02-06",
+      "enriched_at": "2026-06-05T19:07:08.933379-04:00"
+    },
+    "TIGO": {
+      "name": "MILLICOM INTERNATIONAL CELLULAR SA",
+      "summary": "Millicom International Cellular SA (TIGO) is a telecommunications company that provides mobile and fixed-line services to customers in Latin America. The company's ability to adapt to rapid technological change and evolving industry standards is a significant risk factor. If the company fails to adapt, it could negatively impact its business, financial condition, and results of operations.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "COIN",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "COIN": "Coinbase Global",
+        "TSLA": "Tesla"
+      },
+      "industry": "Radiotelephone Communications",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-03-24",
+      "enriched_at": "2026-06-05T19:07:15.241652-04:00"
+    },
+    "WELL": {
+      "name": "WELLTOWER INC.",
+      "summary": "Welltower Inc. is a real estate investment trust (REIT) focused on rental housing for aging seniors across the US, UK, and Canada, offering a unique blend of housing and hospitality.",
+      "news_role": null,
+      "contextual_peers": [
+        "TW",
+        "IBKR",
+        "NVDA",
+        "COIN",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "TW": "Tradeweb Markets",
+        "IBKR": "Interactive Brokers Group",
+        "NVDA": "Nvidia",
+        "COIN": "Coinbase Global",
+        "TSLA": "Tesla"
+      },
+      "industry": "Real Estate Investment Trusts",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "GLPI",
+        "FRT",
+        "OHI",
+        "AGNC",
+        "NSA"
+      ],
+      "industry_peer_names": {
+        "GLPI": "Gaming and Leisure Properties",
+        "FRT": "Federal Realty Investment Trust",
+        "OHI": "Omega Healthcare Investors,",
+        "AGNC": "AGNC Investment",
+        "NSA": "National Storage Affiliates Trust"
+      },
+      "industry_peer_theme": "Real Estate Investment",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-05T19:07:21.446620-04:00"
+    },
+    "AES": {
+      "name": "AES CORP",
+      "summary": "AES Corp is a global energy company that delivers greener, smarter energy solutions to improve lives. The company accelerates the future of energy by partnering with customers on their strategic energy transitions and meeting their energy needs. With over four decades of experience, AES is the next-generation energy company.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Cogeneration Services & Small Power Producers",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-06T01:26:25.693023-04:00"
+    },
+    "AMAT": {
+      "name": "APPLIED MATERIALS INC /DE",
+      "summary": "Applied Materials Inc. is a leader in materials engineering solutions for semiconductor production, serving a wide range of industries including personal computing, mobile phones, artificial intelligence, and electric vehicles. The company designs, develops, produces, and services critical wafer fabrication tools. Its products are used in various applications, including consumer electronics, industrial applications, and automotive industries.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "AVGO",
+        "TXN",
+        "SWKS",
+        "ALGM",
+        "Q"
+      ],
+      "industry_peer_names": {
+        "AVGO": "Broadcom",
+        "TXN": "Texas Instruments",
+        "SWKS": "Skyworks Solutions",
+        "ALGM": "Allegro Microsystems",
+        "Q": "Qnity Electronics"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2025-12-12",
+      "enriched_at": "2026-06-06T01:26:31.814987-04:00"
+    },
+    "AMD": {
+      "name": "ADVANCED MICRO DEVICES INC",
+      "summary": "Advanced Micro Devices Inc. (AMD) designs, manufactures, and sells computer processors and related technologies for the computing and communications industries. The company's products include microprocessors, microprocessors with integrated memory controllers, and chipsets. AMD's products are used in a variety of applications, including personal computers, servers, and gaming consoles.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "INTC",
+        "ALAB",
+        "AMAT",
+        "AVGO",
+        "NVDA"
+      ],
+      "industry_peer_names": {
+        "INTC": "Intel",
+        "ALAB": "Astera Labs,",
+        "AMAT": "Applied Materials",
+        "AVGO": "Broadcom",
+        "NVDA": "Nvidia"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2026-02-04",
+      "enriched_at": "2026-06-06T01:26:37.594536-04:00"
+    },
+    "AMKR": {
+      "name": "AMKOR TECHNOLOGY, INC.",
+      "summary": "Amkor Technology, Inc. is the world's largest U.S. headquartered outsourced semiconductor assembly and test service provider, offering advanced packaging, wafer-level processing, and system-in-package solutions for various industries such as smartphones, data centers, and automobiles.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "AMAT",
+        "MRVL",
+        "NVDA",
+        "MPWR",
+        "GFS"
+      ],
+      "industry_peer_names": {
+        "AMAT": "Applied Materials",
+        "MRVL": "Marvell Technology",
+        "NVDA": "Nvidia",
+        "MPWR": "Monolithic Power Systems",
+        "GFS": "GlobalFoundries"
+      },
+      "industry_peer_theme": "Semiconductor Manufacturing",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-06-06T01:26:42.786808-04:00"
+    },
+    "ANET": {
+      "name": "Arista Networks, Inc.",
+      "summary": "Arista Networks, Inc. enables customers to access their data centers in the quickest, most reliable, and secure manner through its data-driven, client-to-cloud networking-as-a-service. The company delivers a unified approach to networking, connecting AI Centers, Data Centers, Campus Centers, and WAN Centers. Arista's Extensible Operating System (EOS) and Network Data Lake (NetDL) anchor its strategy.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Computer Communications Equipment",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "CSCO"
+      ],
+      "industry_peer_names": {
+        "CSCO": "Cisco Systems"
+      },
+      "industry_peer_theme": "Networking Equipment",
+      "filing_date": "2026-02-17",
+      "enriched_at": "2026-06-06T01:26:48.751575-04:00"
+    },
+    "AUR": {
+      "name": "Aurora Innovation, Inc.",
+      "summary": "Aurora Innovation, Inc. aims to deliver self-driving technology safely, quickly, and broadly, with a mission to fundamentally transform the global transportation industry. The company was founded in 2017 by prominent leaders in the self-driving space and has launched the Aurora Driver based on advanced hardware, software, and data services. Aurora's goal is to revolutionize transportation.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Computer Integrated Systems Design",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "IOT"
+      ],
+      "industry_peer_names": {
+        "IOT": "Samsara"
+      },
+      "industry_peer_theme": "Autonomous Vehicle",
+      "filing_date": "2026-02-11",
+      "enriched_at": "2026-06-06T01:26:54.617677-04:00"
+    },
+    "BAM": {
+      "name": "Brookfield Asset Management Ltd.",
+      "summary": "Brookfield Asset Management Ltd. is a leading global alternative asset manager with over $1 trillion of Assets Under Management, investing client capital in infrastructure, renewable power, private equity, real estate, and credit, with a focus on real assets and essential service businesses.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "KKR",
+        "JHG",
+        "OWL",
+        "LAZ",
+        "CG"
+      ],
+      "industry_peer_names": {
+        "KKR": "KKR",
+        "JHG": "Janus Henderson Group",
+        "OWL": "Blue Owl Capital",
+        "LAZ": "Lazard",
+        "CG": "Carlyle Group"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-06T01:26:59.916431-04:00"
+    },
+    "BLSH": {
+      "name": "Bullish",
+      "summary": "Bullish is a financial services company that was incorporated in 2021 and has since undergone internal reorganization and acquisitions, including the purchase of CoinDesk businesses and CCData. The company has operating subsidiaries in the US, Europe, and Hong Kong. As of the current year, Bullish is the parent company of multiple entities.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Finance Services",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "COIN",
+        "CRCL",
+        "MSTR"
+      ],
+      "industry_peer_names": {
+        "COIN": "Coinbase Global",
+        "CRCL": "Circle Internet Group",
+        "MSTR": "Strategy"
+      },
+      "industry_peer_theme": "Cryptocurrency Payments",
+      "filing_date": "2026-03-10",
+      "enriched_at": "2026-06-06T01:27:05.583383-04:00"
+    },
+    "C": {
+      "name": "CITIGROUP INC",
+      "summary": "Citigroup is a global diversified financial services holding company with a history dating back to 1812, providing various businesses that consume financial services. The company's businesses include banking, securities, and insurance services. Citigroup operates globally and is a leading financial services company.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "National Commercial Banks",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-06-06T01:27:10.463005-04:00"
+    },
+    "CBOE": {
+      "name": "Cboe Global Markets, Inc.",
+      "summary": "Cboe Global Markets, Inc. is a leading derivatives and securities exchange network that delivers cutting-edge trading, clearing, and investment solutions across multiple asset classes, including equities, derivatives, and FX. The company provides trading solutions and products to people around the world. Its services enable efficient and secure trading, clearing, and investment activities.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "exchange": "CBOE",
+      "industry_peers": [
+        "ICE",
+        "CME",
+        "NDAQ",
+        "TW"
+      ],
+      "industry_peer_names": {
+        "ICE": "Intercontinental Exchange",
+        "CME": "CME Group",
+        "NDAQ": "Nasdaq",
+        "TW": "Tradeweb Markets"
+      },
+      "industry_peer_theme": "Financial Markets",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-06-06T01:27:16.256444-04:00"
+    },
+    "CG": {
+      "name": "Carlyle Group Inc.",
+      "summary": "Carlyle Group Inc. is a global investment firm that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $477 billion in AUM, the firm has grown to manage investments across a range of strategies leveraging industry expertise and global resources. Carlyle serves over 3,200 active carry fund investors from 87 countries.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Investment Advice",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "HLNE",
+        "KKR",
+        "JHG",
+        "AMG",
+        "TROW"
+      ],
+      "industry_peer_names": {
+        "HLNE": "Hamilton Lane",
+        "KKR": "KKR",
+        "JHG": "Janus Henderson Group",
+        "AMG": "Affiliated Managers Group",
+        "TROW": "T. Rowe Price Group"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-02-27",
+      "enriched_at": "2026-06-06T01:27:22.937242-04:00"
+    },
+    "CME": {
+      "name": "CME GROUP INC.",
+      "summary": "CME Group Inc. enables clients to trade various financial products, optimize portfolios, and analyze data, providing primary price discovery and referential pricing information. It operates a leading central counterparty clearing provider and offers industry-leading research and analytics tools. The company provides market education resources to its customers.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "CBOE",
+        "ICE",
+        "TW",
+        "NDAQ"
+      ],
+      "industry_peer_names": {
+        "CBOE": "Cboe Global Markets",
+        "ICE": "Intercontinental Exchange",
+        "TW": "Tradeweb Markets",
+        "NDAQ": "Nasdaq"
+      },
+      "industry_peer_theme": "Financial Market Infrastructure",
+      "filing_date": "2026-02-26",
+      "enriched_at": "2026-06-06T01:27:28.689817-04:00"
+    },
+    "COF": {
+      "name": "CAPITAL ONE FINANCIAL CORP",
+      "summary": "Capital One Financial Corporation is a diversified financial services holding company providing banking and non-banking services to consumers, small businesses, and commercial clients through digital channels and branch locations. It operates as a global payments provider and delivers a broad array of financial products and services. Capital One's principal operating subsidiary is Capital One, National Association.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "National Commercial Banks",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "USB",
+        "FNB",
+        "ZION",
+        "FHN",
+        "KEY"
+      ],
+      "industry_peer_names": {
+        "USB": "US Bancorp",
+        "FNB": "FNB",
+        "ZION": "Zions Bancorporation NA",
+        "FHN": "First Horizon",
+        "KEY": "KeyCorp"
+      },
+      "industry_peer_theme": "Bancshares",
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-06-06T01:27:34.343097-04:00"
+    },
+    "ELAN": {
+      "name": "Elanco Animal Health Inc",
+      "summary": "Elanco Animal Health Inc is a global leader in animal health, innovating and delivering products and services to prevent and treat disease in farm animals and pets. The company partners with farmers, pet owners, veterinarians, and society to create value and improve animal health. Elanco's diverse product portfolio serves animals across many species, primarily dogs, cats, cattle, poultry, swine, and sheep.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "ZTS",
+        "MRK",
+        "BMY",
+        "OGN",
+        "RARE"
+      ],
+      "industry_peer_names": {
+        "ZTS": "Zoetis",
+        "MRK": "Merck",
+        "BMY": "Bristol-Myers Squibb",
+        "OGN": "Organon",
+        "RARE": "Ultragenyx Pharmaceutical"
+      },
+      "industry_peer_theme": "Animal Health Pharmaceuticals",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-06T01:27:40.691867-04:00"
+    },
+    "EVR": {
+      "name": "Evercore Inc.",
+      "summary": "Evercore Inc. is a leading independent investment banking firm that advises on worldwide M&A transactions, providing a conflict-free environment for clients. The company was founded on the belief that independent investment banking firms can maintain high standards of excellence and integrity. Evercore advises clients on M&A transactions, providing expert guidance and support.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "AMG",
+        "AMP",
+        "CG",
+        "HLNE",
+        "OWL"
+      ],
+      "industry_peer_names": {
+        "AMG": "Affiliated Managers Group",
+        "AMP": "Ameriprise Financial",
+        "CG": "Carlyle Group",
+        "HLNE": "Hamilton Lane",
+        "OWL": "Blue Owl Capital"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-06-06T01:27:46.507267-04:00"
+    },
+    "GM": {
+      "name": "General Motors Co",
+      "summary": "General Motors Co (GM) designs, builds, and sells trucks, crossovers, cars, and automobile parts, providing software-enabled services and subscriptions worldwide. The company operates through segments GM North America and GM International, with brands including Buick, Cadillac, Chevrolet, and GMC. GM also has equity ownership stakes in entities in China.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Motor Vehicles & Passenger Car Bodies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "TSLA",
+        "OSK",
+        "PCAR",
+        "F",
+        "RIVN"
+      ],
+      "industry_peer_names": {
+        "TSLA": "Tesla",
+        "OSK": "Oshkosh",
+        "PCAR": "Paccar",
+        "F": "Ford Motor",
+        "RIVN": "Rivian Automotive"
+      },
+      "industry_peer_theme": "Electric Vehicle Revolution",
+      "filing_date": "2026-01-27",
+      "enriched_at": "2026-06-06T01:27:52.413961-04:00"
+    },
+    "GMED": {
+      "name": "GLOBUS MEDICAL INC",
+      "summary": "Globus Medical, Inc. is a medical device company that develops and commercializes healthcare solutions for musculoskeletal disorders. Founded in 2003, Globus focuses on innovation and exceptional service to hospitals, ambulatory surgery centers, and physicians. Its mission is to improve patient quality of life.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Surgical & Medical Instruments & Apparatus",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "TFX",
+        "BSX",
+        "PEN",
+        "SYK",
+        "MDLN"
+      ],
+      "industry_peer_names": {
+        "TFX": "Teleflex",
+        "BSX": "Boston Scientific",
+        "PEN": "Penumbra",
+        "SYK": "Stryker",
+        "MDLN": "Medline"
+      },
+      "industry_peer_theme": "Medical Device Manufacturing",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-06T01:27:57.786503-04:00"
+    },
+    "ISRG": {
+      "name": "INTUITIVE SURGICAL INC",
+      "summary": "Intuitive Surgical Inc designs, manufactures, and markets surgical systems, including the da Vinci Surgical System, for minimally invasive procedures. The company's products are used in various medical specialties, such as urology, gynecology, and general surgery. Intuitive Surgical Inc is a leader in the field of robotic-assisted surgery.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "ALGN",
+        "ZBH",
+        "EW"
+      ],
+      "industry_peer_names": {
+        "ALGN": "Align Technology",
+        "ZBH": "Zimmer Biomet Holdings,",
+        "EW": "Edwards Lifesciences"
+      },
+      "industry_peer_theme": "Dental Implant Technology",
+      "filing_date": "2026-02-03",
+      "enriched_at": "2026-06-06T01:28:03.786311-04:00"
+    },
+    "JAZZ": {
+      "name": "Jazz Pharmaceuticals plc",
+      "summary": "Jazz Pharmaceuticals plc is a global biopharmaceutical company focused on developing life-changing medicines for patients with rare diseases. The company has a diverse portfolio of medicines addressing various conditions, including epilepsies, cancers, and sleep disorders. Its lead marketed product, Xywav, is approved in multiple countries for improving patient care.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "VKTX",
+        "BMY",
+        "PFE",
+        "LLY",
+        "SRPT"
+      ],
+      "industry_peer_names": {
+        "VKTX": "Viking Therapeutics",
+        "BMY": "Bristol-Myers Squibb",
+        "PFE": "Pfizer",
+        "LLY": "Eli Lilly",
+        "SRPT": "Sarepta Therapeutics"
+      },
+      "industry_peer_theme": "Biotechnology Pharmaceuticals",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-06T01:28:09.547322-04:00"
+    },
+    "KLAC": {
+      "name": "KLA CORP",
+      "summary": "KLA Corporation supplies industry-leading equipment and services to the electronics industry, providing advanced process control and process-enabling solutions for manufacturing wafers, ICs, and PCBs.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Optical Instruments & Lenses",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "COHR"
+      ],
+      "industry_peer_names": {
+        "COHR": "Coherent"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2025-08-08",
+      "enriched_at": "2026-06-06T01:28:13.968008-04:00"
+    },
+    "LULU": {
+      "name": "lululemon athletica inc.",
+      "summary": "Lululemon Athletica Inc. designs, distributes, and retails technical athletic apparel, footwear, and accessories, aiming to create transformative products and experiences that promote wellbeing and connection. The company fosters a distinctive corporate culture based on core values such as personal responsibility, courage, connection, and fun. This culture attracts passionate employees driven to achieve personal and professional goals.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "UAA",
+        "AS",
+        "COLM"
+      ],
+      "industry_peer_names": {
+        "UAA": "Under Armour",
+        "AS": "Amer Sports",
+        "COLM": "Columbia Sportswear"
+      },
+      "industry_peer_theme": "Athleisure apparel",
+      "filing_date": "2026-03-17",
+      "enriched_at": "2026-06-06T01:28:20.104626-04:00"
+    },
+    "MDB": {
+      "name": "MongoDB, Inc.",
+      "summary": "MongoDB is a developer data platform company that empowers developers to create, transform, and disrupt industries by providing a globally distributed operational database and a set of data services. The company's database is designed to handle unstructured data and meet the needs of organizations for performance, scalability, flexibility, and reliability. Its mission is to unleash the power of software and data.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "CRM",
+        "DDOG",
+        "ESTC",
+        "SNOW",
+        "TWLO"
+      ],
+      "industry_peer_names": {
+        "CRM": "Salesforce",
+        "DDOG": "Datadog",
+        "ESTC": "Elastic NV",
+        "SNOW": "Snowflake",
+        "TWLO": "Twilio"
+      },
+      "industry_peer_theme": "Cloud Computing",
+      "filing_date": "2026-03-11",
+      "enriched_at": "2026-06-06T01:28:25.885519-04:00"
+    },
+    "MRK": {
+      "name": "Merck & Co., Inc.",
+      "summary": "Merck & Co., Inc. is a global healthcare company that delivers innovative health solutions through its prescription medicines, including biologic therapies, vaccines, and animal health products. The company operates on a product basis, with two reportable segments: Pharmaceutical and Animal Health. Its pharmaceutical products are sold primarily to drug wholesalers, retailers, hospitals, government agencies, and managed care organizations.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "PFE",
+        "IONS",
+        "OGN",
+        "BMY",
+        "RPRX"
+      ],
+      "industry_peer_names": {
+        "PFE": "Pfizer",
+        "IONS": "Ionis Pharmaceuticals",
+        "OGN": "Organon",
+        "BMY": "Bristol-Myers Squibb",
+        "RPRX": "Royalty Pharma"
+      },
+      "industry_peer_theme": "Pharmaceutical Biotech",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-06T01:28:31.761408-04:00"
+    },
+    "MSCI": {
+      "name": "MSCI Inc.",
+      "summary": "MSCI Inc. provides research-based data, analytics, and indexes to global investors, helping them make better investment decisions and unlock innovation. Its tools and solutions aid in defining investment universes, making asset allocation decisions, and managing investment risk and performance. MSCI's offerings also integrate sustainability and climate considerations into portfolio construction and risk management.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "BR",
+        "FIS"
+      ],
+      "industry_peer_names": {
+        "BR": "Broadridge Financial Solutions",
+        "FIS": "Fidelity National Information Services"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": "2026-02-06",
+      "enriched_at": "2026-06-06T01:28:37.319560-04:00"
+    },
+    "NDAQ": {
+      "name": "NASDAQ, INC.",
+      "summary": "NASDAQ, INC. is a leading technology platform that powers the world's economies by architecting the infrastructure of modern markets, powering the innovation economy, and building trust in the financial system. It empowers economic opportunity through technology, data, and advanced analytics. The company operates in three business segments: Capital Access Platforms, Financial Technology, and Market Services.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "TW",
+        "CBOE",
+        "ICE",
+        "CME"
+      ],
+      "industry_peer_names": {
+        "TW": "Tradeweb Markets",
+        "CBOE": "Cboe Global Markets",
+        "ICE": "Intercontinental Exchange",
+        "CME": "CME Group"
+      },
+      "industry_peer_theme": "Financial Markets",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-06T01:28:43.236846-04:00"
+    },
+    "NKE": {
+      "name": "NIKE, Inc.",
+      "summary": "NIKE, Inc. designs, develops, and markets athletic footwear, apparel, equipment, accessories, and services worldwide. The company is the largest seller of athletic footwear and apparel globally. Its products are sold through NIKE Direct operations, digital platforms, and wholesale accounts.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Rubber & Plastics Footwear",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "DECK",
+        "CROX",
+        "ONON"
+      ],
+      "industry_peer_names": {
+        "DECK": "Deckers Outdoor",
+        "CROX": "Crocs",
+        "ONON": "On Holding AG"
+      },
+      "industry_peer_theme": "Footwear and Apparel",
+      "filing_date": "2025-07-17",
+      "enriched_at": "2026-06-06T01:28:49.018844-04:00"
+    },
+    "PANW": {
+      "name": "Palo Alto Networks Inc",
+      "summary": "Palo Alto Networks Inc (PANW) is a global cybersecurity provider that aims to protect the digital way of life through its comprehensive cybersecurity platforms and services. The company helps enterprises, organizations, and government entities secure their users, networks, clouds, and endpoints using artificial intelligence and automation. Its mission is to be the cybersecurity partner of choice.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Computer Peripheral Equipment, NEC",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "FTNT"
+      ],
+      "industry_peer_names": {
+        "FTNT": "Fortinet"
+      },
+      "industry_peer_theme": "Cybersecurity Software",
+      "filing_date": "2025-08-29",
+      "enriched_at": "2026-06-06T01:28:54.682394-04:00"
+    },
+    "PLNT": {
+      "name": "Planet Fitness, Inc.",
+      "summary": "Planet Fitness, Inc. is a Delaware corporation that operates one of the largest and fastest-growing franchisors and operators of fitness centers in the world. The company's mission is to provide a high-quality fitness experience in a welcoming environment, known as the Judgement Free Zone. With a focus on cleanliness and friendly staff, Planet Fitness aims to enhance people's lives through fitness.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Membership Sports & Recreation Clubs",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-06T01:28:59.930888-04:00"
+    },
+    "RBRK": {
+      "name": "Rubrik, Inc.",
+      "summary": "Rubrik, Inc. is a cybersecurity company that provides Zero Trust data security solutions to help organizations secure their data across the cloud and recover from cyberattacks. The company's solution, the Rubrik Security Cloud, is designed with a Zero Trust principle to deliver cyber resilience. This approach aims to prevent cyberattacks by securing data, resulting in AI resilience for businesses.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Prepackaged Software",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "S",
+        "SAIL",
+        "DDOG",
+        "CRWD",
+        "GTLB"
+      ],
+      "industry_peer_names": {
+        "S": "SentinelOne",
+        "SAIL": "SailPoint",
+        "DDOG": "Datadog",
+        "CRWD": "CrowdStrike",
+        "GTLB": "GitLab"
+      },
+      "industry_peer_theme": "Cybersecurity and AI",
+      "filing_date": "2026-03-19",
+      "enriched_at": "2026-06-06T01:29:06.363324-04:00"
+    },
+    "RKT": {
+      "name": "Rocket Companies, Inc.",
+      "summary": "Rocket Companies, Inc. is a Detroit-based fintech company offering mortgage, real estate, and personal finance services through its AI-powered, vertically integrated homeownership ecosystem. The company aims to deliver industry-best client experiences and is recognized for its simple, fast, and trusted digital experiences. Its flagship business, Rocket Mortgage, is the nation's largest mortgage originator and servicer.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Mortgage Bankers & Loan Correspondents",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "UWMC"
+      ],
+      "industry_peer_names": {
+        "UWMC": "UWM"
+      },
+      "industry_peer_theme": "Mortgage Technology",
+      "filing_date": "2026-03-02",
+      "enriched_at": "2026-06-06T01:29:13.148398-04:00"
+    },
+    "SPOT": {
+      "name": "Spotify Technology S.A.",
+      "summary": "Spotify Technology S.A. is a Luxembourg public limited liability company that operates as a music streaming service provider, offering a platform for users to access and stream music content. The company was incorporated in 2006 and transformed into a public limited liability company in 2009. Its shares are publicly traded and registered on a stock exchange.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Radio Broadcasting Stations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "SIRI"
+      ],
+      "industry_peer_names": {
+        "SIRI": "Sirius XM"
+      },
+      "industry_peer_theme": "Music Streaming Services",
+      "filing_date": "2026-02-10",
+      "enriched_at": "2026-06-06T01:29:19.179330-04:00"
+    },
+    "SWKS": {
+      "name": "SKYWORKS SOLUTIONS, INC.",
+      "summary": "Skyworks Solutions, Inc. is a leading developer and provider of analog and mixed-signal semiconductor products and solutions for various applications, including aerospace, automotive, and consumer electronics. The company targets high-growth verticals and seeks to diversify its revenue and customer set. It has made important investments in key network technologies.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "Q",
+        "GFS",
+        "MTSI",
+        "ADI",
+        "AMAT"
+      ],
+      "industry_peer_names": {
+        "Q": "Qnity Electronics",
+        "GFS": "GlobalFoundries",
+        "MTSI": "MACOM Technology Solutions",
+        "ADI": "Analog Devices",
+        "AMAT": "Applied Materials"
+      },
+      "industry_peer_theme": "Semiconductor Technology",
+      "filing_date": "2025-11-07",
+      "enriched_at": "2026-06-06T01:29:25.081445-04:00"
+    },
+    "TER": {
+      "name": "TERADYNE, INC",
+      "summary": "Teradyne, Inc. is a leading global provider of automated test equipment and robotics solutions, serving various industries including consumer electronics, wireless, automotive, and aerospace and defense. Its products are used to test semiconductors, wireless products, and complex electronics systems, while its robotics offerings consist of collaborative robotic arms and autonomous mobile robots. These solutions aim to improve quality, increase efficiency, and reduce costs in manufacturing and logistics.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-06-06T01:29:31.379276-04:00"
+    },
+    "TKO": {
+      "name": "TKO Group Holdings, Inc.",
+      "summary": "TKO Group Holdings, Inc. is a premium sports and entertainment company that owns and operates UFC, WWE, PBR, and Zuffa Boxing, reaching over 1 billion households across 210 countries and territories. It organizes over 500 live events year-round and services sports rights holders through IMG and On Location. TKO's businesses attract over three million fans.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-Amusement & Recreation Services",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "LYV",
+        "LLYVA"
+      ],
+      "industry_peer_names": {
+        "LYV": "Live Nation Entertainment",
+        "LLYVA": "Liberty Live"
+      },
+      "industry_peer_theme": "Live Entertainment",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-06T01:29:37.786797-04:00"
+    },
+    "ZTS": {
+      "name": "Zoetis Inc.",
+      "summary": "Zoetis Inc. is a global leader in the animal health industry, developing and commercializing medicines, vaccines, and diagnostics for various animal species. The company has a diversified business, covering eight core species and seven major product categories. With nearly 75 years of legacy, Zoetis continues to pioneer ways to predict, prevent, detect, and treat animal illness.",
+      "news_role": null,
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "ELAN",
+        "MRK",
+        "OGN",
+        "RARE",
+        "BMY"
+      ],
+      "industry_peer_names": {
+        "ELAN": "Elanco Animal Health",
+        "MRK": "Merck",
+        "OGN": "Organon",
+        "RARE": "Ultragenyx Pharmaceutical",
+        "BMY": "Bristol-Myers Squibb"
+      },
+      "industry_peer_theme": "Animal Health Pharmaceuticals",
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-06T01:29:44.287026-04:00"
     }
   }
 }
