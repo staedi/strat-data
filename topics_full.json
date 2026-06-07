@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-06T03:33:27.339886-04:00",
+  "updated_at": "2026-06-07T18:11:53.748846-04:00",
   "children": [
     {
       "name": "Artificial Intelligence Revolution",
@@ -229,13 +229,23 @@
           ],
           "related_tickers": [
             {
+              "ticker": "MDB",
+              "name": "MongoDB",
+              "count": 1
+            },
+            {
               "ticker": "AMZN",
               "name": "Amazon.com",
               "count": 1
             },
             {
-              "ticker": "MDB",
-              "name": "MongoDB",
+              "ticker": "NOW",
+              "name": "ServiceNow",
+              "count": 1
+            },
+            {
+              "ticker": "CRM",
+              "name": "Salesforce",
               "count": 1
             },
             {
@@ -246,16 +256,6 @@
             {
               "ticker": "GOOG",
               "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "CRM",
-              "name": "Salesforce",
-              "count": 1
-            },
-            {
-              "ticker": "NOW",
-              "name": "ServiceNow",
               "count": 1
             }
           ],
@@ -314,6 +314,11 @@
           ],
           "related_tickers": [
             {
+              "ticker": "PANW",
+              "name": "Palo Alto Networks",
+              "count": 1
+            },
+            {
               "ticker": "RBRK",
               "name": "Rubrik",
               "count": 1
@@ -326,11 +331,6 @@
             {
               "ticker": "NVDA",
               "name": "Nvidia",
-              "count": 1
-            },
-            {
-              "ticker": "PANW",
-              "name": "Palo Alto Networks",
               "count": 1
             },
             {
@@ -402,6 +402,11 @@
               "count": 1
             },
             {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 1
+            },
+            {
               "ticker": "MSFT",
               "name": "Microsoft",
               "count": 1
@@ -414,11 +419,6 @@
             {
               "ticker": "CRM",
               "name": "Salesforce",
-              "count": 1
-            },
-            {
-              "ticker": "ORCL",
-              "name": "Oracle",
               "count": 1
             }
           ],
@@ -457,7 +457,7 @@
             "META": "Meta Platforms was among the firms carrying out job cuts.",
             "MSFT": "It, along with other tech giants, was behind thousands of AI layoffs in 2025.",
             "ORCL": "Oracle was among the firms carrying out job cuts, alongside Block and Meta.",
-            "CRM": "Salesforce was among the tech giants that laid off thousands of employees in 2025, with AI technology being a significant contributor to these layoffs."
+            "CRM": "Salesforce was among the tech giants that experienced thousands of AI-related layoffs in 2025, alongside Microsoft and IBM."
           }
         },
         {
@@ -477,16 +477,6 @@
           ],
           "related_tickers": [
             {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 1
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
@@ -497,13 +487,23 @@
               "count": 1
             },
             {
-              "ticker": "META",
-              "name": "Meta Platforms",
+              "ticker": "AAPL",
+              "name": "Apple",
+              "count": 1
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
               "count": 1
             },
             {
               "ticker": "GS",
               "name": "Goldman Sachs Group",
+              "count": 1
+            },
+            {
+              "ticker": "META",
+              "name": "Meta Platforms",
               "count": 1
             }
           ],
@@ -574,13 +574,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "NOW",
-              "name": "ServiceNow",
+              "ticker": "CRM",
+              "name": "Salesforce",
               "count": 1
             },
             {
@@ -589,8 +584,13 @@
               "count": 1
             },
             {
-              "ticker": "CRM",
-              "name": "Salesforce",
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "NOW",
+              "name": "ServiceNow",
               "count": 1
             }
           ],
@@ -637,16 +637,6 @@
               "count": 1
             },
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
-            },
-            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 1
@@ -654,6 +644,16 @@
             {
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
+              "count": 1
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
               "count": 1
             }
           ],
@@ -834,13 +834,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "AVGO",
-              "name": "Broadcom",
+              "ticker": "MU",
+              "name": "Micron Technology",
               "count": 4
             },
             {
-              "ticker": "MU",
-              "name": "Micron Technology",
+              "ticker": "AVGO",
+              "name": "Broadcom",
               "count": 4
             },
             {
@@ -859,13 +859,13 @@
               "count": 2
             },
             {
-              "ticker": "NDAQ",
-              "name": "Nasdaq",
+              "ticker": "LULU",
+              "name": "Lululemon Athletica",
               "count": 1
             },
             {
-              "ticker": "LULU",
-              "name": "Lululemon Athletica",
+              "ticker": "NDAQ",
+              "name": "Nasdaq",
               "count": 1
             }
           ],
@@ -945,18 +945,18 @@
             "LULU": "Lululemon Athletica's 11% decline in shares after lowering full-year earnings and revenue guidance indicates a broader impact on the global tech market, specifically the athleisure sector.",
             "MRVL": "A chipmaker that makes several different parts and products needed for the artificial intelligence infrastructure boom, which is contributing to the global tech market decline.",
             "MU": "Micron Technology's stock price fell nearly 8% in after-hours trade, contributing to the decline in the global tech market.",
-            "NDAQ": "Nasdaq is a tech-heavy index, meaning it is composed of many technology stocks, which are particularly sensitive to market fluctuations.",
+            "NDAQ": "Nasdaq is a tech-heavy index, meaning it is composed of many technology stocks, which are particularly sensitive to market fluctuations and are often among the first to be affected by global economic downturns.",
             "TSLA": "Tesla's market capitalization is at risk of falling below $1 trillion, which would prevent CEO Elon Musk from becoming the world's first trillionaire.",
             "GS": "Goldman Sachs forecasts a boon to various sectors, including U.S. retail, US lodging and leisure, and U.S. airlines, due to increased tourism from the 2026 FIFA World Cup.",
-            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory hurdles.",
+            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory challenges.",
             "SPGI": "S&P Global's decision not to change the requirements for entry into its major indices effectively rules out a swift entry for SpaceX into the benchmark S&P 500 index.",
             "APP": "Applovin is a technology company that has been added to the index in recent years, contributing to the growing presence of tech giants in the market.",
             "DASH": "DoorDash is a technology company that has been added to the index in recent years, indicating a broader decline in the global tech market.",
-            "POOL": "Pool Corp will be replaced by two companies, indicating a decline in the global tech market's ability to sustain its current players.",
+            "POOL": "Pool Corp will be replaced as a component of the Dow Jones Industrial Average, marking a significant change in the global tech market's benchmark composition.",
             "HOOD": "Robinhood Markets is a technology company that has been added to the index in recent years, contributing to the broader decline in the global tech market.",
             "VEEV": "Veeva Systems is a leading provider of cloud-based software solutions for the life sciences industry, which has been impacted by the broader global tech market decline.",
             "CRWD": "CrowdStrike shares dropped roughly 10% overnight, mirroring a similar decline in the global tech market.",
-            "PHM": "Pultegroup is a leading homebuilding company in the United States, and its performance is often used as a benchmark for the broader homebuilding industry.",
+            "PHM": "Pultegroup is a leading homebuilding company in the United States, and its performance is often cited as a benchmark for the broader US housing market.",
             "GOOG": "Alphabet's largest customer, Google, has started diversifying toward other chip suppliers, resulting in a degree of share loss for Broadcom.",
             "PRU": "Prudential Financial's decline to the bottom of the FTSE 100 index is a reflection of the broader global tech market decline, as the U.K. multinational insurance and asset management giant is heavily influenced by the performance of the global financial sector."
           }
@@ -1005,13 +1005,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 1
-            },
-            {
-              "ticker": "AMD",
-              "name": "Advanced Micro Devices",
+              "ticker": "C",
+              "name": "Citigroup",
               "count": 1
             },
             {
@@ -1020,18 +1015,23 @@
               "count": 1
             },
             {
-              "ticker": "C",
-              "name": "Citigroup",
+              "ticker": "AMD",
+              "name": "Advanced Micro Devices",
               "count": 1
             },
             {
-              "ticker": "COIN",
-              "name": "Coinbase Global",
+              "ticker": "INTC",
+              "name": "Intel",
               "count": 1
             },
             {
               "ticker": "TSLA",
               "name": "Tesla",
+              "count": 1
+            },
+            {
+              "ticker": "COIN",
+              "name": "Coinbase Global",
               "count": 1
             }
           ],
@@ -1063,9 +1063,9 @@
             "AMD": "Advanced Micro Devices's stock price more than doubled in value this year, alongside chipmakers Intel and Micron.",
             "C": "Citigroup's analyst, Alex Saunders, stated that flows are the primary driver of Bitcoin price appreciation, indicating a significant role in investor adoption and appetite.",
             "INTC": "Advanced Micro Devices, Intel, and Micron's significant year-over-year growth in value is likely contributing to the decline in Bitcoin's market value, as investors increasingly shift their focus to traditional assets and tech stocks.",
-            "MU": "Micron Technology's significant increase in value this year, more than doubling alongside chipmakers Advanced Micro Devices and Intel, suggests a strong demand for its semiconductor products.",
+            "MU": "Micron Technology's significant increase in value this year, more than doubling alongside chipmakers Advanced Micro Devices and Intel, suggests a strong demand for its semiconductor products, which could be linked to Bitcoin's decline as a store of value and potential hedge against inflation.",
             "COIN": "Coinbase Global unveiled a new product, the SpaceX Pre-IPO Perp, a perpetual futures contract tied to the private-market valuation of SpaceX, allowing customers to get price exposure to the private company before it goes public.",
-            "TSLA": "Tesla's CEO Elon Musk is a prominent figure in the cryptocurrency market, and his involvement with SpaceX and its valuation is referenced in a derivative offering by Coinbase."
+            "TSLA": "Tesla's CEO Elon Musk is a prominent figure in the cryptocurrency market, and his involvement with SpaceX and private-market valuation of the company is referenced in the context of Coinbase's new derivative offering."
           }
         },
         {
@@ -1117,13 +1117,13 @@
               "count": 1
             },
             {
-              "ticker": "COIN",
-              "name": "Coinbase Global",
+              "ticker": "HOOD",
+              "name": "Robinhood Markets",
               "count": 1
             },
             {
-              "ticker": "HOOD",
-              "name": "Robinhood Markets",
+              "ticker": "COIN",
+              "name": "Coinbase Global",
               "count": 1
             }
           ],
@@ -1186,13 +1186,13 @@
               "count": 1
             },
             {
-              "ticker": "TW",
-              "name": "Tradeweb Markets",
+              "ticker": "IBKR",
+              "name": "Interactive Brokers Group",
               "count": 1
             },
             {
-              "ticker": "IBKR",
-              "name": "Interactive Brokers Group",
+              "ticker": "TW",
+              "name": "Tradeweb Markets",
               "count": 1
             },
             {
@@ -1267,13 +1267,18 @@
               "count": 2
             },
             {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 1
+            },
+            {
               "ticker": "SPGI",
               "name": "S&P Global",
               "count": 1
             },
             {
-              "ticker": "TSLA",
-              "name": "Tesla",
+              "ticker": "ZTS",
+              "name": "Zoetis",
               "count": 1
             },
             {
@@ -1282,8 +1287,8 @@
               "count": 1
             },
             {
-              "ticker": "ZTS",
-              "name": "Zoetis",
+              "ticker": "BX",
+              "name": "Blackstone",
               "count": 1
             }
           ],
@@ -1365,6 +1370,11 @@
           ],
           "related_tickers": [
             {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 1
+            },
+            {
               "ticker": "AMZN",
               "name": "Amazon.com",
               "count": 1
@@ -1377,11 +1387,6 @@
             {
               "ticker": "RKLB",
               "name": "Rocket Lab",
-              "count": 1
-            },
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
               "count": 1
             }
           ],
@@ -1468,7 +1473,7 @@
           "ticker_summary": {
             "TSLA": "Elon Musk's X, a social media platform that rose to prominence after acquiring Twitter and rebranding it, is relevant to the topic of social media platform regulation.",
             "META": "Meta Platforms operates Instagram, a social media platform that was forced to implement age verification methods under the Australian blanket social media ban for teens under the age of 16.",
-            "RDDT": "Reddit, launched in 2011, is a social media platform that bills itself as \"the front page of the internet,\" offering \"sub-Reddits\" on a huge range of topics, making it a notable example of a platform that facilitates online discussions and communities."
+            "RDDT": "Reddit's model of user-generated content and community-driven discussion platforms has been cited as an inspiration for social media regulation efforts, particularly in regards to its role as a public square where users engage with content and each other."
           }
         },
         {
@@ -1656,13 +1661,13 @@
               "count": 1
             },
             {
-              "ticker": "MCO",
-              "name": "Moody's",
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
               "count": 1
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
+              "ticker": "MCO",
+              "name": "Moody's",
               "count": 1
             }
           ],
@@ -2174,6 +2179,11 @@
           ],
           "related_tickers": [
             {
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
+              "count": 1
+            },
+            {
               "ticker": "MS",
               "name": "Morgan Stanley",
               "count": 1
@@ -2181,11 +2191,6 @@
             {
               "ticker": "GS",
               "name": "Goldman Sachs Group",
-              "count": 1
-            },
-            {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
               "count": 1
             }
           ],
@@ -2208,7 +2213,7 @@
           },
           "ticker_summary": {
             "GS": "Goldman Sachs Group is mentioned alongside JPMorgan Chase as a rival using AI agents internally.",
-            "JPM": "JPMorgan Chase is one of the rivals using AI agents internally for various tasks, including writing code.",
+            "JPM": "JPMorgan Chase is a rival to Morgan Stanley that is using AI agents internally for various purposes, including writing code.",
             "MS": "Morgan Stanley has partnered with OpenAI and is leveraging the Model Context Protocol to integrate AI technology into its services, including customer support and wealth management."
           }
         },
