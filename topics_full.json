@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-07T18:11:53.748846-04:00",
+  "updated_at": "2026-06-09T18:20:04.399032-04:00",
   "children": [
     {
       "name": "Artificial Intelligence Revolution",
@@ -74,13 +74,13 @@
               "count": 2
             },
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
+              "ticker": "AMZN",
+              "name": "Amazon.com",
               "count": 1
             },
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
+              "ticker": "NVDA",
+              "name": "Nvidia",
               "count": 1
             }
           ],
@@ -197,7 +197,7 @@
           },
           "ticker_summary": {
             "SPGI": "S&P Global's estimate that OpenAI would account for roughly 30% of SoftBank's investment portfolio is relevant because it provides a benchmark for SoftBank's significant investment in the ChatGPT maker.",
-            "EVR": "Evercore is mentioned as the firm that employs Mark Mahaney, who expressed his fondness for Meta as one of his favorite large-cap internet stocks.",
+            "EVR": "Evercore is mentioned as the firm where Mark Mahaney, a prominent analyst, works.",
             "META": "Meta Platforms is one of the tech giants pouring record sums into capital expenditures to build out AI infrastructure.",
             "TSLA": "SoftBank's investment in AI startups, including those focused on autonomous driving technology, is a key factor in Elon Musk's potential trillionaire status.",
             "BA": "Boeing's production of the 737 Max 10 is expected to be certified by the FAA before the end of the year, clearing the way for the first deliveries."
@@ -239,8 +239,13 @@
               "count": 1
             },
             {
-              "ticker": "NOW",
-              "name": "ServiceNow",
+              "ticker": "DASH",
+              "name": "DoorDash",
+              "count": 1
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             },
             {
@@ -249,13 +254,8 @@
               "count": 1
             },
             {
-              "ticker": "DASH",
-              "name": "DoorDash",
-              "count": 1
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "NOW",
+              "name": "ServiceNow",
               "count": 1
             }
           ],
@@ -314,16 +314,6 @@
           ],
           "related_tickers": [
             {
-              "ticker": "PANW",
-              "name": "Palo Alto Networks",
-              "count": 1
-            },
-            {
-              "ticker": "RBRK",
-              "name": "Rubrik",
-              "count": 1
-            },
-            {
               "ticker": "CRWD",
               "name": "CrowdStrike",
               "count": 1
@@ -331,6 +321,16 @@
             {
               "ticker": "NVDA",
               "name": "Nvidia",
+              "count": 1
+            },
+            {
+              "ticker": "PANW",
+              "name": "Palo Alto Networks",
+              "count": 1
+            },
+            {
+              "ticker": "RBRK",
+              "name": "Rubrik",
               "count": 1
             },
             {
@@ -397,13 +397,18 @@
               "count": 1
             },
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
+              "ticker": "ORCL",
+              "name": "Oracle",
               "count": 1
             },
             {
-              "ticker": "ORCL",
-              "name": "Oracle",
+              "ticker": "CRM",
+              "name": "Salesforce",
+              "count": 1
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
               "count": 1
             },
             {
@@ -414,11 +419,6 @@
             {
               "ticker": "META",
               "name": "Meta Platforms",
-              "count": 1
-            },
-            {
-              "ticker": "CRM",
-              "name": "Salesforce",
               "count": 1
             }
           ],
@@ -457,7 +457,7 @@
             "META": "Meta Platforms was among the firms carrying out job cuts.",
             "MSFT": "It, along with other tech giants, was behind thousands of AI layoffs in 2025.",
             "ORCL": "Oracle was among the firms carrying out job cuts, alongside Block and Meta.",
-            "CRM": "Salesforce was among the tech giants that experienced thousands of AI-related layoffs in 2025, alongside Microsoft and IBM."
+            "CRM": "Salesforce was among the tech giants that laid off thousands of employees in 2025, with AI technology being a significant contributor to these layoffs."
           }
         },
         {
@@ -477,18 +477,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
               "count": 1
             },
             {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
-            },
-            {
-              "ticker": "AAPL",
-              "name": "Apple",
+              "ticker": "META",
+              "name": "Meta Platforms",
               "count": 1
             },
             {
@@ -497,13 +492,18 @@
               "count": 1
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
+              "ticker": "AAPL",
+              "name": "Apple",
               "count": 1
             },
             {
-              "ticker": "META",
-              "name": "Meta Platforms",
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
               "count": 1
             }
           ],
@@ -574,13 +574,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "CRM",
-              "name": "Salesforce",
+              "ticker": "DASH",
+              "name": "DoorDash",
               "count": 1
             },
             {
-              "ticker": "DASH",
-              "name": "DoorDash",
+              "ticker": "NOW",
+              "name": "ServiceNow",
               "count": 1
             },
             {
@@ -589,8 +589,8 @@
               "count": 1
             },
             {
-              "ticker": "NOW",
-              "name": "ServiceNow",
+              "ticker": "CRM",
+              "name": "Salesforce",
               "count": 1
             }
           ],
@@ -834,13 +834,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "MU",
-              "name": "Micron Technology",
+              "ticker": "AVGO",
+              "name": "Broadcom",
               "count": 4
             },
             {
-              "ticker": "AVGO",
-              "name": "Broadcom",
+              "ticker": "MU",
+              "name": "Micron Technology",
               "count": 4
             },
             {
@@ -859,13 +859,13 @@
               "count": 2
             },
             {
-              "ticker": "LULU",
-              "name": "Lululemon Athletica",
+              "ticker": "NDAQ",
+              "name": "Nasdaq",
               "count": 1
             },
             {
-              "ticker": "NDAQ",
-              "name": "Nasdaq",
+              "ticker": "LULU",
+              "name": "Lululemon Athletica",
               "count": 1
             }
           ],
@@ -945,18 +945,18 @@
             "LULU": "Lululemon Athletica's 11% decline in shares after lowering full-year earnings and revenue guidance indicates a broader impact on the global tech market, specifically the athleisure sector.",
             "MRVL": "A chipmaker that makes several different parts and products needed for the artificial intelligence infrastructure boom, which is contributing to the global tech market decline.",
             "MU": "Micron Technology's stock price fell nearly 8% in after-hours trade, contributing to the decline in the global tech market.",
-            "NDAQ": "Nasdaq is a tech-heavy index, meaning it is composed of many technology stocks, which are particularly sensitive to market fluctuations and are often among the first to be affected by global economic downturns.",
+            "NDAQ": "Nasdaq is a tech-heavy index, meaning it is composed of many technology stocks, which are experiencing a decline.",
             "TSLA": "Tesla's market capitalization is at risk of falling below $1 trillion, which would prevent CEO Elon Musk from becoming the world's first trillionaire.",
             "GS": "Goldman Sachs forecasts a boon to various sectors, including U.S. retail, US lodging and leisure, and U.S. airlines, due to increased tourism from the 2026 FIFA World Cup.",
-            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory challenges.",
+            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory hurdles.",
             "SPGI": "S&P Global's decision not to change the requirements for entry into its major indices effectively rules out a swift entry for SpaceX into the benchmark S&P 500 index.",
             "APP": "Applovin is a technology company that has been added to the index in recent years, contributing to the growing presence of tech giants in the market.",
             "DASH": "DoorDash is a technology company that has been added to the index in recent years, indicating a broader decline in the global tech market.",
-            "POOL": "Pool Corp will be replaced as a component of the Dow Jones Industrial Average, marking a significant change in the global tech market's benchmark composition.",
+            "POOL": "Pool Corp will be replaced by two companies, indicating a potential decline in the global tech market's influence on the company's operations.",
             "HOOD": "Robinhood Markets is a technology company that has been added to the index in recent years, contributing to the broader decline in the global tech market.",
             "VEEV": "Veeva Systems is a leading provider of cloud-based software solutions for the life sciences industry, which has been impacted by the broader global tech market decline.",
             "CRWD": "CrowdStrike shares dropped roughly 10% overnight, mirroring a similar decline in the global tech market.",
-            "PHM": "Pultegroup is a leading homebuilding company in the United States, and its performance is often cited as a benchmark for the broader US housing market.",
+            "PHM": "Pultegroup is a leading homebuilding company in the United States, and its performance is often used as a benchmark for the broader homebuilding industry.",
             "GOOG": "Alphabet's largest customer, Google, has started diversifying toward other chip suppliers, resulting in a degree of share loss for Broadcom.",
             "PRU": "Prudential Financial's decline to the bottom of the FTSE 100 index is a reflection of the broader global tech market decline, as the U.K. multinational insurance and asset management giant is heavily influenced by the performance of the global financial sector."
           }
@@ -1005,16 +1005,6 @@
           ],
           "related_tickers": [
             {
-              "ticker": "C",
-              "name": "Citigroup",
-              "count": 1
-            },
-            {
-              "ticker": "MU",
-              "name": "Micron Technology",
-              "count": 1
-            },
-            {
               "ticker": "AMD",
               "name": "Advanced Micro Devices",
               "count": 1
@@ -1025,13 +1015,23 @@
               "count": 1
             },
             {
-              "ticker": "TSLA",
-              "name": "Tesla",
+              "ticker": "C",
+              "name": "Citigroup",
+              "count": 1
+            },
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
               "count": 1
             },
             {
               "ticker": "COIN",
               "name": "Coinbase Global",
+              "count": 1
+            },
+            {
+              "ticker": "TSLA",
+              "name": "Tesla",
               "count": 1
             }
           ],
@@ -1186,13 +1186,13 @@
               "count": 1
             },
             {
-              "ticker": "IBKR",
-              "name": "Interactive Brokers Group",
+              "ticker": "TW",
+              "name": "Tradeweb Markets",
               "count": 1
             },
             {
-              "ticker": "TW",
-              "name": "Tradeweb Markets",
+              "ticker": "IBKR",
+              "name": "Interactive Brokers Group",
               "count": 1
             },
             {
@@ -1218,7 +1218,7 @@
           "ticker_summary": {
             "SCHW": "Charles Schwab, a leading online brokerage firm, has stated that prediction markets are a low-demand product among its traders, according to CEO Rick Wurster's April earnings call.",
             "IBKR": "Interactive Brokers Group services both retail and institutional investors, and in May, it announced the integration of Kalshi contracts onto its platform.",
-            "TW": "Tradeweb Markets partnered with Kalshi to expand access to its data, providing firms with easy ways to view information related to its event contracts.",
+            "TW": "Tradeweb Markets partnered with Kalshi to expand access to its data, providing firms with easy ways to view information related to its event contracts, which is relevant to prediction markets and trading.",
             "NVDA": "Nvidia's H100 GPU chip rental pricing is tracked by the Ornn Compute Price Index, a benchmark used in a FalconX and Anera Labs contract traded on a prediction market."
           }
         },
@@ -1257,13 +1257,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
               "count": 2
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
+              "ticker": "NVDA",
+              "name": "Nvidia",
               "count": 2
             },
             {
@@ -1284,11 +1284,6 @@
             {
               "ticker": "ELAN",
               "name": "Elanco Animal Health",
-              "count": 1
-            },
-            {
-              "ticker": "BX",
-              "name": "Blackstone",
               "count": 1
             }
           ],
@@ -1370,13 +1365,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "TSLA",
-              "name": "Tesla",
+              "ticker": "AMZN",
+              "name": "Amazon.com",
               "count": 1
             },
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
+              "ticker": "RKLB",
+              "name": "Rocket Lab",
               "count": 1
             },
             {
@@ -1385,8 +1380,8 @@
               "count": 1
             },
             {
-              "ticker": "RKLB",
-              "name": "Rocket Lab",
+              "ticker": "TSLA",
+              "name": "Tesla",
               "count": 1
             }
           ],
@@ -1493,13 +1488,13 @@
           ],
           "related_tickers": [
             {
-              "ticker": "NKE",
-              "name": "Nike",
+              "ticker": "LULU",
+              "name": "Lululemon Athletica",
               "count": 1
             },
             {
-              "ticker": "LULU",
-              "name": "Lululemon Athletica",
+              "ticker": "NKE",
+              "name": "Nike",
               "count": 1
             }
           ],
@@ -1515,7 +1510,7 @@
             ]
           },
           "ticker_summary": {
-            "LULU": "Lululemon Athletica is the company experiencing financial struggles, specifically with its fiscal 2026 sales expectations.",
+            "LULU": "Lululemon Athletica is the company experiencing fiscal 2026 sales growth expectations that are below previous ranges, indicating ongoing financial struggles.",
             "NKE": "Nike's former women's business executive, Jill O'Neill, played a significant role in building Nike's women's business, which is now a multibillion-dollar franchise."
           }
         },
@@ -1541,13 +1536,13 @@
               "count": 2
             },
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "META",
+              "name": "Meta Platforms",
               "count": 1
             },
             {
-              "ticker": "META",
-              "name": "Meta Platforms",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             }
           ],
@@ -1656,8 +1651,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "MCD",
-              "name": "McDonald's",
+              "ticker": "MCO",
+              "name": "Moody's",
               "count": 1
             },
             {
@@ -1666,8 +1661,8 @@
               "count": 1
             },
             {
-              "ticker": "MCO",
-              "name": "Moody's",
+              "ticker": "MCD",
+              "name": "McDonald's",
               "count": 1
             }
           ],
@@ -1686,7 +1681,7 @@
           "ticker_summary": {
             "GS": "Goldman Sachs Group's forecast that higher energy prices will erode consumers' spending power through the rest of 2026.",
             "MCD": "McDonald's's reliance on consumer spending, particularly among lower-income cohorts, which may be experiencing reduced purchasing power due to rising energy prices.",
-            "MCO": "Moody's provides economic data and analysis, including its chief economist's forecasts and warnings, which inform discussions on the impact of global events on consumer spending and the overall economy."
+            "MCO": "Moody's provides data that quantifies the economic pain Americans are experiencing due to the ongoing war, specifically highlighting the impact of higher energy costs on consumers' spending habits."
           }
         },
         {
@@ -2179,8 +2174,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
               "count": 1
             },
             {
@@ -2189,8 +2184,8 @@
               "count": 1
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
               "count": 1
             }
           ],
