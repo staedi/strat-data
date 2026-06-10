@@ -1,4 +1,4 @@
-## strat-data
+# strat-data
 
 This is the repo serving backend data generated for the [Financial News Explorer](https://staedi.github.io/strat-ui).
 The original data being generated into this repo is from the financial news, asset prices (price and volume), and SEC EDGAR 10-K financial statement (10-K).
