@@ -1,21 +1,1410 @@
 {
   "mode": "recent",
-  "updated_at": "2026-06-09T18:26:52.636582-04:00",
+  "updated_at": "2026-06-11T05:21:31.070721-04:00",
   "tickers": {
-    "MSFT": {
-      "name": "Microsoft",
-      "pos": 5,
-      "neg": 5,
-      "neu": 3,
-      "total": 13,
-      "positive_pct": 38.5,
-      "negative_pct": 38.5,
-      "score": -0.106,
+    "ORCL": {
+      "name": "Oracle",
+      "pos": 6,
+      "neg": 3,
+      "neu": 0,
+      "total": 9,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": -0.354,
       "categories": {
         "Business": {
-          "pos": 5,
-          "neg": 5,
+          "pos": 4,
+          "neg": 2,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 30,
+          "label": "\"AI's Impact on Workforce\"",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Stock futures rise as U.S. completes strikes against Iran",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 6,
+          "neg": 1,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 85.7,
+          "negative_pct": 14.3
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "BX": {
+      "name": "Blackstone",
+      "pos": 5,
+      "neg": 5,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Bankruptcy": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 2,
+          "neg": 3,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 3,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 14,
+          "label": "Private Markets Liquidity Concerns",
+          "meta_category": "Private Markets and Finance",
+          "pos": 3,
+          "neg": 2,
+          "neu": 0,
+          "total": 5,
+          "score": 0.2,
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Man Group sees opportunities in higher rates despite industry 'growing pains'",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Partners Group warns of more withdrawal restrictions after private equity rout",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Blackstone restricts flagship fund withdrawals as private asset fears reemerge",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 3,
+          "neg": 2,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "C": {
+      "name": "Citigroup",
+      "pos": 5,
+      "neg": 4,
+      "neu": 1,
+      "total": 10,
+      "positive_pct": 50.0,
+      "negative_pct": 40.0,
+      "score": 0.006,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 1,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 10,
+          "label": "Bitcoin's Market Decline Continues",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Hugo Boss pops 8% after top shareholder Frasers launches $2 billion takeover offer",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hong Kong's IPO boom is developing a performance problem",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 3,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 57.1,
+          "negative_pct": 42.9
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "F": {
+      "name": "Ford Motor",
+      "pos": 3,
+      "neg": 3,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.077,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Mercedes-Benz joins Europe’s defense push with anti-drone vehicle deal",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Chinese EVs may hit U.S. within a few years, one way or another",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-04",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "SpaceX",
+      "pos": 36,
+      "neg": 21,
+      "neu": 3,
+      "total": 60,
+      "positive_pct": 60.0,
+      "negative_pct": 35.0,
+      "score": 0.386,
+      "categories": {
+        "Business": {
+          "pos": 34,
+          "neg": 20,
+          "neu": 3
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 36,
+          "label": "SpaceX Expands Infrastructure and AI",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 11,
+          "neg": 3,
+          "neu": 0,
+          "total": 14,
+          "score": 0.571,
+          "positive_pct": 78.6,
+          "negative_pct": 21.4
+        },
+        {
+          "cluster_id": 10,
+          "label": "Bitcoin's Market Decline Continues",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 6,
+          "neg": 1,
+          "neu": 0,
+          "total": 7,
+          "score": 0.714,
+          "positive_pct": 85.7,
+          "negative_pct": 14.3
+        },
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 4,
+          "neg": 1,
+          "neu": 1,
+          "total": 6,
+          "score": 0.5,
+          "positive_pct": 66.7,
+          "negative_pct": 16.7
+        },
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 35,
+          "label": "SoftBank's High-Stakes AI Bet",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI mega-listings are 'just the start,' Razer CEO says, ahead of historic SpaceX IPO",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Unique SpaceX IPO is hedging challenge for Wall Street",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "NC treasurer passes on SpaceX citing valuation, favors OpenAI, Anthropic",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Sen. Warren calls on SEC to delay SpaceX IPO",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 9,
+          "neg": 1,
+          "neu": 1,
+          "total": 11,
+          "positive_pct": 81.8,
+          "negative_pct": 9.1
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 11,
+          "neg": 4,
+          "neu": 0,
+          "total": 15,
+          "positive_pct": 73.3,
+          "negative_pct": 26.7
+        },
+        {
+          "date": "2026-06-06",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 3,
+          "neg": 4,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 37.5,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 9,
+          "neg": 11,
+          "neu": 0,
+          "total": 20,
+          "positive_pct": 45.0,
+          "negative_pct": 55.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "JPM": {
+      "name": "JPMorgan Chase",
+      "pos": 7,
+      "neg": 3,
+      "neu": 3,
+      "total": 13,
+      "positive_pct": 53.8,
+      "negative_pct": 23.1,
+      "score": 0.073,
+      "categories": {
+        "Business": {
+          "pos": 6,
+          "neg": 0,
+          "neu": 3
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Trump says U.S. secretly moved more than 100 million barrels of oil through Hormuz",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hong Kong's IPO boom is developing a performance problem",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 0,
+          "neu": 1,
+          "total": 5,
+          "positive_pct": 80.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "pos": 4,
+      "neg": 4,
+      "neu": 2,
+      "total": 10,
+      "positive_pct": 40.0,
+      "negative_pct": 40.0,
+      "score": -0.157,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 3,
           "neu": 2
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 8,
+          "label": "Social media platform regulation",
+          "meta_category": "Digital Advertising Regulation",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 10,
+          "label": "Bitcoin's Market Decline Continues",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 35,
+          "label": "SoftBank's High-Stakes AI Bet",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Unique SpaceX IPO is hedging challenge for Wall Street",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Sen. Warren calls on SEC to delay SpaceX IPO",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Anthropic releases Mythos-like AI model to the public called Claude Fable 5",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Global week ahead: Soccer isn't the only thing that's kicking off",
+          "date": "2026-06-06 00:00:00",
+          "polarity": "~"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-06",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "PLTR": {
+      "name": "Palantir Technologies",
+      "pos": 1,
+      "neg": 3,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 75.0,
+      "score": -0.1,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-07",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "pos": 11,
+      "neg": 8,
+      "neu": 0,
+      "total": 19,
+      "positive_pct": 57.9,
+      "negative_pct": 42.1,
+      "score": 0.218,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 9,
+          "neg": 6,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 0,
+          "label": "Apple's AI Strategy",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 6,
+          "label": "US Labor Market Trends",
+          "meta_category": "Global Economic Uncertainty",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Energy prices take center stage as the ECB prepares to decide on rates",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-06-06",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        }
+      ]
+    },
+    "MS": {
+      "name": "Morgan Stanley",
+      "pos": 2,
+      "neg": 2,
+      "neu": 1,
+      "total": 5,
+      "positive_pct": 40.0,
+      "negative_pct": 40.0,
+      "score": 0.063,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hong Kong's IPO boom is developing a performance problem",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
+          "date": "2026-06-02 00:00:00",
+          "polarity": "~"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "WFC": {
+      "name": "Wells Fargo",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Hong Kong's IPO boom is developing a performance problem",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "BAC": {
+      "name": "Bank of America",
+      "pos": 1,
+      "neg": 3,
+      "neu": 1,
+      "total": 5,
+      "positive_pct": 20.0,
+      "negative_pct": 60.0,
+      "score": -0.513,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Hong Kong's IPO boom is developing a performance problem",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
+          "date": "2026-06-02 00:00:00",
+          "polarity": "~"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "ROL": {
+      "name": "Rollins",
+      "pos": 2,
+      "neg": 3,
+      "neu": 0,
+      "total": 5,
+      "positive_pct": 40.0,
+      "negative_pct": 60.0,
+      "score": -0.45,
+      "categories": {
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-07",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 6,
+      "neg": 4,
+      "neu": 4,
+      "total": 14,
+      "positive_pct": 42.9,
+      "negative_pct": 28.6,
+      "score": 0.223,
+      "categories": {
+        "Business": {
+          "pos": 6,
+          "neg": 4,
+          "neu": 3
         },
         "NewsRelease": {
           "pos": 0,
@@ -29,12 +1418,12 @@
           "label": "AI and Artificial Intelligence",
           "meta_category": "Artificial Intelligence Revolution",
           "pos": 0,
-          "neg": 1,
+          "neg": 0,
           "neu": 1,
-          "total": 2,
-          "score": -0.5,
+          "total": 1,
+          "score": 0.0,
           "positive_pct": 0.0,
-          "negative_pct": 50.0
+          "negative_pct": 0.0
         },
         {
           "cluster_id": 36,
@@ -75,6 +1464,16 @@
       ],
       "articles": [
         {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
           "headline": "Jeffrey Epstein's former assistant Lesley Groff interviewed by House panel",
           "date": "2026-06-08 00:00:00",
           "polarity": "0"
@@ -88,28 +1487,9 @@
           "headline": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
           "date": "2026-06-04 00:00:00",
           "polarity": "-"
-        },
-        {
-          "headline": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
         {
           "date": "2026-06-03",
           "pos": 2,
@@ -136,29 +1516,55 @@
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
         }
       ]
     },
-    "SCHW": {
-      "name": "Charles Schwab",
-      "pos": 0,
-      "neg": 3,
+    "PHM": {
+      "name": "Pultegroup",
+      "pos": 2,
+      "neg": 15,
       "neu": 0,
-      "total": 3,
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "score": -1.0,
+      "total": 17,
+      "positive_pct": 11.8,
+      "negative_pct": 88.2,
+      "score": -0.84,
       "categories": {
         "Business": {
+          "pos": 2,
+          "neg": 14,
+          "neu": 0
+        },
+        "Recruitment": {
           "pos": 0,
-          "neg": 3,
+          "neg": 1,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 18,
-          "label": "Prediction Markets and Trading",
+          "cluster_id": 27,
+          "label": "Trump Administration Investigations",
+          "meta_category": "US Politics and Media",
+          "pos": 1,
+          "neg": 7,
+          "neu": 0,
+          "total": 8,
+          "score": -0.75,
+          "positive_pct": 12.5,
+          "negative_pct": 87.5
+        },
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
           "meta_category": "Cryptocurrency Market Volatility",
           "pos": 0,
           "neg": 1,
@@ -171,6 +1577,687 @@
       ],
       "articles": [
         {
+          "headline": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Trump wants Pulte to fire big chunk of national intelligence office staff: WSJ",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Trump says Pulte won't be permanent national intelligence director",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Broadcom earnings, SpaceX's IPO price and more: Morning Squawk",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 6,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 14.3,
+          "negative_pct": 85.7
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 5,
+          "neu": 0,
+          "total": 6,
+          "positive_pct": 16.7,
+          "negative_pct": 83.3
+        }
+      ]
+    },
+    "JEF": {
+      "name": "Jefferies Financial Group",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.05,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 14,
+      "neg": 10,
+      "neu": 4,
+      "total": 28,
+      "positive_pct": 50.0,
+      "negative_pct": 35.7,
+      "score": 0.131,
+      "categories": {
+        "Business": {
+          "pos": 14,
+          "neg": 9,
+          "neu": 4
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 4,
+          "neg": 1,
+          "neu": 1,
+          "total": 6,
+          "score": 0.5,
+          "positive_pct": 66.7,
+          "negative_pct": 16.7
+        },
+        {
+          "cluster_id": 32,
+          "label": "Global Market Trends and News",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "score": 0.5,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 36,
+          "label": "SpaceX Expands Infrastructure and AI",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Cybersecurity",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Apple partnering with Google and Nvidia for most advanced AI model",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang declines Senate testimony on AI, China and exports",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 5,
+          "neg": 2,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 62.5,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 5,
+          "neu": 2,
+          "total": 11,
+          "positive_pct": 36.4,
+          "negative_pct": 45.5
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 9,
+      "neg": 3,
+      "neu": 1,
+      "total": 13,
+      "positive_pct": 69.2,
+      "negative_pct": 23.1,
+      "score": 0.613,
+      "categories": {
+        "Business": {
+          "pos": 9,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 30,
+          "label": "\"AI's Impact on Workforce\"",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 5,
+          "neg": 1,
+          "neu": 0,
+          "total": 6,
+          "score": 0.667,
+          "positive_pct": 83.3,
+          "negative_pct": 16.7
+        },
+        {
+          "cluster_id": 29,
+          "label": "AI and Artificial Intelligence",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 0,
+          "label": "Apple's AI Strategy",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 17,
+          "label": "AI Infrastructure Investment Boom",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hollywood is debating AI. India's filmmakers are embracing it",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "OpenAI says it will comply with Trump's order requiring AI model reviews before release",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 6,
+          "neg": 2,
+          "neu": 0,
+          "total": 8,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 22,
+      "neg": 10,
+      "neu": 4,
+      "total": 36,
+      "positive_pct": 61.1,
+      "negative_pct": 27.8,
+      "score": 0.429,
+      "categories": {
+        "Business": {
+          "pos": 19,
+          "neg": 10,
+          "neu": 2
+        },
+        "Performance": {
+          "pos": 3,
+          "neg": 0,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 36,
+          "label": "SpaceX Expands Infrastructure and AI",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 6,
+          "neg": 6,
+          "neu": 1,
+          "total": 13,
+          "score": 0.0,
+          "positive_pct": 46.2,
+          "negative_pct": 46.2
+        },
+        {
+          "cluster_id": 29,
+          "label": "AI and Artificial Intelligence",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "score": -0.5,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 0,
+          "label": "Apple's AI Strategy",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "Global Tech Market Decline",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Kalshi rolls out whistleblower services, employment verification to curb insider trading",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Hollywood is debating AI. India's filmmakers are embracing it",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Apple partnering with Google and Nvidia for most advanced AI model",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "~"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 10,
+          "neg": 8,
+          "neu": 2,
+          "total": 20,
+          "positive_pct": 50.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 1,
+          "neu": 1,
+          "total": 6,
+          "positive_pct": 66.7,
+          "negative_pct": 16.7
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "INTC": {
+      "name": "Intel",
+      "pos": 2,
+      "neg": 0,
+      "neu": 1,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 0.0,
+      "score": 0.578,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 10,
+          "label": "Bitcoin's Market Decline Continues",
+          "meta_category": "Cryptocurrency Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Chip rebound sparks hedging flurry from traders",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
+          "date": "2026-06-03 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "SCHW": {
+      "name": "Charles Schwab",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
           "headline": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
           "date": "2026-06-08 00:00:00",
           "polarity": "-"
@@ -179,23 +2266,9 @@
           "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
           "date": "2026-06-08 00:00:00",
           "polarity": "-"
-        },
-        {
-          "headline": "Individual traders drove Kalshis rise. Now, its going for Wall Street",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
         {
           "date": "2026-06-08",
           "pos": 0,
@@ -313,837 +2386,6 @@
         }
       ]
     },
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 18,
-      "neg": 12,
-      "neu": 6,
-      "total": 36,
-      "positive_pct": 50.0,
-      "negative_pct": 33.3,
-      "score": 0.154,
-      "categories": {
-        "Business": {
-          "pos": 17,
-          "neg": 12,
-          "neu": 4
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 36,
-          "label": "SpaceX Expands Infrastructure and AI",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 6,
-          "neg": 6,
-          "neu": 1,
-          "total": 13,
-          "score": 0.0,
-          "positive_pct": 46.2,
-          "negative_pct": 46.2
-        },
-        {
-          "cluster_id": 29,
-          "label": "AI and Artificial Intelligence",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 2,
-          "neu": 2,
-          "total": 4,
-          "score": -0.5,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 0,
-          "label": "Apple's AI Strategy",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "score": -0.5,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "score": -0.5,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 21,
-          "label": "Rita Ferro Leads Disney Advertising",
-          "meta_category": "Digital Advertising Regulation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Apple shares slide after big Siri AI reveal",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Kalshi rolls out whistleblower services, employment verification to curb insider trading",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "Apple partnering with Google and Nvidia for most advanced AI model",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Inflation inside the electronics you buy may soon become a bit more sticky",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 10,
-          "neg": 8,
-          "neu": 2,
-          "total": 20,
-          "positive_pct": 50.0,
-          "negative_pct": 40.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 1,
-          "neu": 1,
-          "total": 6,
-          "positive_pct": 66.7,
-          "negative_pct": 16.7
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "NVDA": {
-      "name": "Nvidia",
-      "pos": 19,
-      "neg": 10,
-      "neu": 4,
-      "total": 33,
-      "positive_pct": 57.6,
-      "negative_pct": 30.3,
-      "score": 0.204,
-      "categories": {
-        "Business": {
-          "pos": 18,
-          "neg": 9,
-          "neu": 4
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 4,
-          "neg": 1,
-          "neu": 1,
-          "total": 6,
-          "score": 0.5,
-          "positive_pct": 66.7,
-          "negative_pct": 16.7
-        },
-        {
-          "cluster_id": 30,
-          "label": "\"AI's Impact on Workforce\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 5,
-          "neg": 0,
-          "neu": 0,
-          "total": 5,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "score": 0.5,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 36,
-          "label": "SpaceX Expands Infrastructure and AI",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "AI's Impact on Cybersecurity",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 29,
-          "label": "AI and Artificial Intelligence",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 18,
-          "label": "Prediction Markets and Trading",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Apple shares slide after big Siri AI reveal",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Apple partnering with Google and Nvidia for most advanced AI model",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang declines Senate testimony on AI, China and exports",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Electric vehicle giant BYD predicts 80% of China car sales will soon be electric",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Inflation inside the electronics you buy may soon become a bit more sticky",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 5,
-          "neg": 0,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-31",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 3,
-          "neg": 1,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 5,
-          "neg": 2,
-          "neu": 1,
-          "total": 8,
-          "positive_pct": 62.5,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 5,
-          "neu": 2,
-          "total": 11,
-          "positive_pct": 36.4,
-          "negative_pct": 45.5
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "GS": {
-      "name": "Goldman Sachs Group",
-      "pos": 9,
-      "neg": 9,
-      "neu": 1,
-      "total": 19,
-      "positive_pct": 47.4,
-      "negative_pct": 47.4,
-      "score": 0.053,
-      "categories": {
-        "Business": {
-          "pos": 8,
-          "neg": 8,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 0,
-          "label": "Apple's AI Strategy",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 6,
-          "label": "US Labor Market Trends",
-          "meta_category": "Global Economic Uncertainty",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "AI's Impact on Cybersecurity",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 22,
-          "label": "Morgan Stanley Embracing AI Technology",
-          "meta_category": "Private Markets and Finance",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Apple shares slide after big Siri AI reveal",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Silicon Valley’s new buyout playbook is hitting Wall Street",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Global week ahead: Soccer isn't the only thing that's kicking off",
-          "date": "2026-06-06 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Inflation inside the electronics you buy may soon become a bit more sticky",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 2,
-          "neg": 2,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-06-06",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
-    "TSLA": {
-      "name": "Tesla",
-      "pos": 5,
-      "neg": 2,
-      "neu": 2,
-      "total": 9,
-      "positive_pct": 55.6,
-      "negative_pct": 22.2,
-      "score": 0.129,
-      "categories": {
-        "Business": {
-          "pos": 5,
-          "neg": 1,
-          "neu": 2
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 8,
-          "label": "Social media platform regulation",
-          "meta_category": "Digital Advertising Regulation",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 10,
-          "label": "Bitcoin's Market Decline Continues",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 35,
-          "label": "SoftBank's High-Stakes AI Bet",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 33,
-          "label": "Retail Investors Flock to Space",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Anthropic releases Mythos-like AI model to the public called Claude Fable 5",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Global week ahead: Soccer isn't the only thing that's kicking off",
-          "date": "2026-06-06 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "CNBC Daily Open: SpaceX gets a reality check",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-06",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "GM": {
       "name": "General Motors",
       "pos": 3,
@@ -1209,138 +2451,6 @@
           "total": 1,
           "positive_pct": 100.0,
           "negative_pct": 0.0
-        }
-      ]
-    },
-    "F": {
-      "name": "Ford Motor",
-      "pos": 3,
-      "neg": 2,
-      "neu": 0,
-      "total": 5,
-      "positive_pct": 60.0,
-      "negative_pct": 40.0,
-      "score": 0.599,
-      "categories": {
-        "Business": {
-          "pos": 3,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "GM eyes new battery chemistry to grow AI data center, energy storage business",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Chinese EVs may hit U.S. within a few years, one way or another",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-04",
-          "pos": 2,
-          "neg": 2,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "BAC": {
-      "name": "Bank of America",
-      "pos": 0,
-      "neg": 2,
-      "neu": 1,
-      "total": 3,
-      "positive_pct": 0.0,
-      "negative_pct": 66.7,
-      "score": -0.76,
-      "categories": {
-        "Business": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Hong Kong's IPO boom is developing a performance problem",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
-          "date": "2026-06-02 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
         }
       ]
     },
@@ -1527,16 +2637,16 @@
     },
     "HOOD": {
       "name": "Robinhood Markets",
-      "pos": 3,
+      "pos": 2,
       "neg": 2,
       "neu": 0,
-      "total": 5,
-      "positive_pct": 60.0,
-      "negative_pct": 40.0,
-      "score": 0.329,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.223,
       "categories": {
         "Business": {
-          "pos": 3,
+          "pos": 2,
           "neg": 2,
           "neu": 0
         }
@@ -1545,18 +2655,6 @@
         {
           "cluster_id": 34,
           "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 18,
-          "label": "Prediction Markets and Trading",
           "meta_category": "Cryptocurrency Market Volatility",
           "pos": 1,
           "neg": 0,
@@ -1582,23 +2680,9 @@
           "headline": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
           "date": "2026-06-04 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Individual traders drove Kalshis rise. Now, its going for Wall Street",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-06-04",
           "pos": 1,
@@ -1628,107 +2712,54 @@
         }
       ]
     },
-    "MS": {
-      "name": "Morgan Stanley",
-      "pos": 6,
+    "UAL": {
+      "name": "United Airlines",
+      "pos": 5,
       "neg": 4,
-      "neu": 1,
-      "total": 11,
-      "positive_pct": 54.5,
-      "negative_pct": 36.4,
-      "score": -0.169,
+      "neu": 0,
+      "total": 9,
+      "positive_pct": 55.6,
+      "negative_pct": 44.4,
+      "score": 0.008,
       "categories": {
-        "Business": {
-          "pos": 6,
-          "neg": 3,
-          "neu": 1
-        },
         "Performance": {
-          "pos": 0,
-          "neg": 1,
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 4,
+          "neg": 2,
           "neu": 0
         }
       },
-      "clusters": [
-        {
-          "cluster_id": 22,
-          "label": "Morgan Stanley Embracing AI Technology",
-          "meta_category": "Private Markets and Finance",
-          "pos": 5,
-          "neg": 2,
-          "neu": 0,
-          "total": 7,
-          "score": 0.429,
-          "positive_pct": 71.4,
-          "negative_pct": 28.6
-        },
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
+      "clusters": [],
       "articles": [
         {
-          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
+          "headline": "Consumer prices rose 4.2% annually in May, highest in three years",
           "date": "2026-06-08 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+          "headline": "Airlines find the grass isn't always greener with new engines",
           "date": "2026-06-07 00:00:00",
           "polarity": "+"
         },
         {
-          "headline": "Hong Kong's IPO boom is developing a performance problem",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
-          "date": "2026-06-02 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Morgan Stanley to open its trillion-dollar wealth management funnel to AI agents",
-          "date": "2026-06-01 00:00:00",
+          "headline": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
+          "date": "2026-06-06 00:00:00",
           "polarity": "+"
         }
       ],
       "daily": [
         {
-          "date": "2026-06-01",
-          "pos": 5,
-          "neg": 2,
+          "date": "2026-06-06",
+          "pos": 4,
+          "neg": 3,
           "neu": 0,
           "total": 7,
-          "positive_pct": 71.4,
-          "negative_pct": 28.6
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
+          "positive_pct": 57.1,
+          "negative_pct": 42.9
         },
         {
           "date": "2026-06-07",
@@ -1750,39 +2781,44 @@
         }
       ]
     },
-    "PHM": {
-      "name": "Pultegroup",
-      "pos": 1,
-      "neg": 10,
+    "CRWD": {
+      "name": "CrowdStrike",
+      "pos": 3,
+      "neg": 4,
       "neu": 0,
-      "total": 11,
-      "positive_pct": 9.1,
-      "negative_pct": 90.9,
-      "score": -0.924,
+      "total": 7,
+      "positive_pct": 42.9,
+      "negative_pct": 57.1,
+      "score": -0.266,
       "categories": {
         "Business": {
           "pos": 1,
-          "neg": 9,
+          "neg": 1,
           "neu": 0
         },
-        "Recruitment": {
-          "pos": 0,
+        "NewsRelease": {
+          "pos": 1,
           "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 2,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 27,
-          "label": "Trump Administration Investigations",
-          "meta_category": "US Politics and Media",
+          "cluster_id": 28,
+          "label": "AI's Impact on Cybersecurity",
+          "meta_category": "Artificial Intelligence Revolution",
           "pos": 1,
-          "neg": 7,
+          "neg": 1,
           "neu": 0,
-          "total": 8,
-          "score": -0.75,
-          "positive_pct": 12.5,
-          "negative_pct": 87.5
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         },
         {
           "cluster_id": 34,
@@ -1799,18 +2835,13 @@
       ],
       "articles": [
         {
-          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "headline": "Beijing ramped up AI cyberattacks to catch up with the U.S., CrowdStrike says",
           "date": "2026-06-08 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "Trump wants Pulte to fire big chunk of national intelligence office staff: WSJ",
+          "headline": "Mythos rejuvenated the cybersecurity sector. Earnings put the rally to the test",
           "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Trump says Pulte won't be permanent national intelligence director",
-          "date": "2026-06-03 00:00:00",
           "polarity": "-"
         },
         {
@@ -1822,105 +2853,184 @@
       "daily": [
         {
           "date": "2026-06-03",
-          "pos": 1,
-          "neg": 6,
+          "pos": 0,
+          "neg": 1,
           "neu": 0,
-          "total": 7,
-          "positive_pct": 14.3,
-          "negative_pct": 85.7
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
         },
         {
           "date": "2026-06-04",
-          "pos": 0,
-          "neg": 2,
+          "pos": 1,
+          "neg": 1,
           "neu": 0,
           "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         },
         {
           "date": "2026-06-08",
-          "pos": 0,
+          "pos": 2,
           "neg": 2,
           "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         }
       ]
     },
-    "WMT": {
-      "name": "Walmart",
-      "pos": 1,
-      "neg": 1,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": -0.38,
+    "META": {
+      "name": "Meta Platforms",
+      "pos": 4,
+      "neg": 6,
+      "neu": 1,
+      "total": 11,
+      "positive_pct": 36.4,
+      "negative_pct": 54.5,
+      "score": -0.179,
       "categories": {
         "Business": {
-          "pos": 1,
+          "pos": 3,
+          "neg": 5,
+          "neu": 1
+        },
+        "Legal": {
+          "pos": 0,
           "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
+          "cluster_id": 35,
+          "label": "SoftBank's High-Stakes AI Bet",
           "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
+          "pos": 2,
+          "neg": 1,
+          "neu": 1,
+          "total": 4,
+          "score": 0.25,
+          "positive_pct": 50.0,
+          "negative_pct": 25.0
         },
         {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 0,
+          "cluster_id": 8,
+          "label": "Social media platform regulation",
+          "meta_category": "Digital Advertising Regulation",
+          "pos": 0,
+          "neg": 1,
           "neu": 0,
           "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 36,
+          "label": "SpaceX Expands Infrastructure and AI",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 0,
+          "label": "Apple's AI Strategy",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 30,
+          "label": "\"AI's Impact on Workforce\"",
+          "meta_category": "Artificial Intelligence Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
         }
       ],
       "articles": [
         {
-          "headline": "Judge blocks Trump's $100,000 H-1B visa fee",
-          "date": "2026-06-07 00:00:00",
+          "headline": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
+          "date": "2026-06-05 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "'Disrupted or dead': AI crushes a generation of startups built before ChatGPT",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "+"
+          "headline": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Meta stock sinks on report company could raise tens of billions of dollars for AI push",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "-"
         }
       ],
       "daily": [
         {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-07",
+          "date": "2026-06-03",
           "pos": 0,
           "neg": 1,
           "neu": 0,
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 2,
+          "neg": 4,
+          "neu": 1,
+          "total": 7,
+          "positive_pct": 28.6,
+          "negative_pct": 57.1
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
         }
       ]
     },
@@ -1997,207 +3107,23 @@
         }
       ]
     },
-    "INTC": {
-      "name": "Intel",
-      "pos": 2,
+    "BRK-B": {
+      "name": "Berkshire Hathaway",
+      "pos": 4,
       "neg": 0,
       "neu": 0,
-      "total": 2,
+      "total": 4,
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "score": 1.0,
       "categories": {
         "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
+          "pos": 4,
           "neg": 0,
           "neu": 0
         }
       },
       "clusters": [
-        {
-          "cluster_id": 10,
-          "label": "Bitcoin's Market Decline Continues",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Chip rebound sparks hedging flurry from traders",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "BX": {
-      "name": "Blackstone",
-      "pos": 4,
-      "neg": 4,
-      "neu": 0,
-      "total": 8,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": -0.208,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 3,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 3,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 14,
-          "label": "Private Markets Liquidity Concerns",
-          "meta_category": "Private Markets and Finance",
-          "pos": 3,
-          "neg": 2,
-          "neu": 0,
-          "total": 5,
-          "score": 0.2,
-          "positive_pct": 60.0,
-          "negative_pct": 40.0
-        },
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Silicon Valley’s new buyout playbook is hitting Wall Street",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Partners Group warns of more withdrawal restrictions after private equity rout",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Blackstone restricts flagship fund withdrawals as private asset fears reemerge",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
-          "date": "2026-06-02 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 3,
-          "neg": 2,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 60.0,
-          "negative_pct": 40.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "BRK-B": {
-      "name": "Berkshire Hathaway",
-      "pos": 7,
-      "neg": 1,
-      "neu": 0,
-      "total": 8,
-      "positive_pct": 87.5,
-      "negative_pct": 12.5,
-      "score": 0.833,
-      "categories": {
-        "Business": {
-          "pos": 7,
-          "neg": 0,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 9,
-          "label": "Berkshire Hathaway Expands Housing Portfolio",
-          "meta_category": "Private Markets and Finance",
-          "pos": 3,
-          "neg": 1,
-          "neu": 0,
-          "total": 4,
-          "score": 0.5,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
         {
           "cluster_id": 36,
           "label": "SpaceX Expands Infrastructure and AI",
@@ -2226,37 +3152,9 @@
           "headline": "Abel goes his own way with new Berkshire investments, including billions for AI",
           "date": "2026-06-04 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Greg Abel just made his first big deal as Berkshire CEO. Why Buffett is happy",
-          "date": "2026-05-31 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Berkshire Hathaway buys Taylor Morrison for $6.8 billion. Buffett touts Abels deal-making",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-05-31",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-06-04",
           "pos": 3,
@@ -2376,61 +3274,6 @@
         }
       ]
     },
-    "UAL": {
-      "name": "United Airlines",
-      "pos": 5,
-      "neg": 3,
-      "neu": 0,
-      "total": 8,
-      "positive_pct": 62.5,
-      "negative_pct": 37.5,
-      "score": 0.593,
-      "categories": {
-        "Business": {
-          "pos": 4,
-          "neg": 2,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Airlines find the grass isn't always greener with new engines",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
-          "date": "2026-06-06 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-06",
-          "pos": 4,
-          "neg": 3,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 57.1,
-          "negative_pct": 42.9
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "NDAQ": {
       "name": "Nasdaq",
       "pos": 0,
@@ -2506,142 +3349,6 @@
           "total": 3,
           "positive_pct": 0.0,
           "negative_pct": 66.7
-        }
-      ]
-    },
-    "JPM": {
-      "name": "JPMorgan Chase",
-      "pos": 5,
-      "neg": 4,
-      "neu": 3,
-      "total": 12,
-      "positive_pct": 41.7,
-      "negative_pct": 33.3,
-      "score": -0.167,
-      "categories": {
-        "Business": {
-          "pos": 5,
-          "neg": 2,
-          "neu": 3
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 32,
-          "label": "Global Market Trends and News",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 22,
-          "label": "Morgan Stanley Embracing AI Technology",
-          "meta_category": "Private Markets and Finance",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "JPMorgan Chase plans to deploy more powerful AI agents this year",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Hong Kong's IPO boom is developing a performance problem",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Where investors may find the next 'big wave' for AI trade",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "CNBC Daily Open: Chips are down — but not for the Dow",
-          "date": "2026-06-02 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 0,
-          "neu": 1,
-          "total": 5,
-          "positive_pct": 80.0,
-          "negative_pct": 0.0
         }
       ]
     },
@@ -2805,226 +3512,6 @@
         }
       ]
     },
-    "META": {
-      "name": "Meta Platforms",
-      "pos": 4,
-      "neg": 9,
-      "neu": 1,
-      "total": 14,
-      "positive_pct": 28.6,
-      "negative_pct": 64.3,
-      "score": -0.53,
-      "categories": {
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 2,
-          "neg": 7,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 2,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 35,
-          "label": "SoftBank's High-Stakes AI Bet",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 2,
-          "neg": 1,
-          "neu": 1,
-          "total": 4,
-          "score": 0.25,
-          "positive_pct": 50.0,
-          "negative_pct": 25.0
-        },
-        {
-          "cluster_id": 29,
-          "label": "AI and Artificial Intelligence",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "score": -0.333,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 8,
-          "label": "Social media platform regulation",
-          "meta_category": "Digital Advertising Regulation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 36,
-          "label": "SpaceX Expands Infrastructure and AI",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 0,
-          "label": "Apple's AI Strategy",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 30,
-          "label": "\"AI's Impact on Workforce\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 21,
-          "label": "Rita Ferro Leads Disney Advertising",
-          "meta_category": "Digital Advertising Regulation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
-          "date": "2026-06-05 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Meta stock sinks on report company could raise tens of billions of dollars for AI push",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "'Fear gauge' punches back as the 'crash up' in chip stocks reverses",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 2,
-          "neg": 4,
-          "neu": 1,
-          "total": 7,
-          "positive_pct": 28.6,
-          "negative_pct": 57.1
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
     "KMB": {
       "name": "Kimberly-Clark",
       "pos": 2,
@@ -3184,16 +3671,16 @@
     },
     "SPGI": {
       "name": "S&P Global",
-      "pos": 1,
+      "pos": 0,
       "neg": 2,
       "neu": 0,
-      "total": 3,
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
-      "score": -0.5,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
       "categories": {
         "Business": {
-          "pos": 1,
+          "pos": 0,
           "neg": 2,
           "neu": 0
         }
@@ -3246,23 +3733,9 @@
           "headline": "SoftBank’s OpenAI bet and rising debt are raising liquidity crunch concerns",
           "date": "2026-06-02 00:00:00",
           "polarity": "-"
-        },
-        {
-          "headline": "Chinas factory activity beats forecasts in May, private survey shows, despite softer official data",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-06-02",
           "pos": 0,
@@ -3280,343 +3753,6 @@
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 100.0
-        }
-      ]
-    },
-    "AMZN": {
-      "name": "Amazon.com",
-      "pos": 8,
-      "neg": 6,
-      "neu": 1,
-      "total": 15,
-      "positive_pct": 53.3,
-      "negative_pct": 40.0,
-      "score": -0.063,
-      "categories": {
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        },
-        "Business": {
-          "pos": 7,
-          "neg": 5,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 30,
-          "label": "\"AI's Impact on Workforce\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 5,
-          "neg": 1,
-          "neu": 0,
-          "total": 6,
-          "score": 0.667,
-          "positive_pct": 83.3,
-          "negative_pct": 16.7
-        },
-        {
-          "cluster_id": 29,
-          "label": "AI and Artificial Intelligence",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "score": -0.333,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 0,
-          "label": "Apple's AI Strategy",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 33,
-          "label": "Retail Investors Flock to Space",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "OpenAI says it will comply with Trump's order requiring AI model reviews before release",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Vibe-coding phenomenon lifts AI startup Supabase to $10.5 billion valuation",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Quantinuum closes flat in Nasdaq debut, after upsized offering",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 6,
-          "neg": 2,
-          "neu": 0,
-          "total": 8,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "DASH": {
-      "name": "DoorDash",
-      "pos": 1,
-      "neg": 1,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": 0.245,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "'Disrupted or dead': AI crushes a generation of startups built before ChatGPT",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "CRWD": {
-      "name": "CrowdStrike",
-      "pos": 1,
-      "neg": 2,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
-      "score": -0.475,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 28,
-          "label": "AI's Impact on Cybersecurity",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "Global Tech Market Decline",
-          "meta_category": "Cryptocurrency Market Volatility",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Mythos rejuvenated the cybersecurity sector. Earnings put the rally to the test",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Broadcom earnings, SpaceX's IPO price and more: Morning Squawk",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-03",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
         }
       ]
     },
@@ -3717,148 +3853,7 @@
           "negative_pct": 0.0
         }
       ]
-    },
-    "CRM": {
-      "name": "Salesforce",
-      "pos": 0,
-      "neg": 2,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "score": -1.0,
-      "categories": {
-        "Business": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 30,
-          "label": "\"AI's Impact on Workforce\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 16,
-          "label": "\"Fallen Unicorn Tech Industry\"",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "AI Infrastructure Investment Boom",
-          "meta_category": "Artificial Intelligence Revolution",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-          "date": "2026-06-03 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "'Disrupted or dead': AI crushes a generation of startups built before ChatGPT",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
-    "DIS": {
-      "name": "Walt Disney",
-      "pos": 21,
-      "neg": 1,
-      "neu": 0,
-      "total": 22,
-      "positive_pct": 95.5,
-      "negative_pct": 4.5,
-      "score": 0.909,
-      "categories": {
-        "Business": {
-          "pos": 20,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 21,
-          "label": "Rita Ferro Leads Disney Advertising",
-          "meta_category": "Digital Advertising Regulation",
-          "pos": 21,
-          "neg": 1,
-          "neu": 0,
-          "total": 22,
-          "score": 0.909,
-          "positive_pct": 95.5,
-          "negative_pct": 4.5
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
-          "date": "2026-05-29 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 21,
-          "neg": 1,
-          "neu": 0,
-          "total": 22,
-          "positive_pct": 95.5,
-          "negative_pct": 4.5
-        }
-      ]
     }
   },
-  "window_start": "2026-05-29"
+  "window_start": "2026-06-02"
 }

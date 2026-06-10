@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-09T18:20:04.399032-04:00",
+  "updated_at": "2026-06-11T05:16:24.669109-04:00",
   "children": [
     {
       "name": "Artificial Intelligence Revolution",
@@ -168,6 +168,11 @@
               "count": 1
             },
             {
+              "ticker": "SPCX",
+              "name": "SpaceX",
+              "count": 1
+            },
+            {
               "ticker": "BA",
               "name": "Boeing",
               "count": 1
@@ -188,6 +193,9 @@
             "TSLA": [
               "That move is set to make CEO Elon Musk the world's first trillionaire ."
             ],
+            "SPCX": [
+              "In corporate news, SpaceX finally made it official, setting a fixed price of $135 per share for its IPO next Friday, with a valuation of $1.77 trillion."
+            ],
             "BA": [
               "The new assembly line will start with production of the 737 Max 10, a stretch version of the single aisle plane that is expected to be certified by the FAA before the end of the year, clearing the way for the first 737 Max 10 deliveries.",
               "So I think that gives us all optimism.\" Ortberg and Boeing leadership have set a long-term goal for Max production of 63 per month, if the supply chain can support the increase.",
@@ -200,6 +208,7 @@
             "EVR": "Evercore is mentioned as the firm where Mark Mahaney, a prominent analyst, works.",
             "META": "Meta Platforms is one of the tech giants pouring record sums into capital expenditures to build out AI infrastructure.",
             "TSLA": "SoftBank's investment in AI startups, including those focused on autonomous driving technology, is a key factor in Elon Musk's potential trillionaire status.",
+            "SPCX": "SpaceX's highly anticipated IPO valuation of $1.77 trillion is notable for its potential to attract significant investment from SoftBank, a major backer of the private space company.",
             "BA": "Boeing's production of the 737 Max 10 is expected to be certified by the FAA before the end of the year, clearing the way for the first deliveries."
           }
         },
@@ -244,8 +253,8 @@
               "count": 1
             },
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "NOW",
+              "name": "ServiceNow",
               "count": 1
             },
             {
@@ -254,8 +263,8 @@
               "count": 1
             },
             {
-              "ticker": "NOW",
-              "name": "ServiceNow",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             }
           ],
@@ -314,11 +323,6 @@
           ],
           "related_tickers": [
             {
-              "ticker": "CRWD",
-              "name": "CrowdStrike",
-              "count": 1
-            },
-            {
               "ticker": "NVDA",
               "name": "Nvidia",
               "count": 1
@@ -331,6 +335,16 @@
             {
               "ticker": "RBRK",
               "name": "Rubrik",
+              "count": 1
+            },
+            {
+              "ticker": "CRWD",
+              "name": "CrowdStrike",
+              "count": 1
+            },
+            {
+              "ticker": "SPCX",
+              "name": "SpaceX",
               "count": 1
             },
             {
@@ -356,6 +370,9 @@
             ],
             "GS": [
               "Goldman Sachs CEO David Solomon said Tuesday that investors have shifted decisively into \"greed\" mode as markets are poised to test an unprecedented fundraising wave for giant artificial intelligence firms."
+            ],
+            "SPCX": [
+              "Asked by CNBC's Leslie Picker whether markets could support a string of massive equity offerings from the upcoming initial public offerings of OpenAI, Anthropic and SpaceX , Solomon said that there is ample capital available for the deals. \"There's plenty of liquidity in the system if the world continues to remain as optimistic,\" Solomon said. \"We are definitely in a moment where there's more greed than there is fear.\" Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years."
             ]
           },
           "ticker_summary": {
@@ -363,7 +380,8 @@
             "NVDA": "Nvidia's expertise in developing AI and deep learning technologies makes it a key player in the development of AI-powered cybersecurity solutions.",
             "PANW": "Palo Alto Networks's shares increased more than 70% between April and the end of May following the introduction of Mythos, a powerful AI model.",
             "RBRK": "Rubrik was an early partner in Anthropic's Project Glasswing testing program.",
-            "GS": "Goldman Sachs Group's cEO, David Solomon, mentioned that investors have shifted decisively into \"greed\" mode, indicating a potential surge in fundraising for giant artificial intelligence firms."
+            "GS": "Goldman Sachs Group's cEO, David Solomon, mentioned that investors have shifted decisively into \"greed\" mode, indicating a potential surge in fundraising for giant artificial intelligence firms.",
+            "SPCX": "SpaceX is one of the companies set to go public through initial public offerings (IPOs) alongside OpenAI and Anthropic."
           }
         },
         {
@@ -397,13 +415,13 @@
               "count": 1
             },
             {
-              "ticker": "ORCL",
-              "name": "Oracle",
+              "ticker": "CRM",
+              "name": "Salesforce",
               "count": 1
             },
             {
-              "ticker": "CRM",
-              "name": "Salesforce",
+              "ticker": "ORCL",
+              "name": "Oracle",
               "count": 1
             },
             {
@@ -457,7 +475,7 @@
             "META": "Meta Platforms was among the firms carrying out job cuts.",
             "MSFT": "It, along with other tech giants, was behind thousands of AI layoffs in 2025.",
             "ORCL": "Oracle was among the firms carrying out job cuts, alongside Block and Meta.",
-            "CRM": "Salesforce was among the tech giants that laid off thousands of employees in 2025, with AI technology being a significant contributor to these layoffs."
+            "CRM": "Salesforce was among the tech giants that experienced thousands of AI-related layoffs in 2025, alongside Microsoft and IBM."
           }
         },
         {
@@ -477,6 +495,21 @@
           ],
           "related_tickers": [
             {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
               "ticker": "GS",
               "name": "Goldman Sachs Group",
               "count": 1
@@ -487,23 +520,8 @@
               "count": 1
             },
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
               "ticker": "AAPL",
               "name": "Apple",
-              "count": 1
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
               "count": 1
             }
           ],
@@ -574,8 +592,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "DASH",
-              "name": "DoorDash",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             },
             {
@@ -584,13 +602,13 @@
               "count": 1
             },
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "CRM",
+              "name": "Salesforce",
               "count": 1
             },
             {
-              "ticker": "CRM",
-              "name": "Salesforce",
+              "ticker": "DASH",
+              "name": "DoorDash",
               "count": 1
             }
           ],
@@ -632,11 +650,6 @@
           ],
           "related_tickers": [
             {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
-            },
-            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 1
@@ -647,6 +660,11 @@
               "count": 1
             },
             {
+              "ticker": "SPCX",
+              "name": "SpaceX",
+              "count": 1
+            },
+            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
@@ -654,6 +672,11 @@
             {
               "ticker": "NVDA",
               "name": "Nvidia",
+              "count": 1
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
               "count": 1
             }
           ],
@@ -684,6 +707,22 @@
             ],
             "NVDA": [
               "According to a regulatory filing on Friday, Google will use about 110,000 Nvidia graphics processing units, as well as central processors, memory and other components housed in SpaceX's data centers."
+            ],
+            "SPCX": [
+              "Days before a planned IPO that's expected to raise record sums of cash, SpaceX has inked a deal with Google that will bring in $920 million a month by providing AI compute capacity to the search giant.",
+              "And in AI, SpaceX said it competes with Google as well as OpenAI, Anthropic, Meta and Microsoft .",
+              "The agreement spans from October of this year through June 2029 at the $920 million rate, and with \"capacity ramping up through September at a reduced fee.\" SpaceX said in the filing that if it fails to \"deliver access to the committed amount of GPUs by September 30, 2026,\" Google can immediately end the agreement, or accept the number of GPUs provided at a reduced fee after a one-month grace period.",
+              "Alphabet said this week it plans to sell $85 billion in stock, including through a $10 billion investment by Berkshire Hathaway , to meet \"unprecedented customer demand.\" In jumping into the infrastructure leasing market, SpaceX is also competing with a group of companies, commonly called neoclouds, that includes CoreWeave and Nebius .",
+              "In the meantime, SpaceX is working to make money from the data centers originally built to handle Grok-related workflows. \"We believe our compute infrastructure and related strategy provides us with substantial flexibility in how we allocate and monetize capacity,\" SpaceX said in a section of its IPO filing on \"compute service agreements with third parties.\" In the prospectus, SpaceX named Google as a competitor in connectivity, where SpaceX operates its Starlink satellite internet service, and Google operates its fiber broadband business.",
+              "Those stocks got hammered on Friday as part of a broader tech selloff, but bounced back some following the SpaceX-Google announcement.",
+              "SpaceX said in its prospectus that capital expenditures in the first quarter totaled $10.1 billion, more than doubling from a year earlier, with the vast majority of those costs — $7.7 billion — committed to AI.",
+              "Musk is trying to boost SpaceX's AI story ahead of next week's offering to show that the company is getting at least some return on its hefty investment in multiple data centers in and around Memphis.",
+              "Google and SpaceX forged a cloud pact in the past, but with their roles reversed.",
+              "Last month, Anthropic announced a deal to use all of SpaceX's compute capacity at its Colossus 1 data center in Memphis, Tennessee.",
+              "Five years ago, Google agreed to supply computing and networking resources to SpaceX to help deliver internet service through its Starlink satellites.",
+              "The Google agreement marks the second massive infrastructure deal announced by SpaceX following its merger in February with xAI, Elon Musk's artificial intelligence company, in a transaction that valued the combined entity at $1.25 trillion.",
+              "The agreement called for SpaceX to install ground stations at Google data centers, and marked a big win for Google in its effort to keep pace with Amazon Web Services and Microsoft Azure. \"They chose us because of the quality of our network and the distribution and reach of our network,\" said Thomas Kurian, CEO of Google's cloud group, said at the time.",
+              "According to a regulatory filing on Friday, Google will use about 110,000 Nvidia graphics processing units, as well as central processors, memory and other components housed in SpaceX's data centers."
             ]
           },
           "ticker_summary": {
@@ -691,7 +730,8 @@
             "GOOG": "Alphabet competes with SpaceX in connectivity, specifically through its fiber broadband business, and will utilize SpaceX's data centers to provide AI compute capacity.",
             "META": "Meta Platforms is mentioned as one of the competitors in the field of artificial intelligence (AI) alongside Google, OpenAI, Anthropic, and Microsoft.",
             "MSFT": "Microsoft is mentioned as one of the competitors in the field of artificial intelligence (AI) alongside Google, OpenAI, Anthropic, and Meta.",
-            "NVDA": "Nvidia is set to supply 110,000 graphics processing units to Google for use in SpaceX's data centers."
+            "NVDA": "Nvidia is set to supply 110,000 graphics processing units to Google for use in SpaceX's data centers.",
+            "SPCX": "SpaceX has signed a deal with Google to provide AI compute capacity, and it competes with Google in AI, connectivity, and infrastructure leasing."
           }
         }
       ]
@@ -834,13 +874,18 @@
           ],
           "related_tickers": [
             {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 4
+            },
+            {
               "ticker": "AVGO",
               "name": "Broadcom",
               "count": 4
             },
             {
-              "ticker": "MU",
-              "name": "Micron Technology",
+              "ticker": "SPCX",
+              "name": "SpaceX",
               "count": 4
             },
             {
@@ -861,11 +906,6 @@
             {
               "ticker": "NDAQ",
               "name": "Nasdaq",
-              "count": 1
-            },
-            {
-              "ticker": "LULU",
-              "name": "Lululemon Athletica",
               "count": 1
             }
           ],
@@ -912,6 +952,13 @@
             "SPGI": [
               "S&P Global has said it is not changing the requirements for entry into its major indices , dealing a setback to Elon Musk's SpaceX by effectively ruling out a swift entry for the world's biggest-ever IPO into the benchmark S&P 500 index."
             ],
+            "SPCX": [
+              "S&P Global has said it is not changing the requirements for entry into its major indices , dealing a setback to Elon Musk's SpaceX by effectively ruling out a swift entry for the world's biggest-ever IPO into the benchmark S&P 500 index.",
+              "In corporate news, SpaceX finally made it official, setting a fixed price of $135 per share for its IPO next Friday, with a valuation of $1.77 trillion.",
+              "Options volume is picking up in Nasdaq-listed Echostar , a $35-billion networking business based in Colorado that owns an estimated 3% of SpaceX stock, which it acquired through a deal providing wireless spectrum to Starlink in September.",
+              "Last year's spectrum purchase by SpaceX allows the company to start building and deploying upgraded, laser-connected satellites that the company said will expand the cell network's capacity by \"more than 100 times,\" according to earlier reporting by Reuters.",
+              "SpaceX will aim to raise $75 billion at a $1.77 trillion valuation at a share price of $135, according to the company's IPO filing with the Securities and Exchange Commission late Wednesday."
+            ],
             "APP": [
               "Veeva Systems , AppLovin , Datadog , DoorDash , and Robinhood are other technology companies that have been added to the index in recent years ."
             ],
@@ -948,11 +995,12 @@
             "NDAQ": "Nasdaq is a tech-heavy index, meaning it is composed of many technology stocks, which are experiencing a decline.",
             "TSLA": "Tesla's market capitalization is at risk of falling below $1 trillion, which would prevent CEO Elon Musk from becoming the world's first trillionaire.",
             "GS": "Goldman Sachs forecasts a boon to various sectors, including U.S. retail, US lodging and leisure, and U.S. airlines, due to increased tourism from the 2026 FIFA World Cup.",
-            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory hurdles.",
+            "NVDA": "Nvidia's significant investment in a company and its potential to become a \"trillion-dollar company\" make it a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory challenges.",
             "SPGI": "S&P Global's decision not to change the requirements for entry into its major indices effectively rules out a swift entry for SpaceX into the benchmark S&P 500 index.",
+            "SPCX": "SpaceX's planned $1.77 trillion valuation and $75 billion IPO raise is being impacted by S&P Global's decision not to change the requirements for entry into its major indices, effectively ruling out a swift entry into the S&P 500 index.",
             "APP": "Applovin is a technology company that has been added to the index in recent years, contributing to the growing presence of tech giants in the market.",
             "DASH": "DoorDash is a technology company that has been added to the index in recent years, indicating a broader decline in the global tech market.",
-            "POOL": "Pool Corp will be replaced by two companies, indicating a potential decline in the global tech market's influence on the company's operations.",
+            "POOL": "Pool Corp will be replaced as a component of the Dow Jones Industrial Average, marking a significant change in the global tech market's benchmark composition.",
             "HOOD": "Robinhood Markets is a technology company that has been added to the index in recent years, contributing to the broader decline in the global tech market.",
             "VEEV": "Veeva Systems is a leading provider of cloud-based software solutions for the life sciences industry, which has been impacted by the broader global tech market decline.",
             "CRWD": "CrowdStrike shares dropped roughly 10% overnight, mirroring a similar decline in the global tech market.",
@@ -1005,14 +1053,9 @@
           ],
           "related_tickers": [
             {
-              "ticker": "AMD",
-              "name": "Advanced Micro Devices",
-              "count": 1
-            },
-            {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 1
+              "ticker": "SPCX",
+              "name": "SpaceX",
+              "count": 2
             },
             {
               "ticker": "C",
@@ -1022,6 +1065,16 @@
             {
               "ticker": "MU",
               "name": "Micron Technology",
+              "count": 1
+            },
+            {
+              "ticker": "AMD",
+              "name": "Advanced Micro Devices",
+              "count": 1
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel",
               "count": 1
             },
             {
@@ -1048,6 +1101,15 @@
             "MU": [
               "Chipmakers Advanced Micro Devices , Intel and Micron more than doubled in value this year ."
             ],
+            "SPCX": [
+              "Private-market excitement around companies like SpaceX and Anthropic has become a bigger focus of growth-oriented investors.",
+              "The combination has left the flagship cryptocurrency vulnerable to further downside pressure as investors scale back risk and capital shifts toward markets with more momentum or more obvious near-term catalysts, like the chip rally or the SpaceX IPO.",
+              "Coinbase says once SpaceX goes public — which is expected next week — the pre-IPO perpetual future will convert to a regular perpetual future on SpaceX.",
+              "Coinbase's first offering is the SpaceX Pre-IPO Perp, a derivative settled in the USDC stablecoin that tracks the private-market valuation of Elon Musk's space company.",
+              "This is a new asset class, built for this era of markets.\" Binance, the largest crypto exchange in the world, also entered the pre-IPO perps market with SpaceX last month.",
+              "Coinbase said SpaceX is the first in a planned pipeline of pre-IPO contracts covering hot sectors like AI, energy and space.",
+              "Coinbase on Thursday unveiled a new product that lets customers get price exposure to private companies before they go public, starting with a perpetual futures contract –better known as a \"perp\" – tied to SpaceX."
+            ],
             "COIN": [
               "Coinbase said SpaceX is the first in a planned pipeline of pre-IPO contracts covering hot sectors like AI, energy and space.",
               "Pre-IPO perps give Coinbase a way to expand on its vision of an \"Everything Exchange\" that always offers something users want to trade even when spot prices are under pressure.",
@@ -1064,8 +1126,9 @@
             "C": "Citigroup's analyst, Alex Saunders, stated that flows are the primary driver of Bitcoin price appreciation, indicating a significant role in investor adoption and appetite.",
             "INTC": "Advanced Micro Devices, Intel, and Micron's significant year-over-year growth in value is likely contributing to the decline in Bitcoin's market value, as investors increasingly shift their focus to traditional assets and tech stocks.",
             "MU": "Micron Technology's significant increase in value this year, more than doubling alongside chipmakers Advanced Micro Devices and Intel, suggests a strong demand for its semiconductor products, which could be linked to Bitcoin's decline as a store of value and potential hedge against inflation.",
+            "SPCX": "SpaceX's upcoming IPO is expected to occur next week, which is anticipated to convert Coinbase's pre-IPO perpetual future into a regular perpetual future, marking a new asset class in the crypto market.",
             "COIN": "Coinbase Global unveiled a new product, the SpaceX Pre-IPO Perp, a perpetual futures contract tied to the private-market valuation of SpaceX, allowing customers to get price exposure to the private company before it goes public.",
-            "TSLA": "Tesla's CEO Elon Musk is a prominent figure in the cryptocurrency market, and his involvement with SpaceX and private-market valuation of the company is referenced in the context of Coinbase's new derivative offering."
+            "TSLA": "Tesla's CEO Elon Musk is the founder of SpaceX, a private space company whose valuation is tracked by a derivative offered by Coinbase."
           }
         },
         {
@@ -1257,14 +1320,19 @@
           ],
           "related_tickers": [
             {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 2
+            },
+            {
               "ticker": "GS",
               "name": "Goldman Sachs Group",
               "count": 2
             },
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 2
+              "ticker": "SPCX",
+              "name": "SpaceX",
+              "count": 1
             },
             {
               "ticker": "TSLA",
@@ -1301,6 +1369,9 @@
             "SPGI": [
               "S&P Global has said it is not changing the requirements for entry into its major indices , dealing a setback to Elon Musk's SpaceX by effectively ruling out a swift entry for the world's biggest-ever IPO into the benchmark S&P 500 index."
             ],
+            "SPCX": [
+              "S&P Global has said it is not changing the requirements for entry into its major indices , dealing a setback to Elon Musk's SpaceX by effectively ruling out a swift entry for the world's biggest-ever IPO into the benchmark S&P 500 index."
+            ],
             "ELAN": [
               "Shares of Zoetis and Elanco Animal Health popped in Thursday's trading, and typically dormant options markets on the stocks woke up with a heavy bullish bias."
             ],
@@ -1317,6 +1388,7 @@
             "GS": "Goldman Sachs Group forecasts a boon to several sectors, including European and U.S. consumer staples, European consumer discretionary, U.S. retail, US lodging and leisure, and U.S. airlines, due to increased spending on travel to the 2026 FIFA World Cup.",
             "NVDA": "Nvidia's presence in South Korea is relevant due to its significant presence in the country's growing semiconductor and gaming industries.",
             "SPGI": "S&P Global's decision not to change the requirements for entry into its major indices has effectively ruled out a swift entry for SpaceX's IPO into the benchmark S&P 500 index.",
+            "SPCX": "SpaceX's potential entry into the S&P 500 index is being considered due to its upcoming initial public offering (IPO), which would make it the world's biggest-ever IPO.",
             "ELAN": "Elanco Animal Health's shares are relevant due to a simultaneous price increase with Zoetis, a leading competitor in the animal health industry.",
             "ZTS": "Zoetis experienced a significant surge in options volume, indicating a substantial increase in bullish sentiment among investors.",
             "BX": "Blackstone capped withdrawals from its flagship Blackstone Private Credit fund due to a surge in investor redemption requests, indicating potential market volatility and investor risk aversion."
@@ -1365,13 +1437,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
-              "ticker": "RKLB",
-              "name": "Rocket Lab",
+              "ticker": "SPCX",
+              "name": "SpaceX",
               "count": 1
             },
             {
@@ -1382,6 +1449,16 @@
             {
               "ticker": "TSLA",
               "name": "Tesla",
+              "count": 1
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
+              "ticker": "RKLB",
+              "name": "Rocket Lab",
               "count": 1
             }
           ],
@@ -1397,13 +1474,21 @@
             ],
             "RKLB": [
               "The Procure Space ETF ( UFO ), which launched in 2019 and has over $1.2 billion in assets, holds Rocket Lab , Firefly Aerospace , and Planet Labs among its top holdings."
+            ],
+            "SPCX": [
+              "Retail investors are rushing into the space investing trade ahead of the SpaceX IPO , and one ETF has cashed in on the excitement.",
+              "It is one of the few investment vehicles available to retail investors that does, with SpaceX currently representing around 7.5% of the fund. \"If we're going to invest in space ...",
+              "Setting a precise valuation for the SpaceX deal remains a point of contention in the market and among investors ahead of the deal's pricing.",
+              "Tesla is the top holding in the RONB ETF, at over 14%, while holding close to 2% of the fund's assets in SpaceX.",
+              "While SpaceX has taken an unusual approach to its offering, setting up access for retail investors through brokerage firms at a level atypical in new deals typically dominated by institutions, the NASA fund is another alternative for investors to gain access to Elon Musk 's rocket company."
             ]
           },
           "ticker_summary": {
-            "AMZN": "Amazon.com is included in the ARKX ETF, a fund focused on space and defense innovation, which has attracted retail investors to the space industry.",
+            "AMZN": "Amazon.com is included in the ARKX ETF, a popular investment vehicle focused on the space industry, which attracts retail investors.",
             "DE": "Deere is included in the ARKX ETF, a fund focused on space and defense innovation, which attracts retail investors to the space industry.",
             "TSLA": "Tesla is not directly relevant to this topic, as it is not a space-related company and is not mentioned in the context of SpaceX or the NASA fund.",
-            "RKLB": "A top holding in the Procure Space ETF, a fund that tracks the space industry."
+            "RKLB": "A top holding in the Procure Space ETF, a fund that tracks the space industry.",
+            "SPCX": "SpaceX is set to go public through an initial public offering (IPO), prompting a surge in retail investor interest and investment in related exchange-traded funds (ETFs)."
           }
         }
       ]
@@ -1510,7 +1595,7 @@
             ]
           },
           "ticker_summary": {
-            "LULU": "Lululemon Athletica is the company experiencing fiscal 2026 sales growth expectations that are below previous ranges, indicating ongoing financial struggles.",
+            "LULU": "Lululemon Athletica is the company experiencing financial struggles, specifically with its fiscal 2026 sales expectations.",
             "NKE": "Nike's former women's business executive, Jill O'Neill, played a significant role in building Nike's women's business, which is now a multibillion-dollar franchise."
           }
         },
@@ -1536,13 +1621,13 @@
               "count": 2
             },
             {
-              "ticker": "META",
-              "name": "Meta Platforms",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             },
             {
-              "ticker": "GOOG",
-              "name": "Alphabet",
+              "ticker": "META",
+              "name": "Meta Platforms",
               "count": 1
             }
           ],
@@ -1578,7 +1663,7 @@
             ]
           },
           "ticker_summary": {
-            "DIS": "Rita Ferro leads Disney's advertising business, a position she has held for an unspecified amount of time, and is responsible for managing the team and driving growth in the company's ad-supported streaming business.",
+            "DIS": "Rita Ferro leads Disney's advertising business, a role that reflects her non-traditional path to the top of a media giant's ad business.",
             "GOOG": "Alphabet's dominance in the tech industry, particularly through its Google subsidiary, serves as a benchmark for Disney's efforts to become a tech-driven, data-driven organization.",
             "META": "Meta Platforms is relevant due to its position as a major competitor in the tech-driven, data-driven advertising space, with platforms that can compete at the level of Google."
           }
@@ -1651,8 +1736,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "MCO",
-              "name": "Moody's",
+              "ticker": "MCD",
+              "name": "McDonald's",
               "count": 1
             },
             {
@@ -1661,8 +1746,8 @@
               "count": 1
             },
             {
-              "ticker": "MCD",
-              "name": "McDonald's",
+              "ticker": "MCO",
+              "name": "Moody's",
               "count": 1
             }
           ],
@@ -2100,7 +2185,7 @@
             ]
           },
           "ticker_summary": {
-            "BRK-B": "Berkshire Hathaway agreed to acquire Taylor Morrison Home in a $6.8 billion deal, deepening its bet on the U.S. housing market.",
+            "BRK-B": "Berkshire Hathaway agreed to acquire Taylor Morrison Home, a homebuilder, in a $6.8 billion deal, deepening its bet on the U.S. housing market.",
             "OXY": "Occidental Petroleum is relevant because Berkshire Hathaway acquired its chemical business, OxyChem, in a $9.7 billion cash deal in October."
           }
         },
@@ -2174,8 +2259,8 @@
           ],
           "related_tickers": [
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
               "count": 1
             },
             {
@@ -2184,8 +2269,8 @@
               "count": 1
             },
             {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
               "count": 1
             }
           ],

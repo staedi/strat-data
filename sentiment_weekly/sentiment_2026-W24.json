@@ -1,7 +1,999 @@
 {
   "mode": "weekly",
-  "updated_at": "2026-06-09T18:26:52.644380-04:00",
+  "updated_at": "2026-06-11T05:21:31.081184-04:00",
   "tickers": {
+    "ORCL": {
+      "name": "Oracle",
+      "pos": 6,
+      "neg": 2,
+      "neu": 0,
+      "total": 8,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "score": -0.249,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Stock futures rise as U.S. completes strikes against Iran",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 6,
+          "neg": 1,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 85.7,
+          "negative_pct": 14.3
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "BX": {
+      "name": "Blackstone",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Bankruptcy": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Man Group sees opportunities in higher rates despite industry 'growing pains'",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "C": {
+      "name": "Citigroup",
+      "pos": 4,
+      "neg": 3,
+      "neu": 1,
+      "total": 8,
+      "positive_pct": 50.0,
+      "negative_pct": 37.5,
+      "score": 0.063,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 1,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Hugo Boss pops 8% after top shareholder Frasers launches $2 billion takeover offer",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 3,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 57.1,
+          "negative_pct": 42.9
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "F": {
+      "name": "Ford Motor",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.245,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Mercedes-Benz joins Europe’s defense push with anti-drone vehicle deal",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "SpaceX",
+      "pos": 14,
+      "neg": 15,
+      "neu": 1,
+      "total": 30,
+      "positive_pct": 46.7,
+      "negative_pct": 50.0,
+      "score": 0.355,
+      "categories": {
+        "Business": {
+          "pos": 12,
+          "neg": 14,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "AI mega-listings are 'just the start,' Razer CEO says, ahead of historic SpaceX IPO",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Unique SpaceX IPO is hedging challenge for Wall Street",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "NC treasurer passes on SpaceX citing valuation, favors OpenAI, Anthropic",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Sen. Warren calls on SEC to delay SpaceX IPO",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 3,
+          "neg": 4,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 37.5,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 9,
+          "neg": 11,
+          "neu": 0,
+          "total": 20,
+          "positive_pct": 45.0,
+          "negative_pct": 55.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "JPM": {
+      "name": "JPMorgan Chase",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Trump says U.S. secretly moved more than 100 million barrels of oil through Hormuz",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "pos": 1,
+      "neg": 2,
+      "neu": 1,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 50.0,
+      "score": -0.343,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 1
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Unique SpaceX IPO is hedging challenge for Wall Street",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Sen. Warren calls on SEC to delay SpaceX IPO",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Anthropic releases Mythos-like AI model to the public called Claude Fable 5",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "PLTR": {
+      "name": "Palantir Technologies",
+      "pos": 0,
+      "neg": 3,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "pos": 2,
+      "neg": 3,
+      "neu": 0,
+      "total": 5,
+      "positive_pct": 40.0,
+      "negative_pct": 60.0,
+      "score": -0.25,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Energy prices take center stage as the ECB prepares to decide on rates",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        }
+      ]
+    },
+    "MS": {
+      "name": "Morgan Stanley",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.124,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "BAC": {
+      "name": "Bank of America",
+      "pos": 1,
+      "neg": 2,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 66.7,
+      "score": -0.438,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Citigroup shares outperform down market after Trump endorsement",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "ROL": {
+      "name": "Rollins",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 1,
+      "neg": 0,
+      "neu": 2,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 0.0,
+      "score": 0.281,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 2
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Jeffrey Epstein's former assistant Lesley Groff interviewed by House panel",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "0"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "PHM": {
+      "name": "Pultegroup",
+      "pos": 1,
+      "neg": 7,
+      "neu": 0,
+      "total": 8,
+      "positive_pct": 12.5,
+      "negative_pct": 87.5,
+      "score": -0.813,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 7,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 5,
+          "neu": 0,
+          "total": 6,
+          "positive_pct": 16.7,
+          "negative_pct": 83.3
+        }
+      ]
+    },
+    "JEF": {
+      "name": "Jefferies Financial Group",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 2,
+      "neg": 1,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": 0.438,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 3,
+      "neg": 0,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hollywood is debating AI. India's filmmakers are embracing it",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 6,
+      "neg": 0,
+      "neu": 1,
+      "total": 7,
+      "positive_pct": 85.7,
+      "negative_pct": 0.0,
+      "score": 0.854,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
+          "date": "2026-06-09 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Apple shares slide after big Siri AI reveal",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Kalshi rolls out whistleblower services, employment verification to curb insider trading",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Hollywood is debating AI. India's filmmakers are embracing it",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
     "SCHW": {
       "name": "Charles Schwab",
       "pos": 0,
@@ -89,93 +1081,6 @@
         }
       ]
     },
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.5,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Apple shares slide after big Siri AI reveal",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Kalshi rolls out whistleblower services, employment verification to curb insider trading",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "0"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "TSLA": {
-      "name": "Tesla",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.5,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Anthropic releases Mythos-like AI model to the public called Claude Fable 5",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "SpaceX IPO explained: Price is set, but retail allocation still up in the air",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "HOOD": {
       "name": "Robinhood Markets",
       "pos": 0,
@@ -212,26 +1117,31 @@
         }
       ]
     },
-    "PHM": {
-      "name": "Pultegroup",
-      "pos": 0,
+    "CRWD": {
+      "name": "CrowdStrike",
+      "pos": 2,
       "neg": 2,
       "neu": 0,
-      "total": 2,
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "score": -1.0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
       "categories": {
         "Business": {
-          "pos": 0,
-          "neg": 2,
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 1,
           "neu": 0
         }
       },
       "clusters": [],
       "articles": [
         {
-          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
+          "headline": "Beijing ramped up AI cyberattacks to catch up with the U.S., CrowdStrike says",
           "date": "2026-06-08 00:00:00",
           "polarity": "-"
         }
@@ -239,12 +1149,48 @@
       "daily": [
         {
           "date": "2026-06-08",
-          "pos": 0,
+          "pos": 2,
           "neg": 2,
           "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "META": {
+      "name": "Meta Platforms",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
+          "date": "2026-06-08 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
           "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
         }
       ]
     }
