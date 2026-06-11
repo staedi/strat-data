@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T05:24:34.312493-04:00",
+  "updated_at": "2026-06-16T18:36:35.682731-04:00",
   "companies": {
     "AAL": {
       "name": "American Airlines Group",
@@ -42,18 +42,14 @@
     "BA": {
       "name": "BOEING CO",
       "summary": "Boeing is a major aerospace firm that develops, produces, and markets commercial jet aircraft, defense systems, and global services. The company operates in three reportable segments: Commercial Airplanes, Defense, Space & Security, and Global Services. Its commercial jet aircraft include the 737 narrow-body model.",
-      "news_role": "Boeing's 737 Max 10 production is expected to be certified by the FAA before the end of the year, which could positively impact its financial news.",
+      "news_role": "Boeing's financials may be negatively impacted by engine supplier profits, as criticized by Willie Walsh.",
       "contextual_peers": [
-        "SPGI",
-        "EVR",
-        "META",
-        "TSLA"
+        "UAL",
+        "GE"
       ],
       "contextual_peer_names": {
-        "SPGI": "S&P Global",
-        "EVR": "Evercore",
-        "META": "Meta Platforms",
-        "TSLA": "Tesla"
+        "UAL": "United Airlines",
+        "GE": "GE Aerospace"
       },
       "industry": "Aircraft",
       "exchange": "NYSE",
@@ -61,45 +57,45 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-01-30",
-      "enriched_at": "2026-06-11T05:21:52.319979-04:00"
+      "enriched_at": "2026-06-16T18:32:52.453924-04:00"
     },
     "BAC": {
-      "name": "Bank of America",
-      "summary": "Bank of America is a Delaware corporation and a bank holding company, serving individual consumers, small- and middle-market businesses, institutions, and governments. The company aims to streamline its organizational structure and reduce complexity and costs. It is one of the world's largest financial institutions.",
-      "news_role": "Bank of America is currently positioned in financial news as a major financial institution, with a recent survey indicating that 30% of respondents would not change their summer travel plans due to higher gas prices.",
+      "name": "BANK OF AMERICA CORP /DE/",
+      "summary": "Bank of America Corporation is a bank holding company and financial holding company, serving individual consumers, small- and middle-market businesses, and providing financial services. The company aims to streamline its organizational structure and reduce complexity and costs. It is one of the world's largest financial institutions.",
+      "news_role": "Bank of America is currently positioned as a stable performer in 2026, with a 1% lower performance compared to the previous year.",
       "contextual_peers": [
+        "GOOG",
+        "C",
+        "JPM",
         "GS",
-        "MCD",
-        "MCO",
-        "CARR",
-        "NVDA"
+        "MS"
       ],
       "contextual_peer_names": {
+        "GOOG": "Alphabet",
+        "C": "Citigroup",
+        "JPM": "JPMorgan Chase",
         "GS": "Goldman Sachs Group",
-        "MCD": "McDonald's",
-        "MCO": "Moody's",
-        "CARR": "Carrier Global",
-        "NVDA": "Nvidia"
+        "MS": "Morgan Stanley"
       },
-      "industry": null,
-      "exchange": null,
+      "industry": "National Commercial Banks",
+      "exchange": "NYSE",
       "industry_peers": [
-        "MS",
-        "WTFC",
         "ZION",
-        "CFG",
-        "FHN"
+        "FHN",
+        "WBS",
+        "WFC",
+        "COF"
       ],
       "industry_peer_names": {
-        "MS": "Morgan Stanley",
-        "WTFC": "Wintrust Financial",
         "ZION": "Zions Bancorporation NA",
-        "CFG": "Citizens Financial Group",
-        "FHN": "First Horizon"
+        "FHN": "First Horizon",
+        "WBS": "Webster Financial",
+        "WFC": "Wells Fargo",
+        "COF": "Capital One Financial"
       },
-      "industry_peer_theme": "Bancshares",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:18.766972-04:00"
+      "industry_peer_theme": "Banks Financial Services",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-16T18:32:58.482343-04:00"
     },
     "CARR": {
       "name": "Carrier Global",
@@ -140,14 +136,16 @@
     "COIN": {
       "name": "Coinbase Global, Inc.",
       "summary": "Coinbase Global, Inc. is a platform that enables easy engagement with crypto assets, aiming to update the century-old financial system. It provides a trusted and secure platform for retail users, institutions, and developers to engage in the future of finance. The company has expanded its assets to include stocks, commodity futures, perpetual futures, and prediction markets.",
-      "news_role": "Coinbase Global is currently positioned as a key player in the cryptocurrency and fintech space, leveraging its new product to gain exposure to private companies.",
+      "news_role": "Coinbase Global, Inc. is currently facing significant market volatility, with its market value falling by 72% as of June 8, amidst regulatory approvals and trading fee implications.",
       "contextual_peers": [
         "SPCX",
-        "TSLA"
+        "AVAT",
+        "HOOD"
       ],
       "contextual_peer_names": {
-        "SPCX": "SpaceX",
-        "TSLA": "Tesla"
+        "SPCX": "Space Exploration Technologies",
+        "AVAT": "Avalanche Treasury",
+        "HOOD": "Robinhood Markets"
       },
       "industry": "Finance Services",
       "exchange": "NASDAQ",
@@ -165,57 +163,41 @@
       },
       "industry_peer_theme": "Cryptocurrency Frenzy",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-06-11T05:21:57.015459-04:00"
+      "enriched_at": "2026-06-16T18:33:03.718288-04:00"
     },
     "COO": {
-      "name": "Cooper",
+      "name": "COOPER COMPANIES, INC.",
       "summary": "Cooper Companies, Inc. is a leading global medical device company that sells products in over 130 countries, positively impacting over fifty million lives each year. The company operates through two business segments, CooperVision and CooperSurgical, which elevate standards of care in the fields of vision, fertility, and women's health. Cooper's products and services are used to help people experience life's beautiful moments.",
-      "news_role": null,
+      "news_role": "COO is positioned in financial news as a potential beneficiary of a stay of order, which could impact its financials if Trump's name is removed from the Kennedy Center's facade.",
       "contextual_peers": [
-        "UAL",
-        "AAL",
-        "DIS"
+        "MSFT"
       ],
       "contextual_peer_names": {
-        "UAL": "United Airlines",
-        "AAL": "American Airlines Group",
-        "DIS": "Walt Disney"
+        "MSFT": "Microsoft"
       },
-      "industry": null,
-      "exchange": null,
-      "industry_peers": [
-        "ALGN",
-        "DHR",
-        "ZBH",
-        "SYK",
-        "TECH"
-      ],
-      "industry_peer_names": {
-        "ALGN": "Align Technology",
-        "DHR": "Danaher",
-        "ZBH": "Zimmer Biomet Holdings,",
-        "SYK": "Stryker",
-        "TECH": "Bio-Techne"
-      },
-      "industry_peer_theme": "Medical Device Technology",
-      "filing_date": null,
-      "enriched_at": "2026-05-30T09:25:38.090473-04:00"
+      "industry": "Ophthalmic Goods",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2025-12-05",
+      "enriched_at": "2026-06-16T18:33:07.501107-04:00"
     },
     "CRM": {
       "name": "Salesforce, Inc.",
       "summary": "Salesforce is a global leader in customer relationship management (CRM) technology, providing a unified platform to help organizations become agile enterprises. The company's AI-powered platform unites its offerings, spanning sales, service, marketing, and more, to create a complete view of customers. This platform enables trusted enterprise execution and growth innovation.",
       "news_role": "Salesforce is experiencing financial scrutiny due to its significant AI-related layoffs in 2025, a trend shared by other tech giants.",
       "contextual_peers": [
-        "META",
-        "MSFT",
         "AMZN",
-        "ORCL"
+        "ORCL",
+        "MSFT",
+        "META"
       ],
       "contextual_peer_names": {
-        "META": "Meta Platforms",
-        "MSFT": "Microsoft",
         "AMZN": "Amazon.com",
-        "ORCL": "Oracle"
+        "ORCL": "Oracle",
+        "MSFT": "Microsoft",
+        "META": "Meta Platforms"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NYSE",
@@ -235,19 +217,17 @@
       },
       "industry_peer_theme": "Cloud Software Services",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-06-11T05:22:01.434435-04:00"
+      "enriched_at": "2026-06-11T18:27:49.469631-04:00"
     },
     "DIS": {
       "name": "Walt Disney Co",
       "summary": "The Walt Disney Company is a diversified worldwide entertainment company with operations in three segments: Entertainment, Sports and Experiences. The Entertainment segment includes global film and episodic content production and distribution activities. The company produces content for various networks, including ABC, Disney, Freeform, FX, and National Geographic.",
-      "news_role": "Disney is positioned as a leader in the advertising business, with Rita Ferro driving growth in its ad-supported streaming business.",
+      "news_role": "The Walt Disney Co is currently positioned as a successful joint venture partner with Reliance Industries, with its recent 100-episode series garnering significant viewership.",
       "contextual_peers": [
-        "GOOG",
-        "META"
+        "GOOG"
       ],
       "contextual_peer_names": {
-        "GOOG": "Alphabet",
-        "META": "Meta Platforms"
+        "GOOG": "Alphabet"
       },
       "industry": "Services-Miscellaneous Amusement & Recreation",
       "exchange": "NYSE",
@@ -259,7 +239,7 @@
       },
       "industry_peer_theme": "Recreational Services",
       "filing_date": "2025-11-13",
-      "enriched_at": "2026-06-09T18:27:19.113355-04:00"
+      "enriched_at": "2026-06-16T18:33:11.636313-04:00"
     },
     "FLUT": {
       "name": "Flutter Entertainment",
@@ -302,20 +282,18 @@
     "GOOG": {
       "name": "Alphabet Inc.",
       "summary": "Alphabet Inc. is a parent company of Google, investing in artificial intelligence and other moonshots, with a focus on tackling big problems and driving innovation. The company reports its businesses in two segments: Google Services and Google Cloud, and Other Bets. Alphabet is an AI-first company, with a collection of businesses led by CEO Sundar Pichai.",
-      "news_role": "Alphabet Inc. is positioned as a key player in AI and connectivity, with its Gemini project and fiber broadband business competing with Apple and SpaceX.",
+      "news_role": "Alphabet Inc. is a key player in the AI and cloud computing space, with its cloud infrastructure competing with Amazon Web Services and Microsoft Azure, and its AI models being used to help build Apple's own AI models.",
       "contextual_peers": [
         "AAPL",
-        "MSFT",
+        "NVDA",
         "AMZN",
-        "GS",
-        "SPCX"
+        "MSFT"
       ],
       "contextual_peer_names": {
         "AAPL": "Apple",
-        "MSFT": "Microsoft",
+        "NVDA": "Nvidia",
         "AMZN": "Amazon.com",
-        "GS": "Goldman Sachs Group",
-        "SPCX": "SpaceX"
+        "MSFT": "Microsoft"
       },
       "industry": "Services-Computer Programming, Data Processing, Etc.",
       "exchange": "NASDAQ",
@@ -335,25 +313,25 @@
       },
       "industry_peer_theme": "Digital Advertising",
       "filing_date": "2026-02-05",
-      "enriched_at": "2026-06-11T05:22:06.707967-04:00"
+      "enriched_at": "2026-06-16T18:33:17.574793-04:00"
     },
     "GS": {
       "name": "GOLDMAN SACHS GROUP INC",
       "summary": "Goldman Sachs is a leading global financial institution that delivers a wide range of financial services, including global banking and markets, asset and wealth management, platform solutions, and more. The company aims to deliver long-term value to its shareholders through its various business segments. Goldman Sachs operates in a competitive landscape with other financial institutions.",
-      "news_role": "Goldman Sachs Group is positioned as a bullish analyst, forecasting growth in various sectors and highlighting the potential of Apple's new Siri.",
+      "news_role": "Goldman Sachs is positioned as a leading advisor and investor in the tech and finance sectors, with a strong presence in AI and a significant role in the IPO process.",
       "contextual_peers": [
+        "MS",
+        "BX",
         "AAPL",
-        "MSFT",
-        "GOOG",
-        "NVDA",
-        "AMZN"
+        "PLTR",
+        "CRWD"
       ],
       "contextual_peer_names": {
+        "MS": "Morgan Stanley",
+        "BX": "Blackstone",
         "AAPL": "Apple",
-        "MSFT": "Microsoft",
-        "GOOG": "Alphabet",
-        "NVDA": "Nvidia",
-        "AMZN": "Amazon.com"
+        "PLTR": "Palantir Technologies",
+        "CRWD": "CrowdStrike"
       },
       "industry": "Security Brokers, Dealers & Flotation Companies",
       "exchange": "NYSE",
@@ -371,25 +349,25 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-06-11T05:22:12.365293-04:00"
+      "enriched_at": "2026-06-16T18:33:22.874059-04:00"
     },
     "HOOD": {
       "name": "Robinhood Markets, Inc.",
       "summary": "Robinhood Markets, Inc. is a financial services platform that aims to democratize finance for all by providing simple and convenient access to the financial system. The company uses technology to empower customers to achieve their financial goals through investing. Its mission is to make investing familiar and welcoming for everyone.",
-      "news_role": "Robinhood Markets is currently positioned in financial news as it unveiled tools allowing AI agents to trade stocks and make purchases on users' behalf, marking one of the first attempts to bring autonomous finance technology to ordinary investors.",
+      "news_role": "Robinhood Markets, Inc. is a key player in the financial news due to its ease of buying and selling cryptocurrencies, but faces challenges with allocation uncertainty.",
       "contextual_peers": [
-        "COIN",
-        "FLUT",
+        "NDAQ",
+        "AMZN",
         "GOOG",
-        "CRM",
-        "ORCL"
+        "GS",
+        "TSLA"
       ],
       "contextual_peer_names": {
-        "COIN": "Coinbase Global",
-        "FLUT": "Flutter Entertainment",
+        "NDAQ": "Nasdaq",
+        "AMZN": "Amazon.com",
         "GOOG": "Alphabet",
-        "CRM": "Salesforce",
-        "ORCL": "Oracle"
+        "GS": "Goldman Sachs Group",
+        "TSLA": "Tesla"
       },
       "industry": "Security Brokers, Dealers & Flotation Companies",
       "exchange": "NASDAQ",
@@ -409,7 +387,7 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-18",
-      "enriched_at": "2026-05-30T09:26:18.662307-04:00"
+      "enriched_at": "2026-06-16T18:33:28.144959-04:00"
     },
     "HPE": {
       "name": "Hewlett Packard Enterprise Co",
@@ -440,16 +418,18 @@
     "INTC": {
       "name": "INTEL CORP",
       "summary": "Intel Corp designs and manufactures semiconductor products, including CPUs, for global customers in various industries. These products are incorporated in computing and related end products and services. Intel markets and sells its products through a combination of direct sales and indirect channels.",
-      "news_role": "Intel Corp is likely experiencing a decline in market attention due to investors shifting focus to traditional assets and tech stocks.",
+      "news_role": "Intel Corp is currently positioned as a competitor to in-house AI chip production, potentially impacting its financial standing.",
       "contextual_peers": [
-        "SPCX",
-        "AMD",
-        "MU"
+        "PHM",
+        "MRVL",
+        "ORCL",
+        "META"
       ],
       "contextual_peer_names": {
-        "SPCX": "SpaceX",
-        "AMD": "Advanced Micro Devices",
-        "MU": "Micron Technology"
+        "PHM": "Pultegroup",
+        "MRVL": "Marvell Technology",
+        "ORCL": "Oracle",
+        "META": "Meta Platforms"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -469,19 +449,25 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-01-23",
-      "enriched_at": "2026-06-11T05:22:16.541293-04:00"
+      "enriched_at": "2026-06-16T18:33:32.484186-04:00"
     },
     "JPM": {
       "name": "JPMORGAN CHASE & CO",
       "summary": "JPMorgan Chase & Co. is a leading financial services firm providing investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. The firm serves millions of customers globally and has a market capitalization of over $450 billion. It is led by CEO Jamie Dimon, who has expressed interest in acquiring a large bank to expand its operations.",
-      "news_role": "As a rival to Morgan Stanley, JPMorgan Chase is utilizing AI agents internally for various purposes, including writing code.",
+      "news_role": "JPMorgan Chase & Co is poised to benefit from the decline of the 'debasement trade' and the increasing adoption of AI, while also being impacted by potential disruptions in crude oil shipments.",
       "contextual_peers": [
         "GS",
-        "MS"
+        "BAC",
+        "MS",
+        "WFC",
+        "C"
       ],
       "contextual_peer_names": {
         "GS": "Goldman Sachs Group",
-        "MS": "Morgan Stanley"
+        "BAC": "Bank of America",
+        "MS": "Morgan Stanley",
+        "WFC": "Wells Fargo",
+        "C": "Citigroup"
       },
       "industry": "National Commercial Banks",
       "exchange": "NYSE",
@@ -501,7 +487,7 @@
       },
       "industry_peer_theme": "Bancshares",
       "filing_date": "2026-02-13",
-      "enriched_at": "2026-06-10T18:28:12.898968-04:00"
+      "enriched_at": "2026-06-16T18:33:37.803791-04:00"
     },
     "LHX": {
       "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
@@ -704,14 +690,16 @@
     "MS": {
       "name": "MORGAN STANLEY",
       "summary": "Morgan Stanley is a global financial services firm that advises, originates, trades, manages, and distributes capital for governments, institutions, and individuals. The company is a financial holding company regulated by the Federal Reserve and conducts business from its headquarters in New York City and other world financial centers. Morgan Stanley provides a range of financial services, including investment management and securities trading.",
-      "news_role": "Morgan Stanley is leveraging AI technology to enhance its services, positioning it as a leader in innovative financial solutions.",
+      "news_role": "Morgan Stanley is a leading player in the financial industry, with recent successes in M&A and IPOs, and is currently ranked ahead of Citigroup in the latest Global M&A Advisor Ranking.",
       "contextual_peers": [
+        "SPCX",
         "GS",
-        "JPM"
+        "C"
       ],
       "contextual_peer_names": {
+        "SPCX": "Space Exploration Technologies",
         "GS": "Goldman Sachs Group",
-        "JPM": "JPMorgan Chase"
+        "C": "Citigroup"
       },
       "industry": "Security Brokers, Dealers & Flotation Companies",
       "exchange": "NYSE",
@@ -731,25 +719,23 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-19",
-      "enriched_at": "2026-06-10T18:28:16.296151-04:00"
+      "enriched_at": "2026-06-16T18:33:42.457591-04:00"
     },
     "MSFT": {
       "name": "MICROSOFT CORP",
       "summary": "Microsoft is a technology company that develops and supports a broad portfolio of technology solutions, focusing on secure, trusted, and innovative platforms and tools for individuals and businesses. Its mission is to empower every person and organization on the planet to achieve more. Microsoft's AI offerings span every layer of the technology stack.",
-      "news_role": "Microsoft is a major player in the AI infrastructure space, but its recent AI layoffs and competition from other tech giants may impact its financial performance.",
+      "news_role": "Microsoft Corp is being scrutinized for its potential connections to Bill Gates and the Epstein scandal, raising questions about its current financial position.",
       "contextual_peers": [
-        "AAPL",
         "GOOG",
         "AMZN",
-        "GS",
-        "ORCL"
+        "NVDA",
+        "META"
       ],
       "contextual_peer_names": {
-        "AAPL": "Apple",
         "GOOG": "Alphabet",
         "AMZN": "Amazon.com",
-        "GS": "Goldman Sachs Group",
-        "ORCL": "Oracle"
+        "NVDA": "Nvidia",
+        "META": "Meta Platforms"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NASDAQ",
@@ -769,25 +755,25 @@
       },
       "industry_peer_theme": "Cloud Computing Software",
       "filing_date": "2025-07-30",
-      "enriched_at": "2026-06-11T05:22:21.746881-04:00"
+      "enriched_at": "2026-06-16T18:33:46.871020-04:00"
     },
     "MU": {
       "name": "MICRON TECHNOLOGY INC",
       "summary": "Micron Technology Inc is a leading manufacturer of memory and storage solutions, providing high-performance DRAM, NAND, and NOR memory and storage products to customers worldwide. The company's innovations fuel the data economy, enabling advances in artificial intelligence and compute-intensive applications. Micron's products are used in various industries, including data centers, client and mobile user experiences.",
-      "news_role": "Micron Technology's strong demand for its semiconductor products is being linked to a potential hedge against inflation, following Bitcoin's decline.",
+      "news_role": "Micron Technology is experiencing significant decline due to the global tech sector downturn.",
       "contextual_peers": [
-        "AVGO",
         "NVDA",
         "MRVL",
-        "TSLA",
-        "INTC"
+        "PHM",
+        "NDAQ",
+        "SPCX"
       ],
       "contextual_peer_names": {
-        "AVGO": "Broadcom",
         "NVDA": "Nvidia",
         "MRVL": "Marvell Technology",
-        "TSLA": "Tesla",
-        "INTC": "Intel"
+        "PHM": "Pultegroup",
+        "NDAQ": "Nasdaq",
+        "SPCX": "Space Exploration Technologies"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -807,25 +793,17 @@
       },
       "industry_peer_theme": "Semiconductor Industry",
       "filing_date": "2025-10-03",
-      "enriched_at": "2026-06-11T05:22:26.731979-04:00"
+      "enriched_at": "2026-06-15T18:41:14.947469-04:00"
     },
     "NFLX": {
       "name": "NETFLIX INC",
       "summary": "Netflix, Inc. is a leading entertainment services company offering TV series, films, games, and live programming globally, with a focus on continuous improvement of its members' experience and global growth within its operating margin target.",
-      "news_role": null,
+      "news_role": "NETFLIX INC is currently navigating a complex financial landscape following the upending of its deal to acquire WBD's streaming and film assets.",
       "contextual_peers": [
-        "NVDA",
-        "MSFT",
-        "TSLA",
-        "MCO",
-        "CARR"
+        "WBD"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
-        "MSFT": "Microsoft",
-        "TSLA": "Tesla",
-        "MCO": "Moody's",
-        "CARR": "Carrier Global"
+        "WBD": "Warner Bros Discovery"
       },
       "industry": "Services-Video Tape Rental",
       "exchange": "NASDAQ",
@@ -833,7 +811,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-01-23",
-      "enriched_at": "2026-05-30T09:27:44.218368-04:00"
+      "enriched_at": "2026-06-16T18:33:50.444442-04:00"
     },
     "NOW": {
       "name": "ServiceNow, Inc.",
@@ -876,20 +854,20 @@
     "NVDA": {
       "name": "NVIDIA CORP",
       "summary": "NVIDIA is a data center scale AI infrastructure company that accelerates computational problems using its CUDA development platform and domain-specific software libraries. Its technology stack facilitates the deployment of accelerated computing for AI, data analytics, scientific computing, robotics, and 3D graphics. The company is now reshaping all industries with its technology.",
-      "news_role": "NVIDIA is a key player in the development of AI-powered cybersecurity solutions and a notable player in the global tech market, particularly in the context of supply chain disruptions and regulatory challenges.",
+      "news_role": "NVIDIA is strengthening its position in the tech industry through partnerships and investments, but faces competition in niche markets.",
       "contextual_peers": [
         "GOOG",
+        "AAPL",
         "MSFT",
-        "META",
-        "BRK-B",
-        "SPCX"
+        "AMZN",
+        "QCOM"
       ],
       "contextual_peer_names": {
         "GOOG": "Alphabet",
+        "AAPL": "Apple",
         "MSFT": "Microsoft",
-        "META": "Meta Platforms",
-        "BRK-B": "Berkshire Hathaway",
-        "SPCX": "SpaceX"
+        "AMZN": "Amazon.com",
+        "QCOM": "Qualcomm"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -909,7 +887,7 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-06-11T05:22:32.645876-04:00"
+      "enriched_at": "2026-06-16T18:33:56.106542-04:00"
     },
     "NYT": {
       "name": "NEW YORK TIMES CO",
@@ -944,18 +922,18 @@
     "ORCL": {
       "name": "ORACLE CORP",
       "summary": "Oracle provides products and services that address enterprise IT needs, offering flexible and interoperable deployment models for enterprise applications and infrastructure technologies. This aligns with its corporate strategy to provide choice and flexibility to customers. The company's growth strategy is focused on addressing customer needs through broad and comprehensive deployment models.",
-      "news_role": "Oracle is experiencing financial uncertainty due to job cuts, positioning it as a company to watch for potential market impact.",
+      "news_role": "ORACLE CORP is positioning itself as a leader in AI investments, with a significant portion of its RPO increase in Q3 and Q4 attributed to large-scale AI contracts.",
       "contextual_peers": [
-        "META",
-        "CRM",
-        "MSFT",
-        "AMZN"
+        "PHM",
+        "MRVL",
+        "INTC",
+        "BX"
       ],
       "contextual_peer_names": {
-        "META": "Meta Platforms",
-        "CRM": "Salesforce",
-        "MSFT": "Microsoft",
-        "AMZN": "Amazon.com"
+        "PHM": "Pultegroup",
+        "MRVL": "Marvell Technology",
+        "INTC": "Intel",
+        "BX": "Blackstone"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NYSE",
@@ -975,7 +953,7 @@
       },
       "industry_peer_theme": "Cloud Computing Software",
       "filing_date": "2025-06-18",
-      "enriched_at": "2026-06-11T05:22:36.873099-04:00"
+      "enriched_at": "2026-06-16T18:34:00.964579-04:00"
     },
     "PYPL": {
       "name": "PayPal Holdings, Inc.",
@@ -1128,20 +1106,20 @@
     "TSLA": {
       "name": "Tesla, Inc.",
       "summary": "Tesla, Inc. focuses on bringing artificial intelligence into the real world through products and services like Full Self-Driving and Robotaxi, while designing, developing, manufacturing, selling, and leasing high-performance electric vehicles and energy generation and storage systems.",
-      "news_role": "Tesla's market capitalization is at risk of falling below $1 trillion, which would prevent CEO Elon Musk from becoming the world's first trillionaire.",
+      "news_role": "Tesla's stock may be impacted by concerns over Elon Musk's control of SpaceX and potential conflicts of interest, as well as the potential military targeting of Starlink internet service.",
       "contextual_peers": [
-        "SPGI",
-        "EVR",
-        "META",
-        "SPCX",
-        "NVDA"
+        "GOOG",
+        "GS",
+        "JPM",
+        "AMZN",
+        "IVZ"
       ],
       "contextual_peer_names": {
-        "SPGI": "S&P Global",
-        "EVR": "Evercore",
-        "META": "Meta Platforms",
-        "SPCX": "SpaceX",
-        "NVDA": "Nvidia"
+        "GOOG": "Alphabet",
+        "GS": "Goldman Sachs Group",
+        "JPM": "JPMorgan Chase",
+        "AMZN": "Amazon.com",
+        "IVZ": "Invesco"
       },
       "industry": "Motor Vehicles & Passenger Car Bodies",
       "exchange": "NASDAQ",
@@ -1157,23 +1135,19 @@
       },
       "industry_peer_theme": "Electric Vehicle Makers",
       "filing_date": "2026-01-29",
-      "enriched_at": "2026-06-11T05:22:42.744029-04:00"
+      "enriched_at": "2026-06-16T18:34:06.203599-04:00"
     },
     "UAL": {
       "name": "United Airlines Holdings, Inc.",
       "summary": "United Airlines Holdings, Inc. is a holding company with a comprehensive route network, connecting people and uniting the world. Its subsidiary, United Airlines, Inc., operates with nearly 100% of the company's revenues and expenses. United has hubs in major US cities, including Newark Liberty International Airport.",
-      "news_role": "United Airlines is positioned to be significantly impacted by proposed cuts to Customs and Border Protection service at Newark Liberty International Airport.",
+      "news_role": "United Airlines Holdings, Inc. is a leading player in the trans-Pacific business, outperforming Delta in revenue.",
       "contextual_peers": [
-        "AAL",
-        "DIS",
-        "COO",
-        "TMO"
+        "BA",
+        "GE"
       ],
       "contextual_peer_names": {
-        "AAL": "American Airlines Group",
-        "DIS": "Walt Disney",
-        "COO": "Cooper",
-        "TMO": "Thermo Fisher Scientific"
+        "BA": "Boeing",
+        "GE": "GE Aerospace"
       },
       "industry": "Air Transportation, Scheduled",
       "exchange": "NASDAQ",
@@ -1185,7 +1159,7 @@
       },
       "industry_peer_theme": "Low Cost Airlines",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-05-30T09:28:58.484674-04:00"
+      "enriched_at": "2026-06-16T18:34:09.538622-04:00"
     },
     "VIRT": {
       "name": "Virtu Financial, Inc.",
@@ -1264,20 +1238,12 @@
     "WBD": {
       "name": "Warner Bros. Discovery, Inc.",
       "summary": "Warner Bros. Discovery, Inc. is a media conglomerate that operates in the film, television, and digital media industries. The company faces challenges in the linear distribution market, including declining subscribers and advertising revenue. Despite these headwinds, Warner Bros. Discovery continues to innovate and expand its digital presence.",
-      "news_role": null,
+      "news_role": "The merger of Paramount and Warner Bros. has been cleared by the Division, positioning WBD as a more stable entity in the media and entertainment industry.",
       "contextual_peers": [
-        "UAL",
-        "AAL",
-        "DIS",
-        "COO",
-        "TMO"
+        "NFLX"
       ],
       "contextual_peer_names": {
-        "UAL": "United Airlines",
-        "AAL": "American Airlines Group",
-        "DIS": "Walt Disney",
-        "COO": "Cooper",
-        "TMO": "Thermo Fisher Scientific"
+        "NFLX": "Netflix"
       },
       "industry": "Cable & Other Pay Television Services",
       "exchange": "NASDAQ",
@@ -1291,23 +1257,21 @@
       },
       "industry_peer_theme": "Media and Entertainment",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-05-30T09:29:18.702168-04:00"
+      "enriched_at": "2026-06-16T18:34:13.340357-04:00"
     },
     "AAPL": {
       "name": "Apple Inc.",
       "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, with a focus on its iPhone, Mac, and iPad product lines.",
-      "news_role": "Apple is a key player in the tech industry, with its WWDC announcement potentially impacting its stock performance and positioning in the financial news.",
+      "news_role": "Apple's recent AI software reveal may negatively impact its stock price, as manufacturers may absorb some of the losses.",
       "contextual_peers": [
-        "MSFT",
-        "META",
-        "AMZN",
-        "GOOG"
+        "GOOG",
+        "NVDA",
+        "GS"
       ],
       "contextual_peer_names": {
-        "MSFT": "Microsoft",
-        "META": "Meta Platforms",
-        "AMZN": "Amazon.com",
-        "GOOG": "Alphabet"
+        "GOOG": "Alphabet",
+        "NVDA": "Nvidia",
+        "GS": "Goldman Sachs Group"
       },
       "industry": "Electronic Computers",
       "exchange": "NASDAQ",
@@ -1319,25 +1283,25 @@
       },
       "industry_peer_theme": "Technology Hardware",
       "filing_date": "2025-10-31",
-      "enriched_at": "2026-06-11T05:22:47.213191-04:00"
+      "enriched_at": "2026-06-16T18:34:17.329173-04:00"
     },
     "AMZN": {
       "name": "AMAZON COM INC",
       "summary": "Amazon.com Inc. is a customer-centric company guided by four principles: customer obsession, passion for invention, commitment to operational excellence, and long-term thinking. It serves its primary customer sets across various segments and seeks to be Earth's most customer-centric company. The company's products and services include e-commerce, cloud computing, and artificial intelligence.",
-      "news_role": "Amazon.com is a significant player in the AI market and a major competitor in cloud services, but its investments in robotics and AI may lead to a shrinking of its workforce.",
+      "news_role": "Amazon's significant valuation and investments in emerging technologies position it as a key player in the financial news, with its recent references to tokens on earnings calls and investment in Neura Robotics sparking interest.",
       "contextual_peers": [
-        "AAPL",
-        "MSFT",
         "GOOG",
-        "MDB",
-        "CRM"
+        "MSFT",
+        "NVDA",
+        "META",
+        "JPM"
       ],
       "contextual_peer_names": {
-        "AAPL": "Apple",
-        "MSFT": "Microsoft",
         "GOOG": "Alphabet",
-        "MDB": "MongoDB",
-        "CRM": "Salesforce"
+        "MSFT": "Microsoft",
+        "NVDA": "Nvidia",
+        "META": "Meta Platforms",
+        "JPM": "JPMorgan Chase"
       },
       "industry": "Retail-Catalog & Mail-Order Houses",
       "exchange": "NASDAQ",
@@ -1349,25 +1313,17 @@
       },
       "industry_peer_theme": "E-commerce and Retail",
       "filing_date": "2026-02-06",
-      "enriched_at": "2026-06-11T05:22:52.796218-04:00"
+      "enriched_at": "2026-06-16T18:34:22.368990-04:00"
     },
     "ASTS": {
       "name": "AST SpaceMobile, Inc.",
       "summary": "AST SpaceMobile, Inc. is building a global Cellular Broadband network in space to provide cost-effective, high-speed services to end-users with existing mobile devices, out of terrestrial cellular coverage. The company plans to utilize its extensive intellectual property and patent portfolio. The SpaceMobile Service is designed to be accessible directly by everyday smartphones.",
-      "news_role": null,
+      "news_role": "AST SpaceMobile, Inc. (ASTS) is experiencing a mixed financial news day, with shares falling nearly 13% but also jumping 12% alongside significant options trading.",
       "contextual_peers": [
-        "AMZN",
-        "TSLA",
-        "DE",
-        "RKLB",
-        "NVDA"
+        "SPCX"
       ],
       "contextual_peer_names": {
-        "AMZN": "Amazon.com",
-        "TSLA": "Tesla",
-        "DE": "Deere",
-        "RKLB": "Rocket Lab",
-        "NVDA": "Nvidia"
+        "SPCX": "Space Exploration Technologies"
       },
       "industry": "Communications Services, NEC",
       "exchange": "NASDAQ",
@@ -1379,21 +1335,21 @@
       },
       "industry_peer_theme": "Satellite Communications",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-06-04T06:06:50.300142-04:00"
+      "enriched_at": "2026-06-16T18:34:26.582139-04:00"
     },
     "BRK-B": {
       "name": "BERKSHIRE HATHAWAY INC",
       "summary": "Berkshire Hathaway Inc. is a holding company owning subsidiaries engaged in diverse business activities, including insurance, freight rail transportation, and utility and energy generation and distribution, with a decentralized management structure.",
-      "news_role": "Berkshire Hathaway's significant investment in Alphabet's stock sale positions it as a major player in the tech sector, capitalizing on unprecedented customer demand.",
+      "news_role": "As a permanent holder of Long Lake's companies, Berkshire Hathaway is positioning itself as a strategic investor in the financial news.",
       "contextual_peers": [
-        "GOOG",
-        "NVDA",
-        "META"
+        "GS",
+        "JHG",
+        "PLTR"
       ],
       "contextual_peer_names": {
-        "GOOG": "Alphabet",
-        "NVDA": "Nvidia",
-        "META": "Meta Platforms"
+        "GS": "Goldman Sachs Group",
+        "JHG": "Janus Henderson Group",
+        "PLTR": "Palantir Technologies"
       },
       "industry": "Fire, Marine & Casualty Insurance",
       "exchange": "NYSE",
@@ -1413,14 +1369,26 @@
       },
       "industry_peer_theme": "Insurance Industry",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-06-11T05:22:57.261197-04:00"
+      "enriched_at": "2026-06-16T18:34:30.918106-04:00"
     },
     "BX": {
       "name": "Blackstone Inc.",
       "summary": "Blackstone Inc. is the world's largest alternative asset manager, delivering compelling returns for institutional and individual investors through its global investment strategies focused on real estate, private equity, infrastructure, and more. Its scale, diversified business, and rigorous investment process position it to perform well in various market conditions. Blackstone seeks to strengthen companies and assets in which it invests.",
-      "news_role": "Blackstone Inc. is facing liquidity pressures in private markets, prompting it to restrict withdrawals from its flagship fund.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "Blackstone Inc. is shifting its focus towards data-driven investments in response to the growing emphasis on financial engineering in the private equity sector.",
+      "contextual_peers": [
+        "BRK-B",
+        "GS",
+        "JHG",
+        "PLTR",
+        "ORCL"
+      ],
+      "contextual_peer_names": {
+        "BRK-B": "Berkshire Hathaway",
+        "GS": "Goldman Sachs Group",
+        "JHG": "Janus Henderson Group",
+        "PLTR": "Palantir Technologies",
+        "ORCL": "Oracle"
+      },
       "industry": "Investment Advice",
       "exchange": "NYSE",
       "industry_peers": [
@@ -1439,7 +1407,7 @@
       },
       "industry_peer_theme": "Private Equity Firms",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-06-11T05:23:00.813476-04:00"
+      "enriched_at": "2026-06-16T18:34:35.901864-04:00"
     },
     "DASH": {
       "name": "DoorDash, Inc.",
@@ -1566,17 +1534,15 @@
     "LMT": {
       "name": "LOCKHEED MARTIN CORP",
       "summary": "Lockheed Martin is a global aerospace and defense technology company providing integrated solutions across all warfighting domains, serving U.S. and international customers in defense, civil, and commercial applications.",
-      "news_role": null,
+      "news_role": "Lockheed Martin's leadership team ties to Peak Energy may indicate a shift towards energy-related investments, potentially impacting the company's financial news.",
       "contextual_peers": [
-        "AMZN",
-        "TSLA",
-        "DE",
+        "F",
+        "GM",
         "NVDA"
       ],
       "contextual_peer_names": {
-        "AMZN": "Amazon.com",
-        "TSLA": "Tesla",
-        "DE": "Deere",
+        "F": "Ford Motor",
+        "GM": "General Motors",
         "NVDA": "Nvidia"
       },
       "industry": "Guided Missiles & Space Vehicles & Parts",
@@ -1585,25 +1551,25 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-01-29",
-      "enriched_at": "2026-06-04T06:08:16.243903-04:00"
+      "enriched_at": "2026-06-16T18:34:39.974147-04:00"
     },
     "META": {
       "name": "Meta Platforms, Inc.",
       "summary": "Meta Platforms, Inc. develops technology that enables people to connect and share through various devices and platforms, innovating in artificial intelligence to build transformative experiences. The company aims to deliver personal superintelligence for everyone. Its products include social media platforms, virtual reality headsets, and AI-powered capabilities.",
-      "news_role": "As a leader in AI infrastructure and social media, Meta Platforms is a key player in the tech industry's financial news.",
+      "news_role": "Meta Platforms, Inc. is positioning itself for significant digital spending, with a planned data center in India and a focus on bolstering its infrastructure.",
       "contextual_peers": [
-        "MSFT",
-        "AAPL",
+        "GOOG",
         "AMZN",
-        "BA",
-        "TSLA"
+        "MSFT",
+        "NVDA",
+        "ORCL"
       ],
       "contextual_peer_names": {
-        "MSFT": "Microsoft",
-        "AAPL": "Apple",
+        "GOOG": "Alphabet",
         "AMZN": "Amazon.com",
-        "BA": "Boeing",
-        "TSLA": "Tesla"
+        "MSFT": "Microsoft",
+        "NVDA": "Nvidia",
+        "ORCL": "Oracle"
       },
       "industry": "Services-Computer Programming, Data Processing, Etc.",
       "exchange": "NASDAQ",
@@ -1621,7 +1587,7 @@
       },
       "industry_peer_theme": "Digital Advertising",
       "filing_date": "2026-01-29",
-      "enriched_at": "2026-06-11T05:23:06.812841-04:00"
+      "enriched_at": "2026-06-16T18:34:44.981741-04:00"
     },
     "MRNA": {
       "name": "Moderna, Inc.",
@@ -1688,20 +1654,18 @@
     "MRVL": {
       "name": "Marvell Technology, Inc.",
       "summary": "Marvell Technology, Inc. is a leading supplier of data infrastructure semiconductor solutions, developing high-performance chips for cloud computing, AI, enterprise networking, 5G carrier networks, and automotive systems.",
-      "news_role": "Marvell Technology, Inc. is a key player in the artificial intelligence infrastructure boom, but its contribution to the global tech market decline is a concern.",
+      "news_role": "Marvell Technology, Inc. is experiencing a strong bullish sentiment in financial news, with calls outnumbering puts three to one and over 80% of premiums.",
       "contextual_peers": [
-        "MU",
-        "AVGO",
-        "SPCX",
-        "NVDA",
-        "TSLA"
+        "PHM",
+        "ORCL",
+        "INTC",
+        "META"
       ],
       "contextual_peer_names": {
-        "MU": "Micron Technology",
-        "AVGO": "Broadcom",
-        "SPCX": "SpaceX",
-        "NVDA": "Nvidia",
-        "TSLA": "Tesla"
+        "PHM": "Pultegroup",
+        "ORCL": "Oracle",
+        "INTC": "Intel",
+        "META": "Meta Platforms"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -1721,7 +1685,7 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-03-11",
-      "enriched_at": "2026-06-11T05:23:11.611049-04:00"
+      "enriched_at": "2026-06-16T18:34:49.165206-04:00"
     },
     "NIQ": {
       "name": "NIQ Global Intelligence plc",
@@ -1794,20 +1758,16 @@
     "QCOM": {
       "name": "QUALCOMM INC/DE",
       "summary": "QUALCOMM INC/DE is a global technology leader that develops and manufactures wireless and wired communication systems, and is helping to bring intelligent computing everywhere through the development of 5G, AI, and automotive technologies. The company operates using a 52-53 week fiscal year ending on the last Sunday in September. Its products and technologies are used in a variety of markets, including mobile devices, automotive systems, and industrial equipment.",
-      "news_role": "Qualcomm is currently positioned in financial news as a competitor to Nvidia in the PC market, with its new SoCs for Windows laptops indicating its involvement in the market.",
+      "news_role": "As a prominent investor in this financing round, Qualcomm is positioned as a key player in the financial news, alongside other major companies.",
       "contextual_peers": [
-        "NVDA",
-        "MRVL",
-        "AAPL",
-        "INTC",
-        "MSFT"
+        "JPM",
+        "AMZN",
+        "NVDA"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
-        "MRVL": "Marvell Technology",
-        "AAPL": "Apple",
-        "INTC": "Intel",
-        "MSFT": "Microsoft"
+        "JPM": "JPMorgan Chase",
+        "AMZN": "Amazon.com",
+        "NVDA": "Nvidia"
       },
       "industry": "Radio & Tv Broadcasting & Communications Equipment",
       "exchange": "NASDAQ",
@@ -1819,7 +1779,7 @@
       },
       "industry_peer_theme": "Wireless Communications",
       "filing_date": "2025-11-05",
-      "enriched_at": "2026-06-04T06:09:06.862016-04:00"
+      "enriched_at": "2026-06-16T18:34:53.390603-04:00"
     },
     "RKLB": {
       "name": "Rocket Lab Corp",
@@ -1850,16 +1810,20 @@
     "SCHW": {
       "name": "SCHWAB CHARLES CORP",
       "summary": "Charles Schwab Corporation is a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. It operates through its subsidiaries, including Charles Schwab & Co., Inc., Charles Schwab Bank, SSB, and Charles Schwab Investment Management, Inc. The company had $11.90 trillion in client assets as of December 31, 2025.",
-      "news_role": "Charles Schwab is currently positioned as a relatively low-demand product for prediction markets among its traders.",
+      "news_role": "Charles Schwab is providing insight into the broader inflation problem and is positioning itself as a platform for the SpaceX IPO.",
       "contextual_peers": [
-        "TW",
-        "IBKR",
-        "NVDA"
+        "GS",
+        "C",
+        "JPM",
+        "SPCX",
+        "TSLA"
       ],
       "contextual_peer_names": {
-        "TW": "Tradeweb Markets",
-        "IBKR": "Interactive Brokers Group",
-        "NVDA": "Nvidia"
+        "GS": "Goldman Sachs Group",
+        "C": "Citigroup",
+        "JPM": "JPMorgan Chase",
+        "SPCX": "Space Exploration Technologies",
+        "TSLA": "Tesla"
       },
       "industry": "Security Brokers, Dealers & Flotation Companies",
       "exchange": "NYSE",
@@ -1879,7 +1843,7 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-06-09T18:29:02.862455-04:00"
+      "enriched_at": "2026-06-13T18:34:16.806667-04:00"
     },
     "SNX": {
       "name": "TD SYNNEX CORP",
@@ -1914,20 +1878,20 @@
     "SPGI": {
       "name": "S&P Global Inc.",
       "summary": "S&P Global Inc. is a global provider of benchmarks, data, analytics, and workflow solutions for the capital, energy, commodity, and automotive markets. The company serves a broad range of customers, including asset managers, investment banks, and producers, through its diversified offerings. Its solutions are used in various industries, including finance, energy, and manufacturing.",
-      "news_role": "S&P Global's significant investment in OpenAI and its decision on index requirements position it as a key player in the tech and finance sectors.",
+      "news_role": "S&P Global is a leading provider of energy market analysis and research, maintaining its influence on the US stock market.",
       "contextual_peers": [
-        "EVR",
-        "NVDA",
         "GS",
-        "BA",
-        "ELAN"
+        "JPM",
+        "NVDA",
+        "TSLA",
+        "SPCX"
       ],
       "contextual_peer_names": {
-        "EVR": "Evercore",
-        "NVDA": "Nvidia",
         "GS": "Goldman Sachs Group",
-        "BA": "Boeing",
-        "ELAN": "Elanco Animal Health"
+        "JPM": "JPMorgan Chase",
+        "NVDA": "Nvidia",
+        "TSLA": "Tesla",
+        "SPCX": "Space Exploration Technologies"
       },
       "industry": "Services-Consumer Credit Reporting, Collection Agencies",
       "exchange": "NYSE",
@@ -1943,25 +1907,21 @@
       },
       "industry_peer_theme": "Credit Rating Agencies",
       "filing_date": "2026-02-11",
-      "enriched_at": "2026-06-11T05:23:16.830856-04:00"
+      "enriched_at": "2026-06-13T18:34:21.070294-04:00"
     },
     "TGT": {
       "name": "TARGET CORP",
       "summary": "Target Corporation is a retail company that offers fashionable merchandise and everyday essentials at discounted prices, aiming to help all families discover the joy of everyday life. The company operates as a single segment, enabling guests to purchase products seamlessly in stores or through digital channels. Target has a corporate purpose to give 5% of its profit to communities since 1946.",
-      "news_role": null,
+      "news_role": "Target Corp is gaining attention in financial news due to its expanding private label offerings.",
       "contextual_peers": [
-        "GS",
-        "MCO",
-        "MCD",
-        "AMZN",
-        "NVDA"
+        "PG",
+        "NVDY",
+        "LLY"
       ],
       "contextual_peer_names": {
-        "GS": "Goldman Sachs Group",
-        "MCO": "Moody's",
-        "MCD": "McDonald's",
-        "AMZN": "Amazon.com",
-        "NVDA": "Nvidia"
+        "PG": "Procter Gamble",
+        "NVDY": "YieldMax NVDA Option Income Strategy ETF",
+        "LLY": "Eli Lilly"
       },
       "industry": "Retail-Variety Stores",
       "exchange": "NYSE",
@@ -1979,7 +1939,7 @@
       },
       "industry_peer_theme": "Discount Retail",
       "filing_date": "2026-03-11",
-      "enriched_at": "2026-06-04T06:09:47.085740-04:00"
+      "enriched_at": "2026-06-13T18:34:24.485756-04:00"
     },
     "TW": {
       "name": "Tradeweb Markets Inc.",
@@ -2228,20 +2188,18 @@
     "AVGO": {
       "name": "Broadcom Inc.",
       "summary": "Broadcom Inc. is a global technology leader that designs, develops and supplies semiconductor and software solutions, with a diverse history of innovation through acquisitions.",
-      "news_role": "Broadcom Inc. is a key player in the AI chip market, with its customized AI chips being a significant focus in financial news.",
+      "news_role": "Broadcom Inc. is not currently featured in any relevant news summaries.",
       "contextual_peers": [
-        "MU",
-        "SPCX",
-        "NVDA",
-        "MRVL",
-        "TSLA"
+        "BKNG",
+        "LYFT",
+        "UBER",
+        "GS"
       ],
       "contextual_peer_names": {
-        "MU": "Micron Technology",
-        "SPCX": "SpaceX",
-        "NVDA": "Nvidia",
-        "MRVL": "Marvell Technology",
-        "TSLA": "Tesla"
+        "BKNG": "Booking",
+        "LYFT": "Lyft",
+        "UBER": "Uber Technologies",
+        "GS": "Goldman Sachs Group"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -2261,21 +2219,23 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2025-12-18",
-      "enriched_at": "2026-06-11T05:23:21.596520-04:00"
+      "enriched_at": "2026-06-16T18:34:56.691387-04:00"
     },
     "CRWD": {
       "name": "CrowdStrike Holdings, Inc.",
       "summary": "CrowdStrike Holdings, Inc. is a cloud-native cybersecurity platform provider that utilizes artificial intelligence to deliver real-time threat protection. Founded in 2011, the company has transformed the way cybersecurity is delivered and experienced by customers. Its Falcon platform serves as the operating system for cybersecurity.",
-      "news_role": "CrowdStrike Holdings, Inc. (CRWD) is currently a standout in the cybersecurity sector, following the introduction of its powerful AI model Mythos.",
+      "news_role": "CrowdStrike Holdings, Inc. is positioned as a key player in the cybersecurity space, with its AI capabilities being targeted by China-nexus adversaries.",
       "contextual_peers": [
-        "NVDA",
-        "PANW",
-        "RBRK"
+        "PLTR",
+        "SPCX",
+        "GS",
+        "MS"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
-        "PANW": "Palo Alto Networks",
-        "RBRK": "Rubrik"
+        "PLTR": "Palantir Technologies",
+        "SPCX": "Space Exploration Technologies",
+        "GS": "Goldman Sachs Group",
+        "MS": "Morgan Stanley"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NASDAQ",
@@ -2295,7 +2255,7 @@
       },
       "industry_peer_theme": "Cybersecurity Software",
       "filing_date": "2026-03-05",
-      "enriched_at": "2026-06-11T05:23:26.177485-04:00"
+      "enriched_at": "2026-06-16T18:35:00.920138-04:00"
     },
     "EG": {
       "name": "EVEREST GROUP, LTD.",
@@ -2482,9 +2442,15 @@
     "LLY": {
       "name": "ELI LILLY & Co",
       "summary": "ELI LILLY & Co (LLY) is a pharmaceutical company that discovers, develops, manufactures, and markets human pharmaceutical products. The company aims to unite caring with discovery to create medicines that make life better for people around the world. Its products are sold in approximately 90 countries.",
-      "news_role": "ELI LILLY & Co (LLY) is positioned as a financially strong and attractive partner for growth prospects.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "ELI LILLY & Co (LLY) is gaining attention in financial news due to the high prescriptions of its drug Foundayo and its potential to compete with Novo's Wegovy shot.",
+      "contextual_peers": [
+        "PG",
+        "KMB"
+      ],
+      "contextual_peer_names": {
+        "PG": "Procter Gamble",
+        "KMB": "Kimberly-Clark"
+      },
       "industry": "Pharmaceutical Preparations",
       "exchange": "NYSE",
       "industry_peers": [
@@ -2503,7 +2469,7 @@
       },
       "industry_peer_theme": "Biotechnology Pharmaceuticals",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-06-11T05:23:29.542791-04:00"
+      "enriched_at": "2026-06-16T18:35:05.467558-04:00"
     },
     "MET": {
       "name": "METLIFE INC",
@@ -2574,9 +2540,21 @@
     "PHM": {
       "name": "PULTEGROUP INC/MI/",
       "summary": "PulteGroup, Inc. is a homebuilding company that has delivered over 875,000 homes, and is one of the largest homebuilders in the United States. The company's common shares are included in the S&P 500 Index and trade on the New York Stock Exchange under the ticker symbol PHM. PulteGroup has subsidiaries that engage in homebuilding and financial services businesses.",
-      "news_role": "PulteGroup Inc is not currently positioned in financial news, as the recent nomination of William Pulte to serve as the Director of National Intelligence is the only relevant information.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "Pulte's appointment may impact its ability to secure a short-term extension of Section 702 of the Foreign Intelligence Surveillance Act.",
+      "contextual_peers": [
+        "MRVL",
+        "ORCL",
+        "INTC",
+        "META",
+        "JEF"
+      ],
+      "contextual_peer_names": {
+        "MRVL": "Marvell Technology",
+        "ORCL": "Oracle",
+        "INTC": "Intel",
+        "META": "Meta Platforms",
+        "JEF": "Jefferies Financial Group"
+      },
       "industry": "Operative Builders",
       "exchange": "NYSE",
       "industry_peers": [
@@ -2591,25 +2569,25 @@
       },
       "industry_peer_theme": "Homebuilding Industry",
       "filing_date": "2026-02-04",
-      "enriched_at": "2026-06-11T05:23:33.527481-04:00"
+      "enriched_at": "2026-06-16T18:35:09.767258-04:00"
     },
     "PLTR": {
       "name": "Palantir Technologies Inc.",
       "summary": "Palantir Technologies Inc. builds software to integrate data, decisions, and operations at scale for organizations, initially serving the intelligence community before expanding to commercial enterprises. The company has developed four software platforms: Gotham, Foundry, Apollo, and Artificial Intelligence Platform. Palantir's software empowers organizations to effectively manage and analyze large datasets.",
-      "news_role": null,
+      "news_role": "Palantir Technologies Inc. is facing potential disruption in its Enterprise customer base due to operational issues with its Frontier Labs.",
       "contextual_peers": [
-        "NVDA",
-        "GLOB",
-        "NIQ",
-        "EMR",
-        "HSIC"
+        "CRWD",
+        "SPCX",
+        "GS",
+        "MS",
+        "BX"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
-        "GLOB": "Globant",
-        "NIQ": "NIQ Global Intelligence",
-        "EMR": "Emerson Electric",
-        "HSIC": "Henry Schein"
+        "CRWD": "CrowdStrike",
+        "SPCX": "Space Exploration Technologies",
+        "GS": "Goldman Sachs Group",
+        "MS": "Morgan Stanley",
+        "BX": "Blackstone"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NASDAQ",
@@ -2617,7 +2595,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-17",
-      "enriched_at": "2026-06-05T19:06:57.348286-04:00"
+      "enriched_at": "2026-06-16T18:35:14.047886-04:00"
     },
     "PRU": {
       "name": "PRUDENTIAL FINANCIAL INC",
@@ -2671,7 +2649,7 @@
       },
       "industry_peer_theme": "Financial Technology",
       "filing_date": "2026-02-06",
-      "enriched_at": "2026-06-11T05:23:37.672665-04:00"
+      "enriched_at": "2026-06-11T18:29:24.103356-04:00"
     },
     "TIGO": {
       "name": "MILLICOM INTERNATIONAL CELLULAR SA",
@@ -2784,12 +2762,16 @@
       "contextual_peers": [
         "SPCX",
         "INTC",
-        "MU"
+        "C",
+        "MU",
+        "TSLA"
       ],
       "contextual_peer_names": {
         "SPCX": "SpaceX",
         "INTC": "Intel",
-        "MU": "Micron Technology"
+        "C": "Citigroup",
+        "MU": "Micron Technology",
+        "TSLA": "Tesla"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -2809,7 +2791,7 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-02-04",
-      "enriched_at": "2026-06-11T05:23:41.673825-04:00"
+      "enriched_at": "2026-06-11T18:29:28.620440-04:00"
     },
     "AMKR": {
       "name": "AMKOR TECHNOLOGY, INC.",
@@ -2924,20 +2906,20 @@
     "C": {
       "name": "CITIGROUP INC",
       "summary": "Citigroup is a global diversified financial services holding company with a history dating back to 1812, providing various businesses that consume financial services. The company's businesses include banking, securities, and insurance services. Citigroup operates globally and is a leading financial services company.",
-      "news_role": "Citigroup is playing a significant role in driving Bitcoin price appreciation through investor adoption and appetite.",
+      "news_role": "Citi is a leading advisor in the energy industry, with four deals worth $41.4 billion in 2026.",
       "contextual_peers": [
-        "SPCX",
-        "TSLA",
-        "MU",
-        "AMD",
-        "INTC"
+        "JPM",
+        "GS",
+        "BAC",
+        "MS",
+        "WFC"
       ],
       "contextual_peer_names": {
-        "SPCX": "SpaceX",
-        "TSLA": "Tesla",
-        "MU": "Micron Technology",
-        "AMD": "Advanced Micro Devices",
-        "INTC": "Intel"
+        "JPM": "JPMorgan Chase",
+        "GS": "Goldman Sachs Group",
+        "BAC": "Bank of America",
+        "MS": "Morgan Stanley",
+        "WFC": "Wells Fargo"
       },
       "industry": "National Commercial Banks",
       "exchange": "NYSE",
@@ -2945,7 +2927,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-06-11T05:23:45.915498-04:00"
+      "enriched_at": "2026-06-16T18:35:18.482473-04:00"
     },
     "CBOE": {
       "name": "Cboe Global Markets, Inc.",
@@ -2974,7 +2956,7 @@
     "CG": {
       "name": "Carlyle Group Inc.",
       "summary": "Carlyle Group Inc. is a global investment firm that deploys private capital across three business segments: Global Private Equity, Global Credit, and Carlyle AlpInvest. With $477 billion in AUM, the firm has grown to manage investments across a range of strategies leveraging industry expertise and global resources. Carlyle serves over 3,200 active carry fund investors from 87 countries.",
-      "news_role": "As a key figure in providing insights on the current economic landscape, Carlyle Group Inc. is relevant to discussions of Federal Reserve policy challenges.",
+      "news_role": "Carlyle Group Inc. is currently positioned as a key player in financial news, providing insights on market trends and differences between now and then.",
       "contextual_peers": [],
       "contextual_peer_names": {},
       "industry": "Investment Advice",
@@ -2995,14 +2977,26 @@
       },
       "industry_peer_theme": "Private Equity Firms",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-06-11T05:23:49.672059-04:00"
+      "enriched_at": "2026-06-15T18:42:54.702190-04:00"
     },
     "CME": {
       "name": "CME GROUP INC.",
       "summary": "CME Group Inc. enables clients to trade various financial products, optimize portfolios, and analyze data, providing primary price discovery and referential pricing information. It operates a leading central counterparty clearing provider and offers industry-leading research and analytics tools. The company provides market education resources to its customers.",
-      "news_role": null,
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "CME Group's FedWatch tool indicates a 67% probability of a Fed rate hike by December, positioning the company as a key player in financial news related to interest rate decisions.",
+      "contextual_peers": [
+        "C",
+        "JPM",
+        "GS",
+        "BAC",
+        "MS"
+      ],
+      "contextual_peer_names": {
+        "C": "Citigroup",
+        "JPM": "JPMorgan Chase",
+        "GS": "Goldman Sachs Group",
+        "BAC": "Bank of America",
+        "MS": "Morgan Stanley"
+      },
       "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
       "exchange": "NASDAQ",
       "industry_peers": [
@@ -3019,7 +3013,7 @@
       },
       "industry_peer_theme": "Financial Market Infrastructure",
       "filing_date": "2026-02-26",
-      "enriched_at": "2026-06-06T01:27:28.689817-04:00"
+      "enriched_at": "2026-06-16T18:35:23.334160-04:00"
     },
     "COF": {
       "name": "CAPITAL ONE FINANCIAL CORP",
@@ -3050,7 +3044,7 @@
     "ELAN": {
       "name": "Elanco Animal Health Inc",
       "summary": "Elanco Animal Health Inc is a global leader in animal health, innovating and delivering products and services to prevent and treat disease in farm animals and pets. The company partners with farmers, pet owners, veterinarians, and society to create value and improve animal health. Elanco's diverse product portfolio serves animals across many species, primarily dogs, cats, cattle, poultry, swine, and sheep.",
-      "news_role": "Elanco Animal Health's shares are rising in tandem with Zoetis, a leading competitor, indicating a strong market position for the company.",
+      "news_role": "Elanco Animal Health Inc's shares are rising in tandem with Zoetis, a leading competitor, indicating a strong market position for the company.",
       "contextual_peers": [
         "NVDA",
         "GS",
@@ -3081,7 +3075,7 @@
       },
       "industry_peer_theme": "Animal Health Pharmaceuticals",
       "filing_date": "2026-02-24",
-      "enriched_at": "2026-06-11T05:23:54.288674-04:00"
+      "enriched_at": "2026-06-11T18:29:42.984120-04:00"
     },
     "EVR": {
       "name": "Evercore Inc.",
@@ -3090,12 +3084,12 @@
       "contextual_peers": [
         "SPGI",
         "TSLA",
-        "SPCX"
+        "BA"
       ],
       "contextual_peer_names": {
         "SPGI": "S&P Global",
         "TSLA": "Tesla",
-        "SPCX": "SpaceX"
+        "BA": "Boeing"
       },
       "industry": "Investment Advice",
       "exchange": "NYSE",
@@ -3115,14 +3109,22 @@
       },
       "industry_peer_theme": "Private Equity Firms",
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-06-11T05:23:58.778835-04:00"
+      "enriched_at": "2026-06-11T18:29:47.583308-04:00"
     },
     "GM": {
       "name": "General Motors Co",
       "summary": "General Motors Co (GM) designs, builds, and sells trucks, crossovers, cars, and automobile parts, providing software-enabled services and subscriptions worldwide. The company operates through segments GM North America and GM International, with brands including Buick, Cadillac, Chevrolet, and GMC. GM also has equity ownership stakes in entities in China.",
-      "news_role": "As a leading automaker, General Motors Co is positioned as a key player in the transition to electrification and battery technologies in the automotive industry.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "GM's efforts to promote electric vehicles may benefit from the growth of energy storage and data centers, positioning the company for indirect financial gains.",
+      "contextual_peers": [
+        "F",
+        "LMT",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "F": "Ford Motor",
+        "LMT": "Lockheed Martin",
+        "NVDA": "Nvidia"
+      },
       "industry": "Motor Vehicles & Passenger Car Bodies",
       "exchange": "NYSE",
       "industry_peers": [
@@ -3141,7 +3143,7 @@
       },
       "industry_peer_theme": "Electric Vehicle Revolution",
       "filing_date": "2026-01-27",
-      "enriched_at": "2026-06-11T05:24:02.292639-04:00"
+      "enriched_at": "2026-06-16T18:35:27.543001-04:00"
     },
     "GMED": {
       "name": "GLOBUS MEDICAL INC",
@@ -3238,15 +3240,11 @@
     "LULU": {
       "name": "lululemon athletica inc.",
       "summary": "Lululemon Athletica Inc. designs, distributes, and retails technical athletic apparel, footwear, and accessories, aiming to create transformative products and experiences that promote wellbeing and connection. The company fosters a distinctive corporate culture based on core values such as personal responsibility, courage, connection, and fun. This culture attracts passionate employees driven to achieve personal and professional goals.",
-      "news_role": "Lululemon Athletica is experiencing financial struggles, with a 11% decline in shares after lowering full-year earnings and revenue guidance.",
+      "news_role": "Lululemon Athletica is experiencing fiscal 2026 sales growth expectations that are below previous ranges, indicating ongoing financial struggles.",
       "contextual_peers": [
-        "MU",
-        "AVGO",
         "NKE"
       ],
       "contextual_peer_names": {
-        "MU": "Micron Technology",
-        "AVGO": "Broadcom",
         "NKE": "Nike"
       },
       "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
@@ -3263,7 +3261,7 @@
       },
       "industry_peer_theme": "Athleisure apparel",
       "filing_date": "2026-03-17",
-      "enriched_at": "2026-06-11T05:24:07.156941-04:00"
+      "enriched_at": "2026-06-11T18:29:55.175408-04:00"
     },
     "MDB": {
       "name": "MongoDB, Inc.",
@@ -3293,7 +3291,7 @@
       },
       "industry_peer_theme": "Cloud Computing",
       "filing_date": "2026-03-11",
-      "enriched_at": "2026-06-11T05:24:10.877311-04:00"
+      "enriched_at": "2026-06-11T18:29:59.467899-04:00"
     },
     "MRK": {
       "name": "Merck & Co., Inc.",
@@ -3324,9 +3322,21 @@
     "MSCI": {
       "name": "MSCI Inc.",
       "summary": "MSCI Inc. provides research-based data, analytics, and indexes to global investors, helping them make better investment decisions and unlock innovation. Its tools and solutions aid in defining investment universes, making asset allocation decisions, and managing investment risk and performance. MSCI's offerings also integrate sustainability and climate considerations into portfolio construction and risk management.",
-      "news_role": null,
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "MSCI is positioning itself as a potential fast-track model for global benchmarks, which could impact its inclusion in indexes and potentially influence its IPO prospects.",
+      "contextual_peers": [
+        "SPCX",
+        "TSLA",
+        "ASTS",
+        "HOOD",
+        "GOOG"
+      ],
+      "contextual_peer_names": {
+        "SPCX": "Space Exploration Technologies",
+        "TSLA": "Tesla",
+        "ASTS": "AST SpaceMobile",
+        "HOOD": "Robinhood Markets",
+        "GOOG": "Alphabet"
+      },
       "industry": "Services-Business Services, NEC",
       "exchange": "NYSE",
       "industry_peers": [
@@ -3339,25 +3349,21 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-06",
-      "enriched_at": "2026-06-06T01:28:37.319560-04:00"
+      "enriched_at": "2026-06-13T18:35:05.711868-04:00"
     },
     "NDAQ": {
       "name": "NASDAQ, INC.",
       "summary": "NASDAQ, INC. is a leading technology platform that powers the world's economies by architecting the infrastructure of modern markets, powering the innovation economy, and building trust in the financial system. It empowers economic opportunity through technology, data, and advanced analytics. The company operates in three business segments: Capital Access Platforms, Financial Technology, and Market Services.",
-      "news_role": "As a tech-heavy index, Nasdaq is currently positioned in financial news due to the decline of technology stocks.",
+      "news_role": "NDAQ is currently under scrutiny following a rejected board nomination, potentially impacting its financial news presence.",
       "contextual_peers": [
-        "AVGO",
-        "MU",
-        "NVDA",
-        "MRVL",
-        "TSLA"
+        "COIN",
+        "HOOD",
+        "MSTR"
       ],
       "contextual_peer_names": {
-        "AVGO": "Broadcom",
-        "MU": "Micron Technology",
-        "NVDA": "Nvidia",
-        "MRVL": "Marvell Technology",
-        "TSLA": "Tesla"
+        "COIN": "Coinbase Global",
+        "HOOD": "Robinhood Markets",
+        "MSTR": "Strategy"
       },
       "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
       "exchange": "NASDAQ",
@@ -3375,7 +3381,7 @@
       },
       "industry_peer_theme": "Financial Markets",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-06-10T18:30:05.509699-04:00"
+      "enriched_at": "2026-06-16T18:35:30.955373-04:00"
     },
     "NKE": {
       "name": "NIKE, Inc.",
@@ -3401,21 +3407,25 @@
       },
       "industry_peer_theme": "Footwear and Apparel",
       "filing_date": "2025-07-17",
-      "enriched_at": "2026-06-11T05:24:14.542916-04:00"
+      "enriched_at": "2026-06-11T18:30:08.303460-04:00"
     },
     "PANW": {
       "name": "Palo Alto Networks Inc",
       "summary": "Palo Alto Networks Inc (PANW) is a global cybersecurity provider that aims to protect the digital way of life through its comprehensive cybersecurity platforms and services. The company helps enterprises, organizations, and government entities secure their users, networks, clouds, and endpoints using artificial intelligence and automation. Its mission is to be the cybersecurity partner of choice.",
-      "news_role": "Palo Alto Networks is currently a standout performer in financial news, driven by the significant increase in its shares following the introduction of its powerful AI model, Mythos.",
+      "news_role": "Palo Alto Networks Inc is currently facing a decline in financial sentiment following its earnings report.",
       "contextual_peers": [
         "CRWD",
-        "NVDA",
-        "RBRK"
+        "MSFT",
+        "PLTR",
+        "SPCX",
+        "GS"
       ],
       "contextual_peer_names": {
         "CRWD": "CrowdStrike",
-        "NVDA": "Nvidia",
-        "RBRK": "Rubrik"
+        "MSFT": "Microsoft",
+        "PLTR": "Palantir Technologies",
+        "SPCX": "Space Exploration Technologies",
+        "GS": "Goldman Sachs Group"
       },
       "industry": "Computer Peripheral Equipment, NEC",
       "exchange": "NASDAQ",
@@ -3427,7 +3437,7 @@
       },
       "industry_peer_theme": "Cybersecurity Software",
       "filing_date": "2025-08-29",
-      "enriched_at": "2026-06-11T05:24:19.113556-04:00"
+      "enriched_at": "2026-06-15T18:43:13.827874-04:00"
     },
     "PLNT": {
       "name": "Planet Fitness, Inc.",
@@ -3446,16 +3456,16 @@
     "RBRK": {
       "name": "Rubrik, Inc.",
       "summary": "Rubrik, Inc. is a cybersecurity company that provides Zero Trust data security solutions to help organizations secure their data across the cloud and recover from cyberattacks. The company's solution, the Rubrik Security Cloud, is designed with a Zero Trust principle to deliver cyber resilience. This approach aims to prevent cyberattacks by securing data, resulting in AI resilience for businesses.",
-      "news_role": "As a testing partner in Anthropic's Project Glasswing, Rubrik is positioned as a key player in the emerging AI and data analytics space.",
+      "news_role": "Rubrik, Inc. is positioned as a niche player in the data analytics space, leveraging its partnership with Anthropic to gain exposure in the financial news.",
       "contextual_peers": [
+        "PANW",
         "CRWD",
-        "NVDA",
-        "PANW"
+        "NVDA"
       ],
       "contextual_peer_names": {
+        "PANW": "Palo Alto Networks",
         "CRWD": "CrowdStrike",
-        "NVDA": "Nvidia",
-        "PANW": "Palo Alto Networks"
+        "NVDA": "Nvidia"
       },
       "industry": "Services-Prepackaged Software",
       "exchange": "NYSE",
@@ -3475,7 +3485,7 @@
       },
       "industry_peer_theme": "Cybersecurity and AI",
       "filing_date": "2026-03-19",
-      "enriched_at": "2026-06-11T05:24:23.626760-04:00"
+      "enriched_at": "2026-06-11T18:30:17.510803-04:00"
     },
     "RKT": {
       "name": "Rocket Companies, Inc.",
@@ -3609,25 +3619,23 @@
       },
       "industry_peer_theme": "Animal Health Pharmaceuticals",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-06-11T05:24:28.324218-04:00"
+      "enriched_at": "2026-06-11T18:30:22.686162-04:00"
     },
     "SPCX": {
       "name": "SpaceX",
       "summary": "SpaceX is a private aerospace manufacturer and space transport services company. It designs, manufactures, and launches advanced rockets and spacecraft. The company aims to reduce space transportation costs and enable the colonization of Mars.",
-      "news_role": "SpaceX is poised to make a significant impact on the financial news scene with its highly anticipated $1.77 trillion IPO valuation.",
+      "news_role": "As a private company poised for a potential IPO, SpaceX is currently positioned as a key player in the space launch industry, with its Starlink internet service and growing revenue attracting attention from investors and analysts.",
       "contextual_peers": [
         "GOOG",
+        "AMZN",
         "NVDA",
-        "TSLA",
-        "MSFT",
-        "BA"
+        "MSFT"
       ],
       "contextual_peer_names": {
         "GOOG": "Alphabet",
+        "AMZN": "Amazon.com",
         "NVDA": "Nvidia",
-        "TSLA": "Tesla",
-        "MSFT": "Microsoft",
-        "BA": "Boeing"
+        "MSFT": "Microsoft"
       },
       "industry": null,
       "exchange": null,
@@ -3635,7 +3643,511 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": null,
-      "enriched_at": "2026-06-11T05:24:34.312196-04:00"
+      "enriched_at": "2026-06-16T18:35:37.126625-04:00"
+    },
+    "BKNG": {
+      "name": "Booking Holdings Inc.",
+      "summary": "Booking Holdings Inc. is a leading online travel agency that facilitates bookings for accommodations, flights, and other travel services, aiming to provide consumers with a best-in-class experience. The company operates through five primary consumer-facing brands: Booking.com, Priceline, Agoda, KAYAK, and OpenTable. It is making progress on its strategic initiatives, including achieving record annual room nights in 2025.",
+      "news_role": "Booking Holdings Inc. is positioned to benefit from the growing trend of longer stays in travel, driven by the increasing demand for accommodations.",
+      "contextual_peers": [
+        "LYFT",
+        "UBER",
+        "AVGO",
+        "GS"
+      ],
+      "contextual_peer_names": {
+        "LYFT": "Lyft",
+        "UBER": "Uber Technologies",
+        "AVGO": "Broadcom",
+        "GS": "Goldman Sachs Group"
+      },
+      "industry": "Transportation Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "EXPE"
+      ],
+      "industry_peer_names": {
+        "EXPE": "Expedia Group"
+      },
+      "industry_peer_theme": "Online Travel Booking",
+      "filing_date": "2026-02-18",
+      "enriched_at": "2026-06-16T18:35:41.312427-04:00"
+    },
+    "F": {
+      "name": "FORD MOTOR CO",
+      "summary": "Ford Motor Company is a global automaker based in Dearborn, Michigan, committed to helping build a better world through innovative vehicles and customer experiences. The company develops and delivers a range of Ford trucks, sport utility vehicles, commercial vans, and cars. Ford's Ford+ plan combines existing strengths, new capabilities, and customer relationships to enrich experiences and deepen loyalty.",
+      "news_role": "Ford Motor is focusing on energy storage to support its battery plants, indicating a shift in its business strategy.",
+      "contextual_peers": [
+        "GM",
+        "LMT",
+        "NVDA"
+      ],
+      "contextual_peer_names": {
+        "GM": "General Motors",
+        "LMT": "Lockheed Martin",
+        "NVDA": "Nvidia"
+      },
+      "industry": "Motor Vehicles & Passenger Car Bodies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "GM",
+        "PCAR",
+        "LCID",
+        "OSK",
+        "RIVN"
+      ],
+      "industry_peer_names": {
+        "GM": "General Motors",
+        "PCAR": "Paccar",
+        "LCID": "Lucid Group",
+        "OSK": "Oshkosh",
+        "RIVN": "Rivian Automotive"
+      },
+      "industry_peer_theme": "Electric Vehicle Revolution",
+      "filing_date": "2026-02-11",
+      "enriched_at": "2026-06-16T18:35:45.314912-04:00"
+    },
+    "GE": {
+      "name": "GENERAL ELECTRIC CO",
+      "summary": "GE Aerospace is a global aerospace leader with a large commercial and military engine fleet, supporting aftermarket services business with 70% of revenue. The company makes engines for Airbus A320 planes and Boeing aircraft, including the CFM56 engine. This expertise positions GE Aerospace as a key player in the commercial aviation industry.",
+      "news_role": "GE is benefiting from rising engine supplier profits, but its airline industry exposure is being scrutinized by executives.",
+      "contextual_peers": [
+        "UAL",
+        "BA"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "BA": "Boeing"
+      },
+      "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-01-29",
+      "enriched_at": "2026-06-16T18:35:48.407327-04:00"
+    },
+    "IVZ": {
+      "name": "Invesco Ltd.",
+      "summary": "Invesco Ltd. is an independent investment management firm providing a range of active, passive, and alternative investment capabilities to help clients achieve their investment objectives. With a global presence in over 20 countries and approximately 7,500 employees, Invesco is well-positioned to meet the needs of investors across the globe. The company's comprehensive range of investment capabilities is designed to deliver key outcomes aligned to client needs.",
+      "news_role": "Invesco Ltd. is facing increased earnings hurdles due to rising energy costs and the real cost of capital, impacting its financial news presence.",
+      "contextual_peers": [
+        "JPM",
+        "TSLA",
+        "SPCX"
+      ],
+      "contextual_peer_names": {
+        "JPM": "JPMorgan Chase",
+        "TSLA": "Tesla",
+        "SPCX": "Space Exploration Technologies"
+      },
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "LAZ",
+        "BEN",
+        "JHG",
+        "HLNE",
+        "OWL"
+      ],
+      "industry_peer_names": {
+        "LAZ": "Lazard",
+        "BEN": "BEN",
+        "JHG": "Janus Henderson Group",
+        "HLNE": "Hamilton Lane",
+        "OWL": "Blue Owl Capital"
+      },
+      "industry_peer_theme": "Asset Management",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-16T18:35:52.764464-04:00"
+    },
+    "JEF": {
+      "name": "Jefferies Financial Group Inc.",
+      "summary": "Jefferies Financial Group Inc. is a global investment banking and capital markets firm focused on driving momentum in its investment banking business, capital markets sales and trading, and growing its credit and alternative asset management platforms.",
+      "news_role": "Jefferies Financial Group Inc. (JEF) may face skepticism from national security Democrats, potentially impacting market perception of the intelligence community.",
+      "contextual_peers": [
+        "PHM"
+      ],
+      "contextual_peer_names": {
+        "PHM": "Pultegroup"
+      },
+      "industry": "Security Brokers, Dealers & Flotation Companies",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "RJF",
+        "MS",
+        "GS",
+        "VIRT",
+        "FRHC"
+      ],
+      "industry_peer_names": {
+        "RJF": "Raymond James Financial",
+        "MS": "Morgan Stanley",
+        "GS": "Goldman Sachs Group",
+        "VIRT": "Virtu Financial",
+        "FRHC": "Freedom Holding"
+      },
+      "industry_peer_theme": "Financial Services",
+      "filing_date": "2026-01-28",
+      "enriched_at": "2026-06-16T18:35:56.427253-04:00"
+    },
+    "JHG": {
+      "name": "JANUS HENDERSON GROUP PLC",
+      "summary": "Janus Henderson Group plc is an independent global asset manager specializing in investment management across all major asset classes, with a mission to help clients define and achieve superior financial outcomes. The company has over 2,300 employees worldwide and assets under management of $493.2 billion as of December 31, 2025. It was taken private by Long Lake Management in May for $6.3 billion, a deal that involved a 65% premium.",
+      "news_role": "JANUS HENDERSON GROUP PLC is currently positioned as a private equity target following take-private agreements with two firms.",
+      "contextual_peers": [
+        "BX",
+        "BRK-B",
+        "GS",
+        "PLTR"
+      ],
+      "contextual_peer_names": {
+        "BX": "Blackstone",
+        "BRK-B": "Berkshire Hathaway",
+        "GS": "Goldman Sachs Group",
+        "PLTR": "Palantir Technologies"
+      },
+      "industry": "Investment Advice",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "AMG",
+        "BEN",
+        "OWL",
+        "CG",
+        "HLNE"
+      ],
+      "industry_peer_names": {
+        "AMG": "Affiliated Managers Group",
+        "BEN": "BEN",
+        "OWL": "Blue Owl Capital",
+        "CG": "Carlyle Group",
+        "HLNE": "Hamilton Lane"
+      },
+      "industry_peer_theme": "Private Equity Firms",
+      "filing_date": "2026-02-25",
+      "enriched_at": "2026-06-16T18:36:00.513569-04:00"
+    },
+    "KMB": {
+      "name": "KIMBERLY CLARK CORP",
+      "summary": "Kimberly-Clark Corporation is a global company that delivers essential products and solutions, focusing on delivering better care for a better world. It manufactures and markets a wide range of products made from natural or synthetic fibers and materials. The company's portfolio of brands includes Huggies, Kleenex, and Cottonelle.",
+      "news_role": "As a leading manufacturer of diapers and other household essentials, Kimberly Clark Corp is innovating in response to increased competition in the Asian market.",
+      "contextual_peers": [
+        "LLY",
+        "PG"
+      ],
+      "contextual_peer_names": {
+        "LLY": "Eli Lilly",
+        "PG": "Procter Gamble"
+      },
+      "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+      "exchange": "NASDAQ",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-16T18:36:04.445391-04:00"
+    },
+    "LYFT": {
+      "name": "Lyft, Inc.",
+      "summary": "Lyft, Inc. operates a global mobility platform offering rideshare, taxis, private hire vehicles, and other multimodal solutions, with a focus on its ridesharing marketplace that connects drivers and riders. The company generates revenue from service fees, commissions, and licensing agreements. Its technology platform powers rides and connections every day.",
+      "news_role": "Lyft is well-positioned to benefit from increased demand for rideshare services around World Cup matches, as it is a key player in the rideshare market.",
+      "contextual_peers": [
+        "BKNG",
+        "UBER",
+        "AVGO",
+        "GS"
+      ],
+      "contextual_peer_names": {
+        "BKNG": "Booking",
+        "UBER": "Uber Technologies",
+        "AVGO": "Broadcom",
+        "GS": "Goldman Sachs Group"
+      },
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "UBER",
+        "FISV",
+        "DASH"
+      ],
+      "industry_peer_names": {
+        "UBER": "Uber Technologies",
+        "FISV": "Fiserv",
+        "DASH": "DoorDash"
+      },
+      "industry_peer_theme": "Ride Sharing",
+      "filing_date": "2026-02-11",
+      "enriched_at": "2026-06-16T18:36:08.513340-04:00"
+    },
+    "MSTR": {
+      "name": "Strategy Inc",
+      "summary": "Strategy Inc is the world's first and largest Bitcoin Treasury Company, pursuing financial innovation strategies to generate value from its bitcoin holdings. It also develops and issues novel fixed-income instruments and AI-powered enterprise analytics software. The company aims to create long-term value across both digital asset and enterprise analytics markets.",
+      "news_role": "As a holding company for bitcoin, Strategy Inc is currently positioned as a key player in the emerging cryptocurrency market.",
+      "contextual_peers": [
+        "COIN",
+        "HOOD"
+      ],
+      "contextual_peer_names": {
+        "COIN": "Coinbase Global",
+        "HOOD": "Robinhood Markets"
+      },
+      "industry": "Finance Services",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "COIN",
+        "BLSH",
+        "CRCL",
+        "SOFI"
+      ],
+      "industry_peer_names": {
+        "COIN": "Coinbase Global",
+        "BLSH": "Bullish",
+        "CRCL": "Circle Internet Group",
+        "SOFI": "SoFi Technologies"
+      },
+      "industry_peer_theme": "Cryptocurrency Fintech",
+      "filing_date": "2026-02-19",
+      "enriched_at": "2026-06-16T18:36:12.328062-04:00"
+    },
+    "PG": {
+      "name": "PROCTER & GAMBLE Co",
+      "summary": "Procter & Gamble is a multinational consumer goods company providing trusted, branded products of superior quality, performance, and value to consumers worldwide. Founded in 1837, the company has grown to sell products in about 180 countries and territories. Its products cater to various household and personal care needs.",
+      "news_role": "The decline in U.S. diaper volume negatively impacts Procter & Gamble's sales, but the company's diversified portfolio may mitigate this effect.",
+      "contextual_peers": [
+        "LLY",
+        "KMB"
+      ],
+      "contextual_peer_names": {
+        "LLY": "Eli Lilly",
+        "KMB": "Kimberly-Clark"
+      },
+      "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "CHD",
+        "ECL"
+      ],
+      "industry_peer_names": {
+        "CHD": "Church Dwight",
+        "ECL": "Ecolab"
+      },
+      "industry_peer_theme": "Household and Cleaning",
+      "filing_date": "2025-08-04",
+      "enriched_at": "2026-06-16T18:36:16.309870-04:00"
+    },
+    "ROL": {
+      "name": "ROLLINS INC",
+      "summary": "Rollins, Inc. provides pest and wildlife control services and protection against termite damage, rodents, and insects to residential and commercial customers worldwide. The company has a reputation for great customer service and a significant portion of its revenue comes from contracted and recurring services. Rollins operates over 800 locations in 70 countries.",
+      "news_role": "Rollins Inc is currently positioned in financial news as a key player in addressing the screwworm threat, with recent public statements and appearances on CNBC and Fox News.",
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Services-To Dwellings & Other Buildings",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-12",
+      "enriched_at": "2026-06-16T18:36:19.728742-04:00"
+    },
+    "TT": {
+      "name": "Trane Technologies plc",
+      "summary": "Trane Technologies plc is a global climate innovator that designs, manufactures, and sells solutions for Heating, Ventilation and Air Conditioning (HVAC), transport refrigeration, and custom refrigeration solutions. The company generates revenue primarily through the design, manufacture, sales, and service of these solutions. Its growth strategy includes expanding recurring revenue.",
+      "news_role": "Trane Technologies plc's data center cooling solutions are likely to be impacted by US-Iran tensions over oil.",
+      "contextual_peers": [
+        "META",
+        "IVZ",
+        "JPM",
+        "SPCX",
+        "TSLA"
+      ],
+      "contextual_peer_names": {
+        "META": "Meta Platforms",
+        "IVZ": "Invesco",
+        "JPM": "JPMorgan Chase",
+        "SPCX": "Space Exploration Technologies",
+        "TSLA": "Tesla"
+      },
+      "industry": "Auto Controls For Regulating Residential & Comml Environments",
+      "exchange": "NYSE",
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": "2026-02-05",
+      "enriched_at": "2026-06-13T18:36:02.972348-04:00"
+    },
+    "UBER": {
+      "name": "Uber Technologies, Inc",
+      "summary": "Uber Technologies, Inc. is a technology platform that connects consumers with independent providers of ride services and merchants with delivery service providers, offering a range of offerings on its platform. The company develops and operates proprietary technology applications to power movement and delivery services. Uber's platform supports various services, including ridesharing and food delivery.",
+      "news_role": "Uber's increased demand for rideshare services around World Cup matches could drive higher revenue.",
+      "contextual_peers": [
+        "BKNG",
+        "LYFT",
+        "AVGO",
+        "GS"
+      ],
+      "contextual_peer_names": {
+        "BKNG": "Booking",
+        "LYFT": "Lyft",
+        "AVGO": "Broadcom",
+        "GS": "Goldman Sachs Group"
+      },
+      "industry": "Services-Business Services, NEC",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "LYFT",
+        "DASH",
+        "CART",
+        "PYPL",
+        "MA"
+      ],
+      "industry_peer_names": {
+        "LYFT": "Lyft",
+        "DASH": "DoorDash",
+        "CART": "Maplebear (Instacart)",
+        "PYPL": "Paypal",
+        "MA": "Mastercard"
+      },
+      "industry_peer_theme": "Ride Sharing and Ecommerce",
+      "filing_date": "2026-02-13",
+      "enriched_at": "2026-06-16T18:36:23.560625-04:00"
+    },
+    "VSNT": {
+      "name": "Versant Media Group, Inc.",
+      "summary": "Versant Media Group, Inc. operates in four core markets: political news and opinion, business news and personal finance, golf and athletics participation, and sports and genre entertainment. It serves these markets through a strong portfolio of brands, including television networks and digital platforms. The company produces, licenses, and acquires content to deliver value to key constituents.",
+      "news_role": "As a parent company of MS NOW and CNBC, Versant Media Group is a key player in the financial news landscape, potentially impacted by the Trump Family Crypto Scandal.",
+      "contextual_peers": [
+        "HOOD",
+        "NDAQ",
+        "COIN",
+        "MSTR"
+      ],
+      "contextual_peer_names": {
+        "HOOD": "Robinhood Markets",
+        "NDAQ": "Nasdaq",
+        "COIN": "Coinbase Global",
+        "MSTR": "Strategy"
+      },
+      "industry": "Television Broadcasting Stations",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "NXST",
+        "FOX"
+      ],
+      "industry_peer_names": {
+        "NXST": "Nexstar Media Group",
+        "FOX": "Fox Corp."
+      },
+      "industry_peer_theme": "Media Conglomerates",
+      "filing_date": "2026-03-03",
+      "enriched_at": "2026-06-13T18:36:10.531817-04:00"
+    },
+    "WFC": {
+      "name": "WELLS FARGO & COMPANY/MN",
+      "summary": "Wells Fargo & Company is a financial holding company and bank holding company that acts as a holding company for its subsidiaries, with assets of approximately $2.1 trillion as of December 31, 2025. It is the fourth largest bank holding company in the United States. The company's subsidiaries include banks, investment banks, and other financial institutions.",
+      "news_role": "Wells Fargo is currently underperforming compared to its peers in 2026, having declined 12.1%.",
+      "contextual_peers": [
+        "C",
+        "JPM",
+        "GS",
+        "BAC",
+        "MS"
+      ],
+      "contextual_peer_names": {
+        "C": "Citigroup",
+        "JPM": "JPMorgan Chase",
+        "GS": "Goldman Sachs Group",
+        "BAC": "Bank of America",
+        "MS": "Morgan Stanley"
+      },
+      "industry": "National Commercial Banks",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "FHN",
+        "ZION",
+        "WBS",
+        "USB",
+        "FNB"
+      ],
+      "industry_peer_names": {
+        "FHN": "First Horizon",
+        "ZION": "Zions Bancorporation NA",
+        "WBS": "Webster Financial",
+        "USB": "US Bancorp",
+        "FNB": "FNB"
+      },
+      "industry_peer_theme": "Bancshares",
+      "filing_date": "2026-02-24",
+      "enriched_at": "2026-06-16T18:36:27.911282-04:00"
+    },
+    "WMT": {
+      "name": "Walmart Inc.",
+      "summary": "Walmart Inc. is a people-led, technology-powered omnichannel retailer offering retail stores and eCommerce services to help people save money and live better. With approximately 280 million customers served weekly, the company aims to continuously improve a customer-centric experience. Its strategy is to make every day easier for busy families.",
+      "news_role": "Walmart Inc. is currently positioned in financial news as a potential victim of the US H-1B visa program changes, which could impact its ability to hire foreign workers.",
+      "contextual_peers": [],
+      "contextual_peer_names": {},
+      "industry": "Retail-Variety Stores",
+      "exchange": "NASDAQ",
+      "industry_peers": [
+        "FIVE",
+        "DG",
+        "DLTR",
+        "OLLI",
+        "COST"
+      ],
+      "industry_peer_names": {
+        "FIVE": "Five Below",
+        "DG": "Dollar General",
+        "DLTR": "Dollar Tree",
+        "OLLI": "Ollie's Bargain Outlet",
+        "COST": "Costco Wholesale"
+      },
+      "industry_peer_theme": "Discount Retail",
+      "filing_date": "2026-03-13",
+      "enriched_at": "2026-06-16T18:36:31.172664-04:00"
+    },
+    "AVAT": {
+      "name": "Avalanche Treasury",
+      "summary": "Avalanche Treasury is a significant player in the Avalanche ecosystem, holding approximately 15 million tokens, or roughly 3.5% of the supply in circulation. This company is a treasury and custody service provider for Avalanche. Its ownership stake in the ecosystem makes it a notable player in the cryptocurrency market.",
+      "news_role": "Avalanche Treasury is a relatively small player in the financial news, given its ownership of approximately 15 million tokens represents roughly 3.5% of the supply in circulation.",
+      "contextual_peers": [
+        "COIN",
+        "SPCX"
+      ],
+      "contextual_peer_names": {
+        "COIN": "Coinbase Global",
+        "SPCX": "Space Exploration Technologies"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": null,
+      "enriched_at": "2026-06-16T18:36:35.682391-04:00"
+    },
+    "NVDY": {
+      "name": "YieldMax NVDA Option Income Strategy ETF",
+      "summary": "YieldMax NVDA Option Income Strategy ETF (NVDY) tracks the performance of NVIDIA Corporation, a leading provider of graphics processing units (GPUs) and artificial intelligence (AI) computing hardware, which is a key component in the development of cardiometabolic health solutions. The fund aims to provide a high level of income and a relatively low level of volatility. It uses options to achieve its investment objective.",
+      "news_role": "As a leading provider of GPUs and AI computing hardware, NVIDIA is a key component in the development of cardiometabolic health solutions, making it a relevant player in the financial news.",
+      "contextual_peers": [
+        "TGT",
+        "KMB",
+        "PG",
+        "LLY"
+      ],
+      "contextual_peer_names": {
+        "TGT": "Target",
+        "KMB": "Kimberly-Clark",
+        "PG": "Procter Gamble",
+        "LLY": "Eli Lilly"
+      },
+      "industry": null,
+      "exchange": null,
+      "industry_peers": [],
+      "industry_peer_names": {},
+      "industry_peer_theme": null,
+      "filing_date": null,
+      "enriched_at": "2026-06-13T18:36:26.253009-04:00"
     }
   }
 }
