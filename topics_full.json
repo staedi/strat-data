@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-16T18:25:46.474804-04:00",
+  "updated_at": "2026-06-16T18:57:08.849385-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -82,7 +82,7 @@
             }
           ],
           "ticker_summary": {
-            "DIS": "Disney's broadcast licenses for eight stations are subject to an early renewal process initiated by the FCC, which has led to a public notice and potential for public petitions to deny the renewal.",
+            "DIS": "Disney's broadcast licenses for eight stations are subject to a public petition process, allowing the public to potentially deny renewal.",
             "NYT": "No direct connection between NYT's sales performance in 1999 and the topic of media mergers and regulatory scrutiny.",
             "WBD": "The merger of Paramount and Warner Bros. has been cleared by the Division, which determined the proposed merger is not likely to result in harm to competition or American consumers.",
             "NFLX": "A deal to acquire WBD's streaming and film assets was upended by multiple offers."
@@ -167,7 +167,7 @@
             }
           ],
           "ticker_summary": {
-            "DIS": "Disney's flagship service, Disney+, launched in 2019, added a cheaper, ad tier in late 2022.",
+            "DIS": "Disney+ launched in 2019 and added a cheaper, ad tier in late 2022.",
             "GOOG": "Google's ability to compete with Meta in terms of tech-driven, data-driven platforms may be influenced by Disney's early investment and aggressive approach to in-house tech.",
             "META": "Advertisers are demanding increasingly accurate audience measurement, which is a key area where Disney's in-house tech and data-driven approach may be competing with Meta's capabilities."
           }
@@ -241,7 +241,7 @@
           "ticker_summary": {
             "KMB": "Exposure to the competitive Asian diaper market is fueling innovation.",
             "PG": "U.S. diaper volume shrank 2% in fiscal second quarter.",
-            "LLY": "Prescriptions of Foundayo are \"markedly higher\" than previously reported, and the drug is expected to be made available in New Orleans, potentially gaining ground on Novo's Wegovy shot."
+            "LLY": "Prescriptions of Foundayo are \"markedly higher\" than previously reported, indicating a potential increase in sales."
           }
         }
       ]
@@ -625,13 +625,12 @@
           "ticker_summary": {
             "JPM": "The planned deployment of autonomous AI agents later this year is expected to mark another milestone in corporate adoption of AI.",
             "GS": "Internal use of AI agents for tasks like writing code is a step towards allowing external agents to connect directly to their systems.",
-            "MS": "Converting corporate clients' employees into advisory clients through administering employee stock plans is a key strategy for scaling services without adding employees.",
-            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to AI-driven efficiencies, but the company may need to hire more workers inside fulfillment centers to support its robotics investment.",
-            "NVDA": "A humanoid-focused AI testing package is being sold to researchers from Stanford to ETH Zurich, featuring Nvidia's Jetson Thor hardware and advanced Blackwell GPU.",
+            "MS": "Converting corporate clients into advisory clients through employee stock plan administration could potentially increase wealth management assets by $1.2 trillion.",
+            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to automation enabled by artificial intelligence.",
+            "NVDA": "This partnership with Unitree for the first robotics system sold to researchers from Stanford to ETH Zurich is the first such sale by the U.S. chipmaker.",
             "QCOM": "This financing round features Qualcomm as one of the investors alongside other prominent companies.",
             "META": "Meta Platforms scored 100 in the S&P 500, categorizing it as a communication services name.",
             "MSFT": "Expectations of a shrinking workforce over the coming years may reduce total corporate workforce.",
-            "ORCL": "No specific business impact or implication is mentioned for Oracle related to this topic.",
             "CRM": "Expectations of AI-driven workforce reduction are mentioned in a memo by CEO Andy Jassy."
           }
         },
@@ -943,9 +942,9 @@
           ],
           "ticker_summary": {
             "AMZN": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
-            "AAPL": "A more powerful version of Siri with a standalone chatbot-style app and personal context could be a major shift for Apple, potentially closing the AI gap through partnerships instead of massive data center spending.",
+            "AAPL": "A more powerful Siri experience with a standalone chatbot-style app and personal context could convince customers and developers that Siri is finally useful and worth building for.",
             "GS": "Developers using Apple Intelligence tools to build new apps could drive iPhone and services growth.",
-            "GOOG": "Google's Gemini models could be used to build a deeper routing system for Apple's AI-powered features, providing a major proof point for Gemini.",
+            "GOOG": "Google's Gemini models could be integrated into Apple's AI strategy, providing a major proof point for Gemini and building on a lucrative search partnership.",
             "META": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
             "MSFT": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
             "NVDA": "Recent Nvidia improvements, such as \"ambiguous confidential compute,\" allowed Apple and Google to build a system that met Apple's standards for private cloud compute."
@@ -1098,10 +1097,10 @@
           ],
           "ticker_summary": {
             "AMZN": "Amazon has sprinkled references to tokens into remarks on earnings calls in the past year.",
-            "GOOG": "Google's cloud business is on a tear, and the company has signed a deal with SpaceX to provide compute capacity to meet surging customer demand for its agent platform, Gemini Enterprise.",
+            "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and SpaceX's AI division is a niche player in a market dominated by Google, OpenAI, and Anthropic.",
             "MSFT": "Tokens are mentioned in remarks on earnings calls by companies including Microsoft.",
             "NVDA": "About 110,000 graphics processing units, central processors, memory, and other components will be supplied by Nvidia to Google for use in its data centers.",
-            "SPCX": "The company's operating success will come down to how effectively it uses its available computing power.",
+            "SPCX": "Using its own massive data centers will be crucial to SpaceX's operating success.",
             "BRK-B": "$10 billion investment by Berkshire Hathaway is part of $85 billion in stock sales by Alphabet.",
             "META": "Reliance Industries will build a data center for Meta within two years, with an option to scale, to help scale AI infrastructure globally."
           }
@@ -1490,9 +1489,9 @@
             }
           ],
           "ticker_summary": {
-            "BA": "Production of the 737 Max 10 is expected to start with an assembly line, with a long-term goal of 63 planes per month, and is capped by the Federal Aviation Administration due to safety and quality issues.",
+            "BA": "GE Aerospace's CFM joint venture with Safran powers Boeing's 737 Max, and a CFM56 engine's price increased by 17% since 2019.",
             "GE": "Engine supplier profits have jumped, prompting criticism from airline executives.",
-            "UAL": "The airline's trans-Pacific business generated $6.89 billion in revenue, compared to Delta's $2.79 billion."
+            "UAL": "Delta's smaller network generated $2.79 billion in revenue for its trans-Pacific business, compared to $6.89 billion for United."
           }
         }
       ]
@@ -1664,13 +1663,13 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "A perpetual futures contract tied to SpaceX is being offered by Coinbase, which will convert to a regular perpetual future once SpaceX goes public.",
+            "SPCX": "Private-market excitement around SpaceX has led to the creation of a derivative settled in the USDC stablecoin that tracks the private-market valuation of Elon Musk's space company.",
             "AMD": "This year's significant increase in the value of chipmakers AMD, Intel, and Micron may have a positive impact on AMD's value.",
             "C": "Citi analyst Alex Saunders stated that flows are the primary driver of BTC price appreciation.",
             "INTC": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron suggests a positive correlation between the performance of these companies and the crypto market.",
             "MU": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron more than doubles the value of Micron.",
             "AVAT": "Ownership of approximately 15 million tokens represents roughly 3.5% of the supply in circulation.",
-            "COIN": "This new product offering expands on its vision of an \"Everything Exchange\" by providing price exposure to private companies, including SpaceX, through perpetual futures contracts, and earns trading fees on agent-executed trades.",
+            "COIN": "This new product offering expands on its vision of an \"Everything Exchange\" by providing price exposure to private companies before they go public, specifically starting with a perpetual futures contract tied to SpaceX.",
             "TSLA": "This offering is related to SpaceX, which is owned by Elon Musk, who is also the CEO of TSLA."
           }
         },
@@ -2783,7 +2782,7 @@
             "GS": "This year, Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion.",
             "MSCI": "MSCI's index-based ETFs, such as the iShares MSCI Emerging Markets ETF, are outperforming the U.S. market in the AI space.",
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
-            "C": "Citi advised on four energy deals worth $41.4 billion in 2026, outperforming its peers in the power sector.",
+            "C": "Citi advised on four energy deals worth $41.4 billion in 2026, while Goldman Sachs advised on 196 deals worth $992.3 billion this year.",
             "JPM": "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors.",
             "MS": "MS ranks ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic.",
             "WFC": "Down 12.1% in 2026 compared to other peers.",
@@ -2911,7 +2910,7 @@
           ],
           "ticker_summary": {
             "BAC": "Over 50% of the remaining performance obligation for Oracle shares comes from OpenAI.",
-            "ORCL": "A $20 billion capital raise is expected, and a $70 billion capital expenditure is planned for fiscal 2027, excluding $20 billion to $25 billion in prepayments.",
+            "ORCL": "Negative free cash flow for the fiscal year is a concern.",
             "BRK-B": "This $6.8 billion acquisition deepens the conglomerate's bet on the U.S. housing market after a prolonged downturn.",
             "GOOG": "$10 billion investment in Alphabet will help fund its spending on \"world-class AI compute infrastructure\" to meet \"unprecedented customer demand\".",
             "BX": "$16 billion funding secured for a data center site in Michigan.",
@@ -3567,7 +3566,7 @@
             }
           ],
           "ticker_summary": {
-            "PHM": "No specific business impact or implication is mentioned.",
+            "PHM": "Trump's nomination of Clayton as DNI may lead to a delay in Pulte's transition to acting director of the Federal Housing Finance Agency.",
             "JEF": "Bill Pulte's nomination as acting director of national intelligence may lead to skepticism among national security Democrats who could impact the market's perception of the intelligence community's effectiveness."
           }
         },
@@ -4078,7 +4077,7 @@
             "GS": "Climed more than 2% in Friday's session.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO offering.",
-            "SPCX": "Revenue increased 15% to $4.69 billion in the first quarter from $4.07 billion a year earlier.",
+            "SPCX": "Capital expenditures more than doubled from a year earlier, reaching $10.1 billion in the first quarter.",
             "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
             "MSFT": "None",
@@ -4092,7 +4091,6 @@
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
             "NDAQ": "A letter was sent to Nasdaq, S&P Dow Jones Indices, FTSE Russell, and Morningstar Indexes regarding potential rule changes.",
-            "ALK": "No information is provided about Alaska Air Group's business impact or implications related to SpaceX's Starlink or Amazon Leo.",
             "AAL": "Wi-Fi service on more than 500 narrow-body aircraft will be provided by Starlink.",
             "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services.",
             "UAL": "Starlink has been selected by United, Southwest Airlines, and Alaska Airlines, which merged with Hawaiian Airlines, while Delta will use Amazon Leo starting in 2028.",
@@ -4248,7 +4246,7 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "There are no direct comparisons to SpaceX in the current market, making hedging and investment strategies challenging for investors who own SpaceX equity via private markets.",
+            "SPCX": "There are no direct comparisons to SpaceX in the current market, making hedging and managing risk challenging for investors who own SpaceX equity via private markets.",
             "AMZN": "Amazon is included in the ARKX ETF, which tracks a broad range of top stocks, including those in the space and defense industry.",
             "DE": "Deere's inclusion in the ARKX ETF, which tracks top stocks including SpaceX, may influence its market performance.",
             "TSLA": "Retail investors through brokerage firms have access to SpaceX's offering, a level typically reserved for institutions.",
@@ -4311,7 +4309,7 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "SpaceX's debut is expected to reward institutions responsible for funding retirements, scholarships and academic research."
+            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
           }
         }
       ]
