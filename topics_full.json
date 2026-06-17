@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-16T18:57:08.849385-04:00",
+  "updated_at": "2026-06-16T19:52:47.675564-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -69,23 +69,11 @@
               "ticker": "NYT",
               "name": "New York Times",
               "count": 1
-            },
-            {
-              "ticker": "WBD",
-              "name": "Warner Bros Discovery",
-              "count": 1
-            },
-            {
-              "ticker": "NFLX",
-              "name": "Netflix",
-              "count": 1
             }
           ],
           "ticker_summary": {
             "DIS": "Disney's broadcast licenses for eight stations are subject to a public petition process, allowing the public to potentially deny renewal.",
-            "NYT": "No direct connection between NYT's sales performance in 1999 and the topic of media mergers and regulatory scrutiny.",
-            "WBD": "The merger of Paramount and Warner Bros. has been cleared by the Division, which determined the proposed merger is not likely to result in harm to competition or American consumers.",
-            "NFLX": "A deal to acquire WBD's streaming and film assets was upended by multiple offers."
+            "NYT": "No direct connection between NYT's sales performance in 1999 and the topic of media mergers and regulatory scrutiny."
           }
         },
         {
@@ -237,12 +225,7 @@
               "name": "Kimberly-Clark",
               "count": 3
             }
-          ],
-          "ticker_summary": {
-            "KMB": "Exposure to the competitive Asian diaper market is fueling innovation.",
-            "PG": "U.S. diaper volume shrank 2% in fiscal second quarter.",
-            "LLY": "Prescriptions of Foundayo are \"markedly higher\" than previously reported, indicating a potential increase in sales."
-          }
+          ]
         }
       ]
     },
@@ -397,26 +380,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "CRWD",
-              "name": "CrowdStrike",
-              "count": 6
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 5
-            },
-            {
-              "ticker": "PLTR",
-              "name": "Palantir Technologies",
-              "count": 4
-            },
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 2
-            },
-            {
               "ticker": "PANW",
               "name": "Palo Alto Networks",
               "count": 2
@@ -433,14 +396,10 @@
             }
           ],
           "ticker_summary": {
-            "PLTR": "Enterprise customers are unhappy with how the frontier labs are operating.",
             "GS": "GS is involved in the filing process for an AI-related IPO.",
             "MS": "MS has been working with Goldman Sachs on the filing.",
-            "SPCX": "Merging with xAI earlier this year may influence SpaceX's offering and its potential to raise massive capital.",
-            "CRWD": "Increasing cyberattacks from China-based entities aimed at stealing artificial intelligence to narrow the tech gap with the U.S.",
             "PANW": "Shares of Palo Alto Networks lost 3% following this week's cybersecurity earnings.",
-            "RBRK": "Rubrik is one of 151 additional partners to Anthropic's Project Glasswing testing program.",
-            "MSFT": "Satya Nadella is being advised to focus on a project by Reid Hoffman, a co-founder of Manas, which is an AI-native biopharmaceutical company."
+            "RBRK": "Rubrik is one of 151 additional partners to Anthropic's Project Glasswing testing program."
           }
         },
         {
@@ -587,34 +546,9 @@
           },
           "related_tickers": [
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 8
-            },
-            {
-              "ticker": "MS",
-              "name": "Morgan Stanley",
-              "count": 7
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 6
-            },
-            {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
-              "count": 4
-            },
-            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 3
-            },
-            {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 1
             },
             {
               "ticker": "QCOM",
@@ -623,15 +557,8 @@
             }
           ],
           "ticker_summary": {
-            "JPM": "The planned deployment of autonomous AI agents later this year is expected to mark another milestone in corporate adoption of AI.",
-            "GS": "Internal use of AI agents for tasks like writing code is a step towards allowing external agents to connect directly to their systems.",
-            "MS": "Converting corporate clients into advisory clients through employee stock plan administration could potentially increase wealth management assets by $1.2 trillion.",
-            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to automation enabled by artificial intelligence.",
-            "NVDA": "This partnership with Unitree for the first robotics system sold to researchers from Stanford to ETH Zurich is the first such sale by the U.S. chipmaker.",
             "QCOM": "This financing round features Qualcomm as one of the investors alongside other prominent companies.",
-            "META": "Meta Platforms scored 100 in the S&P 500, categorizing it as a communication services name.",
-            "MSFT": "Expectations of a shrinking workforce over the coming years may reduce total corporate workforce.",
-            "CRM": "Expectations of AI-driven workforce reduction are mentioned in a memo by CEO Andy Jassy."
+            "META": "Meta Platforms scored 100 in the S&P 500, categorizing it as a communication services name."
           }
         },
         {
@@ -741,16 +668,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "BX",
-              "name": "Blackstone",
-              "count": 2
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
               "ticker": "MDB",
               "name": "MongoDB",
               "count": 1
@@ -759,33 +676,12 @@
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
               "count": 1
-            },
-            {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 1
-            },
-            {
-              "ticker": "JHG",
-              "name": "Janus Henderson Group",
-              "count": 1
-            },
-            {
-              "ticker": "PLTR",
-              "name": "Palantir Technologies",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "AMZN": "Aurora, a database service, competes directly with MongoDB.",
             "MDB": "Aurora, Amazon's cloud division, offers a database service that directly competes with MongoDB's offerings.",
             "BRK-B": "Permanent holding of Long Lake's companies is a strategy employed by Berkshire Hathaway.",
-            "BX": "Partnerships with Anthropic and OpenAI are a response to AI disruptions in venture capital.",
-            "GS": "Partnerships with Anthropic, Blackstone, Hellman & Friedman, and OpenAI are backed by Goldman Sachs.",
-            "JHG": "Two private equity firms have taken control of the company through take-private agreements.",
-            "PLTR": "Long Lake's engineers, who came from Ramp and where engineers work on site with customers for months at a time, are likely to be impacted by AI disruptions in the venture capital industry.",
             "DASH": "A head of engineering at DoorDash predicts that workflow-driven enterprise SaaS companies will be either disrupted or dead in the next decade.",
-            "GOOG": "Low interest rates and the assumption of easily acquired talent led to growth at high valuations.",
             "CRM": "Shares of public software companies like Salesforce got hammered this year because of the threat from artificial intelligence.",
             "NOW": "Shares of ServiceNow got hammered this year due to the threat from artificial intelligence."
           }
@@ -905,11 +801,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 39
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 8
@@ -918,35 +809,10 @@
               "ticker": "NVDA",
               "name": "Nvidia",
               "count": 4
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 1
-            },
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "AMZN": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
-            "AAPL": "A more powerful Siri experience with a standalone chatbot-style app and personal context could convince customers and developers that Siri is finally useful and worth building for.",
-            "GS": "Developers using Apple Intelligence tools to build new apps could drive iPhone and services growth.",
             "GOOG": "Google's Gemini models could be integrated into Apple's AI strategy, providing a major proof point for Gemini and building on a lucrative search partnership.",
-            "META": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
-            "MSFT": "Spending tens of billions of dollars a year on AI infrastructure is a significant investment.",
             "NVDA": "Recent Nvidia improvements, such as \"ambiguous confidential compute,\" allowed Apple and Google to build a system that met Apple's standards for private cloud compute."
           }
         },
@@ -1060,11 +926,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 25
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 17
@@ -1085,22 +946,15 @@
               "count": 2
             },
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "AMZN": "Amazon has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and SpaceX's AI division is a niche player in a market dominated by Google, OpenAI, and Anthropic.",
             "MSFT": "Tokens are mentioned in remarks on earnings calls by companies including Microsoft.",
             "NVDA": "About 110,000 graphics processing units, central processors, memory, and other components will be supplied by Nvidia to Google for use in its data centers.",
-            "SPCX": "Using its own massive data centers will be crucial to SpaceX's operating success.",
             "BRK-B": "$10 billion investment by Berkshire Hathaway is part of $85 billion in stock sales by Alphabet.",
             "META": "Reliance Industries will build a data center for Meta within two years, with an option to scale, to help scale AI infrastructure globally."
           }
@@ -1151,16 +1005,10 @@
               "ticker": "SPGI",
               "name": "S&P Global",
               "count": 1
-            },
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "SPGI": "Estimated investment in OpenAI may impact S&P Global's portfolio valuation.",
-            "TSLA": "Elon Musk's net worth could potentially increase by trillions of dollars."
+            "SPGI": "Estimated investment in OpenAI may impact S&P Global's portfolio valuation."
           }
         }
       ]
@@ -1251,11 +1099,6 @@
               "count": 2
             },
             {
-              "ticker": "GM",
-              "name": "General Motors",
-              "count": 1
-            },
-            {
               "ticker": "LMT",
               "name": "Lockheed Martin",
               "count": 1
@@ -1268,7 +1111,6 @@
           ],
           "ticker_summary": {
             "F": "Shift in focus to energy storage may ease pressure on US battery plants.",
-            "GM": "Efforts to promote different battery cell chemistries and offer support for electric vehicle owners may indirectly benefit from the expected growth of energy storage and data centers.",
             "LMT": "Former employees of Lockheed Martin are part of the leadership team of Peak Energy.",
             "NVDA": "Employment of roughly 7,000 engineers for semiconductor development is related to Nvidia's involvement with BYD."
           }
@@ -1381,16 +1223,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 2
-            },
-            {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 1
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
@@ -1402,8 +1234,6 @@
             }
           ],
           "ticker_summary": {
-            "AAPL": "Manufacturers may absorb some of the hit, led by absorbing increased cost elsewhere, such as slimmer promotions, higher storage costs, and pushing consumers toward more expensive configurations.",
-            "GS": "PCB price increase cited in a Goldman Sachs note may have implications for clients or investors in the electronics or manufacturing sectors.",
             "GOOG": "Competition for PCB-grade glass cloth from a single supplier affects Alphabet's operations in this niche market.",
             "NVDA": "Competition for PCB-grade glass cloth from a single supplier affects Nvidia's market position in this niche."
           }
@@ -1473,25 +1303,13 @@
           },
           "related_tickers": [
             {
-              "ticker": "UAL",
-              "name": "United Airlines",
-              "count": 8
-            },
-            {
               "ticker": "BA",
               "name": "Boeing",
               "count": 6
-            },
-            {
-              "ticker": "GE",
-              "name": "GE Aerospace",
-              "count": 2
             }
           ],
           "ticker_summary": {
-            "BA": "GE Aerospace's CFM joint venture with Safran powers Boeing's 737 Max, and a CFM56 engine's price increased by 17% since 2019.",
-            "GE": "Engine supplier profits have jumped, prompting criticism from airline executives.",
-            "UAL": "Delta's smaller network generated $2.79 billion in revenue for its trans-Pacific business, compared to $6.89 billion for United."
+            "BA": "GE Aerospace's CFM joint venture with Safran powers Boeing's 737 Max, and a CFM56 engine's price increased by 17% since 2019."
           }
         }
       ]
@@ -1627,21 +1445,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "COIN",
-              "name": "Coinbase Global",
-              "count": 10
-            },
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 9
-            },
-            {
-              "ticker": "AVAT",
-              "name": "Avalanche Treasury",
-              "count": 2
-            },
-            {
               "ticker": "AMD",
               "name": "Advanced Micro Devices",
               "count": 1
@@ -1655,21 +1458,12 @@
               "ticker": "INTC",
               "name": "Intel",
               "count": 1
-            },
-            {
-              "ticker": "MU",
-              "name": "Micron Technology",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "SPCX": "Private-market excitement around SpaceX has led to the creation of a derivative settled in the USDC stablecoin that tracks the private-market valuation of Elon Musk's space company.",
             "AMD": "This year's significant increase in the value of chipmakers AMD, Intel, and Micron may have a positive impact on AMD's value.",
             "C": "Citi analyst Alex Saunders stated that flows are the primary driver of BTC price appreciation.",
             "INTC": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron suggests a positive correlation between the performance of these companies and the crypto market.",
-            "MU": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron more than doubles the value of Micron.",
-            "AVAT": "Ownership of approximately 15 million tokens represents roughly 3.5% of the supply in circulation.",
-            "COIN": "This new product offering expands on its vision of an \"Everything Exchange\" by providing price exposure to private companies before they go public, specifically starting with a perpetual futures contract tied to SpaceX.",
             "TSLA": "This offering is related to SpaceX, which is owned by Elon Musk, who is also the CEO of TSLA."
           }
         },
@@ -1763,44 +1557,20 @@
               "count": 1
             },
             {
-              "ticker": "SCHW",
-              "name": "Charles Schwab",
-              "count": 1
-            },
-            {
               "ticker": "IBKR",
               "name": "Interactive Brokers Group",
-              "count": 1
-            },
-            {
-              "ticker": "TW",
-              "name": "Tradeweb Markets",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
               "count": 1
             },
             {
               "ticker": "BAC",
               "name": "Bank of America",
               "count": 1
-            },
-            {
-              "ticker": "COIN",
-              "name": "Coinbase Global",
-              "count": 1
             }
           ],
           "ticker_summary": {
             "GOOG": "A Google employee's insider trading on Polymarket may reflect a potential vulnerability in the company's handling of its employees' access to sensitive information.",
-            "SCHW": "Low demand from traders for prediction markets is reported by CEO Rick Wurster.",
             "IBKR": "Integration of Kalshi contracts onto its platforms may expand IBKR's offerings to institutional traders.",
-            "TW": "Partnership with Kalshi expands access to its data, giving firms easy ways to view information related to its event contracts.",
-            "NVDA": "H100 GPU chip rental pricing is tracked by the Ornn Compute Price Index, a benchmark used in a contract traded on FalconX and Anera Labs.",
-            "BAC": "Regulatory approval from the Commodity Futures Trading Commission is a significant milestone for Kalshi, a prediction market platform, but it does not directly impact Bank of America.",
-            "COIN": "Regulatory approval allows U.S. traders to access global perp contracts through an affiliate."
+            "BAC": "Regulatory approval from the Commodity Futures Trading Commission is a significant milestone for Kalshi, a prediction market platform, but it does not directly impact Bank of America."
           }
         },
         {
@@ -1936,26 +1706,14 @@
               "count": 2
             },
             {
-              "ticker": "COIN",
-              "name": "Coinbase Global",
-              "count": 1
-            },
-            {
               "ticker": "HOOD",
               "name": "Robinhood Markets",
-              "count": 1
-            },
-            {
-              "ticker": "MSTR",
-              "name": "Strategy",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "COIN": "Market value fell by 72% as of June 8.",
             "NDAQ": "A proposed board nomination was rejected due to a discussion with Nasdaq.",
-            "HOOD": "Investors can buy the company's stock easily through a platform such as Robinhood, rather than dealing with the complexities of directly owning crypto.",
-            "MSTR": "Holds bitcoin."
+            "HOOD": "Investors can buy the company's stock easily through a platform such as Robinhood, rather than dealing with the complexities of directly owning crypto."
           }
         }
       ]
@@ -2271,37 +2029,13 @@
           },
           "related_tickers": [
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 3
-            },
-            {
               "ticker": "MCO",
               "name": "Moody's",
               "count": 2
-            },
-            {
-              "ticker": "MCD",
-              "name": "McDonald's",
-              "count": 1
-            },
-            {
-              "ticker": "SPGI",
-              "name": "S&P Global",
-              "count": 1
-            },
-            {
-              "ticker": "CG",
-              "name": "Carlyle Group",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "GS": "Payroll gains are expected to be 60,000, indicating a slowdown in job growth.",
-            "MCD": "Lower-income consumer spending may be decreasing.",
-            "MCO": "Moody's chief economist's statement implies that the company's data may be used to quantify the economic pain Americans are feeling.",
-            "SPGI": "The company's China General Manufacturing Purchasing Managers' Index came in at 51.8, a touch above the 51.6 expected.",
-            "CG": "Head of global research and strategy Jason Thomas notes key differences between now and then."
+            "MCO": "Moody's chief economist's statement implies that the company's data may be used to quantify the economic pain Americans are feeling."
           }
         },
         {
@@ -2550,11 +2284,6 @@
             "GOOG": [
               "In a note Thursday, HSBC analysts led by Max Kettner, chief multi-asset strategist, flagged a slide in chip prices, coupled with a slowdown in AI spending and rollout, as among their \"biggest worries.\" Vinh noted that Broadcom has suffered a degree of share loss within its largest customer, Google, which has started diversifying toward other chip suppliers. \"The near-term pull-back makes sense,\" Vinh explained, but added he remains optimistic on Broadcom."
             ],
-            "PHM": [
-              "Clayton is expected to take the baton from Bill Pulte, who last week was tapped by Trump to serve as acting director after Tulsi Gabbard resigned.",
-              "Pulte's lack of experience in intelligence has drawn criticism from Democrats, along with some GOP lawmakers.",
-              "Democrats have pledged to vote against any short-term extension of Section 702 of the Foreign Intelligence Surveillance Act — a major national security tool — following Pulte's appointment."
-            ],
             "META": [
               "Add it all together and you get the worst day for the Nasdaq since April 2025. \"It didn't take much to cascade lower,\" said Danny Kirsch, head of options at Piper Sandler. \"There's enormous assets in leveraged ETFs particularly tied to semis, and giant hyperscalers Meta and Alphabet issuing equity in front of a huge IPO… not great, Bob.\"",
               "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure Meta Platforms said on Wednesday it will lease an artificial intelligence-enabled data center in India with 168 megawatts of capacity from billionaire Mukesh Ambani's Reliance Industries ."
@@ -2574,11 +2303,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 5
-            },
-            {
               "ticker": "MU",
               "name": "Micron Technology",
               "count": 4
@@ -2594,30 +2318,14 @@
               "count": 3
             },
             {
-              "ticker": "PHM",
-              "name": "Pultegroup",
-              "count": 3
-            },
-            {
               "ticker": "NDAQ",
               "name": "Nasdaq",
-              "count": 2
-            },
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
               "count": 2
             }
           ],
           "ticker_summary": {
-            "LULU": "Shares sank 11% after lowering full-year earnings and revenue guidance.",
             "NDAQ": "The Nasdaq 100's 80% rally in semiconductor stocks added roughly half a trillion dollars in market cap.",
-            "TSLA": "SpaceX's potential entry into the S&P 500 index is ruled out due to unchanged index requirements.",
-            "NVDA": "A partnership with a chipmaker could result in a potential trillion-dollar valuation.",
-            "SPGI": "Ruling out a swift entry for SpaceX into the S&P 500 index effectively limits the world's biggest-ever IPO's potential for rapid market integration.",
-            "SPCX": "A swift entry into the S&P 500 index is ruled out due to unchanged index requirements.",
             "APP": "Being added to the index in recent years alongside other technology companies may imply increased visibility and market exposure for Applovin.",
-            "DASH": "Recent additions to the index include technology companies that have experienced decline.",
             "MRVL": "Calls outnumbered puts three to one, and more than 80% of premiums in Marvell Technology.",
             "POOL": "Replacing Pool Corp will result in two companies taking its place.",
             "HOOD": "Being added to the index in recent years alongside other technology companies may imply increased visibility and market exposure for HOOD.",
@@ -2625,11 +2333,6 @@
             "MU": "Micron Technology's stock fell nearly 8% and its weakness spread across the sector, dragging the VanEck Semiconductor ETF down more than 1%.",
             "AVGO": "Weaker-than-expected earnings and a slowdown in AI spending and rollout are among the biggest worries for Broadcom.",
             "GOOG": "Google's largest customer, Broadcom, has started diversifying toward other chip suppliers, resulting in a degree of share loss.",
-            "PHM": "Pulte's appointment as acting director of intelligence has drawn criticism from Democrats, which may impact the company's business.",
-            "META": "Leasing an artificial intelligence-enabled data center in India with 168 megawatts of capacity is a move to bolster its infrastructure.",
-            "ORCL": "$20 billion in additional funding will be used to pay for an artificial intelligence buildout.",
-            "BX": "Withdrawal caps were implemented following a spike in investor redemption requests.",
-            "INTC": "Alphabet reportedly commissioned to make 3 million in-house AI chips.",
             "PRU": "PRU fell to the bottom of the FTSE 100."
           }
         },
@@ -2748,11 +2451,6 @@
               "count": 8
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 4
-            },
-            {
               "ticker": "JPM",
               "name": "JPMorgan Chase",
               "count": 4
@@ -2771,21 +2469,14 @@
               "ticker": "MS",
               "name": "Morgan Stanley",
               "count": 1
-            },
-            {
-              "ticker": "WFC",
-              "name": "Wells Fargo",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "GS": "This year, Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion.",
             "MSCI": "MSCI's index-based ETFs, such as the iShares MSCI Emerging Markets ETF, are outperforming the U.S. market in the AI space.",
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
             "C": "Citi advised on four energy deals worth $41.4 billion in 2026, while Goldman Sachs advised on 196 deals worth $992.3 billion this year.",
             "JPM": "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors.",
             "MS": "MS ranks ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic.",
-            "WFC": "Down 12.1% in 2026 compared to other peers.",
             "CME": "Fed rate hike by December is priced in at 67% by CME Group's FedWatch tool."
           }
         },
@@ -2878,29 +2569,9 @@
           },
           "related_tickers": [
             {
-              "ticker": "ORCL",
-              "name": "Oracle",
-              "count": 11
-            },
-            {
-              "ticker": "BRK-B",
-              "name": "Berkshire Hathaway",
-              "count": 6
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 2
-            },
-            {
-              "ticker": "BAC",
-              "name": "Bank of America",
-              "count": 1
-            },
-            {
-              "ticker": "BX",
-              "name": "Blackstone",
-              "count": 1
             },
             {
               "ticker": "OXY",
@@ -2909,11 +2580,7 @@
             }
           ],
           "ticker_summary": {
-            "BAC": "Over 50% of the remaining performance obligation for Oracle shares comes from OpenAI.",
-            "ORCL": "Negative free cash flow for the fiscal year is a concern.",
-            "BRK-B": "This $6.8 billion acquisition deepens the conglomerate's bet on the U.S. housing market after a prolonged downturn.",
             "GOOG": "$10 billion investment in Alphabet will help fund its spending on \"world-class AI compute infrastructure\" to meet \"unprecedented customer demand\".",
-            "BX": "$16 billion funding secured for a data center site in Michigan.",
             "OXY": "A $9.7 billion cash deal was reached to purchase OxyChem, the chemical business of Occidental Petroleum."
           }
         },
@@ -2974,10 +2641,7 @@
               "name": "Blackstone",
               "count": 5
             }
-          ],
-          "ticker_summary": {
-            "BX": "Restricting withdrawals from its flagship fund is a response to a spike in investor redemption requests."
-          }
+          ]
         }
       ]
     },
@@ -3251,13 +2915,7 @@
               "name": "Space Exploration Technologies",
               "count": 1
             }
-          ],
-          "ticker_summary": {
-            "IVZ": "Earnings hurdles move higher across the board due to rising energy costs and the real cost of capital.",
-            "JPM": "Estimated volumes of crude and petroleum products may be transiting the Strait, potentially impacting the bank's business.",
-            "TSLA": "Starlink internet service is viewed as a military target by Iranian state media.",
-            "SPCX": "Starlink internet service would be viewed as a military target."
-          }
+          ]
         },
         {
           "cluster_id": 21,
@@ -3393,12 +3051,7 @@
               "name": "Microsoft",
               "count": 1
             }
-          ],
-          "ticker_summary": {
-            "MSFT": "Bill Gates' appearance before the panel may raise questions about potential conflicts of interest due to his connection to Epstein.",
-            "JPM": "$290 million settlement payment to Epstein's victims is a direct financial implication.",
-            "COO": "A stay of the order could potentially allow for the removal of Trump's name from the Kennedy Center's facade."
-          }
+          ]
         },
         {
           "cluster_id": 20,
@@ -3528,47 +3181,17 @@
             }
           ],
           "ticker_context": {
-            "PHM": [
-              "While Pulte's lack of obvious practical experience for the DNI has been a major source of concern for critics of his appointment, another factor has been his aggressiveness in targeting people who have angered Trump.",
-              "Pulte, who has no intelligence agency experience, will continue to serve as director of the Federal Housing Finance Agency until Trump nominates another person to be DNI.",
-              "Senate Majority Leader John Thune, R-S.D., told reporters that Clayton has a \"great reputation\" and that the Republican Senate leadership will try to get him confirmed \"as quickly as possible.\" Asked if there was a realistic chance of Clayton being confirmed before Pulte becomes acting director next week, Thune said, \"I don't know what realistic is, but we're going to probe the limits of it.\" Thune said he had not been informed by the White House that Clayton would be nominated before Trump made his announcement.",
-              "Trump has said that Pulte would retain his responsibilities leading the Federal Housing Finance Agency and serving as chairman of the mortgage groups Fannie Mae and Freddie Mac .",
-              "Hours before Trump's announcement, the House of Representatives rejected a proposal to extend Section 702 of the Foreign Intelligence Surveillance Act beyond Friday as Democrats refused to back the measure due to Trump's choice of Pulte.",
-              "Mark Warner, a Virginia Democrat who is the vice chairman of the Senate Select Committee on Intelligence, said he has \"great respect for Jay Clayton.\" But Warner questioned why Trump had delayed naming Clayton, given that the FISA extension was known to be in peril because of Pulte's appointment. \"Why he waited until after the House broke, I have no idea,\" Warner said. \"If there was any level of serious concern about this in the White House, the House has already left town,\" Warner said. \"Bill Pulte is a national security threat,\" he said.",
-              "Senate Minority Leader Chuck Schumer, D-N.Y., did not directly comment on Clayton's appointment, but told reporters that it was crucial that Pulte not serve as director of national intelligence. \"The DNI role is too important,\" Schumer said. \"He cannot be there, no ands, ifs, or buts.\" \"Doesn't matter what else they do.",
-              "Trump's surprise announcement comes after more than a week of controversy over his appointment of Pulte, who is a top federal housing official, to replace Director Tulsi Gabbard in an acting role when she leaves that post.",
-              "The move sparked criticism on Capitol Hill, where lawmakers decried his lack of intelligence experience and his history as a political attack dog for Trump. \"It's not a permanent, he's not going to be permanent, because you know, I don't think he'd want to be permanent,\" Trump told reporters at the White House on Thursday when asked why he thinks Pulte is the best person for the job.",
-              "Trump hinted at Pulte digging into domestic investigations, despite the U.S. intelligence community's focus on foreign targets. \"He's a very smart guy, and you may find out some things about the rigged elections, etc., etc.\" Gabbard sparked controversy in January when she showed up at an FBI raid that seized records related to the 2020 election from the Fulton County Clerk's Office in Georgia.",
-              "Pulte is \"somebody just to take it over for a little while,\" the president said.",
-              "Trump previously said Pulte would continue to lead FHFA and serve as chairman of the mortgage groups Fannie Mae and Freddie Mac while serving as acting DNI.",
-              "Trump also said Pulte had qualifications for the job, despite his lack of a background in intelligence. \"I think he does, actually, because he's smart,\" Trump said. \"I wasn't greatly experienced in national security, and I think I've done a really great job with it.\" \"I would say that Bill is a guy that will be able to figure it out very quickly,\" Trump said. \"Again, it's short-term, but he may be very effective for a short period.\" Senate Majority Leader John Thune , R-S.D. on Tuesday had scoffed at Pulte's appointment. \"We don't need a weaponized DNI, we need professionals there,\" Thune said.",
-              "And then let's see where we wind up at the end of the week.\" Some Republicans have also called on Trump to drop Pulte as acting director of national intelligence. \"FISA gives us over 50% of our most sensitive intelligence and has enabled the U.S. to stop multiple terrorist attacks,\" Rep.",
-              "Democrats have vowed to oppose any FISA extension as long as Pulte is Trump's pick for DNI, making the odds of a short-term patch unlikely.",
-              "Earlier this month Trump tapped Pulte , who leads the Federal Housing Finance Agency and has used his perch to launch a series of probes into several of the president's political opponents over allegations of mortgage-related wrongdoing.",
-              "Trump said he'd asked Pulte \"to execute the immediate and needed downsizing of the office , reverting staff to their home agencies.\" Senate leaders in both parties on Wednesday were floating the idea of another short-term extension.",
-              "I would like to thank Director Pulte for his time and commitment.\" Trump has called for a clean extension of the program, while many in Congress want restrictions on the law's warrantless surveillance provisions.",
-              "Republicans, too, have publicly questioned Trump's choice of Pulte. \"We don't need a weaponized DNI, we need professionals there,\" Senate Majority Leader John Thune , R-S.D., told reporters on Capitol Hill last week."
-            ],
             "JEF": [
               "He wouldn't say whether he would encourage fellow Democrats to vote against the measure. \"Many of the national security Democrats who have historically been supportive of continuing the surveillance authority as it currently exists have deep skepticism about moving forward with even a short-term extension as long as Bill Pulte is on track to be the acting director of national intelligence,\" Jeffries said."
             ]
           },
           "related_tickers": [
             {
-              "ticker": "PHM",
-              "name": "Pultegroup",
-              "count": 19
-            },
-            {
               "ticker": "JEF",
               "name": "Jefferies Financial Group",
               "count": 1
             }
-          ],
-          "ticker_summary": {
-            "PHM": "Trump's nomination of Clayton as DNI may lead to a delay in Pulte's transition to acting director of the Federal Housing Finance Agency.",
-            "JEF": "Bill Pulte's nomination as acting director of national intelligence may lead to skepticism among national security Democrats who could impact the market's perception of the intelligence community's effectiveness."
-          }
+          ]
         },
         {
           "cluster_id": 10,
@@ -3622,18 +3245,12 @@
           },
           "related_tickers": [
             {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "META": "$1.6 billion in digital spending is expected to be allocated across platforms like Facebook, Google, Snapchat, and X during the cycle.",
             "GOOG": "Google is expected to receive $1.6 billion in digital advertising spending from politicians during the cycle."
           }
         }
@@ -4036,21 +3653,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 73
-            },
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
-              "count": 7
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 4
-            },
-            {
               "ticker": "HOOD",
               "name": "Robinhood Markets",
               "count": 4
@@ -4061,11 +3663,6 @@
               "count": 4
             },
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 3
-            },
-            {
               "ticker": "MS",
               "name": "Morgan Stanley",
               "count": 2
@@ -4074,27 +3671,17 @@
           "ticker_summary": {
             "BAC": "Bank of America is one of the lead bankers for SpaceX's IPO.",
             "C": "Citigroup is one of the lead bankers for SpaceX's IPO.",
-            "GS": "Climed more than 2% in Friday's session.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO offering.",
-            "SPCX": "Capital expenditures more than doubled from a year earlier, reaching $10.1 billion in the first quarter.",
-            "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
-            "MSFT": "None",
-            "NVDA": "Valuations north of $2 trillion have a notable impact on market capitalization.",
             "SCHW": "Charles Schwab will make shares available for SpaceX's IPO, and the amount of shares allocated to investors will influence their decision to invest.",
-            "TSLA": "Elon Musk's control of SpaceX and his role as CEO of another trillion-dollar company may raise concerns about conflicts of interest.",
-            "MU": "$58 billion in revenue over the past year is the smallest among the nine public trillion-dollar companies.",
             "HOOD": "Shares allocated to investors through Robinhood were subject to allocation uncertainty, with some investors receiving fewer shares than requested.",
             "SOFI": "Shares of SoFi Technologies will be made available through several brokerage platforms.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
             "NDAQ": "A letter was sent to Nasdaq, S&P Dow Jones Indices, FTSE Russell, and Morningstar Indexes regarding potential rule changes.",
-            "AAL": "Wi-Fi service on more than 500 narrow-body aircraft will be provided by Starlink.",
-            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services.",
-            "UAL": "Starlink has been selected by United, Southwest Airlines, and Alaska Airlines, which merged with Hawaiian Airlines, while Delta will use Amazon Leo starting in 2028.",
-            "PLTR": "Public markets are already paying for a version of this in Palantir."
+            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services."
           }
         },
         {
@@ -4215,28 +3802,8 @@
           },
           "related_tickers": [
             {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 27
-            },
-            {
-              "ticker": "ASTS",
-              "name": "AST SpaceMobile",
-              "count": 2
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
               "ticker": "DE",
               "name": "Deere",
-              "count": 1
-            },
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
               "count": 1
             },
             {
@@ -4246,12 +3813,8 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "There are no direct comparisons to SpaceX in the current market, making hedging and managing risk challenging for investors who own SpaceX equity via private markets.",
-            "AMZN": "Amazon is included in the ARKX ETF, which tracks a broad range of top stocks, including those in the space and defense industry.",
             "DE": "Deere's inclusion in the ARKX ETF, which tracks top stocks including SpaceX, may influence its market performance.",
-            "TSLA": "Retail investors through brokerage firms have access to SpaceX's offering, a level typically reserved for institutions.",
-            "RKLB": "Rocket Lab is a top holding in the Procure Space ETF, which has over $1.2 billion in assets.",
-            "ASTS": "Shares fell nearly 13% and jumped 12% alongside almost $140 million in options trading."
+            "RKLB": "Rocket Lab is a top holding in the Procure Space ETF, which has over $1.2 billion in assets."
           }
         },
         {
@@ -4307,10 +3870,7 @@
               "name": "Space Exploration Technologies",
               "count": 19
             }
-          ],
-          "ticker_summary": {
-            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
-          }
+          ]
         }
       ]
     },
@@ -4390,37 +3950,13 @@
           },
           "related_tickers": [
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 3
-            },
-            {
-              "ticker": "BKNG",
-              "name": "Booking",
-              "count": 1
-            },
-            {
-              "ticker": "LYFT",
-              "name": "Lyft",
-              "count": 1
-            },
-            {
               "ticker": "UBER",
               "name": "Uber Technologies",
-              "count": 1
-            },
-            {
-              "ticker": "AVGO",
-              "name": "Broadcom",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "GS": "Predictions for a boon to European and U.S. consumer staples, U.S. retail, and hospitality firms are forecasted.",
-            "BKNG": "Staying duration could benefit how long travelers are staying.",
-            "LYFT": "Increased demand for rideshare services around World Cup matches could lead to higher revenue for rideshare companies.",
-            "UBER": "Increased demand for rideshare services around World Cup matches could lead to higher revenue for Uber.",
-            "AVGO": "No relevant information is provided."
+            "UBER": "Increased demand for rideshare services around World Cup matches could lead to higher revenue for Uber."
           }
         },
         {
