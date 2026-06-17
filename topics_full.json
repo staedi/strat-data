@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-16T19:52:47.675564-04:00",
+  "updated_at": "2026-06-17T01:18:26.593915-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -380,6 +380,11 @@
           },
           "related_tickers": [
             {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 2
+            },
+            {
               "ticker": "PANW",
               "name": "Palo Alto Networks",
               "count": 2
@@ -398,6 +403,7 @@
           "ticker_summary": {
             "GS": "GS is involved in the filing process for an AI-related IPO.",
             "MS": "MS has been working with Goldman Sachs on the filing.",
+            "SPCX": "Merging with xAI earlier this year may influence SpaceX's offering and its potential to raise massive capital.",
             "PANW": "Shares of Palo Alto Networks lost 3% following this week's cybersecurity earnings.",
             "RBRK": "Rubrik is one of 151 additional partners to Anthropic's Project Glasswing testing program."
           }
@@ -546,6 +552,11 @@
           },
           "related_tickers": [
             {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 8
+            },
+            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 3
@@ -557,6 +568,7 @@
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to automation enabled by artificial intelligence.",
             "QCOM": "This financing round features Qualcomm as one of the investors alongside other prominent companies.",
             "META": "Meta Platforms scored 100 in the S&P 500, categorizing it as a communication services name."
           }
@@ -676,11 +688,17 @@
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
               "count": 1
+            },
+            {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 1
             }
           ],
           "ticker_summary": {
             "MDB": "Aurora, Amazon's cloud division, offers a database service that directly competes with MongoDB's offerings.",
             "BRK-B": "Permanent holding of Long Lake's companies is a strategy employed by Berkshire Hathaway.",
+            "GS": "Partnerships with Anthropic, Blackstone, Hellman & Friedman, and OpenAI are backed by Goldman Sachs.",
             "DASH": "A head of engineering at DoorDash predicts that workflow-driven enterprise SaaS companies will be either disrupted or dead in the next decade.",
             "CRM": "Shares of public software companies like Salesforce got hammered this year because of the threat from artificial intelligence.",
             "NOW": "Shares of ServiceNow got hammered this year due to the threat from artificial intelligence."
@@ -926,6 +944,11 @@
           },
           "related_tickers": [
             {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 25
+            },
+            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 17
@@ -946,15 +969,22 @@
               "count": 2
             },
             {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
               "count": 1
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and SpaceX's AI division is a niche player in a market dominated by Google, OpenAI, and Anthropic.",
             "MSFT": "Tokens are mentioned in remarks on earnings calls by companies including Microsoft.",
             "NVDA": "About 110,000 graphics processing units, central processors, memory, and other components will be supplied by Nvidia to Google for use in its data centers.",
+            "SPCX": "Using its own massive data centers will be crucial to SpaceX's operating success.",
             "BRK-B": "$10 billion investment by Berkshire Hathaway is part of $85 billion in stock sales by Alphabet.",
             "META": "Reliance Industries will build a data center for Meta within two years, with an option to scale, to help scale AI infrastructure globally."
           }
@@ -1005,10 +1035,16 @@
               "ticker": "SPGI",
               "name": "S&P Global",
               "count": 1
+            },
+            {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 1
             }
           ],
           "ticker_summary": {
-            "SPGI": "Estimated investment in OpenAI may impact S&P Global's portfolio valuation."
+            "SPGI": "Estimated investment in OpenAI may impact S&P Global's portfolio valuation.",
+            "TSLA": "Elon Musk's net worth could potentially increase by trillions of dollars."
           }
         }
       ]
@@ -1223,6 +1259,11 @@
           },
           "related_tickers": [
             {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 1
+            },
+            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
@@ -1234,6 +1275,7 @@
             }
           ],
           "ticker_summary": {
+            "GS": "PCB price increase cited in a Goldman Sachs note may have implications for clients or investors in the electronics or manufacturing sectors.",
             "GOOG": "Competition for PCB-grade glass cloth from a single supplier affects Alphabet's operations in this niche market.",
             "NVDA": "Competition for PCB-grade glass cloth from a single supplier affects Nvidia's market position in this niche."
           }
@@ -1303,13 +1345,19 @@
           },
           "related_tickers": [
             {
+              "ticker": "UAL",
+              "name": "United Airlines",
+              "count": 8
+            },
+            {
               "ticker": "BA",
               "name": "Boeing",
               "count": 6
             }
           ],
           "ticker_summary": {
-            "BA": "GE Aerospace's CFM joint venture with Safran powers Boeing's 737 Max, and a CFM56 engine's price increased by 17% since 2019."
+            "BA": "GE Aerospace's CFM joint venture with Safran powers Boeing's 737 Max, and a CFM56 engine's price increased by 17% since 2019.",
+            "UAL": "Delta's smaller network generated $2.79 billion in revenue for its trans-Pacific business, compared to $6.89 billion for United."
           }
         }
       ]
@@ -1445,6 +1493,11 @@
           },
           "related_tickers": [
             {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 9
+            },
+            {
               "ticker": "AMD",
               "name": "Advanced Micro Devices",
               "count": 1
@@ -1458,12 +1511,19 @@
               "ticker": "INTC",
               "name": "Intel",
               "count": 1
+            },
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 1
             }
           ],
           "ticker_summary": {
+            "SPCX": "Private-market excitement around SpaceX has led to the creation of a derivative settled in the USDC stablecoin that tracks the private-market valuation of Elon Musk's space company.",
             "AMD": "This year's significant increase in the value of chipmakers AMD, Intel, and Micron may have a positive impact on AMD's value.",
             "C": "Citi analyst Alex Saunders stated that flows are the primary driver of BTC price appreciation.",
             "INTC": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron suggests a positive correlation between the performance of these companies and the crypto market.",
+            "MU": "This year's significant increase in the value of chipmakers Advanced Micro Devices, Intel, and Micron more than doubles the value of Micron.",
             "TSLA": "This offering is related to SpaceX, which is owned by Elon Musk, who is also the CEO of TSLA."
           }
         },
@@ -2451,6 +2511,11 @@
               "count": 8
             },
             {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 4
+            },
+            {
               "ticker": "JPM",
               "name": "JPMorgan Chase",
               "count": 4
@@ -2472,6 +2537,7 @@
             }
           ],
           "ticker_summary": {
+            "GS": "This year, Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion.",
             "MSCI": "MSCI's index-based ETFs, such as the iShares MSCI Emerging Markets ETF, are outperforming the U.S. market in the AI space.",
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
             "C": "Citi advised on four energy deals worth $41.4 billion in 2026, while Goldman Sachs advised on 196 deals worth $992.3 billion this year.",
@@ -3245,12 +3311,18 @@
           },
           "related_tickers": [
             {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            },
+            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
             }
           ],
           "ticker_summary": {
+            "META": "$1.6 billion in digital spending is expected to be allocated across platforms like Facebook, Google, Snapchat, and X during the cycle.",
             "GOOG": "Google is expected to receive $1.6 billion in digital advertising spending from politicians during the cycle."
           }
         }
@@ -3653,6 +3725,16 @@
           },
           "related_tickers": [
             {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 7
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 4
+            },
+            {
               "ticker": "HOOD",
               "name": "Robinhood Markets",
               "count": 4
@@ -3673,15 +3755,19 @@
             "C": "Citigroup is one of the lead bankers for SpaceX's IPO.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO offering.",
+            "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
             "SCHW": "Charles Schwab will make shares available for SpaceX's IPO, and the amount of shares allocated to investors will influence their decision to invest.",
+            "TSLA": "Elon Musk's control of SpaceX and his role as CEO of another trillion-dollar company may raise concerns about conflicts of interest.",
             "HOOD": "Shares allocated to investors through Robinhood were subject to allocation uncertainty, with some investors receiving fewer shares than requested.",
             "SOFI": "Shares of SoFi Technologies will be made available through several brokerage platforms.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
             "NDAQ": "A letter was sent to Nasdaq, S&P Dow Jones Indices, FTSE Russell, and Morningstar Indexes regarding potential rule changes.",
-            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services."
+            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services.",
+            "UAL": "Starlink has been selected by United, Southwest Airlines, and Alaska Airlines, which merged with Hawaiian Airlines, while Delta will use Amazon Leo starting in 2028.",
+            "PLTR": "Public markets are already paying for a version of this in Palantir."
           }
         },
         {
@@ -3802,6 +3888,16 @@
           },
           "related_tickers": [
             {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 27
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
               "ticker": "DE",
               "name": "Deere",
               "count": 1
@@ -3813,6 +3909,8 @@
             }
           ],
           "ticker_summary": {
+            "SPCX": "There are no direct comparisons to SpaceX in the current market, making hedging and managing risk challenging for investors who own SpaceX equity via private markets.",
+            "AMZN": "Amazon is included in the ARKX ETF, which tracks a broad range of top stocks, including those in the space and defense industry.",
             "DE": "Deere's inclusion in the ARKX ETF, which tracks top stocks including SpaceX, may influence its market performance.",
             "RKLB": "Rocket Lab is a top holding in the Procure Space ETF, which has over $1.2 billion in assets."
           }
@@ -3870,7 +3968,10 @@
               "name": "Space Exploration Technologies",
               "count": 19
             }
-          ]
+          ],
+          "ticker_summary": {
+            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
+          }
         }
       ]
     },

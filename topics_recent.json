@@ -1,79 +1,12 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-16T19:58:39.288127-04:00",
+  "updated_at": "2026-06-17T01:22:04.381424-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
-      "count": 3,
+      "count": 1,
       "children": [
-        {
-          "cluster_id": 3,
-          "name": "Challenging Legacy Consumer Goods",
-          "count": 2,
-          "children": [
-            {
-              "name": "GLP-1 pioneers Novo and Lilly compete on pills, prepare to pitch seniors",
-              "summary": "…drug also helped improve related conditions like knee osteoarthritis and sleep apnea.",
-              "hash": "9acd79d8377aa0c1",
-              "chunk_key": "9acd79d8377aa0c1_c004",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
-              "summary": "Mammoth Brands wants to take on traditional consumer packaged goods companies, armed with a portfolio of disruptors in the personal and baby care categories that have won over cons…",
-              "hash": "8e0bdaaf28173d7d",
-              "chunk_key": "8e0bdaaf28173d7d_c000",
-              "article_date": "2026-06-05 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "KMB": [
-              "And Kimberly-Clark's exposure to the very competitive Asian diaper market is fueling its innovation, CEO Michael Hsu said that Barclays Americas Select Conference in May. \"We're going to go through these trial cycles where people are going to try these new things, and they're like 'Yeah, maybe I don't like this as much,'\" Modi said. \"And they start switching back to some of the bigger brands where the products actually work.\" Rather than trying to beat them, some legacy players have decided to join the upstarts instead.",
-              "Originally founded as a paper mill company in 1872, Kimberly-Clark now owns a host of brands like Kleenex, Huggies and Cottonelle.",
-              "For the last decade, upstarts like those owned by Mammoth have challenged the relevance and longstanding dominance of legacy giants like Procter & Gamble , Unilever and Kimberly-Clark ."
-            ],
-            "PG": [
-              "For decades, a handful of companies have dominated the household goods and family and personal care categories.",
-              "In Procter & Gamble's fiscal second quarter , which ended in December, its U.S. diaper volume shrank 2%.",
-              "I think it's gotten to a tipping point.\" With brands like Harry's razors, Lume Deodorant and Coterie diapers, Mammoth is reshaping the consumer goods landscape, and it has ambitious plans. \"We're trying to build a leading modern [consumer packaged goods] company, like if Procter & Gamble and Unilever were getting built today,\" Mammoth co-founder and co-CEO Andy Katz-Mayfield told CNBC.",
-              "Procter & Gamble bought Native deodorant for $100 million and turned it into one of the company's dozens of billion dollar brands, by Modi's estimate.",
-              "In 1837, soap maker James Gamble and candlemaker William Procter became business partners, creating the company that still carries their names today.",
-              "For the last decade, upstarts like those owned by Mammoth have challenged the relevance and longstanding dominance of legacy giants like Procter & Gamble , Unilever and Kimberly-Clark ."
-            ],
-            "LLY": [
-              "Meanwhile, Lilly CEO Dave Ricks told CNBC that prescriptions of its pill Foundayo are \"markedly higher\" than the 20,000 that Lilly reported about six weeks ago around its first-quarter earnings release, without giving a specific number.",
-              "Cars drove around advertising Novo's Wegovy pill, while pictures of Lilly's Foundayo pill covered some of the floors of the convention center in New Orleans.",
-              "Lilly \"absolutely\" plans to make the drug available there, Ricks said.",
-              "Doustdar thinks the program could be an opportunity to regain some of the ground Novo's Wegovy shot has lost to Lilly's Zepbound.",
-              "At the conference this weekend, Lilly presented Phase 3 data for retatrutide , an experimental triple agonist that helped people lose an average of 28% of their body weight when they stayed on the drug.",
-              "Lilly is conducting an internal study to measure its health costs and outcomes like hospitalization rate, progression to diabetes and cardiovascular events.",
-              "At Lilly, less than 20% of the company's beneficiaries are using the drugs for weight loss, and people are staying on them, Ricks said.",
-              "I would take it if I was 10 years older.\" Lilly's pitch to seniors is convenience."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "LLY",
-              "name": "Eli Lilly",
-              "count": 8
-            },
-            {
-              "ticker": "PG",
-              "name": "Procter Gamble",
-              "count": 6
-            },
-            {
-              "ticker": "KMB",
-              "name": "Kimberly-Clark",
-              "count": 3
-            }
-          ]
-        },
         {
           "cluster_id": 13,
           "name": "Media Mergers and Regulatory Scrutiny",
@@ -114,12 +47,12 @@
     },
     {
       "name": "Artificial Intelligence and Finance",
-      "count": 19,
+      "count": 14,
       "children": [
         {
           "cluster_id": 38,
           "name": "AI Industry Merges and IPOs",
-          "count": 7,
+          "count": 6,
           "children": [
             {
               "name": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
@@ -174,15 +107,6 @@
               "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-              "summary": ", topping OpenAI, which was valued at $852 billion in late March.",
-              "hash": "281f85a4509874bc",
-              "chunk_key": "281f85a4509874bc_c002",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -192,193 +116,25 @@
               "Palantir CEO Alex Karp said the artificial intelligence software company's enterprise customers are \"unhappy\" with how the frontier labs are operating. \"It's not just the man and woman on the street that is unhappy with the frontier labs, it's in private, every single enterprise we deal with,\" he told CNBC's Sara Eisen on Wednesday.",
               "The PAC's backers include Andreessen Horowitz, OpenAI co-founder Greg Brockman , Palantir co-founder Joe Lonsdale , SV Angel founder Ron Conway and AI software company Perplexity. \"The PAC has raised over $125 million — not to make the case for their vision of AI policy, but, in my view, to intimidate politicians who appear to engage too aggressively with the question of how to govern AI,\" O'Farrell wrote in the op-ed, which was published in The New York Times ."
             ],
-            "GS": [
-              "The company has been working with banks including Goldman Sachs and Morgan Stanley on the filing, as CNBC previously reported ."
-            ],
-            "MS": [
-              "The company has been working with banks including Goldman Sachs and Morgan Stanley on the filing, as CNBC previously reported ."
-            ],
             "SPCX": [
-              "Depending on how SpaceX's offering is received, Anthropic and OpenAI could be rushing to beat each other out due to the massive amount of capital they're trying to raise.",
               "Elon Musk's SpaceX , which merged with his AI startup xAI earlier this year, is slated to make its record-breaking public markets debut on Friday."
             ],
             "CRWD": [
-              "Chinese-affiliated cyberattacks targeted government communications in Southeast Asia and \"maintained persistent access\" to North American tech organizations by taking advantage of vulnerabilities, CrowdStrike said.",
               "Over the last several weeks, Anthropic has touted the cyber capabilities of its newest Mythos model and rolled out the tech to CrowdStrike and other companies.",
               "Anthropic on Tuesday released a public version of the model, called Claude Fable 5, which rankings firm Artificial Analysis said is \" nearly 5 points ahead of any other lab's best model .\" CrowdStrike said it also found North Korea-affiliated entities tried to infiltrate IT workforces across North America, Europe and Asia, primarily to generate revenue for the regime.",
+              "Chinese-affiliated cyberattacks targeted government communications in Southeast Asia and \"maintained persistent access\" to North American tech organizations by taking advantage of vulnerabilities, CrowdStrike said.",
               "U.S.-based cybersecurity giant CrowdStrike warned Tuesday of increasing cyberattacks from China-based entities aimed at stealing artificial intelligence to narrow the tech gap with the U.S. The Chinese entities accounted for more than 58% of state-sponsored targeted cyberattacks aimed at tech companies, especially their AI assets, CrowdStrike said in a report . \"China-nexus adversaries are escalating espionage against technology organizations to steal the AI capabilities and intellectual property they cannot build fast enough on their own,\" CrowdStrike said in a statement."
             ]
           },
           "related_tickers": [
             {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 1
-            },
-            {
-              "ticker": "MS",
-              "name": "Morgan Stanley",
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "GS": "GS is involved in the filing process for an AI-related IPO.",
-            "MS": "MS has been working with Goldman Sachs on the filing."
-          }
-        },
-        {
-          "cluster_id": 2,
-          "name": "Apple's AI Strategy Evolution",
-          "count": 3,
-          "children": [
-            {
-              "name": "Apple shares slide after big Siri AI reveal",
-              "summary": "Apple shares fell more than 3% on Tuesday, a day after the company revealed new artificial intelligence software at its annual Worldwide Developers Conference .",
-              "hash": "5ce610f397eaf146",
-              "chunk_key": "5ce610f397eaf146_c000",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Apple partnering with Google and Nvidia for most advanced AI model",
-              "summary": "Apple Foundation Model Cloud Pro, Apple executives told media in a talk at its headquarters on Monday.",
-              "hash": "6760f7ff7d13ed31",
-              "chunk_key": "6760f7ff7d13ed31_c001",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
-              "summary": "Apple used its Worldwide Developers Conference on Monday in Cupertino, Calif., to roll out a plethora of new features and updates, including the long-awaited overhaul of Siri AI.",
-              "hash": "3e8cd8b16b6a8c63",
-              "chunk_key": "3e8cd8b16b6a8c63_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "AAPL": [
-              "Apple used its Worldwide Developers Conference on Monday in Cupertino, Calif., to roll out a plethora of new features and updates, including the long-awaited overhaul of Siri AI.",
-              "Apple also unveiled more of its artificial intelligence strategy, including its partnership to use Google 's Gemini models.",
-              "Apple stock has neared record highs in recent weeks as investors and analysts approved of a Google AI partnership announced in January and the latest iPhones have shown strong, continuing sales momentum.",
-              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia .",
-              "But investors sold the news, and Apple posted its worst day since February.",
-              "Apple announced new frameworks that will allow app developers to tap into Apple's AI on iPhones and Macs, called Apple Intelligence, as well as a new version of Siri called Siri AI that's based on large language models.",
-              "Apple shares fell more than 3% on Tuesday, a day after the company revealed new artificial intelligence software at its annual Worldwide Developers Conference .",
-              "Apple Intelligence may underwhelm consumers who have a lot of choices, wrote UBS analyst David Vogt.",
-              "He wrote that he doesn't expect the new features to be a \"demand game changer\" for Apple hardware. \"Despite various interesting AI-related announcements, we leave our iPhone estimates unchanged as we do not believe that the new offerings will drive iPhone demand,\" Vogt wrote.",
-              "Federighi said that Google's technology was used to help build Apple's own models — specifically, \"third-generation\" AFM models for the cloud announced on Monday that are designed and turned to run on Apple's chips. \"These four models that we just talked about — AFM Core, Core Advanced Cloud, and Cloud Image —all of these are custom built for Apple Silicon, trained using proprietary data with reinforcement learning and refined using outputs from Gemini frontier models,\" Subramanya said.",
-              "But it turns out two of the traditional AI leaders, Google and Nvidia , are helping Apple out with its most advanced model, called Apple Foundation Model Cloud Pro, Apple executives told media in a talk at its headquarters on Monday.",
-              "But the announcement also highlighted that Apple has taken a different strategy to many of its Silicon Valley rivals, choosing not to spend billions on infrastructure and the biggest, most advanced models, and instead focusing its message to potential customers on privacy advantages and convenience.",
-              "Apple executives outlined an architecture for the software in which Apple's operating systems and software have a piece of software called a system orchestrator that routes any AI query to an appropriate model — either on the device or in the cloud — depending on how much computing power and personal data it needs.",
-              "Apple is distinguishing itself from companies that have more heavily invested in AI by emphasizing that its software is more private — the company isn't collecting as much data as web-based AI such as OpenAI' s ChatGPT or Anthropic 's Claude — and that it is using its access to locally-stored user information like a calendar or text messages to personalize AI features.",
-              "Apple executives highlighted the difference in remarks on Monday. \"Some appear to be racing forward, seemingly pursuing AI for the sake of AI, without clear regard for the people — all of us — that it's ultimately meant to serve,\" said Apple software SVP Craig Federighi in the launch announcement.",
-              "Marineau-Mes said that recent Nvidia improvements, such as a technology called \"ambiguous confidential compute,\" allowed Apple and Google to build a system that met its standards. \"We wanted to avail ourselves of the latest technology from Nvidia, and so we set out to extend private cloud compute to third-party cloud,\" Marineau-Mes said.",
-              "Apple on Monday revealed what it's been working on in artificial intelligence at its annual Worldwide Developers Conference in Cupertino , Calif.",
-              "VP of software Sebastian Marineau-Mes said that Apple wanted to use Nvidia's latest chips, but Apple wanted the chips to be configured in a more private way, where they couldn't read what was on the servers.",
-              "While Apple and Google announced their partnership for Apple Intelligence in January, this is the first time that the company has officially confirmed that some of its Apple Intelligence features will run on Nvidia chips."
-            ],
-            "GOOG": [
-              "Apple also unveiled more of its artificial intelligence strategy, including its partnership to use Google 's Gemini models.",
-              "Apple stock has neared record highs in recent weeks as investors and analysts approved of a Google AI partnership announced in January and the latest iPhones have shown strong, continuing sales momentum.",
-              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia .",
-              "Federighi said that Google's technology was used to help build Apple's own models — specifically, \"third-generation\" AFM models for the cloud announced on Monday that are designed and turned to run on Apple's chips. \"These four models that we just talked about — AFM Core, Core Advanced Cloud, and Cloud Image —all of these are custom built for Apple Silicon, trained using proprietary data with reinforcement learning and refined using outputs from Gemini frontier models,\" Subramanya said.",
-              "Marineau-Mes said that recent Nvidia improvements, such as a technology called \"ambiguous confidential compute,\" allowed Apple and Google to build a system that met its standards. \"We wanted to avail ourselves of the latest technology from Nvidia, and so we set out to extend private cloud compute to third-party cloud,\" Marineau-Mes said.",
-              "While Apple and Google announced their partnership for Apple Intelligence in January, this is the first time that the company has officially confirmed that some of its Apple Intelligence features will run on Nvidia chips."
-            ],
-            "NVDA": [
-              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia .",
-              "Marineau-Mes said that recent Nvidia improvements, such as a technology called \"ambiguous confidential compute,\" allowed Apple and Google to build a system that met its standards. \"We wanted to avail ourselves of the latest technology from Nvidia, and so we set out to extend private cloud compute to third-party cloud,\" Marineau-Mes said.",
-              "While Apple and Google announced their partnership for Apple Intelligence in January, this is the first time that the company has officially confirmed that some of its Apple Intelligence features will run on Nvidia chips.",
-              "VP of software Sebastian Marineau-Mes said that Apple wanted to use Nvidia's latest chips, but Apple wanted the chips to be configured in a more private way, where they couldn't read what was on the servers."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 19
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 6
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 4
-            }
-          ],
-          "ticker_summary": {
-            "AAPL": "Apple's stock price declined despite unveiling new AI features and updates, including a partnership with Google and Nvidia.",
-            "GOOG": "Google's Gemini models are being used to help build Apple's own AI models, specifically the \"third-generation\" AFM models for the cloud.",
-            "NVDA": "Recent improvements in ambiguous confidential compute technology allowed Apple and Google to build a system that met its standards, resulting in a partnership where some Apple Intelligence features will run on Nvidia chips."
-          }
-        },
-        {
-          "cluster_id": 23,
-          "name": "\"AI Disrupts Venture Capital\"",
-          "count": 3,
-          "children": [
-            {
-              "name": "As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'",
-              "summary": "…is a heck of a return if you come invest in this business.\" He added that the organization now needs to be \"disciplined and very, very value-creative\" in order to be sustainable. \"…",
-              "hash": "fedf12c80582c0aa",
-              "chunk_key": "fedf12c80582c0aa_c001",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Private credit’s big software bet faces an AI reckoning",
-              "summary": "…variables that have challenged other sectors in decades past.",
-              "hash": "0f41fe1523f98b43",
-              "chunk_key": "0f41fe1523f98b43_c002",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Silicon Valley’s new buyout playbook is hitting Wall Street",
-              "summary": "…the same model and more than $1 billion in capital. It's put that money to work, recently backing an AI rollup of regional accounting firms.",
-              "hash": "ab1a6f0c9cc7de8b",
-              "chunk_key": "ab1a6f0c9cc7de8b_c001",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "BRK-B": [
-              "Long Lake plans to hold the companies permanently, the strategy employed by Berkshire Hathaway ."
-            ],
-            "BX": [
-              "Traditional private equity is built around financial engineering — taking a fixed cash flow, leveraging it, squeezing margins.",
-              "The recently announced partnerships between Anthropic and Blackstone , Hellman & Friedman, and Goldman Sachs — and a parallel venture with OpenAI backed by TPG — are the response."
-            ],
-            "GS": [
-              "The recently announced partnerships between Anthropic and Blackstone , Hellman & Friedman, and Goldman Sachs — and a parallel venture with OpenAI backed by TPG — are the response."
-            ],
-            "JHG": [
-              "Over the past six months it's crossed into public markets twice: General Catalyst and Trian's $7.6 billion take-private of Janus Henderson (JHG) in December, and Long Lake Management's $6.3 billion agreement in May to take American Express Global Business Travel (GBTG) private at a 65% premium."
-            ],
-            "PLTR": [
-              "Most of Long Lake's engineers came from Ramp and Palantir , where engineers work on site with customers for months at a time."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "BRK-B",
-              "name": "Berkshire Hathaway",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "BRK-B": "Permanent holding of Long Lake's companies is a strategy employed by Berkshire Hathaway."
+            "SPCX": "This merger with xAI is expected to make SpaceX's public markets debut."
           }
         },
         {
@@ -454,6 +210,11 @@
               "count": 4
             },
             {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
               "ticker": "MSFT",
               "name": "Microsoft",
               "count": 1
@@ -465,66 +226,83 @@
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and the company's cloud business is on a tear.",
             "MSFT": "MSFT has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "META": "Reliance Industries will build a data center for Meta within two years with an option to scale."
           }
         },
         {
-          "cluster_id": 31,
-          "name": "AI's Impact on Business",
+          "cluster_id": 23,
+          "name": "\"AI Disrupts Venture Capital\"",
           "count": 2,
           "children": [
             {
-              "name": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
-              "summary": "U.S. tech giants have backed a German company in its latest fundraising round to develop its humanoid robotics tech.",
-              "hash": "83083d09f518540d",
-              "chunk_key": "83083d09f518540d_c000",
-              "article_date": "2026-06-09 00:00:00",
+              "name": "As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'",
+              "summary": "…is a heck of a return if you come invest in this business.\" He added that the organization now needs to be \"disciplined and very, very value-creative\" in order to be sustainable. \"…",
+              "hash": "fedf12c80582c0aa",
+              "chunk_key": "fedf12c80582c0aa_c001",
+              "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
             },
             {
-              "name": "JPMorgan Chase plans to deploy more powerful AI agents this year",
-              "summary": "JPMorgan Chase plans to deploy artificial intelligence agents later this year that can work autonomously for far longer than existing versions, marking another milestone in the cor…",
-              "hash": "73ffedd50744d356",
-              "chunk_key": "73ffedd50744d356_c000",
-              "article_date": "2026-06-07 00:00:00",
+              "name": "Private credit’s big software bet faces an AI reckoning",
+              "summary": "…variables that have challenged other sectors in decades past.",
+              "hash": "0f41fe1523f98b43",
+              "chunk_key": "0f41fe1523f98b43_c002",
+              "article_date": "2026-06-08 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "name": "Apple's AI Strategy Evolution",
+          "count": 1,
+          "children": [
+            {
+              "name": "Apple shares slide after big Siri AI reveal",
+              "summary": "Apple shares fell more than 3% on Tuesday, a day after the company revealed new artificial intelligence software at its annual Worldwide Developers Conference .",
+              "hash": "5ce610f397eaf146",
+              "chunk_key": "5ce610f397eaf146_c000",
+              "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
             }
           ],
           "ticker_context": {
-            "JPM": [
-              "JPMorgan's planned deployment, however, suggests the technology is close to clearing the security and governance hurdles that have slowed adoption inside large companies.",
-              "JPMorgan, run by CEO Jamie Dimon since 2006 , is the biggest U.S. bank by assets and has a nearly $20 billion annual technology budget .",
-              "JPMorgan Chase plans to deploy artificial intelligence agents later this year that can work autonomously for far longer than existing versions, marking another milestone in the corporate adoption of AI, CNBC has learned exclusively."
+            "AAPL": [
+              "Apple shares fell more than 3% on Tuesday, a day after the company revealed new artificial intelligence software at its annual Worldwide Developers Conference .",
+              "Apple announced new frameworks that will allow app developers to tap into Apple's AI on iPhones and Macs, called Apple Intelligence, as well as a new version of Siri called Siri AI that's based on large language models.",
+              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia .",
+              "But investors sold the news, and Apple posted its worst day since February.",
+              "Apple Intelligence may underwhelm consumers who have a lot of choices, wrote UBS analyst David Vogt.",
+              "He wrote that he doesn't expect the new features to be a \"demand game changer\" for Apple hardware. \"Despite various interesting AI-related announcements, we leave our iPhone estimates unchanged as we do not believe that the new offerings will drive iPhone demand,\" Vogt wrote."
             ],
-            "AMZN": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            "GOOG": [
+              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia ."
             ],
             "NVDA": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
-            ],
-            "QCOM": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+              "Apple also revealed that it is using a cloud model \"comparable\" to so-called frontier models with help from Google and Nvidia ."
             ]
           },
           "related_tickers": [
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             },
             {
-              "ticker": "QCOM",
-              "name": "Qualcomm",
+              "ticker": "NVDA",
+              "name": "Nvidia",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "NVDA": "This financing round includes Nvidia alongside other investors, indicating Nvidia's involvement in Neura Robotics' Series C financing.",
-            "QCOM": "This financing round features Qualcomm as one of the investors alongside other prominent companies."
+            "GOOG": "Google's involvement in Apple's AI strategy evolution is likely to expand its cloud model offerings.",
+            "NVDA": "Cloud model collaboration with Google and Nvidia may influence Nvidia's revenue from its AI-related products and services."
           }
         },
         {
@@ -542,17 +320,66 @@
               "value": 1
             }
           ]
+        },
+        {
+          "cluster_id": 31,
+          "name": "AI's Impact on Business",
+          "count": 1,
+          "children": [
+            {
+              "name": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
+              "summary": "U.S. tech giants have backed a German company in its latest fundraising round to develop its humanoid robotics tech.",
+              "hash": "83083d09f518540d",
+              "chunk_key": "83083d09f518540d_c000",
+              "article_date": "2026-06-09 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AMZN": [
+              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            ],
+            "NVDA": [
+              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            ],
+            "QCOM": [
+              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 1
+            },
+            {
+              "ticker": "QCOM",
+              "name": "Qualcomm",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "AMZN": "Amazon is one of the investors in Neura Robotics' Series C financing.",
+            "NVDA": "This financing round includes Nvidia alongside other investors, indicating Nvidia's involvement in Neura Robotics' Series C financing.",
+            "QCOM": "This financing round features Qualcomm as one of the investors alongside other prominent companies."
+          }
         }
       ]
     },
     {
       "name": "Asia's Emerging Market Challenges",
-      "count": 6,
+      "count": 4,
       "children": [
         {
           "cluster_id": 4,
           "name": "Chinese EVs Enter US Market",
-          "count": 3,
+          "count": 2,
           "children": [
             {
               "name": "Mercedes-Benz joins Europe’s defense push with anti-drone vehicle deal",
@@ -571,15 +398,6 @@
               "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Electric vehicle giant BYD predicts 80% of China car sales will soon be electric",
-              "summary": "…Domestic demand for BYD's EVs now stands at around double what the company can currently deliver, Li said, thanks to its fast-charging technology that is reportedly capable of achi…",
-              "hash": "af3e868b02b6c575",
-              "chunk_key": "af3e868b02b6c575_c001",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -591,9 +409,6 @@
             ],
             "LMT": [
               "The leadership team of Peak Energy — which was founded in 2023 — includes former employees of Tesla , Lockheed Martin and battery developer Northvolt, according to its website."
-            ],
-            "NVDA": [
-              "For now, Li said BYD would largely use Nvidia's driver-assist chipsets , even as the automaker employs roughly 7,000 engineers for semiconductor development."
             ]
           },
           "related_tickers": [
@@ -606,17 +421,11 @@
               "ticker": "LMT",
               "name": "Lockheed Martin",
               "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
             }
           ],
           "ticker_summary": {
             "F": "Ford Motor has shifted focus to energy storage to assist in filling capacity at multibillion-dollar battery plants in the U.S.",
-            "LMT": "Former employees of Lockheed Martin are part of the leadership team of Peak Energy.",
-            "NVDA": "Employment of roughly 7,000 engineers for semiconductor development is related to Nvidia's involvement with BYD."
+            "LMT": "Former employees of Lockheed Martin are part of the leadership team of Peak Energy."
           }
         },
         {
@@ -667,120 +476,12 @@
             "GOOG": "Google's AI Studio is frequently mentioned as a generative AI tool.",
             "DIS": "The joint venture between Reliance Industries and Walt Disney resulted in a 100-episode series that garnered 6.5 million views on its launch day."
           }
-        },
-        {
-          "cluster_id": 1,
-          "name": "Global Resin Supply Chain Crisis",
-          "count": 1,
-          "children": [
-            {
-              "name": "Inflation inside the electronics you buy may soon become a bit more sticky",
-              "summary": "…standstill and no alternative supplier exists to fill the gap.",
-              "hash": "21f9b00603c0976c",
-              "chunk_key": "21f9b00603c0976c_c005",
-              "article_date": "2026-06-05 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "AAPL": [
-              "But it is a niche of the market where Apple, Nvidia, Google and everyone else are competing for PCB-grade glass cloth from a single supplier.",
-              "Manufacturers may absorb some of the hit, led by Apple, and make up the increased cost elsewhere, such as slimmer promotions, higher storage costs, and also pushing consumers toward more expensive configurations rather than headlining a dramatic base price increase."
-            ],
-            "GS": [
-              "Printed circuit board (PCB) prices rose by up to 40 percent from March to April, according to a Goldman Sachs note cited by Reuters."
-            ],
-            "GOOG": [
-              "But it is a niche of the market where Apple, Nvidia, Google and everyone else are competing for PCB-grade glass cloth from a single supplier."
-            ],
-            "NVDA": [
-              "But it is a niche of the market where Apple, Nvidia, Google and everyone else are competing for PCB-grade glass cloth from a single supplier."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "GOOG": "Competition for PCB-grade glass cloth from a single supplier affects Alphabet's operations in this niche market.",
-            "NVDA": "Competition for PCB-grade glass cloth from a single supplier affects Nvidia's market position in this niche."
-          }
-        }
-      ]
-    },
-    {
-      "name": "Aviation Industry Challenges",
-      "count": 2,
-      "children": [
-        {
-          "cluster_id": 6,
-          "name": "Airlines Face Engine Reliability Issues",
-          "count": 2,
-          "children": [
-            {
-              "name": "Airlines find the grass isn't always greener with new engines",
-              "summary": "Airplane engine makers have fallen short of what they promised airlines, major carriers' CEOs say, a problem vexing an industry that has struggled for years with aircraft shortages…",
-              "hash": "15e9bb0899dfa6eb",
-              "chunk_key": "15e9bb0899dfa6eb_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
-              "summary": "Delta Air Lines is the nation's most profitable carrier, but its hungry rival, United Airlines , is far bigger over the Pacific.",
-              "hash": "5ad0822722a01712",
-              "chunk_key": "5ad0822722a01712_c000",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "BA": [
-              "Willie Walsh, the outgoing director general of IATA, told the conference in Rio de Janeiro that he is \"deeply disappointed customers have not dented manufacturer finances,\" and pointed to a jump in engine supplier profits. \"My message to the engine [original equipment manufacturers] is simple: Stop gouging us and get back to making great engines that work and that last,\" he said. \"Allowing these failures to extend into the next decade is totally unacceptable to the customers.\" For its part, GE Aerospace, which makes engines for both Airbus narrow-body A320 planes and Boeing narrow-body and wide-body aircraft, said it has been working on improvements and has also increased output. \"We've made significant investments to enhance time-on-wing, reduce cost of ownership, and increase output and we will continue to invest to drive meaningful improvements,\" the company said in a statement. \"While there is more to do, we are making progress every day to continue to deliver long-term value for our customers.\" GE powers Boeing's bestselling 737 Max with its CFM joint venture with France's Safran.",
-              "For example, a CFM56 engine made by GE Aerospace and its French partner Safran that powers older Boeing 737s was going for $9.2 million at the start of the year, up 17% since 2019, according to IBA Group."
-            ],
-            "GE": [
-              "Willie Walsh, the outgoing director general of IATA, told the conference in Rio de Janeiro that he is \"deeply disappointed customers have not dented manufacturer finances,\" and pointed to a jump in engine supplier profits. \"My message to the engine [original equipment manufacturers] is simple: Stop gouging us and get back to making great engines that work and that last,\" he said. \"Allowing these failures to extend into the next decade is totally unacceptable to the customers.\" For its part, GE Aerospace, which makes engines for both Airbus narrow-body A320 planes and Boeing narrow-body and wide-body aircraft, said it has been working on improvements and has also increased output. \"We've made significant investments to enhance time-on-wing, reduce cost of ownership, and increase output and we will continue to invest to drive meaningful improvements,\" the company said in a statement. \"While there is more to do, we are making progress every day to continue to deliver long-term value for our customers.\" GE powers Boeing's bestselling 737 Max with its CFM joint venture with France's Safran.",
-              "For example, a CFM56 engine made by GE Aerospace and its French partner Safran that powers older Boeing 737s was going for $9.2 million at the start of the year, up 17% since 2019, according to IBA Group."
-            ],
-            "UAL": [
-              "United Airlines CEO Scott Kirby praised GE for making improvements, but said there are still concerns for the industry. \"The biggest constraint for at least the next five years is going to be lack of engines,\" Kirby said.",
-              "United has launched its own campaign using similar tactics , including a heavy investment in technology, massive aircraft orders , and an international network with new destinations from Mongolia to Croatia to Greenland.",
-              "Delta and United account for most of the U.S. airline industry's profits.",
-              "However, for its trans-Pacific business, Delta's smaller network generated just $2.79 billion in revenue, compared with United's roughly $6.89 billion, according to company filings.",
-              "On the sidelines of the same conference, Kirby said he has \"a lot of respect for Delta, and what they have done, and I take it as a huge compliment that Delta is beginning to acknowledge that they have an equal that they're worried about and trying to compete with us.\" When asked what he wants to beat Delta on, Kirby replied: \"Everything.\" Carter said in the interview that Delta can't rest on its current success. \"We always have to be hungry to win, and I say that because I know United is out there competing against us and replicating the playbook a little bit,\" he said. \"Bring 'em on.\"",
-              "Delta posted a net profit of more than $5 billion last year, compared with United's earnings of about $3.35 billion.",
-              "United Airlines, meanwhile, is planning a nonstop between its San Francisco hub and Sapporo, Japan — a play for premium-ski traffic.",
-              "Delta Air Lines is the nation's most profitable carrier, but its hungry rival, United Airlines , is far bigger over the Pacific."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "BA",
-              "name": "Boeing",
-              "count": 2
-            }
-          ],
-          "ticker_summary": {
-            "BA": "Engine supplier profits have jumped, prompting criticism from Willie Walsh, which may negatively impact Boeing's finances."
-          }
         }
       ]
     },
     {
       "name": "Financial Markets and Regulation",
-      "count": 9,
+      "count": 7,
       "children": [
         {
           "cluster_id": 7,
@@ -840,16 +541,22 @@
               "ticker": "COIN",
               "name": "Coinbase Global",
               "count": 5
+            },
+            {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 2
             }
           ],
           "ticker_summary": {
+            "SPCX": "Perpetual futures for SpaceX pre-IPO are a useful signal for crypto traders, but may not guarantee broader market reaction once liquidity and price discovery kick in.",
             "COIN": "Coinbase earns trading fees on agent-executed trades and captures fees and spreads on USDC movement, which serves as the settlement currency for agentic transactions."
           }
         },
         {
           "cluster_id": 8,
           "name": "Prediction Market Platforms",
-          "count": 3,
+          "count": 2,
           "children": [
             {
               "name": "Kalshi rolls out whistleblower services, employment verification to curb insider trading",
@@ -866,15 +573,6 @@
               "hash": "7425d945ad32cf50",
               "chunk_key": "7425d945ad32cf50_c000",
               "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "This startup wants to reduce payment friction in prediction markets",
-              "summary": "As prediction market volumes continue to march higher and platforms increasingly look to institutional players to engage , a startup is seeking to make it easier to move money arou…",
-              "hash": "b74e21d8d73a0cf4",
-              "chunk_key": "b74e21d8d73a0cf4_c000",
-              "article_date": "2026-06-06 00:00:00",
               "provider": "CNBC",
               "value": 1
             }
@@ -908,62 +606,6 @@
           }
         },
         {
-          "cluster_id": 11,
-          "name": "Trump Family Crypto Scandal",
-          "count": 2,
-          "children": [
-            {
-              "name": "Company that bet big on Trump-backed crypto says its fortunes have improved",
-              "summary": "AI Financial Corp. , a publicly traded company that took heavy losses after making a billion-dollar bet on a cryptocurrency backed by the Trump family, said Wednesday that its outl…",
-              "hash": "402491e888873820",
-              "chunk_key": "402491e888873820_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump family got about $500M from crypto venture — but investors saw steep losses",
-              "summary": "$85 million stake in the August Alt5 transaction. By mid-October, it announced it had exited that position entirely.",
-              "hash": "b6242b6c498d3df6",
-              "chunk_key": "b6242b6c498d3df6_c004",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "COIN": [
-              "As of June 8, their market value had fallen to about 5.7 cents, according to Coinbase , a 72% decline."
-            ],
-            "NDAQ": [
-              "Nasdaq requires its companies to trade above $1 a share.",
-              "Eric Trump in an X post in May said he has \"zero leadership or decision-making role in the company.\" He was nominated to a role on the company's board, but World Liberty nixed the plan after a discussion with Nasdaq, Alt5 said in an SEC filing ."
-            ],
-            "HOOD": [
-              "Investors who may find it difficult or inconvenient to directly hold crypto assets — or who simply prefer stocks — can buy the listed company's stock easily through a platform such as Robinhood , rather than dealing with the complexities of directly owning crypto."
-            ],
-            "MSTR": [
-              "The best known is Michael Saylor 's company Strategy Inc. , which holds bitcoin ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "NDAQ",
-              "name": "Nasdaq",
-              "count": 2
-            },
-            {
-              "ticker": "HOOD",
-              "name": "Robinhood Markets",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "NDAQ": "A proposed board nomination was rejected due to a discussion with Nasdaq.",
-            "HOOD": "Investors can buy the company's stock easily through a platform such as Robinhood, rather than dealing with the complexities of directly owning crypto."
-          }
-        },
-        {
           "cluster_id": 5,
           "name": "Regulation of Prediction Markets",
           "count": 1,
@@ -978,17 +620,33 @@
               "value": 1
             }
           ]
+        },
+        {
+          "cluster_id": 11,
+          "name": "Trump Family Crypto Scandal",
+          "count": 1,
+          "children": [
+            {
+              "name": "Company that bet big on Trump-backed crypto says its fortunes have improved",
+              "summary": "AI Financial Corp. , a publicly traded company that took heavy losses after making a billion-dollar bet on a cryptocurrency backed by the Trump family, said Wednesday that its outl…",
+              "hash": "402491e888873820",
+              "chunk_key": "402491e888873820_c000",
+              "article_date": "2026-06-09 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
         }
       ]
     },
     {
       "name": "Global Market Uncertainty",
-      "count": 26,
+      "count": 22,
       "children": [
         {
           "cluster_id": 12,
           "name": "US Inflation Remains Elevated",
-          "count": 13,
+          "count": 11,
           "children": [
             {
               "name": "Call Kevin Warsh the Fed 'chairman'",
@@ -1088,130 +746,6 @@
               "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Household worries over finances hit highest since July 2022, Fed survey shows",
-              "summary": "U.S. households grew more worried over their financial situation, with the share of those seeing things as much worse than they were 12 months ago hitting a nearly four-year high, …",
-              "hash": "c3b4f7dfa43c7668",
-              "chunk_key": "c3b4f7dfa43c7668_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Home sales surged in May to the highest level since December",
-              "summary": "Sales of previously owned homes rebounded more than expected in May, after mortgage rates pulled back slightly in April.",
-              "hash": "9605f38496ee2b85",
-              "chunk_key": "9605f38496ee2b85_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "cluster_id": 28,
-          "name": "Global Tech Sector Decline",
-          "count": 6,
-          "children": [
-            {
-              "name": "Stock futures rise as U.S. completes strikes against Iran",
-              "summary": "Stock futures rose early Thursday as the U.S. announced it has completed its strikes against Iran, though Gulf countries reported hostile activity from Tehran.",
-              "hash": "de8f7be08b6eaa9f",
-              "chunk_key": "de8f7be08b6eaa9f_c000",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "SpaceX IPO, U.S.-Iran deal and more: Morning Squawk",
-              "summary": "…rally pulled the S&P 500 into positive territory for the week. Trump announced yesterday that he would nominate Jay Clayton to be the permanent director of national intelligence.",
-              "hash": "af0a9a4284e18e9b",
-              "chunk_key": "af0a9a4284e18e9b_c001",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Semiconductor shorts pile on as winning trade reverses",
-              "summary": "Investors' favorite trade is suddenly the one they can't stop betting against, even as it keeps going lower. Chip stocks in the VanEck Semiconductor ETF (SMH) are down on Tuesday.",
-              "hash": "3d4304b96c60d7a6",
-              "chunk_key": "3d4304b96c60d7a6_c000",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
-              "summary": "Brent futures, the international benchmark, for August delivery gained 2.52% to $95.45 per barrel.",
-              "hash": "efbdcba965a53d21",
-              "chunk_key": "efbdcba965a53d21_c001",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Chip rebound sparks hedging flurry from traders",
-              "summary": "When it comes to chipmakers, traders are ordering à la carte and shorting the buffet.",
-              "hash": "ebe87cbd2425f71a",
-              "chunk_key": "ebe87cbd2425f71a_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Chip rebound has one trader buying protection",
-              "summary": "Chip stocks are bouncing back Monday, but the rebound doesn't mean tech investors are in the clear.",
-              "hash": "830cd7721df58a1c",
-              "chunk_key": "830cd7721df58a1c_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "SPCX": [
-              "Here are five key things investors need to know to start the trading day: It's the big day: Elon Musk's SpaceX is set to make its public market debut on the Nasdaq."
-            ],
-            "ORCL": [
-              "Shares of Oracle dropped more than 11% in extended trading after the software giant announced plans to raise an additional $20 billion in equity and debt to pay for its artificial intelligence buildout."
-            ],
-            "INTC": [
-              "Prepare for more pre-July 4th fireworks!\" Headline fever is also lighting Intel' s fuse, as Alphabet reportedly commissioned the company to make 3 million in-house AI chips."
-            ],
-            "MRVL": [
-              "Thirty-day implied volatility in Marvell is in the 98th percentile, meaning premiums are highly elevated thanks to the stock's recent rip higher. \"Even for a volatile index like the [ PHLX Semiconductor Index ], the last two weeks have been pretty crazy,\" said Bespoke co-founder Paul Hickey. \"And after the moves we've had to both the upside and now the downside, I wouldn't expect it to immediately sell down.",
-              "For example, in Marvell Technology , calls outnumbered puts three to one, and more than 80% of premiums."
-            ],
-            "META": [
-              "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure Meta Platforms said on Wednesday it will lease an artificial intelligence-enabled data center in India with 168 megawatts of capacity from billionaire Mukesh Ambani's Reliance Industries ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "MRVL",
-              "name": "Marvell Technology",
-              "count": 2
-            },
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 1
-            },
-            {
-              "ticker": "ORCL",
-              "name": "Oracle",
-              "count": 1
-            },
-            {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 1
-            },
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
             }
           ]
         },
@@ -1304,6 +838,11 @@
               "count": 4
             },
             {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 3
+            },
+            {
               "ticker": "BAC",
               "name": "Bank of America",
               "count": 1
@@ -1322,10 +861,82 @@
           "ticker_summary": {
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
             "C": "Citigroup advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026.",
+            "GS": "This year, Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion.",
             "JPM": "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors.",
             "MS": "MS ranks ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic.",
             "CME": "Fed rate hike by December is priced in at 67% by CME Group's FedWatch tool."
           }
+        },
+        {
+          "cluster_id": 28,
+          "name": "Global Tech Sector Decline",
+          "count": 4,
+          "children": [
+            {
+              "name": "Stock futures rise as U.S. completes strikes against Iran",
+              "summary": "Stock futures rose early Thursday as the U.S. announced it has completed its strikes against Iran, though Gulf countries reported hostile activity from Tehran.",
+              "hash": "de8f7be08b6eaa9f",
+              "chunk_key": "de8f7be08b6eaa9f_c000",
+              "article_date": "2026-06-10 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "SpaceX IPO, U.S.-Iran deal and more: Morning Squawk",
+              "summary": "…rally pulled the S&P 500 into positive territory for the week. Trump announced yesterday that he would nominate Jay Clayton to be the permanent director of national intelligence.",
+              "hash": "af0a9a4284e18e9b",
+              "chunk_key": "af0a9a4284e18e9b_c001",
+              "article_date": "2026-06-10 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Semiconductor shorts pile on as winning trade reverses",
+              "summary": "Investors' favorite trade is suddenly the one they can't stop betting against, even as it keeps going lower. Chip stocks in the VanEck Semiconductor ETF (SMH) are down on Tuesday.",
+              "hash": "3d4304b96c60d7a6",
+              "chunk_key": "3d4304b96c60d7a6_c000",
+              "article_date": "2026-06-08 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
+              "summary": "Brent futures, the international benchmark, for August delivery gained 2.52% to $95.45 per barrel.",
+              "hash": "efbdcba965a53d21",
+              "chunk_key": "efbdcba965a53d21_c001",
+              "article_date": "2026-06-08 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "SPCX": [
+              "Here are five key things investors need to know to start the trading day: It's the big day: Elon Musk's SpaceX is set to make its public market debut on the Nasdaq."
+            ],
+            "ORCL": [
+              "Shares of Oracle dropped more than 11% in extended trading after the software giant announced plans to raise an additional $20 billion in equity and debt to pay for its artificial intelligence buildout."
+            ],
+            "META": [
+              "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure Meta Platforms said on Wednesday it will lease an artificial intelligence-enabled data center in India with 168 megawatts of capacity from billionaire Mukesh Ambani's Reliance Industries ."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 1
+            },
+            {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 1
+            },
+            {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            }
+          ]
         },
         {
           "cluster_id": 9,
@@ -1422,12 +1033,12 @@
     },
     {
       "name": "Politics and Government Corruption",
-      "count": 34,
+      "count": 25,
       "children": [
         {
           "cluster_id": 22,
           "name": "US-Iran Tensions Over Oil",
-          "count": 17,
+          "count": 13,
           "children": [
             {
               "name": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
@@ -1545,42 +1156,6 @@
               "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Kalshi traders say Strait of Hormuz traffic won't return to normal before January",
-              "summary": "There is a high likelihood that the shipping traffic in the Strait of Hormuz will not return to normal this year, according to prediction market traders.",
-              "hash": "759a233dbccf3a62",
-              "chunk_key": "759a233dbccf3a62_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Energy Secretary Chris Wright says traffic in Strait of Hormuz is rising 'very meaningfully'",
-              "summary": "U.S. Energy Secretary Chris Wright said oil traffic has risen and will continue to expand in the Strait of Hormuz , a globally important oil passageway that's been crippled by the …",
-              "hash": "fa0a54b75082739c",
-              "chunk_key": "fa0a54b75082739c_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "100 days of the Iran war: How global markets and the economy have been affected, in charts",
-              "summary": "…an analyst at PVM Oil Associates, said is one of the \"ostensible mitigating factors hindering a significant price rally\" in crude markets. \"These include Strategic Petroleum Reserv…",
-              "hash": "0d8425947a82d496",
-              "chunk_key": "0d8425947a82d496_c004",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel",
-              "summary": "Iran on Sunday reportedly fired missiles at Israel , as a tenuous ceasefire between Washington and Tehran hangs in the balance.",
-              "hash": "f6e9a0f664264864",
-              "chunk_key": "f6e9a0f664264864_c000",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -1623,7 +1198,7 @@
         {
           "cluster_id": 20,
           "name": "Immigration Enforcement Funding Package",
-          "count": 6,
+          "count": 4,
           "children": [
             {
               "name": "Trump administration appeals ruling blocking $100,000 H-1B fee",
@@ -1660,121 +1235,6 @@
               "article_date": "2026-06-08 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Judge blocks Trump's $100,000 H-1B visa fee",
-              "summary": "…the purposes of the Constitution's Taxing Clause,\" Sorokin noted. The Homeland Security Department is a defendant in the H-1B case.",
-              "hash": "6f4aac25b52bc9b9",
-              "chunk_key": "6f4aac25b52bc9b9_c001",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Congress moves toward approving $70 billion for ICE and CBP",
-              "summary": "…to the reconciliation bill as of Monday. \"House Democrats will be a hard no on the reckless Republican budget reconciliation bill this week,\" Minority Leader Hakeem Jeffries, D-N.Y…",
-              "hash": "2ec2dceeb363c856",
-              "chunk_key": "2ec2dceeb363c856_c002",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "WMT": [
-              "Several companies, including Walmart , said that they would pause their participation in the H-1B program as a result of Trump's proclamation."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "WMT",
-              "name": "Walmart",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "WMT": "Pausing participation in the H-1B program would likely impact Walmart's ability to hire foreign workers."
-          }
-        },
-        {
-          "cluster_id": 21,
-          "name": "Conflict of Interest in Government",
-          "count": 6,
-          "children": [
-            {
-              "name": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
-              "summary": "A federal judge in Alexandria, Virginia, on Friday extended her block against the Department of Justice implementing a \" Anti-Weaponization Fund ,\" saying that Acting Attorney Gene…",
-              "hash": "12bc315175a735f5",
-              "chunk_key": "12bc315175a735f5_c000",
-              "article_date": "2026-06-11 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump name still must come down from Kennedy Center, judge says",
-              "summary": "…such request by the administration, and it is not known when it will issue a decision.",
-              "hash": "d7a84a3df21deb03",
-              "chunk_key": "d7a84a3df21deb03_c001",
-              "article_date": "2026-06-11 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Jeffrey Epstein's former assistant Lesley Groff interviewed by House panel",
-              "summary": "Lesley Groff , the former executive assistant to notorious sex offender Jeffrey Epstein , began a transcribed interview on Tuesday morning by the House Oversight and Government Ref…",
-              "hash": "145412330af03f8e",
-              "chunk_key": "145412330af03f8e_c000",
-              "article_date": "2026-06-08 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "FTX founder Sam Bankman-Fried files formal request for Trump pardon",
-              "summary": "Sam Bankman-Fried has formally submitted a request for a presidential pardon to President Donald Trump , according to information listed on the U.S. Department of Justice Office of…",
-              "hash": "23daf5354104d1a7",
-              "chunk_key": "23daf5354104d1a7_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump nominates Todd Blanche for attorney general amid controversy over DOJ fund",
-              "summary": "President Donald Trump on Monday nominated Todd Blanche as attorney general, a position that he has held in an acting capacity for more than two months.",
-              "hash": "38aeb19340f51b6d",
-              "chunk_key": "38aeb19340f51b6d_c000",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump storms out of interview after election fraud, DOJ fund questions",
-              "summary": "President Donald Trump stormed out of a taped interview on NBC's \" Meet the Press \" after being pressed on his controversial \" weaponization \" fund and on evidence of his persisten…",
-              "hash": "0f3a47b0d583cbfc",
-              "chunk_key": "0f3a47b0d583cbfc_c000",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "MSFT": [
-              "Groff's appearance before the committee comes a day before Microsoft co-founder Bill Gates is due to speak to the same panel, which for months has interviewed a range of high-profile people connected to Epstein. \"I never saw anything improper,\" Groff told the committee, according to a source familiar with the matter who was cited by MS NOW."
-            ],
-            "COO": [
-              "The Department of Justice on Friday asked the appeals court to stay Cooper's order. \"It does not make sense to alter the Center's name and signage now, only to potentially revert the name again after what should be a successful appeal,\" Assistant Attorney General Brett Shumate wrote in that filing.",
-              "Cooper's rejection came the day of the deadline of his order that Trump's name be removed from the facade of the Kennedy Center, the performing arts landmark named after the late President John F."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "COO",
-              "name": "Cooper",
-              "count": 2
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
             }
           ]
         },
@@ -1825,6 +1285,61 @@
           ]
         },
         {
+          "cluster_id": 21,
+          "name": "Conflict of Interest in Government",
+          "count": 3,
+          "children": [
+            {
+              "name": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+              "summary": "A federal judge in Alexandria, Virginia, on Friday extended her block against the Department of Justice implementing a \" Anti-Weaponization Fund ,\" saying that Acting Attorney Gene…",
+              "hash": "12bc315175a735f5",
+              "chunk_key": "12bc315175a735f5_c000",
+              "article_date": "2026-06-11 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump name still must come down from Kennedy Center, judge says",
+              "summary": "…such request by the administration, and it is not known when it will issue a decision.",
+              "hash": "d7a84a3df21deb03",
+              "chunk_key": "d7a84a3df21deb03_c001",
+              "article_date": "2026-06-11 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Jeffrey Epstein's former assistant Lesley Groff interviewed by House panel",
+              "summary": "Lesley Groff , the former executive assistant to notorious sex offender Jeffrey Epstein , began a transcribed interview on Tuesday morning by the House Oversight and Government Ref…",
+              "hash": "145412330af03f8e",
+              "chunk_key": "145412330af03f8e_c000",
+              "article_date": "2026-06-08 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "MSFT": [
+              "Groff's appearance before the committee comes a day before Microsoft co-founder Bill Gates is due to speak to the same panel, which for months has interviewed a range of high-profile people connected to Epstein. \"I never saw anything improper,\" Groff told the committee, according to a source familiar with the matter who was cited by MS NOW."
+            ],
+            "COO": [
+              "The Department of Justice on Friday asked the appeals court to stay Cooper's order. \"It does not make sense to alter the Center's name and signage now, only to potentially revert the name again after what should be a successful appeal,\" Assistant Attorney General Brett Shumate wrote in that filing.",
+              "Cooper's rejection came the day of the deadline of his order that Trump's name be removed from the facade of the Kennedy Center, the performing arts landmark named after the late President John F."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "COO",
+              "name": "Cooper",
+              "count": 2
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            }
+          ]
+        },
+        {
           "cluster_id": 10,
           "name": "Record Political Advertising Spending",
           "count": 2,
@@ -1858,12 +1373,18 @@
           },
           "related_tickers": [
             {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            },
+            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 1
             }
           ],
           "ticker_summary": {
+            "META": "$1.6 billion in digital spending is expected to be allocated across platforms like Facebook, Google, Snapchat, and X during the cycle.",
             "GOOG": "Google is expected to receive $1.6 billion in digital advertising spending from politicians during the cycle."
           }
         }
@@ -1871,12 +1392,12 @@
     },
     {
       "name": "South American Parasite Crisis",
-      "count": 3,
+      "count": 1,
       "children": [
         {
           "cluster_id": 15,
           "name": "New World Screwworm Outbreak",
-          "count": 3,
+          "count": 1,
           "children": [
             {
               "name": "Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
@@ -1886,30 +1407,12 @@
               "article_date": "2026-06-09 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
-              "summary": "…of screwworm in Texas on Wednesday. The screwworm cases are the first in the U.S. since the 1960s.",
-              "hash": "8bfa0fe3ce16af3e",
-              "chunk_key": "8bfa0fe3ce16af3e_c001",
-              "article_date": "2026-06-07 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-              "summary": "The U.S. Department of Agriculture confirmed a second case of New World screwworm, a flesh-eating parasite, in Texas.",
-              "hash": "28e85609a34b44a7",
-              "chunk_key": "28e85609a34b44a7_c000",
-              "article_date": "2026-06-05 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "ROL": [
-              "This is not a virus, it's not a disease, it's just a little pest, a larvae that lands in a calf's wound, for example, and it can be treated,\" she said on CNBC Monday . \"Under the last administration with the massive movement under the open borders policy, the cartels, etc., border security, that's when it began to make its way back up toward America.\" Last September, however, Rollins was more forthcoming about the threat posed by the screwworm in an appearance on Fox News .",
-              "Since screwworm was detected in Texas last week, Rollins has hit the airwaves to reassure the U.S. public that the U.S. Department of Agriculture is ahead of the infestation and that it does not pose a risk to the food system."
+              "Since screwworm was detected in Texas last week, Rollins has hit the airwaves to reassure the U.S. public that the U.S. Department of Agriculture is ahead of the infestation and that it does not pose a risk to the food system.",
+              "This is not a virus, it's not a disease, it's just a little pest, a larvae that lands in a calf's wound, for example, and it can be treated,\" she said on CNBC Monday . \"Under the last administration with the massive movement under the open borders policy, the cartels, etc., border security, that's when it began to make its way back up toward America.\" Last September, however, Rollins was more forthcoming about the threat posed by the screwworm in an appearance on Fox News ."
             ]
           },
           "related_tickers": [
@@ -1920,7 +1423,7 @@
             }
           ],
           "ticker_summary": {
-            "ROL": "Rollins has made public statements about the screwworm threat in two separate appearances, one on CNBC and one on Fox News, and again in response to the recent detection in Texas."
+            "ROL": "Rollins' reassurance efforts to the U.S. public about the screwworm outbreak may be perceived as inconsistent with its previous more forthcoming threat assessment."
           }
         }
       ]
@@ -2238,6 +1741,16 @@
           },
           "related_tickers": [
             {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 7
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 4
+            },
+            {
               "ticker": "HOOD",
               "name": "Robinhood Markets",
               "count": 4
@@ -2258,15 +1771,19 @@
             "C": "Citigroup is one of the lead bankers for SpaceX's IPO.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO offering.",
+            "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
             "SCHW": "Charles Schwab will make shares available for SpaceX's IPO, and the amount of shares allocated to investors will influence their decision to invest.",
+            "TSLA": "Elon Musk's control of SpaceX and his role as CEO of another trillion-dollar company may raise concerns about conflicts of interest.",
             "HOOD": "Shares allocated to investors through Robinhood were subject to allocation uncertainty, with some investors receiving fewer shares than requested.",
             "SOFI": "Shares of SoFi Technologies will be made available through several brokerage platforms.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
             "NDAQ": "A letter was sent to Nasdaq, S&P Dow Jones Indices, FTSE Russell, and Morningstar Indexes regarding potential rule changes.",
-            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services."
+            "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services.",
+            "UAL": "Starlink has been selected by United, Southwest Airlines, and Alaska Airlines, which merged with Hawaiian Airlines, while Delta will use Amazon Leo starting in 2028.",
+            "PLTR": "Public markets are already paying for a version of this in Palantir."
           }
         },
         {
@@ -2352,13 +1869,11 @@
               "ticker": "SPCX",
               "name": "Space Exploration Technologies",
               "count": 19
-            },
-            {
-              "ticker": "ASTS",
-              "name": "AST SpaceMobile",
-              "count": 2
             }
-          ]
+          ],
+          "ticker_summary": {
+            "SPCX": "When trading on the Nasdaq, SpaceX will be the only publicly traded private sector company operating in the space launch business at scale."
+          }
         },
         {
           "cluster_id": 30,
@@ -2413,18 +1928,21 @@
               "name": "Space Exploration Technologies",
               "count": 19
             }
-          ]
+          ],
+          "ticker_summary": {
+            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
+          }
         }
       ]
     },
     {
       "name": "World Cup Economic Impact",
-      "count": 3,
+      "count": 2,
       "children": [
         {
           "cluster_id": 16,
           "name": "World Cup Tourism and Hospitality",
-          "count": 3,
+          "count": 2,
           "children": [
             {
               "name": "CNBC Daily Open: ECB heads for a hike amid Iran energy price pressures",
@@ -2443,15 +1961,6 @@
               "article_date": "2026-06-09 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Global week ahead: Soccer isn't the only thing that's kicking off",
-              "summary": "There is a special type of fever around a men's soccer World Cup.",
-              "hash": "26f68853325bdf87",
-              "chunk_key": "26f68853325bdf87_c000",
-              "article_date": "2026-06-06 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -2463,12 +1972,6 @@
             ],
             "UBER": [
               "Derek Evans, CEO of the Marcus Samuelsson Group, told CNBC that in the restaurant business, it's too early to count his chickens. \"You haven't seen fandom really kick in yet,\" he said. \"When your country's team starts winning that's when travel budgets go out the window.\" Rideshare companies such as Uber and Lyft could also see increased demand around matches."
-            ],
-            "AVGO": [
-              "U.S. semiconductor giant Broadcom sparked a sell-off across the global chip space after issuing a disappointing forecast for its AI chip sales."
-            ],
-            "GS": [
-              "Goldman Sachs predicts the main sector beneficiaries will include European and U.S. consumer staples, U.S. retail, and hospitality firms."
             ]
           },
           "related_tickers": [
