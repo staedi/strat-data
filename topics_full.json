@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-17T01:18:26.593915-04:00",
+  "updated_at": "2026-06-17T01:44:29.826383-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -699,7 +699,6 @@
             "MDB": "Aurora, Amazon's cloud division, offers a database service that directly competes with MongoDB's offerings.",
             "BRK-B": "Permanent holding of Long Lake's companies is a strategy employed by Berkshire Hathaway.",
             "GS": "Partnerships with Anthropic, Blackstone, Hellman & Friedman, and OpenAI are backed by Goldman Sachs.",
-            "DASH": "A head of engineering at DoorDash predicts that workflow-driven enterprise SaaS companies will be either disrupted or dead in the next decade.",
             "CRM": "Shares of public software companies like Salesforce got hammered this year because of the threat from artificial intelligence.",
             "NOW": "Shares of ServiceNow got hammered this year due to the threat from artificial intelligence."
           }
@@ -944,11 +943,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 25
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 17
@@ -956,11 +950,6 @@
             {
               "ticker": "MSFT",
               "name": "Microsoft",
-              "count": 2
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
               "count": 2
             },
             {
@@ -983,8 +972,6 @@
             "AMZN": "Amazon has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and SpaceX's AI division is a niche player in a market dominated by Google, OpenAI, and Anthropic.",
             "MSFT": "Tokens are mentioned in remarks on earnings calls by companies including Microsoft.",
-            "NVDA": "About 110,000 graphics processing units, central processors, memory, and other components will be supplied by Nvidia to Google for use in its data centers.",
-            "SPCX": "Using its own massive data centers will be crucial to SpaceX's operating success.",
             "BRK-B": "$10 billion investment by Berkshire Hathaway is part of $85 billion in stock sales by Alphabet.",
             "META": "Reliance Industries will build a data center for Meta within two years, with an option to scale, to help scale AI infrastructure globally."
           }
@@ -3760,7 +3747,6 @@
             "SCHW": "Charles Schwab will make shares available for SpaceX's IPO, and the amount of shares allocated to investors will influence their decision to invest.",
             "TSLA": "Elon Musk's control of SpaceX and his role as CEO of another trillion-dollar company may raise concerns about conflicts of interest.",
             "HOOD": "Shares allocated to investors through Robinhood were subject to allocation uncertainty, with some investors receiving fewer shares than requested.",
-            "SOFI": "Shares of SoFi Technologies will be made available through several brokerage platforms.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
