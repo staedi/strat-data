@@ -1,7 +1,716 @@
 {
   "mode": "weekly",
-  "updated_at": "2026-06-16T18:32:42.503332-04:00",
+  "updated_at": "2026-06-17T18:39:09.347695-04:00",
   "tickers": {
+    "CME": {
+      "name": "CME Group",
+      "pos": 2,
+      "neg": 0,
+      "neu": 2,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "score": 0.292,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 2
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Fed holds rates steady, pares down statement to remove cutting bias",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to be CEO",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 7,
+      "neg": 3,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 70.0,
+      "negative_pct": 30.0,
+      "score": 0.281,
+      "categories": {
+        "Business": {
+          "pos": 6,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 6,
+          "neg": 2,
+          "neu": 0,
+          "total": 8,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 5,
+      "neg": 4,
+      "neu": 1,
+      "total": 10,
+      "positive_pct": 50.0,
+      "negative_pct": 40.0,
+      "score": 0.088,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 4,
+          "neu": 1
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Sources: Anthropic’s Amodei, Google’s Hassabis call for U.S.-led AI coalition at G7",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 3,
+          "neg": 2,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 2,
+          "neg": 2,
+          "neu": 1,
+          "total": 5,
+          "positive_pct": 40.0,
+          "negative_pct": 40.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 7,
+      "neg": 0,
+      "neu": 0,
+      "total": 7,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 6,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "KMX": {
+      "name": "Carmax",
+      "pos": 3,
+      "neg": 1,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "score": 0.5,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "CarMax shares fall after used car retailer reports earnings beats",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        }
+      ]
+    },
+    "BAC": {
+      "name": "Bank of America",
+      "pos": 0,
+      "neg": 4,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Fed Chair Warsh expected to withhold 'dot' from central bank's rate outlook",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "NDAQ": {
+      "name": "Nasdaq",
+      "pos": 1,
+      "neg": 0,
+      "neu": 1,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 0.0,
+      "score": 0.562,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "0"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "TGT": {
+      "name": "Target",
+      "pos": 1,
+      "neg": 2,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 66.7,
+      "score": -0.333,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ]
+    },
+    "WMT": {
+      "name": "Walmart",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "COST": {
+      "name": "Costco Wholesale",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple",
+      "pos": 3,
+      "neg": 1,
+      "neu": 1,
+      "total": 5,
+      "positive_pct": 60.0,
+      "negative_pct": 20.0,
+      "score": 0.672,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 1,
+          "neu": 1
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 1,
+          "neu": 1,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "Space Exploration Technologies",
+      "pos": 13,
+      "neg": 13,
+      "neu": 1,
+      "total": 27,
+      "positive_pct": 48.1,
+      "negative_pct": 48.1,
+      "score": 0.0,
+      "categories": {
+        "Business": {
+          "pos": 10,
+          "neg": 10,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 3,
+          "neg": 2,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 13,
+          "neg": 13,
+          "neu": 1,
+          "total": 27,
+          "positive_pct": 48.1,
+          "negative_pct": 48.1
+        }
+      ]
+    },
     "LMT": {
       "name": "Lockheed Martin",
       "pos": 3,
@@ -38,113 +747,6 @@
         }
       ]
     },
-    "SPCX": {
-      "name": "Space Exploration Technologies",
-      "pos": 12,
-      "neg": 13,
-      "neu": 1,
-      "total": 26,
-      "positive_pct": 46.2,
-      "negative_pct": 50.0,
-      "score": -0.038,
-      "categories": {
-        "Business": {
-          "pos": 9,
-          "neg": 10,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 3,
-          "neg": 2,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Michael Burry says he's tempted to bet against SpaceX, but passes",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 12,
-          "neg": 13,
-          "neu": 1,
-          "total": 26,
-          "positive_pct": 46.2,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "CME": {
-      "name": "CME Group",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.5,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "TSLA": {
       "name": "Tesla",
       "pos": 1,
@@ -172,93 +774,6 @@
           "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
           "date": "2026-06-15 00:00:00",
           "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 3,
-      "neg": 2,
-      "neu": 0,
-      "total": 5,
-      "positive_pct": 60.0,
-      "negative_pct": 40.0,
-      "score": 0.2,
-      "categories": {
-        "Business": {
-          "pos": 3,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 3,
-          "neg": 2,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 60.0,
-          "negative_pct": 40.0
-        }
-      ]
-    },
-    "AMZN": {
-      "name": "Amazon.com",
-      "pos": 1,
-      "neg": 1,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": 0.0,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
@@ -316,47 +831,6 @@
           "total": 4,
           "positive_pct": 25.0,
           "negative_pct": 75.0
-        }
-      ]
-    },
-    "AAPL": {
-      "name": "Apple",
-      "pos": 2,
-      "neg": 1,
-      "neu": 1,
-      "total": 4,
-      "positive_pct": 50.0,
-      "negative_pct": 25.0,
-      "score": 0.25,
-      "categories": {
-        "Business": {
-          "pos": 2,
-          "neg": 1,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 2,
-          "neg": 1,
-          "neu": 1,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 25.0
         }
       ]
     },
@@ -506,47 +980,6 @@
           "total": 3,
           "positive_pct": 33.3,
           "negative_pct": 66.7
-        }
-      ]
-    },
-    "NVDA": {
-      "name": "Nvidia",
-      "pos": 4,
-      "neg": 0,
-      "neu": 0,
-      "total": 4,
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "score": 1.0,
-      "categories": {
-        "Business": {
-          "pos": 4,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
         }
       ]
     },

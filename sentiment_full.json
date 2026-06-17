@@ -1,7 +1,3050 @@
 {
   "mode": "full",
-  "updated_at": "2026-06-16T18:32:42.469294-04:00",
+  "updated_at": "2026-06-17T18:39:09.310350-04:00",
   "tickers": {
+    "CME": {
+      "name": "CME Group",
+      "pos": 2,
+      "neg": 1,
+      "neu": 3,
+      "total": 6,
+      "positive_pct": 33.3,
+      "negative_pct": 16.7,
+      "score": 0.144,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 3
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 25,
+          "label": "Global Energy and Markets",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 12,
+          "label": "US Inflation Remains Elevated",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Fed holds rates steady, pares down statement to remove cutting bias",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to be CEO",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 23,
+      "neg": 13,
+      "neu": 3,
+      "total": 39,
+      "positive_pct": 59.0,
+      "negative_pct": 33.3,
+      "score": 0.343,
+      "categories": {
+        "Business": {
+          "pos": 21,
+          "neg": 12,
+          "neu": 2
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 5,
+          "neg": 3,
+          "neu": 0,
+          "total": 8,
+          "score": 0.25,
+          "positive_pct": 62.5,
+          "negative_pct": 37.5
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 2,
+          "neg": 2,
+          "neu": 1,
+          "total": 5,
+          "score": 0.0,
+          "positive_pct": 40.0,
+          "negative_pct": 40.0
+        },
+        {
+          "cluster_id": 23,
+          "label": "\"AI Disrupts Venture Capital\"",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 33,
+          "label": "Artificial Intelligence Tokens Market",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 38,
+          "label": "AI Industry Merges and IPOs",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 2,
+          "label": "Apple's AI Strategy Evolution",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 32,
+          "label": "SpaceX IPO Frenzy",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-29",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-05-30",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-01",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 6,
+          "neg": 2,
+          "neu": 0,
+          "total": 8,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 3,
+          "neu": 2,
+          "total": 5,
+          "positive_pct": 0.0,
+          "negative_pct": 60.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 6,
+          "neg": 2,
+          "neu": 0,
+          "total": 8,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 37,
+      "neg": 19,
+      "neu": 10,
+      "total": 66,
+      "positive_pct": 56.1,
+      "negative_pct": 28.8,
+      "score": 0.378,
+      "categories": {
+        "Business": {
+          "pos": 32,
+          "neg": 18,
+          "neu": 7
+        },
+        "Performance": {
+          "pos": 5,
+          "neg": 0,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 2
+        },
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 33,
+          "label": "Artificial Intelligence Tokens Market",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 10,
+          "neg": 6,
+          "neu": 1,
+          "total": 17,
+          "score": 0.235,
+          "positive_pct": 58.8,
+          "negative_pct": 35.3
+        },
+        {
+          "cluster_id": 2,
+          "label": "Apple's AI Strategy Evolution",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 7,
+          "neg": 1,
+          "neu": 1,
+          "total": 9,
+          "score": 0.667,
+          "positive_pct": 77.8,
+          "negative_pct": 11.1
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "score": -0.667,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 23,
+          "label": "\"AI Disrupts Venture Capital\"",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "score": -0.667,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 5,
+          "label": "Regulation of Prediction Markets",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "score": -0.667,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 9,
+          "label": "Berkshire Hathaway's Strategic Acquisitions",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 10,
+          "label": "Record Political Advertising Spending",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 8,
+          "label": "Prediction Market Platforms",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 17,
+          "label": "India's Economic Growth Challenges",
+          "meta_category": "Asia's Emerging Market Challenges",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 1,
+          "label": "Global Resin Supply Chain Crisis",
+          "meta_category": "Asia's Emerging Market Challenges",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 38,
+          "label": "AI Industry Merges and IPOs",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 14,
+          "label": "Rita Ferro Leads Disney Advertising",
+          "meta_category": "Advertising Industry Evolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Sources: Anthropic’s Amodei, Google’s Hassabis call for U.S.-led AI coalition at G7",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-26",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-05-29",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-05-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-01",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 10,
+          "neg": 8,
+          "neu": 2,
+          "total": 20,
+          "positive_pct": 50.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 1,
+          "neu": 1,
+          "total": 6,
+          "positive_pct": 66.7,
+          "negative_pct": 16.7
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 4,
+          "neg": 0,
+          "neu": 1,
+          "total": 5,
+          "positive_pct": 80.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-12",
+          "pos": 3,
+          "neg": 0,
+          "neu": 1,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-13",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 3,
+          "neg": 2,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 2,
+          "neg": 2,
+          "neu": 1,
+          "total": 5,
+          "positive_pct": 40.0,
+          "negative_pct": 40.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 29,
+      "neg": 14,
+      "neu": 6,
+      "total": 49,
+      "positive_pct": 59.2,
+      "negative_pct": 28.6,
+      "score": 0.514,
+      "categories": {
+        "Business": {
+          "pos": 27,
+          "neg": 11,
+          "neu": 5
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 4,
+          "neg": 1,
+          "neu": 2,
+          "total": 7,
+          "score": 0.429,
+          "positive_pct": 57.1,
+          "negative_pct": 14.3
+        },
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 6,
+          "neg": 0,
+          "neu": 0,
+          "total": 6,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 2,
+          "label": "Apple's AI Strategy Evolution",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 2,
+          "neg": 2,
+          "neu": 1,
+          "total": 5,
+          "score": 0.0,
+          "positive_pct": 40.0,
+          "negative_pct": 40.0
+        },
+        {
+          "cluster_id": 33,
+          "label": "Artificial Intelligence Tokens Market",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 4,
+          "label": "Chinese EVs Enter US Market",
+          "meta_category": "Asia's Emerging Market Challenges",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 1,
+          "label": "Global Resin Supply Chain Crisis",
+          "meta_category": "Asia's Emerging Market Challenges",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 8,
+          "label": "Prediction Market Platforms",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-30",
+          "pos": 5,
+          "neg": 0,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-05-31",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-01",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 5,
+          "neg": 2,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 62.5,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 5,
+          "neu": 2,
+          "total": 11,
+          "positive_pct": 36.4,
+          "negative_pct": 45.5
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 2,
+          "neg": 2,
+          "neu": 2,
+          "total": 6,
+          "positive_pct": 33.3,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "KMX": {
+      "name": "Carmax",
+      "pos": 3,
+      "neg": 1,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "score": 0.5,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "CarMax shares fall after used car retailer reports earnings beats",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        }
+      ]
+    },
+    "BAC": {
+      "name": "Bank of America",
+      "pos": 5,
+      "neg": 8,
+      "neu": 2,
+      "total": 15,
+      "positive_pct": 33.3,
+      "negative_pct": 53.3,
+      "score": -0.496,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 5,
+          "neu": 2
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 9,
+          "label": "Berkshire Hathaway's Strategic Acquisitions",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 25,
+          "label": "Global Energy and Markets",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 8,
+          "label": "Prediction Market Platforms",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Fed Chair Warsh expected to withhold 'dot' from central bank's rate outlook",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "MCD": {
+      "name": "McDonald's",
+      "pos": 1,
+      "neg": 1,
+      "neu": 1,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 33.3,
+      "score": 0.616,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 12,
+          "label": "US Inflation Remains Elevated",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Trump sabotages Senate bid to fast-track Clayton as DNI, committee scuttles hearing",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+          "date": "2026-05-27 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-27",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "NDAQ": {
+      "name": "Nasdaq",
+      "pos": 2,
+      "neg": 7,
+      "neu": 2,
+      "total": 11,
+      "positive_pct": 18.2,
+      "negative_pct": 63.6,
+      "score": -0.004,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 4,
+          "neu": 2
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 11,
+          "label": "Trump Family Crypto Scandal",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "score": -0.667,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 7,
+          "label": "Crypto Market Decline Continues",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "SpaceX IPO shines a light on Wall Street’s blockchain challenger",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-04",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 0,
+          "neg": 2,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "TGT": {
+      "name": "Target",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.253,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
+          "date": "2026-06-05 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-05",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ]
+    },
+    "WMT": {
+      "name": "Walmart",
+      "pos": 1,
+      "neg": 3,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 75.0,
+      "score": -0.985,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 20,
+          "label": "Immigration Enforcement Funding Package",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 23,
+          "label": "\"AI Disrupts Venture Capital\"",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Judge blocks Trump's $100,000 H-1B visa fee",
+          "date": "2026-06-07 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "'Disrupted or dead': AI crushes a generation of startups built before ChatGPT",
+          "date": "2026-05-30 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-30",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "COST": {
+      "name": "Costco Wholesale",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple",
+      "pos": 31,
+      "neg": 23,
+      "neu": 3,
+      "total": 57,
+      "positive_pct": 54.4,
+      "negative_pct": 40.4,
+      "score": 0.202,
+      "categories": {
+        "Business": {
+          "pos": 24,
+          "neg": 15,
+          "neu": 3
+        },
+        "Performance": {
+          "pos": 5,
+          "neg": 8,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 2,
+          "label": "Apple's AI Strategy Evolution",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 25,
+          "neg": 14,
+          "neu": 2,
+          "total": 41,
+          "score": 0.268,
+          "positive_pct": 61.0,
+          "negative_pct": 34.1
+        },
+        {
+          "cluster_id": 1,
+          "label": "Global Resin Supply Chain Crisis",
+          "meta_category": "Asia's Emerging Market Challenges",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 23,
+          "label": "\"AI Disrupts Venture Capital\"",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "SpaceX: To the moon for investors or a bumpy ride? Here's what experts say",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Drugmakers race to find a place in the next wave of obesity drugs",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-04",
+          "pos": 12,
+          "neg": 10,
+          "neu": 2,
+          "total": 24,
+          "positive_pct": 50.0,
+          "negative_pct": 41.7
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 2,
+          "neg": 3,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 40.0,
+          "negative_pct": 60.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 11,
+          "neg": 2,
+          "neu": 0,
+          "total": 13,
+          "positive_pct": 84.6,
+          "negative_pct": 15.4
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 2,
+          "neg": 5,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 28.6,
+          "negative_pct": 71.4
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 1,
+          "neu": 1,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 9,
+      "neg": 8,
+      "neu": 4,
+      "total": 21,
+      "positive_pct": 42.9,
+      "negative_pct": 38.1,
+      "score": -0.026,
+      "categories": {
+        "Business": {
+          "pos": 9,
+          "neg": 7,
+          "neu": 3
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 38,
+          "label": "AI Industry Merges and IPOs",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 3,
+          "neg": 1,
+          "neu": 2,
+          "total": 6,
+          "score": 0.333,
+          "positive_pct": 50.0,
+          "negative_pct": 16.7
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 33,
+          "label": "Artificial Intelligence Tokens Market",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 9,
+          "label": "Berkshire Hathaway's Strategic Acquisitions",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 21,
+          "label": "Conflict of Interest in Government",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 2,
+          "label": "Apple's AI Strategy Evolution",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "A year after Meta tapped Alexandr Wang to build AI, Zuckerberg has to sell it",
+          "date": "2026-06-12 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Elon Musk becomes world's first trillionaire as SpaceX begins trading",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Polymarket traders think SpaceX will cross $2 trillion market cap",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-01",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 3,
+          "neg": 3,
+          "neu": 2,
+          "total": 8,
+          "positive_pct": 37.5,
+          "negative_pct": 37.5
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-12",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "EVR": {
+      "name": "Evercore",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Meta stock sinks on report company could raise tens of billions of dollars for AI push",
+          "date": "2026-06-04 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-04",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "Space Exploration Technologies",
+      "pos": 181,
+      "neg": 80,
+      "neu": 10,
+      "total": 271,
+      "positive_pct": 66.8,
+      "negative_pct": 29.5,
+      "score": 0.246,
+      "categories": {
+        "Business": {
+          "pos": 159,
+          "neg": 67,
+          "neu": 7
+        },
+        "Performance": {
+          "pos": 20,
+          "neg": 11,
+          "neu": 3
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Recruitment": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 51,
+          "neg": 22,
+          "neu": 0,
+          "total": 73,
+          "score": 0.397,
+          "positive_pct": 69.9,
+          "negative_pct": 30.1
+        },
+        {
+          "cluster_id": 32,
+          "label": "SpaceX IPO Frenzy",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 21,
+          "neg": 6,
+          "neu": 2,
+          "total": 29,
+          "score": 0.517,
+          "positive_pct": 72.4,
+          "negative_pct": 20.7
+        },
+        {
+          "cluster_id": 33,
+          "label": "Artificial Intelligence Tokens Market",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 17,
+          "neg": 8,
+          "neu": 0,
+          "total": 25,
+          "score": 0.36,
+          "positive_pct": 68.0,
+          "negative_pct": 32.0
+        },
+        {
+          "cluster_id": 30,
+          "label": "SpaceX's Billion-Dollar IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 16,
+          "neg": 3,
+          "neu": 1,
+          "total": 20,
+          "score": 0.65,
+          "positive_pct": 80.0,
+          "negative_pct": 15.0
+        },
+        {
+          "cluster_id": 7,
+          "label": "Crypto Market Decline Continues",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 7,
+          "neg": 2,
+          "neu": 1,
+          "total": 10,
+          "score": 0.5,
+          "positive_pct": 70.0,
+          "negative_pct": 20.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 1,
+          "neg": 1,
+          "neu": 1,
+          "total": 3,
+          "score": 0.0,
+          "positive_pct": 33.3,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 38,
+          "label": "AI Industry Merges and IPOs",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 1,
+          "neu": 1,
+          "total": 3,
+          "score": 0.0,
+          "positive_pct": 33.3,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 22,
+          "label": "US-Iran Tensions Over Oil",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-29",
+          "pos": 4,
+          "neg": 1,
+          "neu": 1,
+          "total": 6,
+          "positive_pct": 66.7,
+          "negative_pct": 16.7
+        },
+        {
+          "date": "2026-06-01",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-02",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 9,
+          "neg": 1,
+          "neu": 1,
+          "total": 11,
+          "positive_pct": 81.8,
+          "negative_pct": 9.1
+        },
+        {
+          "date": "2026-06-04",
+          "pos": 11,
+          "neg": 4,
+          "neu": 0,
+          "total": 15,
+          "positive_pct": 73.3,
+          "negative_pct": 26.7
+        },
+        {
+          "date": "2026-06-06",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 3,
+          "neg": 4,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 37.5,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 9,
+          "neg": 11,
+          "neu": 0,
+          "total": 20,
+          "positive_pct": 45.0,
+          "negative_pct": 55.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 56,
+          "neg": 19,
+          "neu": 1,
+          "total": 76,
+          "positive_pct": 73.7,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 49,
+          "neg": 16,
+          "neu": 1,
+          "total": 66,
+          "positive_pct": 74.2,
+          "negative_pct": 24.2
+        },
+        {
+          "date": "2026-06-13",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 22,
+          "neg": 9,
+          "neu": 2,
+          "total": 33,
+          "positive_pct": 66.7,
+          "negative_pct": 27.3
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 13,
+          "neg": 13,
+          "neu": 1,
+          "total": 27,
+          "positive_pct": 48.1,
+          "negative_pct": 48.1
+        }
+      ]
+    },
+    "MS": {
+      "name": "Morgan Stanley",
+      "pos": 8,
+      "neg": 8,
+      "neu": 1,
+      "total": 17,
+      "positive_pct": 47.1,
+      "negative_pct": 47.1,
+      "score": -0.56,
+      "categories": {
+        "Business": {
+          "pos": 7,
+          "neg": 7,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 5,
+          "neg": 2,
+          "neu": 0,
+          "total": 7,
+          "score": 0.429,
+          "positive_pct": 71.4,
+          "negative_pct": 28.6
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 25,
+          "label": "Global Energy and Markets",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 38,
+          "label": "AI Industry Merges and IPOs",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe'",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Call Kevin Warsh the Fed 'chairman'",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-01",
+          "pos": 5,
+          "neg": 2,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 71.4,
+          "negative_pct": 28.6
+        },
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-08",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "JPM": {
+      "name": "JPMorgan Chase",
+      "pos": 9,
+      "neg": 10,
+      "neu": 4,
+      "total": 23,
+      "positive_pct": 39.1,
+      "negative_pct": 43.5,
+      "score": -0.162,
+      "categories": {
+        "Business": {
+          "pos": 8,
+          "neg": 6,
+          "neu": 4
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 25,
+          "label": "Global Energy and Markets",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 1,
+          "neg": 3,
+          "neu": 1,
+          "total": 5,
+          "score": -0.4,
+          "positive_pct": 20.0,
+          "negative_pct": 60.0
+        },
+        {
+          "cluster_id": 31,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Finance",
+          "pos": 3,
+          "neg": 1,
+          "neu": 1,
+          "total": 5,
+          "score": 0.4,
+          "positive_pct": 60.0,
+          "negative_pct": 20.0
+        },
+        {
+          "cluster_id": 21,
+          "label": "Conflict of Interest in Government",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 22,
+          "label": "US-Iran Tensions Over Oil",
+          "meta_category": "Politics and Government Corruption",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sector Decline",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
+          "date": "2026-06-14 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Charlie Javice reportedly seeking a pardon from Trump",
+          "date": "2026-06-13 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Call Kevin Warsh the Fed 'chairman'",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-30",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-01",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-02",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-07",
+          "pos": 4,
+          "neg": 0,
+          "neu": 1,
+          "total": 5,
+          "positive_pct": 80.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-13",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-14",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "C": {
+      "name": "Citigroup",
+      "pos": 7,
+      "neg": 7,
+      "neu": 1,
+      "total": 15,
+      "positive_pct": 46.7,
+      "negative_pct": 46.7,
+      "score": -0.586,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 4,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 25,
+          "label": "Global Energy and Markets",
+          "meta_category": "Global Market Uncertainty",
+          "pos": 5,
+          "neg": 3,
+          "neu": 0,
+          "total": 8,
+          "score": 0.25,
+          "positive_pct": 62.5,
+          "negative_pct": 37.5
+        },
+        {
+          "cluster_id": 34,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "SpaceX's Historic IPO",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 7,
+          "label": "Crypto Market Decline Continues",
+          "meta_category": "Financial Markets and Regulation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SpaceX surge is creating a unique hedging opportunity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Call Kevin Warsh the Fed 'chairman'",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+          "date": "2026-06-11 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Hugo Boss pops 8% after top shareholder Frasers launches $2 billion takeover offer",
+          "date": "2026-06-10 00:00:00",
+          "polarity": "~"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-03",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-05",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-09",
+          "pos": 4,
+          "neg": 3,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 57.1,
+          "negative_pct": 42.9
+        },
+        {
+          "date": "2026-06-10",
+          "pos": 2,
+          "neg": 0,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-11",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
     "GS": {
       "name": "Goldman Sachs Group",
       "pos": 15,
@@ -310,191 +3353,6 @@
         }
       ]
     },
-    "BAC": {
-      "name": "Bank of America",
-      "pos": 5,
-      "neg": 5,
-      "neu": 2,
-      "total": 12,
-      "positive_pct": 41.7,
-      "negative_pct": 41.7,
-      "score": -0.277,
-      "categories": {
-        "Business": {
-          "pos": 5,
-          "neg": 3,
-          "neu": 2
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 9,
-          "label": "Berkshire Hathaway's Strategic Acquisitions",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 25,
-          "label": "Global Energy and Markets",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 8,
-          "label": "Prediction Market Platforms",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Fed Chair Warsh expected to withhold 'dot' from central bank's rate outlook",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Oracle shares tumble 8% on increased capital raise, cash concerns",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 2,
-          "neg": 0,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
     "SCHW": {
       "name": "Charles Schwab",
       "pos": 2,
@@ -783,296 +3641,6 @@
         }
       ]
     },
-    "SPCX": {
-      "name": "Space Exploration Technologies",
-      "pos": 180,
-      "neg": 80,
-      "neu": 10,
-      "total": 270,
-      "positive_pct": 66.7,
-      "negative_pct": 29.6,
-      "score": 0.236,
-      "categories": {
-        "Business": {
-          "pos": 158,
-          "neg": 67,
-          "neu": 7
-        },
-        "Performance": {
-          "pos": 20,
-          "neg": 11,
-          "neu": 3
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Recruitment": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 51,
-          "neg": 22,
-          "neu": 0,
-          "total": 73,
-          "score": 0.397,
-          "positive_pct": 69.9,
-          "negative_pct": 30.1
-        },
-        {
-          "cluster_id": 32,
-          "label": "SpaceX IPO Frenzy",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 21,
-          "neg": 6,
-          "neu": 2,
-          "total": 29,
-          "score": 0.517,
-          "positive_pct": 72.4,
-          "negative_pct": 20.7
-        },
-        {
-          "cluster_id": 33,
-          "label": "Artificial Intelligence Tokens Market",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 17,
-          "neg": 8,
-          "neu": 0,
-          "total": 25,
-          "score": 0.36,
-          "positive_pct": 68.0,
-          "negative_pct": 32.0
-        },
-        {
-          "cluster_id": 30,
-          "label": "SpaceX's Billion-Dollar IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 16,
-          "neg": 3,
-          "neu": 1,
-          "total": 20,
-          "score": 0.65,
-          "positive_pct": 80.0,
-          "negative_pct": 15.0
-        },
-        {
-          "cluster_id": 7,
-          "label": "Crypto Market Decline Continues",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 7,
-          "neg": 2,
-          "neu": 1,
-          "total": 10,
-          "score": 0.5,
-          "positive_pct": 70.0,
-          "negative_pct": 20.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 1,
-          "neg": 1,
-          "neu": 1,
-          "total": 3,
-          "score": 0.0,
-          "positive_pct": 33.3,
-          "negative_pct": 33.3
-        },
-        {
-          "cluster_id": 38,
-          "label": "AI Industry Merges and IPOs",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 1,
-          "neu": 1,
-          "total": 3,
-          "score": 0.0,
-          "positive_pct": 33.3,
-          "negative_pct": 33.3
-        },
-        {
-          "cluster_id": 22,
-          "label": "US-Iran Tensions Over Oil",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Michael Burry says he's tempted to bet against SpaceX, but passes",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 4,
-          "neg": 1,
-          "neu": 1,
-          "total": 6,
-          "positive_pct": 66.7,
-          "negative_pct": 16.7
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 9,
-          "neg": 1,
-          "neu": 1,
-          "total": 11,
-          "positive_pct": 81.8,
-          "negative_pct": 9.1
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 11,
-          "neg": 4,
-          "neu": 0,
-          "total": 15,
-          "positive_pct": 73.3,
-          "negative_pct": 26.7
-        },
-        {
-          "date": "2026-06-06",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 3,
-          "neg": 4,
-          "neu": 1,
-          "total": 8,
-          "positive_pct": 37.5,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 9,
-          "neg": 11,
-          "neu": 0,
-          "total": 20,
-          "positive_pct": 45.0,
-          "negative_pct": 55.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 56,
-          "neg": 19,
-          "neu": 1,
-          "total": 76,
-          "positive_pct": 73.7,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 49,
-          "neg": 16,
-          "neu": 1,
-          "total": 66,
-          "positive_pct": 74.2,
-          "negative_pct": 24.2
-        },
-        {
-          "date": "2026-06-13",
-          "pos": 2,
-          "neg": 1,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 22,
-          "neg": 9,
-          "neu": 2,
-          "total": 33,
-          "positive_pct": 66.7,
-          "negative_pct": 27.3
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 12,
-          "neg": 13,
-          "neu": 1,
-          "total": 26,
-          "positive_pct": 46.2,
-          "negative_pct": 50.0
-        }
-      ]
-    },
     "MORN": {
       "name": "Morningstar",
       "pos": 0,
@@ -1129,100 +3697,6 @@
           "neu": 1,
           "total": 1,
           "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "CME": {
-      "name": "CME Group",
-      "pos": 1,
-      "neg": 1,
-      "neu": 2,
-      "total": 4,
-      "positive_pct": 25.0,
-      "negative_pct": 25.0,
-      "score": 0.158,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 2
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 25,
-          "label": "Global Energy and Markets",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 12,
-          "label": "US Inflation Remains Elevated",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Hot jobs report puts Fed cuts further out of reach as Warsh faces policy tests",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
           "negative_pct": 0.0
         }
       ]
@@ -1503,785 +3977,6 @@
         }
       ]
     },
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 35,
-      "neg": 17,
-      "neu": 9,
-      "total": 61,
-      "positive_pct": 57.4,
-      "negative_pct": 27.9,
-      "score": 0.516,
-      "categories": {
-        "Business": {
-          "pos": 30,
-          "neg": 16,
-          "neu": 6
-        },
-        "Performance": {
-          "pos": 5,
-          "neg": 0,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 2
-        },
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 33,
-          "label": "Artificial Intelligence Tokens Market",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 10,
-          "neg": 6,
-          "neu": 1,
-          "total": 17,
-          "score": 0.235,
-          "positive_pct": 58.8,
-          "negative_pct": 35.3
-        },
-        {
-          "cluster_id": 2,
-          "label": "Apple's AI Strategy Evolution",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 7,
-          "neg": 1,
-          "neu": 1,
-          "total": 9,
-          "score": 0.667,
-          "positive_pct": 77.8,
-          "negative_pct": 11.1
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 23,
-          "label": "\"AI Disrupts Venture Capital\"",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 5,
-          "label": "Regulation of Prediction Markets",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 9,
-          "label": "Berkshire Hathaway's Strategic Acquisitions",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 10,
-          "label": "Record Political Advertising Spending",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 8,
-          "label": "Prediction Market Platforms",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "India's Economic Growth Challenges",
-          "meta_category": "Asia's Emerging Market Challenges",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 1,
-          "label": "Global Resin Supply Chain Crisis",
-          "meta_category": "Asia's Emerging Market Challenges",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 38,
-          "label": "AI Industry Merges and IPOs",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 14,
-          "label": "Rita Ferro Leads Disney Advertising",
-          "meta_category": "Advertising Industry Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "CNBC Daily Open: Iran deal fuels global relief rally",
-          "date": "2026-06-13 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "A year after Meta tapped Alexandr Wang to build AI, Zuckerberg has to sell it",
-          "date": "2026-06-12 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-26",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 10,
-          "neg": 8,
-          "neu": 2,
-          "total": 20,
-          "positive_pct": 50.0,
-          "negative_pct": 40.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 1,
-          "neu": 1,
-          "total": 6,
-          "positive_pct": 66.7,
-          "negative_pct": 16.7
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 2,
-          "neg": 0,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 4,
-          "neg": 0,
-          "neu": 1,
-          "total": 5,
-          "positive_pct": 80.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-12",
-          "pos": 3,
-          "neg": 0,
-          "neu": 1,
-          "total": 4,
-          "positive_pct": 75.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-13",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 3,
-          "neg": 2,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 60.0,
-          "negative_pct": 40.0
-        }
-      ]
-    },
-    "NDAQ": {
-      "name": "Nasdaq",
-      "pos": 1,
-      "neg": 7,
-      "neu": 2,
-      "total": 10,
-      "positive_pct": 10.0,
-      "negative_pct": 70.0,
-      "score": -0.494,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 4,
-          "neu": 2
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 11,
-          "label": "Trump Family Crypto Scandal",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 7,
-          "label": "Crypto Market Decline Continues",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "SpaceX IPO shines a light on Wall Street’s blockchain challenger",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolves",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Warren questions SpaceX IPO oversight in new letter to stock indexes",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 0,
-          "neg": 2,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "AMZN": {
-      "name": "Amazon.com",
-      "pos": 17,
-      "neg": 11,
-      "neu": 3,
-      "total": 31,
-      "positive_pct": 54.8,
-      "negative_pct": 35.5,
-      "score": 0.276,
-      "categories": {
-        "Business": {
-          "pos": 16,
-          "neg": 10,
-          "neu": 2
-        },
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 5,
-          "neg": 3,
-          "neu": 0,
-          "total": 8,
-          "score": 0.25,
-          "positive_pct": 62.5,
-          "negative_pct": 37.5
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 2,
-          "neg": 2,
-          "neu": 1,
-          "total": 5,
-          "score": 0.0,
-          "positive_pct": 40.0,
-          "negative_pct": 40.0
-        },
-        {
-          "cluster_id": 23,
-          "label": "\"AI Disrupts Venture Capital\"",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "score": -0.333,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 33,
-          "label": "Artificial Intelligence Tokens Market",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 38,
-          "label": "AI Industry Merges and IPOs",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 2,
-          "label": "Apple's AI Strategy Evolution",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 32,
-          "label": "SpaceX IPO Frenzy",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Trump says France must scrap tech 'sales tax' or face 100% wine tariffs: NY Post",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Anthropic to meet with Trump administration over Mythos dispute",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "How Carvana's expansion to new vehicles could reshape the U.S. market",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-29",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 6,
-          "neg": 2,
-          "neu": 0,
-          "total": 8,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 0,
-          "neg": 3,
-          "neu": 2,
-          "total": 5,
-          "positive_pct": 0.0,
-          "negative_pct": 60.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 2,
-          "neg": 1,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
     "META": {
       "name": "Meta Platforms",
       "pos": 15,
@@ -2541,184 +4236,6 @@
         }
       ]
     },
-    "AAPL": {
-      "name": "Apple",
-      "pos": 30,
-      "neg": 23,
-      "neu": 3,
-      "total": 56,
-      "positive_pct": 53.6,
-      "negative_pct": 41.1,
-      "score": -0.152,
-      "categories": {
-        "Business": {
-          "pos": 23,
-          "neg": 15,
-          "neu": 3
-        },
-        "Performance": {
-          "pos": 5,
-          "neg": 8,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 2,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 2,
-          "label": "Apple's AI Strategy Evolution",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 25,
-          "neg": 14,
-          "neu": 2,
-          "total": 41,
-          "score": 0.268,
-          "positive_pct": 61.0,
-          "negative_pct": 34.1
-        },
-        {
-          "cluster_id": 1,
-          "label": "Global Resin Supply Chain Crisis",
-          "meta_category": "Asia's Emerging Market Challenges",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 23,
-          "label": "\"AI Disrupts Venture Capital\"",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "SpaceX: To the moon for investors or a bumpy ride? Here's what experts say",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Drugmakers race to find a place in the next wave of obesity drugs",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Polymarket traders think SpaceX will cross $2 trillion market cap",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-04",
-          "pos": 12,
-          "neg": 10,
-          "neu": 2,
-          "total": 24,
-          "positive_pct": 50.0,
-          "negative_pct": 41.7
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 2,
-          "neg": 3,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 40.0,
-          "negative_pct": 60.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 11,
-          "neg": 2,
-          "neu": 0,
-          "total": 13,
-          "positive_pct": 84.6,
-          "negative_pct": 15.4
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 2,
-          "neg": 5,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 28.6,
-          "negative_pct": 71.4
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 2,
-          "neg": 1,
-          "neu": 1,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 25.0
-        }
-      ]
-    },
     "FOX": {
       "name": "Fox Corp.",
       "pos": 0,
@@ -2958,95 +4475,6 @@
         }
       ]
     },
-    "WMT": {
-      "name": "Walmart",
-      "pos": 1,
-      "neg": 2,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
-      "score": -0.968,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 20,
-          "label": "Immigration Enforcement Funding Package",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 23,
-          "label": "\"AI Disrupts Venture Capital\"",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Judge blocks Trump's $100,000 H-1B visa fee",
-          "date": "2026-06-07 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "'Disrupted or dead': AI crushes a generation of startups built before ChatGPT",
-          "date": "2026-05-30 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
     "HOOD": {
       "name": "Robinhood Markets",
       "pos": 5,
@@ -3265,500 +4693,6 @@
           "total": 3,
           "positive_pct": 33.3,
           "negative_pct": 66.7
-        }
-      ]
-    },
-    "MSFT": {
-      "name": "Microsoft",
-      "pos": 9,
-      "neg": 7,
-      "neu": 4,
-      "total": 20,
-      "positive_pct": 45.0,
-      "negative_pct": 35.0,
-      "score": 0.442,
-      "categories": {
-        "Business": {
-          "pos": 9,
-          "neg": 6,
-          "neu": 3
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 38,
-          "label": "AI Industry Merges and IPOs",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 3,
-          "neg": 1,
-          "neu": 2,
-          "total": 6,
-          "score": 0.333,
-          "positive_pct": 50.0,
-          "negative_pct": 16.7
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 33,
-          "label": "Artificial Intelligence Tokens Market",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 9,
-          "label": "Berkshire Hathaway's Strategic Acquisitions",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 21,
-          "label": "Conflict of Interest in Government",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 2,
-          "label": "Apple's AI Strategy Evolution",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "A year after Meta tapped Alexandr Wang to build AI, Zuckerberg has to sell it",
-          "date": "2026-06-12 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Elon Musk becomes world's first trillionaire as SpaceX begins trading",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Polymarket traders think SpaceX will cross $2 trillion market cap",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
-          "date": "2026-06-09 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 2,
-          "neg": 1,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 3,
-          "neg": 3,
-          "neu": 2,
-          "total": 8,
-          "positive_pct": 37.5,
-          "negative_pct": 37.5
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-12",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "NVDA": {
-      "name": "Nvidia",
-      "pos": 26,
-      "neg": 14,
-      "neu": 6,
-      "total": 46,
-      "positive_pct": 56.5,
-      "negative_pct": 30.4,
-      "score": 0.298,
-      "categories": {
-        "Business": {
-          "pos": 25,
-          "neg": 11,
-          "neu": 5
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 3,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 4,
-          "neg": 1,
-          "neu": 2,
-          "total": 7,
-          "score": 0.429,
-          "positive_pct": 57.1,
-          "negative_pct": 14.3
-        },
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 6,
-          "neg": 0,
-          "neu": 0,
-          "total": 6,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 2,
-          "label": "Apple's AI Strategy Evolution",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 2,
-          "neg": 2,
-          "neu": 1,
-          "total": 5,
-          "score": 0.0,
-          "positive_pct": 40.0,
-          "negative_pct": 40.0
-        },
-        {
-          "cluster_id": 33,
-          "label": "Artificial Intelligence Tokens Market",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 4,
-          "label": "Chinese EVs Enter US Market",
-          "meta_category": "Asia's Emerging Market Challenges",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 1,
-          "label": "Global Resin Supply Chain Crisis",
-          "meta_category": "Asia's Emerging Market Challenges",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 8,
-          "label": "Prediction Market Platforms",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "SpaceX: To the moon for investors or a bumpy ride? Here's what experts say",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Nvidia plans to raise at least $20 billion in first debt sale since start of AI boom",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Polymarket traders think SpaceX will cross $2 trillion market cap",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 5,
-          "neg": 0,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-05-31",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 3,
-          "neg": 1,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 5,
-          "neg": 2,
-          "neu": 1,
-          "total": 8,
-          "positive_pct": 62.5,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 5,
-          "neu": 2,
-          "total": 11,
-          "positive_pct": 36.4,
-          "negative_pct": 45.5
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 2,
-          "neg": 2,
-          "neu": 2,
-          "total": 6,
-          "positive_pct": 33.3,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-06-15",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
         }
       ]
     },
@@ -4053,69 +4987,6 @@
         }
       ]
     },
-    "MCD": {
-      "name": "McDonald's",
-      "pos": 0,
-      "neg": 1,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 0.0,
-      "negative_pct": 50.0,
-      "score": -0.011,
-      "categories": {
-        "Business": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 12,
-          "label": "US Inflation Remains Elevated",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-          "date": "2026-05-27 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-27",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "CRM": {
       "name": "Salesforce",
       "pos": 5,
@@ -4323,429 +5194,6 @@
           "neg": 1,
           "neu": 0,
           "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
-    "JPM": {
-      "name": "JPMorgan Chase",
-      "pos": 9,
-      "neg": 9,
-      "neu": 4,
-      "total": 22,
-      "positive_pct": 40.9,
-      "negative_pct": 40.9,
-      "score": 0.158,
-      "categories": {
-        "Business": {
-          "pos": 8,
-          "neg": 5,
-          "neu": 4
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 3,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 25,
-          "label": "Global Energy and Markets",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 1,
-          "neg": 3,
-          "neu": 1,
-          "total": 5,
-          "score": -0.4,
-          "positive_pct": 20.0,
-          "negative_pct": 60.0
-        },
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 3,
-          "neg": 1,
-          "neu": 1,
-          "total": 5,
-          "score": 0.4,
-          "positive_pct": 60.0,
-          "negative_pct": 20.0
-        },
-        {
-          "cluster_id": 21,
-          "label": "Conflict of Interest in Government",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 22,
-          "label": "US-Iran Tensions Over Oil",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Charlie Javice reportedly seeking a pardon from Trump",
-          "date": "2026-06-13 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Call Kevin Warsh the Fed 'chairman'",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-05-30",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-01",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 4,
-          "neg": 0,
-          "neu": 1,
-          "total": 5,
-          "positive_pct": 80.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 2,
-          "neg": 2,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-13",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-14",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "MS": {
-      "name": "Morgan Stanley",
-      "pos": 8,
-      "neg": 7,
-      "neu": 1,
-      "total": 16,
-      "positive_pct": 50.0,
-      "negative_pct": 43.8,
-      "score": -0.352,
-      "categories": {
-        "Business": {
-          "pos": 7,
-          "neg": 6,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 31,
-          "label": "AI's Impact on Business",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 5,
-          "neg": 2,
-          "neu": 0,
-          "total": 7,
-          "score": 0.429,
-          "positive_pct": 71.4,
-          "negative_pct": 28.6
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 25,
-          "label": "Global Energy and Markets",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 38,
-          "label": "AI Industry Merges and IPOs",
-          "meta_category": "Artificial Intelligence and Finance",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe'",
-          "date": "2026-06-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Call Kevin Warsh the Fed 'chairman'",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Citigroup shares outperform down market after Trump endorsement",
-          "date": "2026-06-09 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-01",
-          "pos": 5,
-          "neg": 2,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 71.4,
-          "negative_pct": 28.6
-        },
-        {
-          "date": "2026-06-02",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-07",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
           "positive_pct": 0.0,
           "negative_pct": 100.0
         },
@@ -5077,145 +5525,6 @@
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 0.0
-        }
-      ]
-    },
-    "C": {
-      "name": "Citigroup",
-      "pos": 7,
-      "neg": 6,
-      "neu": 1,
-      "total": 14,
-      "positive_pct": 50.0,
-      "negative_pct": 42.9,
-      "score": -0.176,
-      "categories": {
-        "Business": {
-          "pos": 4,
-          "neg": 3,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 2,
-          "neg": 3,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 25,
-          "label": "Global Energy and Markets",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 5,
-          "neg": 3,
-          "neu": 0,
-          "total": 8,
-          "score": 0.25,
-          "positive_pct": 62.5,
-          "negative_pct": 37.5
-        },
-        {
-          "cluster_id": 34,
-          "label": "SpaceX's Record-Breaking IPO",
-          "meta_category": "SpaceX's Historic IPO",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 7,
-          "label": "Crypto Market Decline Continues",
-          "meta_category": "Financial Markets and Regulation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Call Kevin Warsh the Fed 'chairman'",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
-          "date": "2026-06-11 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Hugo Boss pops 8% after top shareholder Frasers launches $2 billion takeover offer",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-05",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 4,
-          "neg": 3,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 57.1,
-          "negative_pct": 42.9
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 2,
-          "neg": 0,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-11",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
         }
       ]
     },
@@ -5831,128 +6140,6 @@
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 0.0
-        }
-      ]
-    },
-    "PHM": {
-      "name": "Pultegroup",
-      "pos": 4,
-      "neg": 22,
-      "neu": 1,
-      "total": 27,
-      "positive_pct": 14.8,
-      "negative_pct": 81.5,
-      "score": -0.709,
-      "categories": {
-        "Recruitment": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 4,
-          "neg": 20,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 18,
-          "label": "Trump's Intelligence Director Nominee",
-          "meta_category": "Politics and Government Corruption",
-          "pos": 4,
-          "neg": 15,
-          "neu": 1,
-          "total": 20,
-          "score": -0.55,
-          "positive_pct": 20.0,
-          "negative_pct": 75.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Global Tech Sector Decline",
-          "meta_category": "Global Market Uncertainty",
-          "pos": 0,
-          "neg": 3,
-          "neu": 0,
-          "total": 3,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "SpaceX IPO, U.S.-Iran deal and more: Morning Squawk",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
-          "date": "2026-06-10 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
-          "date": "2026-06-09 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "$70 billion immigration funding package passes in House in a win for Johnson",
-          "date": "2026-06-08 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Trump wants Pulte to fire big chunk of national intelligence office staff: WSJ",
-          "date": "2026-06-04 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-03",
-          "pos": 1,
-          "neg": 6,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 14.3,
-          "negative_pct": 85.7
-        },
-        {
-          "date": "2026-06-04",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-08",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-09",
-          "pos": 1,
-          "neg": 5,
-          "neu": 0,
-          "total": 6,
-          "positive_pct": 16.7,
-          "negative_pct": 83.3
-        },
-        {
-          "date": "2026-06-10",
-          "pos": 2,
-          "neg": 7,
-          "neu": 1,
-          "total": 10,
-          "positive_pct": 20.0,
-          "negative_pct": 70.0
         }
       ]
     },
