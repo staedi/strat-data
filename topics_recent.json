@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-17T19:14:39.875203-04:00",
+  "updated_at": "2026-06-17T19:43:44.854685-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -134,16 +134,10 @@
               "ticker": "CRWD",
               "name": "CrowdStrike",
               "count": 4
-            },
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 1
             }
           ],
           "ticker_summary": {
             "PLTR": "Palantir's enterprise customers are unhappy with how the frontier labs are operating.",
-            "SPCX": "SPCX is set to make its public markets debut.",
             "CRWD": "CrowdStrike's report highlights the increasing threat of Chinese-affiliated cyberattacks targeting tech companies, particularly their AI assets, with Chinese entities accounting for more than 58% of state-sponsored targeted cyberattacks."
           }
         },
