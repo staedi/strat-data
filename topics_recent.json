@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-17T04:28:45.064292-04:00",
+  "updated_at": "2026-06-17T04:53:14.528320-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -244,7 +244,7 @@
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and Alphabet's cloud business is on a tear.",
             "MSFT": "Microsoft has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "NVDA": "Nvidia's revenue from token usage must be sufficient to cover hardware and system costs, as well as other expenses.",
-            "SPCX": "SpaceX's AI division does not consider tokens to be significant to its financials.",
+            "SPCX": "SpaceX's operating success will come down to how effectively it uses its available computing power.",
             "META": "Meta Platforms will scale its AI infrastructure globally with the help of a data center facility in Jamnagar, India, to be built and delivered by Reliance Industries within two years."
           }
         },
@@ -322,7 +322,7 @@
             }
           ],
           "ticker_summary": {
-            "AAPL": "Apple's AI software announcement led to a 3% decline in shares.",
+            "AAPL": "Apple's iPhone demand is expected to remain unchanged despite new AI-related announcements.",
             "GOOG": "Google's involvement in Apple's AI strategy evolution is likely to have a business impact on Alphabet through potential collaboration opportunities and technology sharing.",
             "NVDA": "Nvidia's involvement with Apple's AI strategy, specifically its collaboration on a cloud model comparable to frontier models, is a notable business development."
           }
@@ -1047,7 +1047,7 @@
           ],
           "ticker_summary": {
             "BAC": "Bank of America analysts' recommendation to buy Oracle shares is influenced by the significant performance obligation from OpenAI.",
-            "ORCL": "Oracle's massive spending on AI infrastructure and large-scale AI contracts resulted in negative free cash flow for the fiscal year.",
+            "ORCL": "Oracle's massive spending on AI infrastructure and data center construction is expected to result in negative free cash flow for the year.",
             "BX": "Blackstone secured funding for a $16 billion Oracle data center site in Michigan."
           }
         },
@@ -1798,11 +1798,6 @@
           },
           "related_tickers": [
             {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 73
-            },
-            {
               "ticker": "TSLA",
               "name": "Tesla",
               "count": 7
@@ -1839,7 +1834,6 @@
             "GS": "Goldman Sachs Group experienced a more than 2% gain in Friday's session.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO and will make its shares available through its E-Trade platform.",
-            "SPCX": "SpaceX's capital expenditures more than doubled from a year earlier, reaching $10.1 billion in the first quarter.",
             "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
             "MSFT": "Microsoft's valuation is north of $2 trillion.",
@@ -2003,7 +1997,7 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
+            "SPCX": "SpaceX's debut is expected to reward institutions responsible for funding retirements, scholarships and academic research."
           }
         }
       ]
