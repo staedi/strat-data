@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-17T05:17:37.172577-04:00",
+  "updated_at": "2026-06-17T06:19:39.234581-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -256,7 +256,7 @@
             "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and the company's cloud business is on a tear.",
             "MSFT": "MSFT has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "NVDA": "Revenue from token usage must be sufficient to cover hardware and system costs, as well as other expenses.",
-            "SPCX": "Tokens serve as the atomic unit through which models read, reason, and generate output.",
+            "SPCX": "The company's operating success will come down to how effectively it uses its available computing power.",
             "META": "Reliance Industries will build a data center for Meta within two years with an option to scale."
           }
         },
@@ -334,7 +334,7 @@
             }
           ],
           "ticker_summary": {
-            "AAPL": "Shares fell more than 3% after revealing new AI software and frameworks.",
+            "AAPL": "Shares fell more than 3% after the announcement.",
             "GOOG": "Google's involvement in Apple's AI strategy evolution is likely to expand its cloud model offerings.",
             "NVDA": "Cloud model collaboration with Google and Nvidia may influence Nvidia's revenue from its AI-related products and services."
           }
@@ -917,7 +917,7 @@
           ],
           "ticker_summary": {
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
-            "C": "Citigroup advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026.",
+            "C": "Citi advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026.",
             "GS": "This year, Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion.",
             "JPM": "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors.",
             "MS": "MS ranks ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic.",
@@ -1059,7 +1059,7 @@
           ],
           "ticker_summary": {
             "BAC": "Over 50% of the remaining performance obligation for Oracle shares comes from OpenAI.",
-            "ORCL": "Negative free cash flow for the year is attributed to massive spending on artificial intelligence buildout.",
+            "ORCL": "A significant portion of the company's RPO increase in Q3 and Q4 was due to large-scale AI contracts where customers prepaid for GPUs.",
             "BX": "$16 billion funding secured for a data center site in Michigan."
           }
         },
@@ -1860,7 +1860,7 @@
             "GS": "Climed more than 2% in Friday's session.",
             "JPM": "JPMorgan Chase is one of the lead bankers for SpaceX's IPO.",
             "MS": "Morgan Stanley is one of the lead bankers for SpaceX's IPO offering.",
-            "SPCX": "Capital expenditures more than doubled from a year earlier, reaching $10.1 billion in the first quarter.",
+            "SPCX": "Revenue increased 15% to $4.69 billion in the first quarter from $4.07 billion a year earlier.",
             "AMZN": "Amazon's valuation is north of $2 trillion, alongside only five other U.S. companies.",
             "AAPL": "Apple's valuation exceeds $2 trillion, placing it among a select group of U.S. companies.",
             "MSFT": "None",
@@ -1874,6 +1874,7 @@
             "RKLB": "Session losses of more than 10% resulted in a decline of 11% for Redwire and 10% for Rocket Lab.",
             "MSCI": "MSCI's fast-track models for global benchmarks were created to add SpaceX's stock to indexes after 5 to 10 days.",
             "NDAQ": "A letter was sent to Nasdaq, S&P Dow Jones Indices, FTSE Russell, and Morningstar Indexes regarding potential rule changes.",
+            "ALK": "No information is provided about Alaska Air Group's business impact or implications related to SpaceX's Starlink or Amazon Leo.",
             "AAL": "Wi-Fi service on more than 500 narrow-body aircraft will be provided by Starlink.",
             "LUV": "Starlink has been selected by Southwest Airlines, which is part of a broader trend among airlines to adopt alternative satellite internet services.",
             "UAL": "Starlink has been selected by United, Southwest Airlines, and Alaska Airlines, which merged with Hawaiian Airlines, while Delta will use Amazon Leo starting in 2028.",
@@ -2030,7 +2031,7 @@
             }
           ],
           "ticker_summary": {
-            "SPCX": "SpaceX's significant stake in the Baron Partners Fund and Fidelity Contrafund indicates substantial investment from prominent investors."
+            "SPCX": "SpaceX's debut is expected to reward institutions responsible for funding retirements, scholarships and academic research."
           }
         }
       ]
