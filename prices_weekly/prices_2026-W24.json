@@ -5858,38 +5858,6 @@
         "market_cap": 4969907049133.3
       }
     ],
-    "NVDY": [
-      {
-        "date": "2026-06-08",
-        "close": 13.0668,
-        "volume": 2185900,
-        "market_cap": null
-      },
-      {
-        "date": "2026-06-09",
-        "close": 13.0371,
-        "volume": 4413000,
-        "market_cap": null
-      },
-      {
-        "date": "2026-06-10",
-        "close": 12.621,
-        "volume": 2589200,
-        "market_cap": null
-      },
-      {
-        "date": "2026-06-11",
-        "close": 12.89,
-        "volume": 3277500,
-        "market_cap": null
-      },
-      {
-        "date": "2026-06-12",
-        "close": 12.9,
-        "volume": 2303800,
-        "market_cap": null
-      }
-    ],
     "NVR": [
       {
         "date": "2026-06-08",

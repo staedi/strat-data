@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-17T19:37:43.444128-04:00",
+  "updated_at": "2026-06-18T18:24:39.126541-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -620,7 +620,7 @@
             "JPM": "JPMorgan Chase's planned deployment of autonomous AI agents later this year is expected to mark another milestone in corporate adoption of AI.",
             "GS": "Goldman Sachs has not publicly announced steps to allow external AI agents to connect directly to its systems.",
             "MS": "Morgan Stanley's corporate clients' stock compensation plans are being converted into a crucial funnel for its wealth management division, with $1.2 trillion in assets gathered from this strategy.",
-            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to AI-driven efficiencies, but the company is also hiring more workers inside fulfillment centers.",
+            "AMZN": "Amazon's workforce is expected to shrink over the coming years due to AI-driven efficiencies, but the company also needs to hire more workers inside fulfillment centers.",
             "NVDA": "Nvidia's humanoid-focused AI models and simulation systems are part of the new robot testing package.",
             "QCOM": "Qualcomm is one of the investors in Neura Robotics' Series C financing.",
             "META": "Meta Platforms scored 100 in the S&P 500.",
@@ -1092,7 +1092,7 @@
           "ticker_summary": {
             "AMZN": "Amazon.com has sprinkled references to tokens into remarks on earnings calls in the past year.",
             "GOOG": "Alphabet's cloud business is on a tear, and a recent deal with SpaceX will provide bridge capacity to meet surging customer demand for its agent platform, Gemini Enterprise.",
-            "MSFT": "Microsoft is mentioned alongside other companies in the context of references to tokens in their earnings calls, specifically in the AI sector.",
+            "MSFT": "Microsoft is mentioned alongside other companies in the context of AI and tokens, indicating its involvement in the space.",
             "NVDA": "Nvidia's hardware and systems supplied to Google and other companies will be used to generate revenue for OpenAI and Anthropic, and Nvidia will receive payment for these supplies.",
             "SPCX": "SpaceX's operating success will come down to how effectively it uses its available computing power.",
             "BRK-B": "Berkshire Hathaway is investing $10 billion in Alphabet's stock sale.",
@@ -1261,7 +1261,7 @@
             }
           ],
           "ticker_summary": {
-            "F": "Ford Motor's focus on energy storage may help alleviate pressure on its battery plants in the U.S.",
+            "F": "Ford Motor's focus on energy storage may help alleviate pressure on its customers to reduce energy costs and grid usage.",
             "GM": "General Motors is expanding efforts to promote different battery cell chemistries and offer support to electric vehicle owners to combat higher energy costs.",
             "LMT": "Lockheed Martin has former employees at Peak Energy, which is involved in Chinese EVs entering the US market.",
             "NVDA": "Nvidia's driver-assist chipsets will be used by BYD in its Chinese EVs entering the US market."
@@ -1397,7 +1397,7 @@
           ],
           "ticker_summary": {
             "AAPL": "Apple may absorb some of the increased cost of PCB-grade glass cloth from a single supplier.",
-            "GS": "Goldman Sachs Group cited a 40 percent increase in printed circuit board prices from March to April in a note.",
+            "GS": "PCB price increases are cited in a Goldman Sachs note.",
             "GOOG": "Alphabet competes for PCB-grade glass cloth from a single supplier in a niche market.",
             "NVDA": "Nvidia is competing for PCB-grade glass cloth from a single supplier, indicating a potential supply chain risk."
           }
@@ -1880,7 +1880,7 @@
           ],
           "ticker_summary": {
             "GOOG": "Google has placed an employee on leave and will take the appropriate action following a breach of its policies involving the use of confidential information to place trades on a prediction platform.",
-            "COIN": "Coinbase Global is a member of the Coalition for Prediction Markets, which cast doubt on the association's estimates.",
+            "COIN": "Coinbase Global is a member of the Coalition for Prediction Markets.",
             "HOOD": "Robinhood Markets cast doubt on the association's estimates in a post on X."
           }
         },
