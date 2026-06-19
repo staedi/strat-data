@@ -1,0 +1,459 @@
+{
+  "generated_at": "2026-07-12T09:11:52.246135-04:00",
+  "snapshot_date": "2026-07-12",
+  "disclaimer": "Topic clusters reflect the past 7 days. Market data and sentiment updated daily. Macro indicators sourced from FRED.",
+  "schedule": [
+    {
+      "date": "2026-07-14",
+      "type": "cpi",
+      "label": "CPI Release"
+    },
+    {
+      "date": "2026-07-28",
+      "type": "fomc",
+      "label": "FOMC Rate Decision"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "pce",
+      "label": "PCE Release"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "gdp",
+      "label": "GDP"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "nfp",
+      "label": "Non-Farm Payrolls"
+    }
+  ],
+  "macro_outcomes": [
+    {
+      "name": "CPI",
+      "type": "cpi",
+      "latest_value": "4.3% YoY",
+      "latest_date": "2026-05-01",
+      "trend": [
+        {
+          "date": "2026-03-01",
+          "value": "3.3% YoY",
+          "raw": 3.3202
+        },
+        {
+          "date": "2026-04-01",
+          "value": "3.9% YoY",
+          "raw": 3.947
+        },
+        {
+          "date": "2026-05-01",
+          "value": "4.3% YoY",
+          "raw": 4.27
+        }
+      ]
+    },
+    {
+      "name": "PCE",
+      "type": "pce",
+      "latest_value": "4.1% YoY",
+      "latest_date": "2026-05-01",
+      "trend": [
+        {
+          "date": "2026-03-01",
+          "value": "3.5% YoY",
+          "raw": 3.5429
+        },
+        {
+          "date": "2026-04-01",
+          "value": "3.8% YoY",
+          "raw": 3.7955
+        },
+        {
+          "date": "2026-05-01",
+          "value": "4.1% YoY",
+          "raw": 4.0726
+        }
+      ]
+    },
+    {
+      "name": "NFP",
+      "type": "nfp",
+      "latest_value": "57k",
+      "latest_date": "2026-06-01",
+      "trend": [
+        {
+          "date": "2026-04-01",
+          "value": "148k",
+          "raw": 148.0
+        },
+        {
+          "date": "2026-05-01",
+          "value": "129k",
+          "raw": 129.0
+        },
+        {
+          "date": "2026-06-01",
+          "value": "57k",
+          "raw": 57.0
+        }
+      ]
+    },
+    {
+      "name": "JOLTS",
+      "type": "jolts",
+      "latest_value": "7.59M",
+      "latest_date": "2026-05-01",
+      "trend": [
+        {
+          "date": "2026-03-01",
+          "value": "6.89M",
+          "raw": 6887.0
+        },
+        {
+          "date": "2026-04-01",
+          "value": "7.58M",
+          "raw": 7585.0
+        },
+        {
+          "date": "2026-05-01",
+          "value": "7.59M",
+          "raw": 7594.0
+        }
+      ]
+    },
+    {
+      "name": "GDP",
+      "type": "gdp",
+      "latest_value": "$31.9T",
+      "latest_date": "2026-01-01",
+      "trend": [
+        {
+          "date": "2025-07-01",
+          "value": "$31.1T",
+          "raw": 31098.027
+        },
+        {
+          "date": "2025-10-01",
+          "value": "$31.4T",
+          "raw": 31422.526
+        },
+        {
+          "date": "2026-01-01",
+          "value": "$31.9T",
+          "raw": 31865.721
+        }
+      ]
+    },
+    {
+      "name": "Fed Rate",
+      "type": "fomc",
+      "latest_value": "3.63%",
+      "latest_date": "2026-06-01",
+      "trend": [
+        {
+          "date": "2026-04-01",
+          "value": "3.64%",
+          "raw": 3.64
+        },
+        {
+          "date": "2026-05-01",
+          "value": "3.63%",
+          "raw": 3.63
+        },
+        {
+          "date": "2026-06-01",
+          "value": "3.63%",
+          "raw": 3.63
+        }
+      ],
+      "direction": "hold"
+    },
+    {
+      "name": "ECB Rate",
+      "type": "ecb",
+      "latest_value": "2.25%",
+      "latest_date": "2026-07-31",
+      "trend": [
+        {
+          "date": "2026-05-31",
+          "value": "2.00%",
+          "raw": 2.0
+        },
+        {
+          "date": "2026-06-30",
+          "value": "2.25%",
+          "raw": 2.25
+        },
+        {
+          "date": "2026-07-31",
+          "value": "2.25%",
+          "raw": 2.25
+        }
+      ]
+    },
+    {
+      "name": "BOJ Rate",
+      "type": "boj",
+      "latest_value": "0.50%",
+      "latest_date": "2026-03-19",
+      "direction": null,
+      "source": "static"
+    },
+    {
+      "name": "BOE Rate",
+      "type": "boe",
+      "latest_value": "4.25%",
+      "latest_date": "2026-05-08",
+      "direction": null,
+      "source": "static"
+    }
+  ],
+  "snapshot": {
+    "indices": [
+      {
+        "ticker": "^GSPC",
+        "label": "S&P 500",
+        "close": 7503.8501,
+        "change_pct": -0.45,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "^IXIC",
+        "label": "Nasdaq",
+        "close": 25818.6895,
+        "change_pct": -1.16,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "^N225",
+        "label": "Nikkei 225",
+        "close": 69737.6875,
+        "change_pct": -0.01,
+        "as_of": "2026-07-06"
+      },
+      {
+        "ticker": "^KS11",
+        "label": "KOSPI",
+        "close": 8051.3301,
+        "change_pct": -0.46,
+        "as_of": "2026-07-06"
+      },
+      {
+        "ticker": "^VIX",
+        "label": "VIX",
+        "close": 16.13,
+        "change_pct": 3.6,
+        "as_of": "2026-07-07"
+      }
+    ],
+    "bonds": [
+      {
+        "ticker": "^TNX",
+        "label": "10Y Treasury",
+        "close": 4.529,
+        "change_pct": 1.12,
+        "as_of": "2026-07-07"
+      }
+    ],
+    "fx": [
+      {
+        "ticker": "DX-Y.NYB",
+        "label": "DXY",
+        "close": 101.122,
+        "change_pct": 0.27,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "EURUSD=X",
+        "label": "EUR/USD",
+        "close": 1.141,
+        "change_pct": -0.27,
+        "as_of": "2026-07-08"
+      },
+      {
+        "ticker": "JPY=X",
+        "label": "USD/JPY",
+        "close": 162.172,
+        "change_pct": 0.05,
+        "as_of": "2026-07-08"
+      },
+      {
+        "ticker": "GBPUSD=X",
+        "label": "GBP/USD",
+        "close": 1.3354,
+        "change_pct": -0.33,
+        "as_of": "2026-07-08"
+      },
+      {
+        "ticker": "AUDUSD=X",
+        "label": "AUD/USD",
+        "close": 0.693,
+        "change_pct": -0.37,
+        "as_of": "2026-07-08"
+      },
+      {
+        "ticker": "CNY=X",
+        "label": "USD/CNY",
+        "close": 6.7958,
+        "change_pct": 0.11,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "KRW=X",
+        "label": "USD/KRW",
+        "close": 1515.09,
+        "change_pct": -0.89,
+        "as_of": "2026-07-08"
+      }
+    ],
+    "crypto": [
+      {
+        "ticker": "BTC-USD",
+        "label": "Bitcoin",
+        "close": 63535.5898,
+        "change_pct": -0.72,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "ETH-USD",
+        "label": "Ethereum",
+        "close": 1775.13,
+        "change_pct": -1.25,
+        "as_of": "2026-07-07"
+      }
+    ],
+    "commodities": [
+      {
+        "ticker": "CL=F",
+        "label": "WTI Crude",
+        "close": 72.45,
+        "change_pct": 5.69,
+        "as_of": "2026-07-07"
+      },
+      {
+        "ticker": "GC=F",
+        "label": "Gold",
+        "close": 4109.5,
+        "change_pct": -1.1,
+        "as_of": "2026-07-07"
+      }
+    ]
+  },
+  "movers": {
+    "by_news": {
+      "top_tickers": [
+        {
+          "ticker": "CMCSA",
+          "name": "Comcast",
+          "mentions": 38,
+          "score": -0.824,
+          "positive_pct": 36.8,
+          "negative_pct": 52.6,
+          "top_cluster": "Media Consolidation Trend"
+        },
+        {
+          "ticker": "VSNT",
+          "name": "Versant Media Group",
+          "mentions": 10,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0,
+          "top_cluster": "Youth Sports Commercialization"
+        },
+        {
+          "ticker": "AXP",
+          "name": "American Express",
+          "mentions": 21,
+          "score": 0.723,
+          "positive_pct": 61.9,
+          "negative_pct": 23.8,
+          "top_cluster": "Global Health Risks at Major Events"
+        },
+        {
+          "ticker": "VFC",
+          "name": "VF",
+          "mentions": 7,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0,
+          "top_cluster": "Women-Driven Brand Growth"
+        },
+        {
+          "ticker": "SPCX",
+          "name": "Space Exploration Technologies",
+          "mentions": 34,
+          "score": 0.541,
+          "positive_pct": 70.6,
+          "negative_pct": 26.5,
+          "top_cluster": "Space Race to Market"
+        }
+      ],
+      "top_clusters": [
+        {
+          "cluster_id": 1,
+          "label": "Presidential Financial Conflicts",
+          "meta_category": "Financial Power Dynamics",
+          "article_count": 9
+        },
+        {
+          "cluster_id": 48,
+          "label": "Hormuz Strait Recovery",
+          "meta_category": "Global Economic Geopolitics",
+          "article_count": 6
+        },
+        {
+          "cluster_id": 11,
+          "label": "Youth Sports Commercialization",
+          "meta_category": "Consumer Trends Transformation",
+          "article_count": 4
+        },
+        {
+          "cluster_id": 38,
+          "label": "SpaceX IPO Bubble and Valuation",
+          "meta_category": "Crypto and Space Mania",
+          "article_count": 4
+        },
+        {
+          "cluster_id": 19,
+          "label": "Stagnant Labor Market",
+          "meta_category": "Economic Headwinds",
+          "article_count": 4
+        }
+      ]
+    },
+    "by_price": [
+      {
+        "ticker": "RIVN",
+        "name": "Rivian Automotive, Inc. / DE",
+        "close": 16.49,
+        "change_pct": -18.12
+      },
+      {
+        "ticker": "TER",
+        "name": "TERADYNE, INC",
+        "close": 357.93,
+        "change_pct": -12.03
+      },
+      {
+        "ticker": "NIQ",
+        "name": "NIQ Global Intelligence plc",
+        "close": 11.0,
+        "change_pct": 12.02
+      },
+      {
+        "ticker": "AMKR",
+        "name": "AMKOR TECHNOLOGY, INC.",
+        "close": 64.95,
+        "change_pct": -12.02
+      },
+      {
+        "ticker": "ALAB",
+        "name": "Astera Labs, Inc.",
+        "close": 382.89,
+        "change_pct": -11.52
+      }
+    ],
+    "debuts": []
+  }
+}
