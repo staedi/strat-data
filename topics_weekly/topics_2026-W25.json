@@ -1,6 +1,986 @@
 {
   "name": "root",
   "mode": "weekly",
-  "updated_at": "2026-06-19T10:10:24.491921-04:00",
-  "children": []
+  "updated_at": "2026-06-20T18:22:56.387994-04:00",
+  "children": [
+    {
+      "name": "Artificial Intelligence and Tech",
+      "count": 18,
+      "children": [
+        {
+          "cluster_id": 28,
+          "name": "AI's Impact on Business",
+          "count": 12,
+          "children": [
+            {
+              "name": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones'",
+              "summary": "Waymo is recalling almost 3,900 robotaxis in the U.S. to fix software issues after some cars drove into freeway construction zones, according to notices filed with the National Hig…",
+              "hash": "26548f002b04520b",
+              "chunk_key": "26548f002b04520b_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Amazon investigating engineers who criticized AI data center expansion",
+              "summary": "A group of Amazon engineers said they're being investigated by the company after they criticized the breakneck expansion of artificial intelligence data centers and called for stro…",
+              "hash": "e53e600435105144",
+              "chunk_key": "e53e600435105144_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+              "summary": "Amazon 's top artificial intelligence executive told CNBC on Wednesday that he hopes the company will be able to compete with OpenAI and Anthropic on frontier models in the \"coming…",
+              "hash": "e4774227fd10a8ae",
+              "chunk_key": "e4774227fd10a8ae_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Sources: Anthropic’s Amodei, Google’s Hassabis call for U.S.-led AI coalition at G7",
+              "summary": "5 and Mythos 5, on Friday after the U.S. government imposed export controls on the models, citing national security concerns.",
+              "hash": "eda9ea6a23974c66",
+              "chunk_key": "eda9ea6a23974c66_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+              "summary": "Two months after its unexpected artificial intelligence rebrand, Allbirds is changing its name to Smartbird and appointing a new chief executive.",
+              "hash": "8ac708b0cd53e688",
+              "chunk_key": "8ac708b0cd53e688_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Less than one-third of global workers feel their jobs are safe, ADP data shows",
+              "summary": "…Unpaid work was especially common among managers and senior leaders.",
+              "hash": "cec9cb68333bfb85",
+              "chunk_key": "cec9cb68333bfb85_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
+              "summary": "Amodei and Google DeepMind CEO Demis Hassabis pushed for a U.S.-led artificial intelligence coalition .",
+              "hash": "81a93678f869af8e",
+              "chunk_key": "81a93678f869af8e_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Trump-Vance tag team takes on Iran deal critics",
+              "summary": "…of a one-year moratorium on AI data centers.",
+              "hash": "d178c3c72b609107",
+              "chunk_key": "d178c3c72b609107_c002",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+              "summary": "…seeking to shut off the power supply for artificial-intelligence innovation that supports the Department of War's military operations.\" Before merging with SpaceX in February, xAI …",
+              "hash": "a14669844040609a",
+              "chunk_key": "a14669844040609a_c001",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Rivian laying off hundreds of workers amid R2 launch",
+              "summary": "Rivian said Tuesday it was laying off hundreds of workers, or less than 2% of its workforce, as the electric vehicle maker aims to narrow losses.",
+              "hash": "2a2927e5e20d7339",
+              "chunk_key": "2a2927e5e20d7339_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "China pushes for AI safety as G7 summit wraps up without Beijing",
+              "summary": "Senior Chinese officials on Wednesday stressed Beijing's plans to share artificial intelligence globally and safely, the latest sign of how the U.S. and China are promoting differe…",
+              "hash": "eb6d112b0a5792a5",
+              "chunk_key": "eb6d112b0a5792a5_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to be CEO",
+              "summary": "…financial officer since 2022 and has played a key role in the company's strategy, capital allocation and investor relations efforts. \"I appreciate the confidence that he and the Bo…",
+              "hash": "d3485a80eab20663",
+              "chunk_key": "d3485a80eab20663_c001",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "name": "Chinese EVs in the US Market",
+          "count": 4,
+          "children": [
+            {
+              "name": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
+              "summary": "The U.S. has launched an investigation into Germany's pharma policies over what it referred to as \"persistent underpayment\" for medicines as the European country looks to limit spi…",
+              "hash": "957e47d41ef4ce69",
+              "chunk_key": "957e47d41ef4ce69_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Defense contractors would be barred from buying back their stock in bill approved by Senate panel",
+              "summary": "…an unprecedented reach into the market by the government.",
+              "hash": "677164d3ebdc0ad4",
+              "chunk_key": "677164d3ebdc0ad4_c004",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "General Motors announces new defense partnership with Lockheed Martin",
+              "summary": "Automaker General Motors on Tuesday announced a new partnership with defense company Lockheed Martin to scale manufacturing and expand production capabilities.",
+              "hash": "71cbc7c58ef965bf",
+              "chunk_key": "71cbc7c58ef965bf_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bill limiting investors from buying homes set to speed through Congress",
+              "summary": "An affordable housing bill limiting how many single-family homes major investors can buy is poised to be signed into law before the end of the month after key lawmakers in the Hous…",
+              "hash": "8744dbc7f363c84a",
+              "chunk_key": "8744dbc7f363c84a_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 15,
+          "name": "Global Electronics Supply Chain Disruptions",
+          "count": 1,
+          "children": [
+            {
+              "name": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+              "summary": "But Apple's surprising disclosure, less than three months before Cook steps down as CEO, underscores the widespread impact of the shortage.",
+              "hash": "85201e0370e13d96",
+              "chunk_key": "85201e0370e13d96_c001",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 26,
+          "name": "\"AI and Global Tech Scrutiny\"",
+          "count": 1,
+          "children": [
+            {
+              "name": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+              "summary": "LGBTQ+ respondents and 5,000 non-LGBTQ+ respondents.",
+              "hash": "9f701ea7e5fef3f3",
+              "chunk_key": "9f701ea7e5fef3f3_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aviation Industry Challenges",
+      "count": 2,
+      "children": [
+        {
+          "cluster_id": 8,
+          "name": "US Airlines Face Engine Challenges",
+          "count": 2,
+          "children": [
+            {
+              "name": "NetJets' first fatal crash kills influential Texas VC founder",
+              "summary": "NetJets says it will not speculate on what caused one of its planes to crash onto a highway in Laredo, Texas late Tuesday, killing a prominent tech entrepreneur.",
+              "hash": "a9ed5a26a01f06b5",
+              "chunk_key": "a9ed5a26a01f06b5_c000",
+              "article_date": "2026-06-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "JetBlue to reduce Newark, LaGuardia footprint as it expands in Fort Lauderdale",
+              "summary": "JetBlue Airways told CNBC on Wednesday that it will close its flight attendant base at Newark Liberty International Airport in New Jersey and tech operations bases there and at LaG…",
+              "hash": "720d30d765a86021",
+              "chunk_key": "720d30d765a86021_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diabetes and Obesity Treatments",
+      "count": 2,
+      "children": [
+        {
+          "cluster_id": 6,
+          "name": "GLP-1 Weight Loss Market Shift",
+          "count": 2,
+          "children": [
+            {
+              "name": "What this biotech's volatile stock price tells you about the weight loss market right now",
+              "summary": "\"My overall take away from ADA across the company presentations was the increased focus on side-effects and differentiation from current best-in-class products,\" Laustsen told CNBC…",
+              "hash": "047c4b2aa3f51a59",
+              "chunk_key": "047c4b2aa3f51a59_c003",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "UniQure to seek FDA approval for Huntington's disease gene therapy in reversal",
+              "summary": "UniQure plans to seek FDA approval of its experimental gene therapy for Huntington's disease, the company said Wednesday, months after previous agency leaders criticized the eviden…",
+              "hash": "fb5d3888df0537ec",
+              "chunk_key": "fb5d3888df0537ec_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Futures Regulation",
+      "count": 2,
+      "children": [
+        {
+          "cluster_id": 4,
+          "name": "Prediction Markets Regulation",
+          "count": 2,
+          "children": [
+            {
+              "name": "GOP Rep. Steil pushes bill curbing members of Congress from prediction market betting",
+              "summary": "A Republican House member on Thursday is set to introduce a provision that would ban congressional lawmakers and their families from placing bets on prediction markets on topics in…",
+              "hash": "786582bbfae0e522",
+              "chunk_key": "786582bbfae0e522_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Novig wins CFTC approval as competition intensifies in sports prediction markets",
+              "summary": "…Levy told CNBC that Betr's advantage is breadth. \"We are the first super app in the space offering picks, Sportsbook, casino, arcade, and soon prediction markets all in one app wit…",
+              "hash": "d9ffffb82e01b759",
+              "chunk_key": "d9ffffb82e01b759_c003",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Global Tech Market Turmoil",
+      "count": 19,
+      "children": [
+        {
+          "cluster_id": 27,
+          "name": "SpaceX's Record-Breaking IPO",
+          "count": 12,
+          "children": [
+            {
+              "name": "Bears step up bets against high-yield sector, shaking up bond traders",
+              "summary": "While many traders focused on government bonds in the wake of new Federal Reserve Chairman Kevin Warsh's first meeting, it was another corner of the debt markets that caught the ey…",
+              "hash": "eabcd546a4451be1",
+              "chunk_key": "eabcd546a4451be1_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
+              "summary": "The average investor who bought SpaceX shares in the open market after its debut has seen nearly all of their gains disappear as a sharp pullback erased a large chunk of the stock'…",
+              "hash": "dee01261fed9e857",
+              "chunk_key": "dee01261fed9e857_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "The riskiest SpaceX stock trade of all had a big first week",
+              "summary": "SpaceX's IPO didn't just mint the biggest debut in market history — it also triggered a leveraged ETF historic land grab.",
+              "hash": "94e0115c7a2fa239",
+              "chunk_key": "94e0115c7a2fa239_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Who are SpaceX's billionaire shareholders?",
+              "summary": "SpaceX 's record-breaking IPO boosted founder and CEO's Elon Musk 's personal stake in the company to more than $1 trillion.",
+              "hash": "83f073c180a9f02a",
+              "chunk_key": "83f073c180a9f02a_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
+              "summary": "…he laid out his view on what could cause a \"big bubble explosion\" in the industry.",
+              "hash": "ddf3198d9a35c932",
+              "chunk_key": "ddf3198d9a35c932_c003",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
+              "summary": "India's largest telecom operator and digital services company, Jio Platforms, said Friday it is evaluating the rollout of low-orbit satellite communications in the country, an area…",
+              "hash": "e1f9b3f825068d7e",
+              "chunk_key": "e1f9b3f825068d7e_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Swiss signing canceled as U.S.-Iran talks stall",
+              "summary": "…slide The average investor who bought SpaceX shares in the open market after its debut has seen nearly all of their gains disappear as a sharp pullback erased a large chunk of the …",
+              "hash": "4224f6af191d6102",
+              "chunk_key": "4224f6af191d6102_c002",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bonkers SpaceX stats that show how staggering the money movement has been",
+              "summary": "…The next-wealthiest people in the world are Google co-founders Larry Page and Sergey Brin , each worth close to $300 billion, according to Forbes .",
+              "hash": "4624ae0aa0599564",
+              "chunk_key": "4624ae0aa0599564_c002",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Technical factors are adding fuel to SpaceX's meme stock fire",
+              "summary": "…indexes are forced to buy in a few weeks. \"The price pressure hypothetically comes from hedge funds, arbitrageurs, and other sophisticated participants who, anticipating the passiv…",
+              "hash": "5a85fa10b902f6c9",
+              "chunk_key": "5a85fa10b902f6c9_c002",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
+              "summary": "Believers in Elon Musk's astronomic vision for SpaceX are storming options on the stock as punters place cheap bets on massive moves and total premium surpasses trading in monster …",
+              "hash": "e91c084066b823b0",
+              "chunk_key": "e91c084066b823b0_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Michael Burry says he's tempted to bet against SpaceX, but passes",
+              "summary": "Michael Burry of \"The Big Short\" fame said Tuesday he has no position in SpaceX , arguing that options used to wager against the stock remain too expensive even as he questioned th…",
+              "hash": "ccd6dfa6a698b9ee",
+              "chunk_key": "ccd6dfa6a698b9ee_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "SpaceX surge is creating a unique hedging opportunity",
+              "summary": "What goes up, must come down, even rockets, and particularly shares of rocket makers.",
+              "hash": "e396a015c78308e5",
+              "chunk_key": "e396a015c78308e5_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 30,
+          "name": "Global Tech Sector Volatility",
+          "count": 7,
+          "children": [
+            {
+              "name": "Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal",
+              "summary": "Global stock markets closed broadly lower on Friday, with most European and Asia-Pacific exchanges finishing in negative territory, as investors assessed the durability of a U.S.-b…",
+              "hash": "c223625c6185496a",
+              "chunk_key": "c223625c6185496a_c000",
+              "article_date": "2026-06-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Indian IT stocks slump up to 7% as Accenture cuts revenue outlook, fueling fresh concerns over sector growth",
+              "summary": "Stocks of major Indian information technology companies fell as much as 7% on Friday after global professional service giant Accenture lowered its revenue guidance, souring sentime…",
+              "hash": "b6b7329b75c71ee4",
+              "chunk_key": "b6b7329b75c71ee4_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Swiss signing canceled as U.S.-Iran talks stall",
+              "summary": "…that shipping through the Strait of Hormuz is beginning to recover.",
+              "hash": "4224f6af191d6102",
+              "chunk_key": "4224f6af191d6102_c001",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
+              "summary": "It's a busy day in two of America's largest cities: The Knicks will celebrate their NBA championship with a ticker-tape parade in New York City, while the Obama Presidential Center…",
+              "hash": "81a93678f869af8e",
+              "chunk_key": "81a93678f869af8e_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Trump-Vance tag team takes on Iran deal critics",
+              "summary": "…interim deal and the end of the blockade, but markets reacted relatively calmly to signs that shipping activity is recovering.",
+              "hash": "d178c3c72b609107",
+              "chunk_key": "d178c3c72b609107_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "MSCI report signals continued concerns over Indonesia market transparency",
+              "summary": "MSCI warned of transparency issues with Indonesia's market, just months after a previous caution had sent the country's stocks tumbling.",
+              "hash": "1bbc4cda614a1375",
+              "chunk_key": "1bbc4cda614a1375_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to be CEO",
+              "summary": "CME Group 's longtime leader Terry Duffy will step down as chief executive officer next year, succeeded by President and Chief Financial Officer Lynne Fitzpatrick.",
+              "hash": "d3485a80eab20663",
+              "chunk_key": "d3485a80eab20663_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "India's Economic Growth Concerns",
+      "count": 19,
+      "children": [
+        {
+          "cluster_id": 19,
+          "name": "Inflation and Monetary Policy",
+          "count": 18,
+          "children": [
+            {
+              "name": "Markets are set for a more hawkish Fed than anticipated under Warsh",
+              "summary": "Federal Reserve Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets, with traders expecting that the central bank could start jacking up…",
+              "hash": "4bd50181349a15b6",
+              "chunk_key": "4bd50181349a15b6_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Kalshi traders see greater than 50% odds the Fed will hike rates this year",
+              "summary": "Kalshi traders see growing odds that the Federal Reserve will hike rates this year after central bank policymakers indicated that higher rates could be in the cards.",
+              "hash": "e099ba066ecb4724",
+              "chunk_key": "e099ba066ecb4724_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+              "summary": "3.6% by December, from 2.7% projected in March. Nine of the 18 voting members expect at least one rate hike before the end of this year.",
+              "hash": "de65524bfda78dfc",
+              "chunk_key": "de65524bfda78dfc_c002",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "UK's Starmer faces leadership challenge as rival Burnham becomes MP",
+              "summary": "…the benchmark for U.K. government borrowing, jumped more than 8 basis points on Friday to 4.8394%. Yields on 2-year and 30-year Gilts also moved higher.",
+              "hash": "36df70664fc8b03e",
+              "chunk_key": "36df70664fc8b03e_c002",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Gundlach says Warsh is not going to be the 'easy money' chairman many hoped for",
+              "summary": "DoubleLine Capital CEO Jeffrey Gundlach said new Federal Reserve Chairman Kevin Warsh struck a more hawkish tone than many investors expected, underscoring his commitment to restor…",
+              "hash": "4816d656d558c4af",
+              "chunk_key": "4816d656d558c4af_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Fed holds rates steady, pares down statement to remove cutting bias",
+              "summary": "…to 3.6% on headline and 3.3% for core, which excludes food and energy. At the last update in March, committee members anticipated 2.7% rates for both measures.",
+              "hash": "829d41aeb861a544",
+              "chunk_key": "829d41aeb861a544_c004",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
+              "summary": "Prediction market traders think consensus will return to the Federal Reserve's policy-setting board when new Chairman Kevin Warsh presides over its June interest rate decision late…",
+              "hash": "3fd119262fc6aa96",
+              "chunk_key": "3fd119262fc6aa96_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Warsh experiences worst 'Fed day' S&P 500 performance for a new chair since 1994",
+              "summary": "If the stock market is a report card, Federal Reserve Chairman Kevin Warsh isn't coming out of his first policy meeting with high marks.",
+              "hash": "201df4e896d6027c",
+              "chunk_key": "201df4e896d6027c_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Warsh abstains from giving forecast as several members signal a hike in 2026",
+              "summary": "The Federal Reserve's latest projections pointed to one rate increase in 2026, though the outlook was complicated by the absence of a forecast from Chairman Kevin Warsh .",
+              "hash": "c56aca9beeb4f8bf",
+              "chunk_key": "c56aca9beeb4f8bf_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Analysis: Kevin Warsh’s task forces are the key to understanding the new Fed",
+              "summary": "Warsh changed that. \"There was one proposal on the table,\" Warsh said. \"The group was unanimous and unambiguous on it.\" That shift and others show Warsh carefully marshaling his po…",
+              "hash": "72d94fd076045bfa",
+              "chunk_key": "72d94fd076045bfa_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+              "summary": "Wednesday's Federal Open Market Committee statement alone showed the Federal Reserve is entering a new era under Chairman Kevin Warsh .",
+              "hash": "d40700a30e60c296",
+              "chunk_key": "d40700a30e60c296_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+              "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely, voting to keep the benchmark level steady , but dropped several surprises t…",
+              "hash": "c777f72ff7610b16",
+              "chunk_key": "c777f72ff7610b16_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+              "summary": "Inflation cooled to 2.8% in April, but the drop — attributed to a change to the U.K.'s regulated energy price cap — was expected to be short-lived.",
+              "hash": "93e08121255955c3",
+              "chunk_key": "93e08121255955c3_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Why Japan's $70 billion-plus intervention and a rate hike didn't boost the yen",
+              "summary": "Japanese Finance Minister Satsuki Katayama is increasingly finding herself in an unenviable position on the foreign-exchange front.",
+              "hash": "6b2998dd3e20291a",
+              "chunk_key": "6b2998dd3e20291a_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Yen slides past 161 against the dollar, nearing 40-year low and reviving intervention bets",
+              "summary": "The Japanese yen breached the 161 level against the U.S. dollar late Thursday, creeping closer to a four-decade low and renewing speculation that Tokyo could intervene again to def…",
+              "hash": "c08a528efb838171",
+              "chunk_key": "c08a528efb838171_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Japan core inflation holds steady in May, matching expectations despite energy price concerns",
+              "summary": "Japan's core inflation rate held steady at 1.4% in May, matching expectations and suggesting that underlying price pressures remained contained despite concerns that higher energy …",
+              "hash": "7694db2b67edb527",
+              "chunk_key": "7694db2b67edb527_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Fed Chair Warsh expected to withhold 'dot' from central bank's rate outlook",
+              "summary": "When the Federal Reserve wraps up its policy meeting Wednesday, one important thing could be missing — a dot.",
+              "hash": "e2cede01e2e9201f",
+              "chunk_key": "e2cede01e2e9201f_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "UK inflation holds steady at 2.8% in May",
+              "summary": "…earlier, average gasoline prices fell by 2.1 pence.",
+              "hash": "4d07000ae6103596",
+              "chunk_key": "4d07000ae6103596_c001",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 11,
+          "name": "India's Economic Challenges Mount",
+          "count": 1,
+          "children": [
+            {
+              "name": "India's largest telecom and digital service Jio Platforms files for IPO",
+              "summary": "…market cap of over $120 billion, according to LSEG data. It trades at a price-to-earnings ratio of over 42 times.",
+              "hash": "c7082b0d1275f744",
+              "chunk_key": "c7082b0d1275f744_c001",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middle East Geopolitics",
+      "count": 18,
+      "children": [
+        {
+          "cluster_id": 22,
+          "name": "US-Iran Nuclear Deal Negotiations",
+          "count": 10,
+          "children": [
+            {
+              "name": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
+              "summary": "Former President Barack Obama opened his long-awaited presidential center in Chicago on Thursday, drawing a who's who of former presidents, dignitaries, celebrities and musical per…",
+              "hash": "e634bb8057f08908",
+              "chunk_key": "e634bb8057f08908_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
+              "summary": "Vice President JD Vance defended President Donald Trump's interim peace deal on Thursday, insisting that the United States is not paying the Islamic Republic and that any economic …",
+              "hash": "fcd2bd8714923d75",
+              "chunk_key": "fcd2bd8714923d75_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Russia vows escalation after Ukraine hits Moscow with largest-ever drone attack",
+              "summary": "Russia has pledged to carry out frequent and \"massive group strikes\" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow, triggering a huge explosion in one o…",
+              "hash": "b3586322a91fcb11",
+              "chunk_key": "b3586322a91fcb11_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
+              "summary": "…wave of deadly air strikes against Lebanon, citing three people familiar with the matter.",
+              "hash": "e7ee788463a9b4a7",
+              "chunk_key": "e7ee788463a9b4a7_c001",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump says he likes idea of blaming Vance if Iran deal doesn't work out",
+              "summary": "…rights of coastal states of the Strait of Hormuz.. 6.",
+              "hash": "a7fa0af7ca2ba892",
+              "chunk_key": "a7fa0af7ca2ba892_c006",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Iran to define Hormuz administration with Oman and Gulf states: U.S. officials",
+              "summary": "Iran and Oman will define how the Strait of Hormuz is administered in discussion with other Persian Gulf states under the agreement to end the war in the Middle East, senior U.S. o…",
+              "hash": "e38193bb96a9e2aa",
+              "chunk_key": "e38193bb96a9e2aa_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump claims Iran deal is an 'unconditional surrender,': Axios",
+              "summary": "U.S. President Donald Trump asserted that he has unlimited power and insisted the deal reached with Iran amounts to \"unconditional surrender\" by Tehran, in an interview with Axios …",
+              "hash": "bf834931e7c3ac13",
+              "chunk_key": "bf834931e7c3ac13_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Trump-Vance tag team takes on Iran deal critics",
+              "summary": "Vice President JD Vance is insisting that the U.S. is not paying Iran and that any economic benefits for the Islamic Republic will depend on full compliance with a 14-point memoran…",
+              "hash": "d178c3c72b609107",
+              "chunk_key": "d178c3c72b609107_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S.-Iran deal in photos: ships in the Strait of Hormuz, daily life in Tehran",
+              "summary": "The first signs of a post-war recovery are emerging across the Middle East after the U.S. and Iran signed a memorandum aimed at ending the conflict.",
+              "hash": "edc314285c665a88",
+              "chunk_key": "edc314285c665a88_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump signals he could send details of Iran deal to Congress",
+              "summary": "President Donald Trump on Tuesday signaled that he's open to sending details of the agreement with Iran to members of Congress , as lawmakers from both parties are raising question…",
+              "hash": "7b8e1e72b73b35eb",
+              "chunk_key": "7b8e1e72b73b35eb_c000",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 36,
+          "name": "Strait of Hormuz Oil Disruption",
+          "count": 8,
+          "children": [
+            {
+              "name": "Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed",
+              "summary": "Brent crude oil prices rose Friday after talks between the U.S. and Iran in Switzerland were abruptly called off , underscoring lingering uncertainty over efforts to turn an interi…",
+              "hash": "33ba8144add67163",
+              "chunk_key": "33ba8144add67163_c000",
+              "article_date": "2026-06-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Three Saudi supertankers cross Strait of Hormuz after Iran deal",
+              "summary": "Three supertankers from Saudi Arabia loaded with 6 million barrels of oil have crossed the Strait of Hormuz, according to data from the global trade intelligence firm Kpler.",
+              "hash": "9e1db074cd3a217e",
+              "chunk_key": "9e1db074cd3a217e_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. Navy ends blockade of Iran's ports and coastal areas",
+              "summary": "Tehran responded by attacking ships in Hormuz, basically shutting down the sea lane and triggering the biggest oil supply disruption in history.",
+              "hash": "b928619aee63263f",
+              "chunk_key": "b928619aee63263f_c001",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+              "summary": "Early signs that the Strait of Hormuz is reopening have eased the most acute threat to global energy supplies, but economic damages from the nearly four months of war will take mon…",
+              "hash": "de65524bfda78dfc",
+              "chunk_key": "de65524bfda78dfc_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Tanker traffic jumps in Hormuz after U.S., Iran implement deal to open sea lane",
+              "summary": "At least 20 oil tankers have crossed the Strait of Hormuz since the U.S. and Iran began to reopen the sea lane to commercial ship traffic, according to the trade intelligence firm …",
+              "hash": "2f1c81027acc6d77",
+              "chunk_key": "2f1c81027acc6d77_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+              "summary": "OPEC Secretary General Haitham al-Ghais on Thursday dismissed the International Energy Agency's prediction of a supply glut brewing in oil markets.",
+              "hash": "c7d184f08e052201",
+              "chunk_key": "c7d184f08e052201_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Gas prices fall below $4 per gallon as oil supply fears ease after Iran deal",
+              "summary": "Gasoline prices fell below $4 per gallon Thursday, as oil exports through the Strait of Hormuz are expected to increase after President Donald Trump signed a deal to end the war wi…",
+              "hash": "b8dc372d10108915",
+              "chunk_key": "b8dc372d10108915_c000",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Three Iranian tankers exit U.S. blockade for first time in months",
+              "summary": "…begin selling oil and fuel once the agreement is signed this week, in exchange for Iran's commitment to curb its nuclear program, the Wall Street Journal reported Tuesday .",
+              "hash": "1413da0db24fe315",
+              "chunk_key": "1413da0db24fe315_c001",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Security Policy",
+      "count": 4,
+      "children": [
+        {
+          "cluster_id": 10,
+          "name": "DOJ's Anti-Weaponization Fund Controversy",
+          "count": 2,
+          "children": [
+            {
+              "name": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
+              "summary": "The Department of Justice rebuffed a federal judge's request to attest in writing it that won't move forward with its \" anti-weaponization fund ,\" arguing in a filing Friday that i…",
+              "hash": "fe9b748c915373d9",
+              "chunk_key": "fe9b748c915373d9_c000",
+              "article_date": "2026-06-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump's legal attack on Fed Governor Cook cost her more than $1M, filing shows",
+              "summary": "Federal Reserve Governor Lisa Cook incurred more than $1.3 million in legal and security expenses following President Donald Trump 's attempt to fire her in August from the Fed's b…",
+              "hash": "50c74e6b66e3ecee",
+              "chunk_key": "50c74e6b66e3ecee_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 12,
+          "name": "Trump's National Intelligence Nominee",
+          "count": 2,
+          "children": [
+            {
+              "name": "Trump DNI pick Pulte getting access to U.S. intel despite congressional efforts",
+              "summary": "Bill Pulte , President Donald Trump 's controversial pick serve as acting director of National Intelligence, is poised to assume that role on Friday after Trump thwarted Senate Rep…",
+              "hash": "15624b7bfda75266",
+              "chunk_key": "15624b7bfda75266_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump sabotages Senate bid to fast-track Clayton as DNI, committee scuttles hearing",
+              "summary": "\"It's regrettable that the president has directed Jay Clayton not to appear at his confirmation hearing today.",
+              "hash": "cd51f8f103223c9b",
+              "chunk_key": "cd51f8f103223c9b_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transforming the Media Landscape",
+      "count": 4,
+      "children": [
+        {
+          "cluster_id": 1,
+          "name": "\"Disrupting Traditional Consumer Goods\"",
+          "count": 1,
+          "children": [
+            {
+              "name": "CarMax shares fall after used car retailer reports earnings beats",
+              "summary": "…which is expected to take multiple years to execute — in late fall, but he noted that leadership is \"super confident about it.\" \"Our new strategy is focused on great offerings, eas…",
+              "hash": "1f3b1344b855bc91",
+              "chunk_key": "1f3b1344b855bc91_c001",
+              "article_date": "2026-06-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "name": "Warren Buffett's Investment Strategy",
+          "count": 1,
+          "children": [
+            {
+              "name": "NetJets' first fatal crash kills influential Texas VC founder",
+              "summary": "…time very well, and we have one episode when the basic franchise was protected but we lost profit opportunities for a while, it's not a big failure record.",
+              "hash": "a9ed5a26a01f06b5",
+              "chunk_key": "a9ed5a26a01f06b5_c007",
+              "article_date": "2026-06-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 16,
+          "name": "Media Companies Make Strategic Moves",
+          "count": 1,
+          "children": [
+            {
+              "name": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
+              "summary": "…In addition to marrying itself to the top hardware maker in streaming, Fox's acquisition brings in another free, ad-supported streamer with The Roku Channel.",
+              "hash": "66249948d33a6e21",
+              "chunk_key": "66249948d33a6e21_c004",
+              "article_date": "2026-06-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 17,
+          "name": "Disney's Advertising and Media Strategy",
+          "count": 1,
+          "children": [
+            {
+              "name": "Bob Iger reflects on Shanghai Disneyland as it defies the Chinese pullback",
+              "summary": "Spend a day at Shanghai Disneyland and you wouldn't know Chinese consumers are struggling.",
+              "hash": "beeec5ce7fec10af",
+              "chunk_key": "beeec5ce7fec10af_c000",
+              "article_date": "2026-06-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

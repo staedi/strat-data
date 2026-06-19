@@ -1,0 +1,548 @@
+{
+  "name": "root",
+  "mode": "weekly",
+  "updated_at": "2026-07-01T19:13:46.406532-04:00",
+  "children": [
+    {
+      "name": "Air Travel Luxury Evolution",
+      "count": 1,
+      "children": [
+        {
+          "cluster_id": 6,
+          "name": "Airline Industry Shifts to Premium",
+          "count": 1,
+          "children": [
+            {
+              "name": "American Airlines brings grab-and-go lounge to New York's JFK",
+              "summary": "American Airlines is planning to open a new grab-and-go lounge at New York's John F.",
+              "hash": "bc4490b504ee3b3a",
+              "chunk_key": "bc4490b504ee3b3a_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artificial Intelligence and Technology",
+      "count": 13,
+      "children": [
+        {
+          "cluster_id": 32,
+          "name": "AI Regulation and Governance",
+          "count": 5,
+          "children": [
+            {
+              "name": "Palantir's Karp says OpenAI, Anthropic token-based model is 'completely wrong'",
+              "summary": "Palantir CEO Alex Karp on Wednesday criticized the token model used by U.S. artificial intelligence labs Anthropic and OpenAI as costs skyrocket. \"I'm not throwing shade at them, b…",
+              "hash": "438edc19449a6f74",
+              "chunk_key": "438edc19449a6f74_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Palo Alto, CrowdStrike post best quarter ever as AI threats bolster cyber demand",
+              "summary": "…to the model as Project Glasswing partners and are early adopters of OpenAI's Daybreak.",
+              "hash": "bc5a3efcda93fa68",
+              "chunk_key": "bc5a3efcda93fa68_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Anthropic launches AI drug discovery program in tech's latest healthcare bet",
+              "summary": "Anthropic is starting an internal drug discovery program as part of an effort to develop artificial intelligence tools designed for drugmakers, becoming the latest company to try a…",
+              "hash": "4bfa7b3cfb19a6b0",
+              "chunk_key": "4bfa7b3cfb19a6b0_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AWS puts $1 billion into new AI unit to embed engineers with customers",
+              "summary": "…An initial pod of roughly five or six engineers will be embedded within an AWS customer at a time, and those employees will also work alongside AI agents, which are tools that can …",
+              "hash": "ced411e29c36df3c",
+              "chunk_key": "ced411e29c36df3c_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+              "summary": "…by Chinese startup DeepSeek's R1 model resembled those produced by OpenAI's ChatGPT nearly three-quarters of the time, suggesting the open-source Chinese model may have been traine…",
+              "hash": "26f6507ac8bb205b",
+              "chunk_key": "26f6507ac8bb205b_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "name": "Chinese Electric Vehicles in US",
+          "count": 3,
+          "children": [
+            {
+              "name": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+              "summary": "…Cox also expects Tesla , which does not report regional sales, to be off more than 20% during the second quarter, as EV demand last year began to spike ahead of expectations of the…",
+              "hash": "0b94bca85fd2482b",
+              "chunk_key": "0b94bca85fd2482b_c003",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+              "summary": "…tariffs, which Trump has used aggressively during his presidency as leverage in negotiations and to promote domestic production. \"All chips are on the table,\" Aakash Arora, an auto…",
+              "hash": "74cbfd8e5ee26b6e",
+              "chunk_key": "74cbfd8e5ee26b6e_c002",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+              "summary": "The Food and Drug Administration on Tuesday cleared Philip Morris -owned Zyn nicotine pouches to be marketed as less harmful than cigarettes, giving the tobacco giant a major regul…",
+              "hash": "8da8137dba0300fc",
+              "chunk_key": "8da8137dba0300fc_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 27,
+          "name": "Artificial Intelligence Chip Market",
+          "count": 2,
+          "children": [
+            {
+              "name": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+              "summary": "…supply may be catching up to demand.",
+              "hash": "c8d498370989101d",
+              "chunk_key": "c8d498370989101d_c001",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+              "summary": "Chipmakers not named Nvidia soared in the second quarter as investors widened their artificial intelligence portfolios, with Micron and Intel more than tripling in value and Advanc…",
+              "hash": "cb7711f4eea27d5d",
+              "chunk_key": "cb7711f4eea27d5d_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 14,
+          "name": "Global Electronics Component Shortage",
+          "count": 1,
+          "children": [
+            {
+              "name": "PlayStation will end physical disc production for new games in 2028",
+              "summary": "PlayStation will soon end physical disc production for all new games released on its consoles, the company announced Wednesday morning.",
+              "hash": "884a15d2d518aa85",
+              "chunk_key": "884a15d2d518aa85_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 25,
+          "name": "\"AI's Impact on Tech Valuations\"",
+          "count": 1,
+          "children": [
+            {
+              "name": "Prolific tech analyst Dan Ives is exiting Wedbush for a new venture",
+              "summary": "Dan Ives, one of Wall Street's most recognizable technology analysts, is leaving his longtime role at Wedbush Securities to launch a merchant bank aimed at combining research, advi…",
+              "hash": "df8c622f6b8d815f",
+              "chunk_key": "df8c622f6b8d815f_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 31,
+          "name": "Meta's AI Investment Struggles",
+          "count": 1,
+          "children": [
+            {
+              "name": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+              "summary": "Shares of Meta closed up nearly 9% on Wednesday following news that the company is building out a new cloud business that could help recoup some of the billions of dollars it's pou…",
+              "hash": "afcaeab55cc18029",
+              "chunk_key": "afcaeab55cc18029_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cryptocurrency Regulatory Challenges",
+      "count": 3,
+      "children": [
+        {
+          "cluster_id": 4,
+          "name": "Trump Family Crypto Scandal",
+          "count": 2,
+          "children": [
+            {
+              "name": "Trump: Others invest my money, I'm profiting because of stock market",
+              "summary": "…He reported at least $2.24 billion in revenue last year based on the employment assets and income he disclosed, according to a CNBC analysis of his annual disclosure forms.",
+              "hash": "02c50f222bf6c118",
+              "chunk_key": "02c50f222bf6c118_c001",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump's financial disclosure shows more than $580M in crypto-related income",
+              "summary": "President Donald Trump 's annual financial disclosure report was released on Tuesday by the U.S. Office of Government Ethics , revealing income of hundreds of millions of dollars f…",
+              "hash": "742b27c8ce3fcc39",
+              "chunk_key": "742b27c8ce3fcc39_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "name": "Bitcoin's Bear Market Slump",
+          "count": 1,
+          "children": [
+            {
+              "name": "Bitcoin's summer swoon creates unique trade in Strategy",
+              "summary": "Bitcoin 's nearly 9-month slide has even HODLers quaking in their boots.",
+              "hash": "550d19cd83e42fcb",
+              "chunk_key": "550d19cd83e42fcb_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Global Energy and Economics",
+      "count": 12,
+      "children": [
+        {
+          "cluster_id": 17,
+          "name": "Federal Reserve's Inflation Outlook",
+          "count": 6,
+          "children": [
+            {
+              "name": "Warsh faces multiple alternative inflation signs as Fed charts new course",
+              "summary": "…with the highest, shows a 12-month rate of just 2.4%.",
+              "hash": "9c661ecc94af59f0",
+              "chunk_key": "9c661ecc94af59f0_c003",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+              "summary": "The June jobs report on Thursday could be more robust than expected due to a strong kick from the World Cup, according to Goldman Sachs.",
+              "hash": "0e7b4a7ef489ef23",
+              "chunk_key": "0e7b4a7ef489ef23_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
+              "summary": "With oil and gas prices falling in the wake of the detente between the U.S. and Iran , prediction market traders now think inflation has peaked.",
+              "hash": "8d5d73afd4dc5f9c",
+              "chunk_key": "8d5d73afd4dc5f9c_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+              "summary": "…rates.\" Consensus forecasts for Russell 2000 companies' 2026 earnings growth have climbed to 38% from about 23% at the start of the year, according to LPL, reflecting growing optim…",
+              "hash": "473d9ea2f255de5f",
+              "chunk_key": "473d9ea2f255de5f_c002",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Cleveland Fed president says AI could fuel inflation, rate hikes possible",
+              "summary": "Cleveland Federal Reserve President Beth Hammack said Tuesday that \"insatiable\" demand for artificial intelligence infrastructure could be a source for inflation.",
+              "hash": "d2398178f96cb32a",
+              "chunk_key": "d2398178f96cb32a_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
+              "summary": "Companies added slightly fewer workers than expected in June, with hiring targeted heavily toward healthcare-related sectors, ADP reported Wednesday.",
+              "hash": "1b74da36994ee0ca",
+              "chunk_key": "1b74da36994ee0ca_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 20,
+          "name": "U.S.-Iran Tensions Over Oil",
+          "count": 6,
+          "children": [
+            {
+              "name": "Trump's financial disclosure shows FIFA president gave him $15,000 worth of tickets",
+              "summary": "As the U.S. men's national soccer team heads into its first World Cup knockout match Wednesday night, President Donald Trump 's newly released 2025 financial disclosure is putting …",
+              "hash": "6092d3ea41057875",
+              "chunk_key": "6092d3ea41057875_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+              "summary": "…the U.S. could pull out of the deal amid aggressive negotiation tactics by the Trump administration involving tariffs, trade and other issues.",
+              "hash": "74cbfd8e5ee26b6e",
+              "chunk_key": "74cbfd8e5ee26b6e_c001",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
+              "summary": "The Trump administration has decided not to renew its trilateral trade pact with Canada and Mexico, instead opting to conduct annual reviews of the treaty that President Donald Tru…",
+              "hash": "301fd01bf54667b8",
+              "chunk_key": "301fd01bf54667b8_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "The next UK prime minister's North Sea oil test",
+              "summary": "Labour Party colleagues, is under pressure to define his position quickly as markets react.",
+              "hash": "95b844942d753f31",
+              "chunk_key": "95b844942d753f31_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "South Korean government discriminated against Coupang, House report finds",
+              "summary": "…more than 40% drop in Coupang's market capitalization , according to the committee, and could have a negative effect on its investors. \"South Korean regulators have consistently ta…",
+              "hash": "1969d53bf20327c8",
+              "chunk_key": "1969d53bf20327c8_c002",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Xi touts China Communist Party's global influence in speech marking 105th anniversary",
+              "summary": "…shifts were accelerating, and that “the world has entered a new era of turbulence and transformation.\" Against that backdrop, Xi said China would \"promote the building of a new typ…",
+              "hash": "3d5fd2b78dba708f",
+              "chunk_key": "3d5fd2b78dba708f_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Global Tech Market Volatility",
+      "count": 7,
+      "children": [
+        {
+          "cluster_id": 28,
+          "name": "Global Tech Sell-Off",
+          "count": 4,
+          "children": [
+            {
+              "name": "Stock futures are little changed after weak start to July trading; jobs report ahead",
+              "summary": "Stock futures traded near the flatline on Wednesday night after Wall Street began a new month of trading on a somewhat sour note, with traders awaiting the latest batch of U.S. emp…",
+              "hash": "9eb6d507cf4a1597",
+              "chunk_key": "9eb6d507cf4a1597_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+              "summary": "A day after closing out a blockbuster three months on Wall Street, high-flying chip stocks suffered steep declines to open the third quarter.",
+              "hash": "c8d498370989101d",
+              "chunk_key": "c8d498370989101d_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+              "summary": "…the Russell 2000's 50 best-performing stocks this year, including Aehr Test Systems , Ichor Holdings and MaxLinear , which have all rallied more than 400%.",
+              "hash": "473d9ea2f255de5f",
+              "chunk_key": "473d9ea2f255de5f_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "South Korean government discriminated against Coupang, House report finds",
+              "summary": "…acting CEO Harold Rogers — who took over in December after Park resigned — South Korean officials were informed by the company that same month that the scale of the breach was smal…",
+              "hash": "1969d53bf20327c8",
+              "chunk_key": "1969d53bf20327c8_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 24,
+          "name": "SpaceX's Record-Breaking IPO",
+          "count": 2,
+          "children": [
+            {
+              "name": "Blue Origin pivots to redesigned launchpad after explosion to fly by end of 2026",
+              "summary": "Blue Origin CEO Dave Limp said the company is \"not rebuilding the same pad\" where one of its New Glenn rockets recently exploded, in order to make way for a return to flight this y…",
+              "hash": "dabfe70c0864190a",
+              "chunk_key": "dabfe70c0864190a_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AeroVironment skyrockets 19% as dronemaker capitalizes on defense spending surge",
+              "summary": "…and an extensive Golden Dome project to protect space. One of AeroVironment's products is a high-energy laser system known as LOCUST, capable of shooting down drone targets.",
+              "hash": "36509b6728bce926",
+              "chunk_key": "36509b6728bce926_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 23,
+          "name": "Semiconductor Sector Sell-Off",
+          "count": 1,
+          "children": [
+            {
+              "name": "Bitcoin's summer swoon creates unique trade in Strategy",
+              "summary": "…we can look to an approach executed successfully over the past year by one of our top-performing option income funds, which deployed structurally bearish directional positioning ag…",
+              "hash": "550d19cd83e42fcb",
+              "chunk_key": "550d19cd83e42fcb_c001",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transforming Consumer Industries",
+      "count": 1,
+      "children": [
+        {
+          "cluster_id": 11,
+          "name": "Disney's Advertising and Media Strategy",
+          "count": 1,
+          "children": [
+            {
+              "name": "Private equity in youth sports draws bipartisan scrutiny in Congress",
+              "summary": "…Kiley said that while some private capital has helped expand access, the committee is concerned with \"particular practices that reduce competition, drive up costs and limit access …",
+              "hash": "a265d13576aa1c2e",
+              "chunk_key": "a265d13576aa1c2e_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trump Administration Controversies",
+      "count": 6,
+      "children": [
+        {
+          "cluster_id": 18,
+          "name": "DOJ's Slush Fund Controversy",
+          "count": 6,
+          "children": [
+            {
+              "name": "Trump's financial disclosure shows FIFA president gave him $15,000 worth of tickets",
+              "summary": "…The lawmakers said FIFA must prove its commitment to \"political neutrality, transparency, and accountability\" and urged that FIFA Ethics Committee to act \"with the utmost speed and…",
+              "hash": "6092d3ea41057875",
+              "chunk_key": "6092d3ea41057875_c001",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump wants delay but E. Jean Carroll wants to gets paid — now: Court filing",
+              "summary": "Roberta Kaplan, in the new filing, said that shortly after the Supreme Court's denial, Trump wrote a Truth Social post that \"continued his stream of defamatory attacks on Carroll.\"…",
+              "hash": "75c7417fefbe34b3",
+              "chunk_key": "75c7417fefbe34b3_c003",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump: Others invest my money, I'm profiting because of stock market",
+              "summary": "…in whatever they invest in.\" Asked to respond to critics accusing him of profiting off the presidency, Trump said, \"Well, you know why I'm profiting is the stock market's going up,…",
+              "hash": "02c50f222bf6c118",
+              "chunk_key": "02c50f222bf6c118_c002",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump's financial disclosure shows more than $580M in crypto-related income",
+              "summary": "…of the biggest names in technology — Apple, Microsoft, and Nvidia — with each trade valued at between $5 million and $25 million.",
+              "hash": "742b27c8ce3fcc39",
+              "chunk_key": "742b27c8ce3fcc39_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Supreme Court strikes down limits on political parties' campaign spending, in win for GOP",
+              "summary": "The Supreme Court on Tuesday struck down limits on the amount that political parties can spend in coordination with candidates for office, notching a win for Republicans who argued…",
+              "hash": "b4a98381ce00b822",
+              "chunk_key": "b4a98381ce00b822_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Supreme Court upholds birthright citizenship, blocks Trump order",
+              "summary": "…other three conservatives on the court, Clarence Thomas, Samuel Alito and Neil Gorsuch, all wrote dissenting opinions. \"The Court has made a serious mistake,\" Alito wrote in his di…",
+              "hash": "c4ad7617ba801c9d",
+              "chunk_key": "c4ad7617ba801c9d_c001",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

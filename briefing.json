@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-06-27T09:36:08.924511-04:00",
+  "snapshot_date": "2026-06-27",
+  "disclaimer": "Topic clusters reflect the past 7 days. Market data and sentiment updated daily.",
+  "schedule": [
+    {
+      "date": "2026-07-28",
+      "type": "fomc",
+      "label": "FOMC Rate Decision"
+    }
+  ],
+  "macro_outcomes": [
+    {
+      "name": "CPI",
+      "type": "cpi",
+      "value": "2.4% YoY",
+      "release_date": "2026-06-11",
+      "source_headline": "..."
+    },
+    {
+      "name": "CPI",
+      "type": "cpi",
+      "value": "4.1% annual rate",
+      "release_date": "2026-06-23",
+      "source_headline": "..."
+    },
+    {
+      "name": "CPI",
+      "type": "cpi",
+      "value": "3.4% in May",
+      "release_date": "2026-06-23",
+      "source_headline": "..."
+    }
+  ],
+  "snapshot": {
+    "indices": [
+      {
+        "ticker": "^GSPC",
+        "label": "S&P 500",
+        "close": 7354.02,
+        "change_pct": -0.05,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "^IXIC",
+        "label": "Nasdaq",
+        "close": 25297.6172,
+        "change_pct": -0.24,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "^N225",
+        "label": "Nikkei 225",
+        "close": 72366.3438,
+        "change_pct": 4.61,
+        "as_of": "2026-06-25 00:00:00"
+      },
+      {
+        "ticker": "^KS11",
+        "label": "KOSPI",
+        "close": 8930.2998,
+        "change_pct": 5.42,
+        "as_of": "2026-06-25 00:00:00"
+      },
+      {
+        "ticker": "^VIX",
+        "label": "VIX",
+        "close": 18.41,
+        "change_pct": -2.54,
+        "as_of": "2026-06-26 00:00:00"
+      }
+    ],
+    "bonds": [
+      {
+        "ticker": "^TNX",
+        "label": "10Y Treasury",
+        "close": 4.372,
+        "change_pct": -3.04,
+        "as_of": "2026-06-26 00:00:00"
+      }
+    ],
+    "fx": [
+      {
+        "ticker": "DX-Y.NYB",
+        "label": "DXY",
+        "close": 101.366,
+        "change_pct": -0.06,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "EURUSD=X",
+        "label": "EUR/USD",
+        "close": 1.139,
+        "change_pct": 0.31,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "JPY=X",
+        "label": "USD/JPY",
+        "close": 161.73,
+        "change_pct": -0.02,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "GBPUSD=X",
+        "label": "GBP/USD",
+        "close": 1.3198,
+        "change_pct": 0.24,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "AUDUSD=X",
+        "label": "AUD/USD",
+        "close": 0.6901,
+        "change_pct": 0.02,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "CNY=X",
+        "label": "USD/CNY",
+        "close": 6.7897,
+        "change_pct": -0.0,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "KRW=X",
+        "label": "USD/KRW",
+        "close": 1535.0,
+        "change_pct": -0.5,
+        "as_of": "2026-06-26 00:00:00"
+      }
+    ],
+    "crypto": [
+      {
+        "ticker": "BTC-USD",
+        "label": "Bitcoin",
+        "close": 59913.2109,
+        "change_pct": 0.32,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "ETH-USD",
+        "label": "Ethereum",
+        "close": 1574.71,
+        "change_pct": 0.63,
+        "as_of": "2026-06-26 00:00:00"
+      }
+    ],
+    "commodities": [
+      {
+        "ticker": "CL=F",
+        "label": "WTI Crude",
+        "close": 70.24,
+        "change_pct": -2.34,
+        "as_of": "2026-06-26 00:00:00"
+      },
+      {
+        "ticker": "GC=F",
+        "label": "Gold",
+        "close": 4103.0,
+        "change_pct": 1.8,
+        "as_of": "2026-06-26 00:00:00"
+      }
+    ]
+  },
+  "movers": {
+    "by_news": {
+      "top_tickers": [
+        {
+          "ticker": "QCOM",
+          "name": "Qualcomm",
+          "mentions": 13,
+          "score": 0.885,
+          "positive_pct": 84.6,
+          "negative_pct": 15.4,
+          "top_cluster": "Artificial Intelligence Chip Market"
+        },
+        {
+          "ticker": "ON",
+          "name": "ON Semiconductor",
+          "mentions": 8,
+          "score": 0.79,
+          "positive_pct": 87.5,
+          "negative_pct": 12.5,
+          "top_cluster": "Artificial Intelligence Chip Market"
+        },
+        {
+          "ticker": "F",
+          "name": "Ford Motor",
+          "mentions": 4,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0,
+          "top_cluster": "Chinese Electric Vehicles in US"
+        },
+        {
+          "ticker": "WEN",
+          "name": "Wendy's",
+          "mentions": 10,
+          "score": 0.65,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0,
+          "top_cluster": null
+        },
+        {
+          "ticker": "DIS",
+          "name": "Walt Disney",
+          "mentions": 8,
+          "score": 0.696,
+          "positive_pct": 62.5,
+          "negative_pct": 25.0,
+          "top_cluster": "Disney's Advertising and Media Strategy"
+        }
+      ],
+      "top_clusters": [
+        {
+          "cluster_id": 20,
+          "label": "U.S.-Iran Tensions Over Oil",
+          "meta_category": "Global Energy and Economics",
+          "article_count": 36
+        },
+        {
+          "cluster_id": 17,
+          "label": "Federal Reserve's Inflation Outlook",
+          "meta_category": "Global Energy and Economics",
+          "article_count": 19
+        },
+        {
+          "cluster_id": 24,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Volatility",
+          "article_count": 12
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "article_count": 9
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "article_count": 9
+        }
+      ]
+    },
+    "by_price": [
+      {
+        "ticker": "ON",
+        "close": 90.65,
+        "change_pct": -23.66
+      },
+      {
+        "ticker": "LCID",
+        "close": 5.92,
+        "change_pct": 15.63
+      },
+      {
+        "ticker": "WDC",
+        "close": 586.45,
+        "change_pct": -13.17
+      },
+      {
+        "ticker": "TER",
+        "close": 357.93,
+        "change_pct": -12.03
+      },
+      {
+        "ticker": "AMKR",
+        "close": 64.95,
+        "change_pct": -12.02
+      }
+    ],
+    "debuts": []
+  }
+}

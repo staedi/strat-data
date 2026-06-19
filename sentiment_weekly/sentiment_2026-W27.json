@@ -1,0 +1,1464 @@
+{
+  "mode": "weekly",
+  "updated_at": "2026-07-01T19:13:56.364374-04:00",
+  "tickers": {
+    "PLTR": {
+      "name": "Palantir Technologies",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "AI Regulation and Governance",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Palantir's Karp says OpenAI, Anthropic token-based model is 'completely wrong'",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 2,
+      "neg": 6,
+      "neu": 0,
+      "total": 8,
+      "positive_pct": 25.0,
+      "negative_pct": 75.0,
+      "score": -0.708,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 4,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 4,
+          "label": "Trump Family Crypto Scandal",
+          "meta_category": "Cryptocurrency Regulatory Challenges",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 18,
+          "label": "DOJ's Slush Fund Controversy",
+          "meta_category": "Trump Administration Controversies",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Palantir's Karp says OpenAI, Anthropic token-based model is 'completely wrong'",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally...",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Trump's financial disclosure shows more than $580M in crypto-related income",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 2,
+          "neg": 4,
+          "neu": 0,
+          "total": 6,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "MU": {
+      "name": "Micron Technology",
+      "pos": 4,
+      "neg": 2,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": 0.25,
+      "categories": {
+        "Performance": {
+          "pos": 4,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Stock futures are little changed after weak start to July trading; jobs report ahead",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ]
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "pos": 3,
+      "neg": 0,
+      "neu": 2,
+      "total": 5,
+      "positive_pct": 60.0,
+      "negative_pct": 0.0,
+      "score": 0.719,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 2
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 17,
+          "label": "Federal Reserve's Inflation Outlook",
+          "meta_category": "Global Energy and Economics",
+          "pos": 2,
+          "neg": 0,
+          "neu": 2,
+          "total": 4,
+          "score": 0.5,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 32,
+          "label": "AI Regulation and Governance",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AWS puts $1 billion into new AI unit to embed engineers with customers",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 2,
+          "neg": 0,
+          "neu": 2,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 2,
+      "neg": 3,
+      "neu": 0,
+      "total": 5,
+      "positive_pct": 40.0,
+      "negative_pct": 60.0,
+      "score": -0.187,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 14,
+          "label": "Global Electronics Component Shortage",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 4,
+          "label": "Trump Family Crypto Scandal",
+          "meta_category": "Cryptocurrency Regulatory Challenges",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "PlayStation will end physical disc production for new games in 2028",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Trump's financial disclosure shows more than $580M in crypto-related income",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ]
+    },
+    "F": {
+      "name": "Ford Motor",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 8,
+          "label": "Chinese Electric Vehicles in US",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "META": {
+      "name": "Meta Platforms",
+      "pos": 6,
+      "neg": 4,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 60.0,
+      "negative_pct": 40.0,
+      "score": -0.25,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 3,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 4,
+          "neg": 2,
+          "neu": 0,
+          "total": 6,
+          "score": 0.333,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "score": 0.333,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 6,
+          "neg": 3,
+          "neu": 0,
+          "total": 9,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 2,
+      "neg": 7,
+      "neu": 0,
+      "total": 9,
+      "positive_pct": 22.2,
+      "negative_pct": 77.8,
+      "score": -0.313,
+      "categories": {
+        "NewsRelease": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 2,
+          "neg": 5,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 24,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 32,
+          "label": "AI Regulation and Governance",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 18,
+          "label": "DOJ's Slush Fund Controversy",
+          "meta_category": "Trump Administration Controversies",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 20,
+          "label": "U.S.-Iran Tensions Over Oil",
+          "meta_category": "Global Energy and Economics",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Trump: Others invest my money, I'm profiting because of stock market",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Anthropic launches AI drug discovery program in tech's latest healthcare bet",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AWS puts $1 billion into new AI unit to embed engineers with customers",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "South Korean government discriminated against Coupang, House report finds",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 6,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 14.3,
+          "negative_pct": 85.7
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "INTC": {
+      "name": "Intel",
+      "pos": 2,
+      "neg": 1,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": -0.124,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "AMD": {
+      "name": "Advanced Micro Devices",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "Artificial Intelligence Chip Market",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in Q2",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "AMAT": {
+      "name": "Applied Materials",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "Global Tech Sell-Off",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally...",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 2,
+      "neg": 1,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": 0.124,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 20,
+          "label": "U.S.-Iran Tensions Over Oil",
+          "meta_category": "Global Energy and Economics",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "South Korean government discriminated against Coupang, House report finds",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "Space Exploration Technologies",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.416,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 24,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "score": 0.333,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Blue Origin pivots to redesigned launchpad after explosion to fly by end of 2026",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.124,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 31,
+          "label": "Meta's AI Investment Struggles",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 24,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Volatility",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Meta pops 9% as company makes cloud push to sell excess AI compute capacity",
+          "date": "2026-06-30 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Blue Origin pivots to redesigned launchpad after explosion to fly by end of 2026",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "CRWD": {
+      "name": "CrowdStrike",
+      "pos": 4,
+      "neg": 1,
+      "neu": 0,
+      "total": 5,
+      "positive_pct": 80.0,
+      "negative_pct": 20.0,
+      "score": 0.6,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "AI Regulation and Governance",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Palo Alto, CrowdStrike post best quarter ever as AI threats bolster cyber demand",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 4,
+          "neg": 1,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple",
+      "pos": 3,
+      "neg": 0,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 3,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 32,
+          "label": "AI Regulation and Governance",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 4,
+          "label": "Trump Family Crypto Scandal",
+          "meta_category": "Cryptocurrency Regulatory Challenges",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 18,
+          "label": "DOJ's Slush Fund Controversy",
+          "meta_category": "Trump Administration Controversies",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Anthropic launches AI drug discovery program in tech's latest healthcare bet",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Trump's financial disclosure shows more than $580M in crypto-related income",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "NKE": {
+      "name": "Nike",
+      "pos": 2,
+      "neg": 1,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": 0.333,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Nike results top estimates; retailer expects $986 million tariff refund",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        }
+      ]
+    },
+    "PM": {
+      "name": "Philip Morris International",
+      "pos": 1,
+      "neg": 2,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 66.7,
+      "score": -0.333,
+      "categories": {
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 8,
+          "label": "Chinese Electric Vehicles in US",
+          "meta_category": "Artificial Intelligence and Technology",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ]
+    },
+    "CAT": {
+      "name": "Caterpillar",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally...",
+          "date": "2026-06-29 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-29",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    }
+  },
+  "window_start": "2026-06-29"
+}

@@ -1,21 +1,255 @@
 {
   "mode": "weekly",
-  "updated_at": "2026-06-18T18:28:52.647845-04:00",
+  "updated_at": "2026-06-20T18:23:02.681805-04:00",
   "tickers": {
-    "AMZN": {
-      "name": "Amazon.com",
-      "pos": 14,
-      "neg": 10,
-      "neu": 1,
-      "total": 25,
-      "positive_pct": 56.0,
-      "negative_pct": 40.0,
-      "score": 0.016,
+    "BRK-B": {
+      "name": "Berkshire Hathaway",
+      "pos": 2,
+      "neg": 5,
+      "neu": 0,
+      "total": 7,
+      "positive_pct": 28.6,
+      "negative_pct": 71.4,
+      "score": -0.457,
       "categories": {
         "Business": {
-          "pos": 12,
-          "neg": 9,
+          "pos": 1,
+          "neg": 4,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 7,
+          "label": "Warren Buffett's Investment Strategy",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 8,
+          "label": "US Airlines Face Engine Challenges",
+          "meta_category": "Aviation Industry Challenges",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "NetJets' first fatal crash kills influential Texas VC founder",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Michael Burry says he's tempted to bet against SpaceX, but passes",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 2,
+          "neg": 3,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 40.0,
+          "negative_pct": 60.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 7,
+      "neg": 7,
+      "neu": 1,
+      "total": 15,
+      "positive_pct": 46.7,
+      "negative_pct": 46.7,
+      "score": -0.009,
+      "categories": {
+        "Business": {
+          "pos": 7,
+          "neg": 6,
           "neu": 1
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 7,
+          "label": "Warren Buffett's Investment Strategy",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "score": -0.5,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 19,
+          "label": "Inflation and Monetary Policy",
+          "meta_category": "India's Economic Growth Concerns",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "NetJets' first fatal crash kills influential Texas VC founder",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Who are SpaceX's billionaire shareholders?",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "~"
+        },
+        {
+          "headline": "Sources: Anthropic’s Amodei, Google’s Hassabis call for U.S.-led AI coalition at G7",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 3,
+          "neg": 2,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 60.0,
+          "negative_pct": 40.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 2,
+          "neu": 1,
+          "total": 6,
+          "positive_pct": 50.0,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 0,
+          "neg": 3,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 17,
+      "neg": 13,
+      "neu": 2,
+      "total": 32,
+      "positive_pct": 53.1,
+      "negative_pct": 40.6,
+      "score": 0.014,
+      "categories": {
+        "Business": {
+          "pos": 14,
+          "neg": 11,
+          "neu": 2
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
         },
         "Legal": {
           "pos": 0,
@@ -26,19 +260,73 @@
           "pos": 1,
           "neg": 0,
           "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 3,
+          "neg": 7,
+          "neu": 2,
+          "total": 12,
+          "score": -0.333,
+          "positive_pct": 25.0,
+          "negative_pct": 58.3
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 30,
+          "label": "Global Tech Sector Volatility",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
       "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
         {
           "headline": "Amazon investigating engineers who criticized AI data center expansion",
           "date": "2026-06-17 00:00:00",
           "polarity": "-"
+        },
+        {
+          "headline": "Who are SpaceX's billionaire shareholders?",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
         },
         {
           "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
@@ -49,16 +337,6 @@
           "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
           "date": "2026-06-16 00:00:00",
           "polarity": "-"
-        },
-        {
-          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
@@ -74,64 +352,76 @@
         {
           "date": "2026-06-16",
           "pos": 11,
-          "neg": 2,
-          "neu": 0,
-          "total": 13,
-          "positive_pct": 84.6,
-          "negative_pct": 15.4
+          "neg": 3,
+          "neu": 1,
+          "total": 15,
+          "positive_pct": 73.3,
+          "negative_pct": 20.0
         },
         {
           "date": "2026-06-17",
-          "pos": 2,
+          "pos": 3,
           "neg": 7,
           "neu": 1,
-          "total": 10,
-          "positive_pct": 20.0,
-          "negative_pct": 70.0
+          "total": 11,
+          "positive_pct": 27.3,
+          "negative_pct": 63.6
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         }
       ]
     },
-    "SPCX": {
-      "name": "Space Exploration Technologies",
-      "pos": 21,
-      "neg": 25,
-      "neu": 1,
-      "total": 47,
-      "positive_pct": 44.7,
-      "negative_pct": 53.2,
-      "score": -0.456,
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 4,
+      "neg": 2,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": 0.438,
       "categories": {
-        "Performance": {
-          "pos": 3,
-          "neg": 7,
+        "Business": {
+          "pos": 2,
+          "neg": 2,
           "neu": 0
         },
-        "Business": {
-          "pos": 18,
-          "neg": 17,
-          "neu": 1
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
       "articles": [
         {
-          "headline": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Who are SpaceX's billionaire shareholders?",
           "date": "2026-06-17 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "California’s counting on an IPO tax windfall. The equation is complicated",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
-          "date": "2026-06-16 00:00:00",
           "polarity": "+"
         },
         {
@@ -140,9 +430,433 @@
           "polarity": "+"
         },
         {
-          "headline": "Technical factors are adding fuel to SpaceX's meme stock fire",
+          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "META": {
+      "name": "Meta Platforms",
+      "pos": 6,
+      "neg": 4,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 60.0,
+      "negative_pct": 40.0,
+      "score": 0.207,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 4,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "India's largest telecom and digital service Jio Platforms files for IPO",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
           "date": "2026-06-15 00:00:00",
           "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 3,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 25.0,
+          "negative_pct": 75.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "ORCL": {
+      "name": "Oracle",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 12,
+      "neg": 0,
+      "neu": 0,
+      "total": 12,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 10,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 15,
+          "label": "Global Electronics Supply Chain Disruptions",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 4,
+          "neg": 0,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "Space Exploration Technologies",
+      "pos": 40,
+      "neg": 29,
+      "neu": 1,
+      "total": 70,
+      "positive_pct": 57.1,
+      "negative_pct": 41.4,
+      "score": 0.463,
+      "categories": {
+        "Business": {
+          "pos": 34,
+          "neg": 19,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 6,
+          "neg": 9,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 30,
+          "neg": 17,
+          "neu": 0,
+          "total": 47,
+          "score": 0.277,
+          "positive_pct": 63.8,
+          "negative_pct": 36.2
+        },
+        {
+          "cluster_id": 30,
+          "label": "Global Tech Sector Volatility",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "score": 0.5,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The riskiest SpaceX stock trade of all had a big first week",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Who are SpaceX's billionaire shareholders?",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
         }
       ],
       "daily": [
@@ -166,12 +880,661 @@
         },
         {
           "date": "2026-06-17",
+          "pos": 18,
+          "neg": 6,
+          "neu": 0,
+          "total": 24,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "pos": 0,
+      "neg": 4,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 36,
+          "label": "Strait of Hormuz Oil Disruption",
+          "meta_category": "Middle East Geopolitics",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 19,
+          "label": "Inflation and Monetary Policy",
+          "meta_category": "India's Economic Growth Concerns",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AI buildout gives tech investors new reasons to watch bond market",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Fed Chair Warsh expected to withhold 'dot' from central bank's rate outlook",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-18",
           "pos": 0,
           "neg": 2,
           "neu": 0,
           "total": 2,
           "positive_pct": 0.0,
           "negative_pct": 100.0
+        }
+      ]
+    },
+    "KR": {
+      "name": "Kroger",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.245,
+      "categories": {
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "KHC": {
+      "name": "Kraft Heinz",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "GIS": {
+      "name": "General Mills",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "WMT": {
+      "name": "Walmart",
+      "pos": 0,
+      "neg": 3,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 16,
+          "label": "Media Companies Make Strategic Moves",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "TGT": {
+      "name": "Target",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.497,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ],
+      "articles": [
+        {
+          "headline": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "UAL": {
+      "name": "United Airlines",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "The budget airline model in the U.S. is running out of runway",
+          "date": "2026-06-18 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-18",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "pos": 5,
+      "neg": 2,
+      "neu": 0,
+      "total": 7,
+      "positive_pct": 71.4,
+      "negative_pct": 28.6,
+      "score": 0.419,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 4,
+          "neg": 1,
+          "neu": 0,
+          "total": 5,
+          "score": 0.6,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "The riskiest SpaceX stock trade of all had a big first week",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Who are SpaceX's billionaire shareholders?",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "California’s counting on an IPO tax windfall. The equation is complicated",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple",
+      "pos": 12,
+      "neg": 8,
+      "neu": 2,
+      "total": 22,
+      "positive_pct": 54.5,
+      "negative_pct": 36.4,
+      "score": 0.416,
+      "categories": {
+        "Business": {
+          "pos": 9,
+          "neg": 8,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 1
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Global Electronics Supply Chain Disruptions",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 6,
+          "neg": 4,
+          "neu": 1,
+          "total": 11,
+          "score": 0.182,
+          "positive_pct": 54.5,
+          "negative_pct": 36.4
+        },
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "What this biotech's volatile stock price tells you about the weight loss market right now",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 1,
+          "neu": 1,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 8,
+          "neg": 7,
+          "neu": 1,
+          "total": 16,
+          "positive_pct": 50.0,
+          "negative_pct": 43.8
         }
       ]
     },
@@ -196,7 +1559,32 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 4,
+          "label": "Prediction Markets Regulation",
+          "meta_category": "Financial Futures Regulation",
+          "pos": 1,
+          "neg": 1,
+          "neu": 1,
+          "total": 3,
+          "score": 0.0,
+          "positive_pct": 33.3,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ],
       "articles": [
         {
           "headline": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
@@ -244,6 +1632,281 @@
         }
       ]
     },
+    "LLY": {
+      "name": "Eli Lilly",
+      "pos": 1,
+      "neg": 3,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 75.0,
+      "score": -0.5,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 6,
+          "label": "GLP-1 Weight Loss Market Shift",
+          "meta_category": "Diabetes and Obesity Treatments",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ],
+      "articles": [
+        {
+          "headline": "What this biotech's volatile stock price tells you about the weight loss market right now",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-17",
+          "pos": 1,
+          "neg": 3,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 25.0,
+          "negative_pct": 75.0
+        }
+      ]
+    },
+    "DIS": {
+      "name": "Walt Disney",
+      "pos": 6,
+      "neg": 2,
+      "neu": 1,
+      "total": 9,
+      "positive_pct": 66.7,
+      "negative_pct": 22.2,
+      "score": 0.555,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 2,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 17,
+          "label": "Disney's Advertising and Media Strategy",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 4,
+          "neg": 2,
+          "neu": 1,
+          "total": 7,
+          "score": 0.286,
+          "positive_pct": 57.1,
+          "negative_pct": 28.6
+        },
+        {
+          "cluster_id": 16,
+          "label": "Media Companies Make Strategic Moves",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Bob Iger reflects on Shanghai Disneyland as it defies the Chinese pullback",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 4,
+          "neg": 2,
+          "neu": 1,
+          "total": 7,
+          "positive_pct": 57.1,
+          "negative_pct": 28.6
+        }
+      ]
+    },
+    "INTC": {
+      "name": "Intel",
+      "pos": 8,
+      "neg": 2,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 80.0,
+      "negative_pct": 20.0,
+      "score": 0.873,
+      "categories": {
+        "Business": {
+          "pos": 6,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "AI's Impact on Business",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
+          "date": "2026-06-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
+          "date": "2026-06-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "pos": 6,
+          "neg": 2,
+          "neu": 0,
+          "total": 8,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-06-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "ACN": {
+      "name": "Accenture",
+      "pos": 0,
+      "neg": 2,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 0.0,
+      "negative_pct": 100.0,
+      "score": -1.0,
+      "categories": {
+        "Business": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 30,
+          "label": "Global Tech Sector Volatility",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Indian IT stocks slump up to 7% as Accenture cuts revenue outlook, fueling fresh concerns over sector growth",
+          "date": "2026-06-17 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-17",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
     "CME": {
       "name": "CME Group",
       "pos": 2,
@@ -260,7 +1923,44 @@
           "neu": 2
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 19,
+          "label": "Inflation and Monetary Policy",
+          "meta_category": "India's Economic Growth Concerns",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 30,
+          "label": "Global Tech Sector Volatility",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
       "articles": [
         {
           "headline": "Fed holds rates steady, pares down statement to remove cutting bias",
@@ -304,141 +2004,6 @@
         }
       ]
     },
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 6,
-      "neg": 4,
-      "neu": 1,
-      "total": 11,
-      "positive_pct": 54.5,
-      "negative_pct": 36.4,
-      "score": 0.181,
-      "categories": {
-        "Business": {
-          "pos": 6,
-          "neg": 4,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Sources: Anthropic’s Amodei, Google’s Hassabis call for U.S.-led AI coalition at G7",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 3,
-          "neg": 2,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 60.0,
-          "negative_pct": 40.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 3,
-          "neg": 2,
-          "neu": 1,
-          "total": 6,
-          "positive_pct": 50.0,
-          "negative_pct": 33.3
-        }
-      ]
-    },
-    "NVDA": {
-      "name": "Nvidia",
-      "pos": 8,
-      "neg": 0,
-      "neu": 0,
-      "total": 8,
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "score": 1.0,
-      "categories": {
-        "Business": {
-          "pos": 7,
-          "neg": 0,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Amazon AI chief: Company has lagged OpenAI and Anthropic, but can catch up",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 4,
-          "neg": 0,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "KMX": {
       "name": "Carmax",
       "pos": 3,
@@ -460,7 +2025,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 1,
+          "label": "\"Disrupting Traditional Consumer Goods\"",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "score": 0.5,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        }
+      ],
       "articles": [
         {
           "headline": "CarMax shares fall after used car retailer reports earnings beats",
@@ -501,7 +2079,32 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 19,
+          "label": "Inflation and Monetary Policy",
+          "meta_category": "India's Economic Growth Concerns",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 27,
+          "label": "SpaceX's Record-Breaking IPO",
+          "meta_category": "Global Tech Market Turmoil",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
       "articles": [
         {
           "headline": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
@@ -540,272 +2143,6 @@
         }
       ]
     },
-    "TSLA": {
-      "name": "Tesla",
-      "pos": 2,
-      "neg": 2,
-      "neu": 0,
-      "total": 4,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": 0.0,
-      "categories": {
-        "Business": {
-          "pos": 2,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "California’s counting on an IPO tax windfall. The equation is complicated",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Veteran traders stunned as SpaceX fans bet on 80% overnight gains",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "INTC": {
-      "name": "Intel",
-      "pos": 7,
-      "neg": 2,
-      "neu": 0,
-      "total": 9,
-      "positive_pct": 77.8,
-      "negative_pct": 22.2,
-      "score": 0.781,
-      "categories": {
-        "Business": {
-          "pos": 5,
-          "neg": 1,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 6,
-          "neg": 2,
-          "neu": 0,
-          "total": 8,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "AAPL": {
-      "name": "Apple",
-      "pos": 4,
-      "neg": 1,
-      "neu": 1,
-      "total": 6,
-      "positive_pct": 66.7,
-      "negative_pct": 16.7,
-      "score": 0.672,
-      "categories": {
-        "Business": {
-          "pos": 4,
-          "neg": 1,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "The Fed decision, JetBlue's Florida plans and more: Morning Squawk",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 2,
-          "neg": 1,
-          "neu": 1,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "TGT": {
-      "name": "Target",
-      "pos": 1,
-      "neg": 2,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
-      "score": -0.333,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-16",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        }
-      ]
-    },
-    "WMT": {
-      "name": "Walmart",
-      "pos": 0,
-      "neg": 2,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "score": -1.0,
-      "categories": {
-        "Business": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
     "COST": {
       "name": "Costco Wholesale",
       "pos": 2,
@@ -822,7 +2159,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "\"AI and Global Tech Scrutiny\"",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
       "articles": [
         {
           "headline": "Target, Walmart among brands losing LGBTQ+ consumer spending, survey says",
@@ -837,176 +2187,6 @@
           "neg": 0,
           "neu": 0,
           "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "MSFT": {
-      "name": "Microsoft",
-      "pos": 2,
-      "neg": 1,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
-      "score": 0.438,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Amazon AI exec predicts first commercially useful quantum computers in 5-7 years",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "META": {
-      "name": "Meta Platforms",
-      "pos": 4,
-      "neg": 3,
-      "neu": 0,
-      "total": 7,
-      "positive_pct": 57.1,
-      "negative_pct": 42.9,
-      "score": 0.343,
-      "categories": {
-        "Business": {
-          "pos": 3,
-          "neg": 3,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Bonkers SpaceX stats that show how staggering the money movement has been",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 1,
-          "neg": 3,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 25.0,
-          "negative_pct": 75.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "NDAQ": {
-      "name": "Nasdaq",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.562,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
-          "date": "2026-06-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "0"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-06-16",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
@@ -1028,7 +2208,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 9,
+          "label": "Chinese EVs in the US Market",
+          "meta_category": "Artificial Intelligence and Tech",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
       "articles": [
         {
           "headline": "General Motors announces new defense partnership with Lockheed Martin",
@@ -1064,7 +2257,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 16,
+          "label": "Media Companies Make Strategic Moves",
+          "meta_category": "Transforming the Media Landscape",
+          "pos": 8,
+          "neg": 2,
+          "neu": 0,
+          "total": 10,
+          "score": 0.6,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0
+        }
+      ],
       "articles": [
         {
           "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
@@ -1081,42 +2287,6 @@
           "total": 10,
           "positive_pct": 80.0,
           "negative_pct": 20.0
-        }
-      ]
-    },
-    "DIS": {
-      "name": "Walt Disney",
-      "pos": 2,
-      "neg": 0,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "score": 1.0,
-      "categories": {
-        "Business": {
-          "pos": 2,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "How Roku fits into Fox's future â and what investors are missing about the dealÂ",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
         }
       ]
     },
@@ -1141,7 +2311,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 4,
+          "label": "Prediction Markets Regulation",
+          "meta_category": "Financial Futures Regulation",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        }
+      ],
       "articles": [
         {
           "headline": "Novig wins CFTC approval as competition intensifies in sports prediction markets",
@@ -1158,47 +2341,6 @@
           "total": 3,
           "positive_pct": 33.3,
           "negative_pct": 66.7
-        }
-      ]
-    },
-    "BRK-B": {
-      "name": "Berkshire Hathaway",
-      "pos": 0,
-      "neg": 2,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 0.0,
-      "negative_pct": 100.0,
-      "score": -1.0,
-      "categories": {
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [],
-      "articles": [
-        {
-          "headline": "Michael Burry says he's tempted to bet against SpaceX, but passes",
-          "date": "2026-06-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-06-15",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
         }
       ]
     }
