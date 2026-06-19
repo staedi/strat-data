@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-18T18:24:39.126541-04:00",
+  "updated_at": "2026-06-19T09:07:22.176467-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -66,11 +66,6 @@
               "count": 6
             },
             {
-              "ticker": "NYT",
-              "name": "New York Times",
-              "count": 1
-            },
-            {
               "ticker": "NFLX",
               "name": "Netflix",
               "count": 1
@@ -78,7 +73,6 @@
           ],
           "ticker_summary": {
             "DIS": "Disney's broadcast licenses for eight of its stations are subject to an early renewal process initiated by the FCC, which Disney objects to, citing an unlawful, arbitrary, and unconstitutional order.",
-            "NYT": "No direct connection between NYT's sales performance in 1999 and the topic of media mergers and regulatory scrutiny.",
             "NFLX": "Netflix's deal for WBD's streaming and film assets was upended."
           }
         },

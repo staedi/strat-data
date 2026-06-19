@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-18T18:28:45.431078-04:00",
+  "updated_at": "2026-06-19T09:09:37.326111-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -45,12 +45,12 @@
     },
     {
       "name": "Artificial Intelligence and Finance",
-      "count": 8,
+      "count": 4,
       "children": [
         {
           "cluster_id": 38,
           "name": "AI Industry Merges and IPOs",
-          "count": 4,
+          "count": 2,
           "children": [
             {
               "name": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
@@ -69,31 +69,10 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
-              "summary": "Palantir CEO Alex Karp said the artificial intelligence software company's enterprise customers are \"unhappy\" with how the frontier labs are operating. \"It's not just the man and w…",
-              "hash": "078c2407832297d7",
-              "chunk_key": "078c2407832297d7_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ",
-              "summary": "OpenAI is mulling sharp price cuts to its artificial intelligence offerings, as it looks to woo consumers away from rival Anthropic, the Wall Street Journal reported Wednesday even…",
-              "hash": "ca8290051249169f",
-              "chunk_key": "ca8290051249169f_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "PLTR": [
-              "Palantir CEO Alex Karp said the artificial intelligence software company's enterprise customers are \"unhappy\" with how the frontier labs are operating. \"It's not just the man and woman on the street that is unhappy with the frontier labs, it's in private, every single enterprise we deal with,\" he told CNBC's Sara Eisen on Wednesday.",
-              "In October, Palantir communications chief Lisa Gordon called the company's political shift \"concerning.\" Trump has also praised Palantir on Truth Social with the company's ticker symbol and invested in its stock .",
-              "Palantir is also among the list of donors to Trump's White House ballroom project, along with other tech giants.",
               "The PAC's backers include Andreessen Horowitz, OpenAI co-founder Greg Brockman , Palantir co-founder Joe Lonsdale , SV Angel founder Ron Conway and AI software company Perplexity. \"The PAC has raised over $125 million — not to make the case for their vision of AI policy, but, in my view, to intimidate politicians who appear to engage too aggressively with the question of how to govern AI,\" O'Farrell wrote in the op-ed, which was published in The New York Times ."
             ]
           },
@@ -101,100 +80,11 @@
             {
               "ticker": "PLTR",
               "name": "Palantir Technologies",
-              "count": 4
-            }
-          ],
-          "ticker_summary": {
-            "PLTR": "Palantir's enterprise customers are unhappy with the company's frontier labs, which may negatively impact its business."
-          }
-        },
-        {
-          "cluster_id": 33,
-          "name": "Artificial Intelligence Tokens Market",
-          "count": 2,
-          "children": [
-            {
-              "name": "Elon Musk addresses ASML employees as part of push into chip manufacturing",
-              "summary": "…manufacturers — Taiwan Semiconductor , Samsung and Intel — can't make leading edge chips for AI. EUV machines will be a necessity inside Terafab.",
-              "hash": "589dd5659981f215",
-              "chunk_key": "589dd5659981f215_c001",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Wall Street needs a crash course in tokens ahead of OpenAI and Anthropic IPOs",
-              "summary": "…a useful directional metric, but businesses ultimately care about impact and ROI,\" Breitenother said.",
-              "hash": "2f8f04fd22e62e6d",
-              "chunk_key": "2f8f04fd22e62e6d_c004",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "AMZN": [
-              "He covers companies including Amazon , Microsoft and Alphabet , which have sprinkled references to tokens into remarks on earnings calls in the past year."
-            ],
-            "GOOG": [
-              "SpaceX's AI division is a niche player in a market dominated by OpenAI, Anthropic and Google .",
-              "Consumers and corporate workers use them in Gemini products, and developers use them through Google's cloud infrastructure, which competes with Amazon Web Services and Microsoft Azure.",
-              "Google doesn't directly connect token use to revenue, but the company's cloud business is on a tear.",
-              "And SpaceX will need a growing number of chips for its data centers after signing recent deals to provide compute capacity to Google and Anthropic ."
-            ],
-            "MSFT": [
-              "He covers companies including Amazon , Microsoft and Alphabet , which have sprinkled references to tokens into remarks on earnings calls in the past year."
-            ],
-            "NVDA": [
-              "For the business models of OpenAI and Anthropic to work, the companies have to be able to generate enough revenue from token usage to pay for all the hardware and systems supplied by Nvidia, Cerebras and the cloud providers, and have enough money left over to pay for everything else."
-            ],
-            "SPCX": [
-              "SpaceX said in its prospectus that its operating success will come down to how effectively it uses its available computing power.",
-              "In defining the term, SpaceX said a token \"refers to the basic units of text or images processed and generated by an AI model, used to measure AI.\" Later in the filing, the company said a token \"represents the fundamental unit of data consumed and produced by modern AI models, for example corresponding to words, images, audio, or other modalities.",
-              "SpaceX's AI division is a niche player in a market dominated by OpenAI, Anthropic and Google .",
-              "Roughly 70% of SpaceX's first-quarter revenue came from its Starlink satellite internet business, and the company's space division accounted for another 13%.",
-              "Unlike OpenAI or Anthropic, SpaceX has its own massive data centers, with two running in the area in and around Memphis, Tennessee.",
-              "SpaceX describes its vertically integrated approach as \"shovels to tokens,\" saying it can \"train and iterate our frontier models at lower cost and higher velocity, accelerating development cycles, eliminating external bottlenecks, and driving rapid, continuous improvements in model performance.\" But whatever benefit the company sees from that strategy will have to come in the future.",
-              "For now, SpaceX is opting to lease data center capacity on top of using it for its own models.",
-              "SpaceX is renting out its capacity even as it offers Grok 4.3 at a much lower price — per million tokens of input and output — than flagship offerings from OpenAI and Anthropic.",
-              "It serves as the atomic unit through which models read, reason, and generate output.\" While SpaceX, which is slated to hit the Nasdaq on Friday, provides some discussion of tokens, they're not that significant to the company's financials .",
-              "Fortunately for Wall Street veterans, who wish to grasp the new digital economy, chipmaker Cerebras and rocket operator SpaceX , owner of xAI, published extensive commentary on tokens in their recent initial public offering filings.",
-              "And SpaceX will need a growing number of chips for its data centers after signing recent deals to provide compute capacity to Google and Anthropic ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "SPCX",
-              "name": "Space Exploration Technologies",
-              "count": 11
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 4
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "AMZN": "Amazon.com has sprinkled references to tokens into remarks on earnings calls in the past year.",
-            "GOOG": "Google's cloud infrastructure competes with Amazon Web Services and Microsoft Azure, and Alphabet's cloud business is on a tear.",
-            "MSFT": "Microsoft has sprinkled references to tokens into remarks on earnings calls in the past year.",
-            "NVDA": "Nvidia's revenue from token usage must be sufficient to cover hardware and system costs, as well as other expenses.",
-            "SPCX": "SpaceX's vertically integrated approach to AI development allows it to train and iterate models at lower cost and higher velocity, but for now, it is leasing data center capacity and renting out its own capacity to generate revenue."
+            "PLTR": "Palantir co-founder Joe Lonsdale is a backer of the PAC."
           }
         },
         {
@@ -214,52 +104,43 @@
           ]
         },
         {
-          "cluster_id": 31,
-          "name": "AI's Impact on Business",
+          "cluster_id": 33,
+          "name": "Artificial Intelligence Tokens Market",
           "count": 1,
           "children": [
             {
-              "name": "Nvidia, Amazon back humanoid robot company in up to $1.4 billion raise",
-              "summary": "U.S. tech giants have backed a German company in its latest fundraising round to develop its humanoid robotics tech.",
-              "hash": "83083d09f518540d",
-              "chunk_key": "83083d09f518540d_c000",
-              "article_date": "2026-06-09 00:00:00",
+              "name": "Elon Musk addresses ASML employees as part of push into chip manufacturing",
+              "summary": "…manufacturers — Taiwan Semiconductor , Samsung and Intel — can't make leading edge chips for AI. EUV machines will be a necessity inside Terafab.",
+              "hash": "589dd5659981f215",
+              "chunk_key": "589dd5659981f215_c001",
+              "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
             }
           ],
           "ticker_context": {
-            "AMZN": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            "GOOG": [
+              "And SpaceX will need a growing number of chips for its data centers after signing recent deals to provide compute capacity to Google and Anthropic ."
             ],
-            "NVDA": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
-            ],
-            "QCOM": [
-              "Neura Robotics' Series C financing, which is worth up to $1.4 billion, featured Tether, Qualcomm, Amazon and Nvidia, alongside European industrial companies Bosch and Schaeffler and the European Investment Bank."
+            "SPCX": [
+              "And SpaceX will need a growing number of chips for its data centers after signing recent deals to provide compute capacity to Google and Anthropic ."
             ]
           },
           "related_tickers": [
             {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
+              "ticker": "GOOG",
+              "name": "Alphabet",
               "count": 1
             },
             {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
-            },
-            {
-              "ticker": "QCOM",
-              "name": "Qualcomm",
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "AMZN": "Amazon.com is one of the investors in Neura Robotics' Series C financing.",
-            "NVDA": "Nvidia is one of the investors in Neura Robotics' Series C financing.",
-            "QCOM": "Qualcomm is one of the investors in Neura Robotics' Series C financing."
+            "GOOG": "Alphabet's growing need for chips for its data centers is driven by recent deals with Google and Anthropic.",
+            "SPCX": "SpaceX will need a growing number of chips for its data centers."
           }
         }
       ]
@@ -304,7 +185,7 @@
     },
     {
       "name": "Financial Markets and Regulation",
-      "count": 3,
+      "count": 2,
       "children": [
         {
           "cluster_id": 7,
@@ -362,33 +243,17 @@
             "AVAT": "AVAT's ownership of approximately 3.5% of the supply in circulation may be negatively impacted by the decline in the crypto market.",
             "COIN": "Coinbase Global earns trading fees on agent-executed trades and captures fees and spreads on USDC movement, and the launch of Coinbase for Agents enables AI agents to execute trades using natural language instructions."
           }
-        },
-        {
-          "cluster_id": 11,
-          "name": "Trump Family Crypto Scandal",
-          "count": 1,
-          "children": [
-            {
-              "name": "Company that bet big on Trump-backed crypto says its fortunes have improved",
-              "summary": "AI Financial Corp. , a publicly traded company that took heavy losses after making a billion-dollar bet on a cryptocurrency backed by the Trump family, said Wednesday that its outl…",
-              "hash": "402491e888873820",
-              "chunk_key": "402491e888873820_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ]
         }
       ]
     },
     {
       "name": "Global Market Uncertainty",
-      "count": 16,
+      "count": 12,
       "children": [
         {
           "cluster_id": 12,
           "name": "US Inflation Remains Elevated",
-          "count": 7,
+          "count": 6,
           "children": [
             {
               "name": "Call Kevin Warsh the Fed 'chairman'",
@@ -443,22 +308,13 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
-              "summary": "…The ECB now expects growth in the euro zone to average at 0.8% in 2026, 1.2% in 2027 and 1.5% in 2028.",
-              "hash": "c4cb17ee1a85bdaf",
-              "chunk_key": "c4cb17ee1a85bdaf_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ]
         },
         {
           "cluster_id": 25,
           "name": "Global Energy and Markets",
-          "count": 4,
+          "count": 2,
           "children": [
             {
               "name": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend",
@@ -477,174 +333,40 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Citigroup shares outperform down market after Trump endorsement",
-              "summary": "Citigroup outperformed the broad market as well as some other major bank stocks Wednesday after President Donald Trump lauded the bank and its CEO Jane Fraser in a social media pos…",
-              "hash": "9e399f2f972e3ed5",
-              "chunk_key": "9e399f2f972e3ed5_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "As gold's tumble continues, traders bet the pain may last for two more years",
-              "summary": "Turns out all that glitters is not gold. Selling in the precious metal just keeps getting worse, with the GLD ETF now down 25% from its intraday record in February.",
-              "hash": "2d4274a7c3435bd6",
-              "chunk_key": "2d4274a7c3435bd6_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
-            "BAC": [
-              "By contrast, Wells Fargo is down 12.1%, JPMorgan is lower by 4.1% and Bank of America is off 1% in 2026."
-            ],
-            "C": [
-              "By the end of the day, however, Citi fell 1%, still less than JPMorgan and Goldman Sachs and the S&P 500 .",
-              "While Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion this year, Citi was the lead on 97 deals worth $285.3 billion.",
-              "Citi advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026, according to Global Data Financial Deals Database.",
-              "Citigroup outperformed the broad market as well as some other major bank stocks Wednesday after President Donald Trump lauded the bank and its CEO Jane Fraser in a social media post.",
-              "So far in 2026, for example, Goldman Sachs, JPMorgan, Morgan Stanley and BofA Securities all rank ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic, a leading financial analytical platform.",
-              "Leon Kalvaria, Citigroup's global chair for banking, appeared on Fox Business News early Wednesday, where he was asked about Citi's position as the leading advisor on power sector deals.",
-              "Citigroup is in the midst of a multiyear turnaround under Fraser, involving streamlining business units, cutting jobs and focusing on high-margin markets and services.",
-              "In the long term, Citi remains bullish. \"While market participants struggle with the short-term outlook, which relies heavily on the Strait of Hormuz outcome, the consensus view remains constructive over the medium to long term on robust non-cyclical demand from increasing global geopolitical fragmentation, lingering sovereign debt and debasement concerns and sustaining central bank reserve diversification trend,\" Citi analysts said."
-            ],
-            "GS": [
-              "While Goldman Sachs was the lead advisor on 196 deals worth a combined $992.3 billion this year, Citi was the lead on 97 deals worth $285.3 billion.",
-              "So far in 2026, for example, Goldman Sachs, JPMorgan, Morgan Stanley and BofA Securities all rank ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic, a leading financial analytical platform.",
-              "By the end of the day, however, Citi fell 1%, still less than JPMorgan and Goldman Sachs and the S&P 500 ."
-            ],
-            "JPM": [
-              "By contrast, Wells Fargo is down 12.1%, JPMorgan is lower by 4.1% and Bank of America is off 1% in 2026.",
-              "So far in 2026, for example, Goldman Sachs, JPMorgan, Morgan Stanley and BofA Securities all rank ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic, a leading financial analytical platform.",
-              "By the end of the day, however, Citi fell 1%, still less than JPMorgan and Goldman Sachs and the S&P 500 .",
-              "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors."
-            ],
-            "MS": [
-              "So far in 2026, for example, Goldman Sachs, JPMorgan, Morgan Stanley and BofA Securities all rank ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic, a leading financial analytical platform."
-            ],
-            "WFC": [
-              "By contrast, Wells Fargo is down 12.1%, JPMorgan is lower by 4.1% and Bank of America is off 1% in 2026."
-            ],
             "CME": [
               "Traders are less sanguine, and are currently pricing in a 67% chance of a Fed rate hike by December, according to the CME Group's FedWatch tool ."
+            ],
+            "C": [
+              "In the long term, Citi remains bullish. \"While market participants struggle with the short-term outlook, which relies heavily on the Strait of Hormuz outcome, the consensus view remains constructive over the medium to long term on robust non-cyclical demand from increasing global geopolitical fragmentation, lingering sovereign debt and debasement concerns and sustaining central bank reserve diversification trend,\" Citi analysts said."
+            ],
+            "JPM": [
+              "JPMorgan sees a broad-based retreat of the \"debasement trade\" by retail and institutional investors."
             ]
           },
           "related_tickers": [
-            {
-              "ticker": "C",
-              "name": "Citigroup",
-              "count": 8
-            },
-            {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
-              "count": 4
-            },
-            {
-              "ticker": "GS",
-              "name": "Goldman Sachs Group",
-              "count": 3
-            },
-            {
-              "ticker": "BAC",
-              "name": "Bank of America",
-              "count": 1
-            },
-            {
-              "ticker": "MS",
-              "name": "Morgan Stanley",
-              "count": 1
-            },
-            {
-              "ticker": "WFC",
-              "name": "Wells Fargo",
-              "count": 1
-            },
             {
               "ticker": "CME",
               "name": "CME Group",
               "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
-            "C": "Citigroup advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026.",
-            "GS": "Goldman Sachs Group ranked ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic.",
-            "JPM": "JPMorgan Chase's stock price is lower by 4.1% in 2026.",
-            "MS": "Morgan Stanley ranks ahead of Citigroup in the latest Global M&A Advisor Ranking.",
-            "WFC": "Wells Fargo's 12.1% decline in 2026 is a significant drop compared to JPMorgan's 4.1% and Bank of America's 1%.",
-            "CME": "CME Group's FedWatch tool indicates a 67% chance of a Fed rate hike by December."
-          }
-        },
-        {
-          "cluster_id": 9,
-          "name": "Berkshire Hathaway's Strategic Acquisitions",
-          "count": 2,
-          "children": [
-            {
-              "name": "Oracle shares tumble 8% on increased capital raise, cash concerns",
-              "summary": "Oracle shares tumbled 8% after the software maker told investors to expect an additional $20 billion capital raise, while reporting negative free cash flow for the year.",
-              "hash": "0961a46d23311a2e",
-              "chunk_key": "0961a46d23311a2e_c000",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             },
             {
-              "name": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
-              "summary": "…negative free cash flow, with depreciation nearly doubling to $7.62 billion. Capital expenditures, at $55.66 billion, which were up 162%.",
-              "hash": "9ddd585ed21a7146",
-              "chunk_key": "9ddd585ed21a7146_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "BAC": [
-              "Bank of America analysts, who recommend buying Oracle shares, said over 50% of the remaining performance obligation comes from OpenAI."
-            ],
-            "ORCL": [
-              "The company's are partners in the Stargate project, an effort to develop AI infrastructure in the U.S. Oracle is looking to bring online almost one gigawatt worth of computing power in the current quarter, roughly the total for fiscal 2026, CEO Clay Magouyrk said on a conference call with analysts.",
-              "But Oracle's artificial intelligence buildout continues to weigh on the stock, as investors question whether the company's massive amount of spending will result in profit growth, after free cash flow in the last fiscal year came in at negative $23.7 billion.",
-              "For the fiscal fourth quarter, Oracle reported a beat on the top and bottom lines.",
-              "Oracle shares tumbled 8% after the software maker told investors to expect an additional $20 billion capital raise, while reporting negative free cash flow for the year.",
-              "Analysts polled by StreetAccount had been looking for $595.67 billion. \"Most of the RPO increase in both Q3 and Q4 were large scale AI contracts where the customer prepaid Oracle for the purchase of the GPUs, or the customer bought and supplied the GPUs to Oracle,\" the company said in the statement, using acronyms for remaining performance obligation and graphics processing units.",
-              "Oracle's net cash outlay for capital expenditures in fiscal 2027 will be around $70 billion, excluding $20 billion to $25 billion in prepayments from customers and timing impact, Maxson said.",
-              "Related Digital and Blackstone said they secured funding for a $16 billion Oracle data center site in Michigan.",
-              "During the quarter, Oracle hired Schneider Electric executive Hilary Maxson to be its new chief financial officer .",
-              "The company is looking to bring online almost one gigawatt worth of computing power in the current quarter, roughly the total for fiscal 2026, Oracle CEO Clay Magouyrk said on a conference call with analysts.",
-              "The two mechanisms lower the sum Oracle will need for data center construction, the company said.",
-              "Oracle's remaining performance obligation, including revenue that has not been recognized, reached $638 billion on May 31, up 363%."
-            ],
-            "BX": [
-              "Related Digital and Blackstone said they secured funding for a $16 billion Oracle data center site in Michigan."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "ORCL",
-              "name": "Oracle",
-              "count": 11
-            },
-            {
-              "ticker": "BAC",
-              "name": "Bank of America",
+              "ticker": "C",
+              "name": "Citigroup",
               "count": 1
             },
             {
-              "ticker": "BX",
-              "name": "Blackstone",
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "BAC": "Bank of America analysts' recommendation to buy Oracle shares is influenced by the significant performance obligation from OpenAI.",
-            "ORCL": "Oracle's massive spending on AI infrastructure and data center construction is expected to result in negative free cash flow for the year.",
-            "BX": "Blackstone secured funding for a $16 billion Oracle data center site in Michigan."
+            "CME": "CME Group's FedWatch tool indicates a 67% chance of a Fed rate hike by December.",
+            "C": "Citi's long-term outlook remains constructive due to robust non-cyclical demand.",
+            "JPM": "JPMorgan Chase expects a decline in the \"debasement trade\" due to a broad-based retreat by retail and institutional investors."
           }
         },
         {
@@ -691,6 +413,49 @@
           }
         },
         {
+          "cluster_id": 9,
+          "name": "Berkshire Hathaway's Strategic Acquisitions",
+          "count": 1,
+          "children": [
+            {
+              "name": "Oracle shares tumble 8% on increased capital raise, cash concerns",
+              "summary": "Oracle shares tumbled 8% after the software maker told investors to expect an additional $20 billion capital raise, while reporting negative free cash flow for the year.",
+              "hash": "0961a46d23311a2e",
+              "chunk_key": "0961a46d23311a2e_c000",
+              "article_date": "2026-06-10 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "BAC": [
+              "Bank of America analysts, who recommend buying Oracle shares, said over 50% of the remaining performance obligation comes from OpenAI."
+            ],
+            "ORCL": [
+              "Oracle shares tumbled 8% after the software maker told investors to expect an additional $20 billion capital raise, while reporting negative free cash flow for the year.",
+              "For the fiscal fourth quarter, Oracle reported a beat on the top and bottom lines.",
+              "But Oracle's artificial intelligence buildout continues to weigh on the stock, as investors question whether the company's massive amount of spending will result in profit growth, after free cash flow in the last fiscal year came in at negative $23.7 billion.",
+              "The company's are partners in the Stargate project, an effort to develop AI infrastructure in the U.S. Oracle is looking to bring online almost one gigawatt worth of computing power in the current quarter, roughly the total for fiscal 2026, CEO Clay Magouyrk said on a conference call with analysts."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 4
+            },
+            {
+              "ticker": "BAC",
+              "name": "Bank of America",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "BAC": "Bank of America analysts' recommendation to buy Oracle shares is influenced by the significant performance obligation from OpenAI.",
+            "ORCL": "Oracle's significant spending on artificial intelligence infrastructure may result in negative free cash flow."
+          }
+        },
+        {
           "cluster_id": 24,
           "name": "Liquidity Pressures in Private Markets",
           "count": 1,
@@ -725,12 +490,12 @@
     },
     {
       "name": "Politics and Government Corruption",
-      "count": 19,
+      "count": 12,
       "children": [
         {
           "cluster_id": 22,
           "name": "US-Iran Tensions Over Oil",
-          "count": 11,
+          "count": 7,
           "children": [
             {
               "name": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
@@ -794,50 +559,11 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Trump says U.S. secretly moved more than 100 million barrels of oil through Hormuz",
-              "summary": "JPMorgan said last week that more oil might be moving through Hormuz than was publicly visible.",
-              "hash": "96e23f403889f154",
-              "chunk_key": "96e23f403889f154_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump pledges more Iran strikes, U.S. will be 'attacking them very hard'",
-              "summary": "Social that Iran had taken too long to negotiate and would \" pay the price \" amid escalating military tensions between Washington and Tehran. \"Iran's Military is a complete and tot…",
-              "hash": "1038bb55dc21ae44",
-              "chunk_key": "1038bb55dc21ae44_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump keeps saying an Iran deal is close. Markets keep believing it",
-              "summary": "Peter Boockvar, chief investment officer at One Point BFG Wealth Partners, told CNBC. \"I still think it's grabbing onto that hope.\" The White House did not immediately respond to C…",
-              "hash": "f67e1f3ebd1fe8e4",
-              "chunk_key": "f67e1f3ebd1fe8e4_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump says 'I love the inflation' after consumer price index hits 3-year high",
-              "summary": "…said. \"That's why oil is at $85 a barrel.\" \"We've been taking out millions of barrels of oil, millions of barrels every night,\" Trump said.",
-              "hash": "7dc176b2fc73bfc9",
-              "chunk_key": "7dc176b2fc73bfc9_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "IVZ": [
               "Instead, markets are repricing the cost of capital in a world of elevated geopolitical uncertainty. \"A prolonged war ends the era of buying everything and being rewarded,\" he said. \"With energy costs and the real cost of capital both rising, earnings hurdles move higher across the board.\" Benjamin Jones, global head of research at Invesco, said the firm's base case remains a \"status quo\" scenario characterized by intermittent strikes rather than an all-out war."
-            ],
-            "JPM": [
-              "The bank estimated around 2 million barrels per day might be getting out on tankers that switched off their transponders. \"Despite the ongoing naval blockade and the steep decline in commercial traffic, surprising volumes of crude and petroleum products still appear to be transiting the Strait,\" the JPMorgan analysts said in a June 4 note."
             ],
             "TSLA": [
               "Iranian state media reported earlier Thursday that Elon Musk 's companies in the Middle East, including SpaceX's Starlink internet service, would be viewed as military targets."
@@ -847,11 +573,6 @@
             ]
           },
           "related_tickers": [
-            {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
-              "count": 1
-            },
             {
               "ticker": "TSLA",
               "name": "Tesla",
@@ -864,121 +585,9 @@
             }
           ],
           "ticker_summary": {
-            "JPM": "JPMorgan Chase analysts estimated around 2 million barrels per day might be getting out on tankers that switched off their transponders.",
             "TSLA": "Starlink internet service is a business operated by SpaceX, which is owned by Elon Musk.",
             "SPCX": "SpaceX's Starlink internet service would be viewed as a military target by Iranian state media."
           }
-        },
-        {
-          "cluster_id": 10,
-          "name": "Record Political Advertising Spending",
-          "count": 2,
-          "children": [
-            {
-              "name": "Elections advertising spend for 2026 expected to reach record high: AdImpact",
-              "summary": "…key revenue driver for media companies, with sports, live events and news attracting the most spending.",
-              "hash": "a0757f87b8115045",
-              "chunk_key": "a0757f87b8115045_c001",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump says 'I love the inflation' after consumer price index hits 3-year high",
-              "summary": "Trump in May raised eyebrows when he told reporters, \"I don't think about Americans' financial situation\" as he argued that his focus in the war on Iran was ensuring that the Islam…",
-              "hash": "7dc176b2fc73bfc9",
-              "chunk_key": "7dc176b2fc73bfc9_c002",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "META": [
-              "Politicians are also relying more heavily on digital spending across platforms like Facebook , Google , Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact."
-            ],
-            "GOOG": [
-              "Politicians are also relying more heavily on digital spending across platforms like Facebook , Google , Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "META": "Meta Platforms is expected to receive a significant portion of $1.6 billion in political advertising spending across its platforms.",
-            "GOOG": "Alphabet's digital platforms, including Google, are expected to receive $1.6 billion in political advertising spending."
-          }
-        },
-        {
-          "cluster_id": 18,
-          "name": "Trump's Intelligence Director Nominee",
-          "count": 2,
-          "children": [
-            {
-              "name": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
-              "summary": "Central Intelligence Agency and the National Security Agency.",
-              "hash": "c8b77b43d60f6108",
-              "chunk_key": "c8b77b43d60f6108_c001",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump doubles down on Pulte for DNI, calls for surveillance law extension",
-              "summary": "Pulte is Trump's pick for DNI, making the odds of a short-term patch unlikely. The Senate would also have to approve the FISA extension before its June 12 expiration.",
-              "hash": "ff4fb098d996f26e",
-              "chunk_key": "ff4fb098d996f26e_c001",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "JEF": [
-              "He wouldn't say whether he would encourage fellow Democrats to vote against the measure. \"Many of the national security Democrats who have historically been supportive of continuing the surveillance authority as it currently exists have deep skepticism about moving forward with even a short-term extension as long as Bill Pulte is on track to be the acting director of national intelligence,\" Jeffries said."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "JEF",
-              "name": "Jefferies Financial Group",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "cluster_id": 20,
-          "name": "Immigration Enforcement Funding Package",
-          "count": 2,
-          "children": [
-            {
-              "name": "Trump administration appeals ruling blocking $100,000 H-1B fee",
-              "summary": "The Trump administration said Thursday it will appeal a federal judge's ruling striking down President Donald Trump's $100,000 fee on H-1B visa applications in its effort to hike t…",
-              "hash": "bfcc0a3e0b14120a",
-              "chunk_key": "bfcc0a3e0b14120a_c000",
-              "article_date": "2026-06-10 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump signs $70 billion immigration funding bill after months of delay",
-              "summary": "President Donald Trump on Wednesday signed a $70 billion bill to fund immigration enforcement agencies through the end of his term.",
-              "hash": "23c8e64ed9c882c5",
-              "chunk_key": "23c8e64ed9c882c5_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ]
         },
         {
           "cluster_id": 21,
@@ -1020,55 +629,89 @@
           "ticker_summary": {
             "COO": "Cooper's rejection of the name change request for the Kennedy Center is contingent on the outcome of the appeal."
           }
-        }
-      ]
-    },
-    {
-      "name": "South American Parasite Crisis",
-      "count": 1,
-      "children": [
+        },
         {
-          "cluster_id": 15,
-          "name": "New World Screwworm Outbreak",
+          "cluster_id": 10,
+          "name": "Record Political Advertising Spending",
           "count": 1,
           "children": [
             {
-              "name": "Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
-              "summary": "…movement under the open borders policy, the cartels, etc., border security, that's when it began to make its way back up toward America.\" Last September, however, Rollins was more …",
-              "hash": "b045b8d8083f79bf",
-              "chunk_key": "b045b8d8083f79bf_c001",
-              "article_date": "2026-06-09 00:00:00",
+              "name": "Elections advertising spend for 2026 expected to reach record high: AdImpact",
+              "summary": "…key revenue driver for media companies, with sports, live events and news attracting the most spending.",
+              "hash": "a0757f87b8115045",
+              "chunk_key": "a0757f87b8115045_c001",
+              "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
             }
           ],
           "ticker_context": {
-            "ROL": [
-              "Since screwworm was detected in Texas last week, Rollins has hit the airwaves to reassure the U.S. public that the U.S. Department of Agriculture is ahead of the infestation and that it does not pose a risk to the food system.",
-              "This is not a virus, it's not a disease, it's just a little pest, a larvae that lands in a calf's wound, for example, and it can be treated,\" she said on CNBC Monday . \"Under the last administration with the massive movement under the open borders policy, the cartels, etc., border security, that's when it began to make its way back up toward America.\" Last September, however, Rollins was more forthcoming about the threat posed by the screwworm in an appearance on Fox News ."
+            "META": [
+              "Politicians are also relying more heavily on digital spending across platforms like Facebook , Google , Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact."
+            ],
+            "GOOG": [
+              "Politicians are also relying more heavily on digital spending across platforms like Facebook , Google , Snapchat and X, expected to spend $1.6 billion in that category during the cycle, according to AdImpact."
             ]
           },
           "related_tickers": [
             {
-              "ticker": "ROL",
-              "name": "Rollins",
-              "count": 2
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
             }
           ],
           "ticker_summary": {
-            "ROL": "Rollins' reassurance to the U.S. public about the screwworm outbreak may be perceived as inconsistent with its previous more forthcoming statement about the threat posed by the screwworm."
+            "META": "Meta Platforms is expected to receive a significant portion of $1.6 billion in political advertising spending across its platforms.",
+            "GOOG": "Alphabet's digital platforms, including Google, are expected to receive $1.6 billion in political advertising spending."
           }
+        },
+        {
+          "cluster_id": 18,
+          "name": "Trump's Intelligence Director Nominee",
+          "count": 1,
+          "children": [
+            {
+              "name": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
+              "summary": "Central Intelligence Agency and the National Security Agency.",
+              "hash": "c8b77b43d60f6108",
+              "chunk_key": "c8b77b43d60f6108_c001",
+              "article_date": "2026-06-10 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 20,
+          "name": "Immigration Enforcement Funding Package",
+          "count": 1,
+          "children": [
+            {
+              "name": "Trump administration appeals ruling blocking $100,000 H-1B fee",
+              "summary": "The Trump administration said Thursday it will appeal a federal judge's ruling striking down President Donald Trump's $100,000 fee on H-1B visa applications in its effort to hike t…",
+              "hash": "bfcc0a3e0b14120a",
+              "chunk_key": "bfcc0a3e0b14120a_c000",
+              "article_date": "2026-06-10 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
         }
       ]
     },
     {
       "name": "SpaceX's Historic IPO",
-      "count": 21,
+      "count": 18,
       "children": [
         {
           "cluster_id": 34,
           "name": "SpaceX's Record-Breaking IPO",
-          "count": 14,
+          "count": 12,
           "children": [
             {
               "name": "SpaceX market cap tops $2 trillion after shares gain 19% on debut",
@@ -1177,24 +820,6 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "NC treasurer passes on SpaceX citing valuation, favors OpenAI, Anthropic",
-              "summary": "North Carolina state Treasurer Brad Briner said the year's hottest IPO is too expensive for his pension fund to own.",
-              "hash": "4495629a14599430",
-              "chunk_key": "4495629a14599430_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Sen. Warren calls on SEC to delay SpaceX IPO",
-              "summary": "Elizabeth Warren , D-Mass., called for the Securities and Exchange Commission to delay SpaceX 's upcoming initial public offering, citing concerns about the rocket maker's valuatio…",
-              "hash": "3f48c8de2027650b",
-              "chunk_key": "3f48c8de2027650b_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -1216,43 +841,38 @@
               "Goldman Sachs is the lead banker for the offering, followed by Morgan Stanley, Bank of America, Citigroup and JPMorgan Chase."
             ],
             "SPCX": [
-              "New issuers would typically offer a price range that allows a company and its advisers to gauge demand sensitivity at different levels, but SpaceX took a take-it-or-leave-it approach after a slew of testing-the-waters meetings leading up to the roadshow launch.",
               "Some of the IPO drama was removed last week, when SpaceX set a fixed price of $135 a share.",
+              "New issuers would typically offer a price range that allows a company and its advisers to gauge demand sensitivity at different levels, but SpaceX took a take-it-or-leave-it approach after a slew of testing-the-waters meetings leading up to the roadshow launch.",
               "SpaceX said in its IPO filing that capital expenditures in the first quarter reached $10.1 billion, more than doubling from a year earlier.",
               "In addition to its space business, Musk's company owns the Starlink satellite internet service, which accounts for the bulk of its revenue and is the only profitable unit, and artificial intelligence division xAI, which merged with SpaceX in February.",
+              "SpaceX said in its prospectus that revenue increased 15% to $4.69 billion in the first quarter from $4.07 billion a year earlier.",
               "His stake in SpaceX is worth $866.5 billion, adding to his Tesla holdings that are valued at about $320 billion, not including some options.",
               "Musk controls over 82% of voting power at SpaceX, giving him virtually complete control over the board.",
-              "SpaceX said in its prospectus that revenue increased 15% to $4.69 billion in the first quarter from $4.07 billion a year earlier.",
               "Betting on SpaceX at this price is largely a wager on Musk, as the company is burning cash and is far smaller by revenue than any of its trillion-dollar peers.",
-              "The deal values SpaceX at $1.77 trillion, making it the seventh most-valuable U.S. company, ahead of Tesla , Musk's electric vehicle maker.",
               "Horan called it the \"only vertically-integrated AI company with the required capital, data, LLMs, hardware, manufacturing and engineering talent,\" and said \"its space infrastructure appears structurally advantaged.\" Meanwhile, New Street Research initiated coverage with a $165 price target, and said it views xAI as a $575 billion business, \"relative to expectations for OpenAI and Anthropic.\" While SpaceX's IPO is roughly three times the size of the largest U.S. IPO in history, it could be challenged by what's to come.",
+              "The deal values SpaceX at $1.77 trillion, making it the seventh most-valuable U.S. company, ahead of Tesla , Musk's electric vehicle maker.",
               "SpaceX is set to debut on the Nasdaq on Friday, and traders on the prediction market platform Polymarket are confident shares will pop.",
               "There's an 84% chance that SpaceX will close above $1.8 trillion in market cap, according to Polymarket traders.",
               "Based on an expected initial market cap of $1.77 trillion, a capitalization of roughly $2 trillion would equate to a 13% rally in SpaceX Friday.",
               "Traders are more skeptical that SpaceX will close with a market value above $2.2 trillion, giving it less than a 50-50 chance.",
               "Even at the expected initial valuation of $1.77 trillion, SpaceX would prove larger than Musk's electric vehicle flagship.",
               "The SpaceX PAC is funded by company employees and executives, not corporate treasury money.",
-              "SpaceX's public debut comes as Musk and his companies have become increasingly important players in Republican politics and federal contracting.",
               "Lisa McClain, one of the House GOP's top leaders, has a family investment poised to benefit from SpaceX's record public debut after her husband bought as much as $250,000 in Elon Musk's artificial intelligence company xAI before it was folded into the rocket maker.",
               "The investment became tied to SpaceX in February, when Musk folded his xAI startup into the rocket and satellite company.",
               "SpaceX opened its IPO at $150 a share , raising around $75 billion and pushing the company's market cap over $2 trillion .",
-              "With SpaceX opening on the Nasdaq at $150 a share Friday, the CEO of SpaceX and Tesla now has a stake in SpaceX that's worth more than $766 billion.",
+              "SpaceX's public debut comes as Musk and his companies have become increasingly important players in Republican politics and federal contracting.",
               "Along with creating the world's first trillionaire, the SpaceX IPO also minted thousands of new millionaires and several new billionaires among the employees and executives who own stock.",
-              "Elizabeth Warren , D-Mass., called for the Securities and Exchange Commission to delay SpaceX 's upcoming initial public offering, citing concerns about the rocket maker's valuation and corporate governance in a letter shared with CNBC. \"Given the unprecedented threats to investor protection and market integrity posed by the biggest IPO in history, you must delay any eventual acceleration of the registration statement's effectiveness accordingly,\" Warren wrote to the market regulator on Tuesday.",
-              "In the 12-page letter, Warren flagged the potential for \"inaccurate or misleading accounting or valuation\" around SpaceX's acquisition of Elon Musk -owned xAI, conflicts of interest surrounding Musk's \"uniquely unchecked\" power as its majority shareholder, and that fast-tracking the company into major stock market indexes would carry \"significant risks\" for both active and passive investors.",
-              "Briner's comments underscore a growing debate among institutional investors as SpaceX prepares for what is expected to be one of the largest initial public offerings in history.",
-              "Briner, who oversees roughly $200 billion for North Carolina's teachers, firefighters and police officers, said the state has invested heavily in artificial intelligence startups OpenAI and Anthropic while avoiding a direct stake in SpaceX — expected to go public Friday — because of concerns that the Elon Musk -led company's $1.77 trillion valuation leaves little room for future gains. \"There's been a pricing issue that we've been concerned about for the last year or so with SpaceX,\" Briner said on CNBC's \" Squawk Box \" on Wednesday. \"Elon Musk, an amazing entrepreneur, incredible technology to launch business, startling, etc.",
-              "North Carolina invested about $40 million in OpenAI and committed roughly $250 million to Anthropic earlier this year, a position he said is now worth more than $600 million. \"We saw an opportunity in Anthropic which we thought was completely mispriced earlier this year,\" Briner said. \"If you use that technology, you see how powerful it is.\" Rather than buying SpaceX shares in the private market, Briner said North Carolina's pension system expects to gain exposure through index funds once the company goes public. \"We will ultimately participate in SpaceX through our index positions in our public equity,\" he said, \"but we don't have any on the private side.\" SpaceX didn't immediately respond to CNBC's email asking for comment.",
-              "The electric vehicle maker — which is a top stock among retail investors — is worth less than SpaceX by market cap.",
-              "Still, SpaceX was the most-bought stock by retail traders on net in Friday's trading, data from VandaTrack shows.",
+              "With SpaceX opening on the Nasdaq at $150 a share Friday, the CEO of SpaceX and Tesla now has a stake in SpaceX that's worth more than $766 billion.",
               "SpaceX shares soared on Friday , propelling the rocket company's valuation above $2 trillion, as trading commenced on the Nasdaq after a record-setting initial public offering.",
               "Goldman Sachs climbed more than 2% in Friday's session, with traders applauding its role as lead-left bookrunner on the SpaceX transaction.",
               "But shares of space industry stocks tumbled as investors shifted focus to SpaceX.",
+              "The electric vehicle maker — which is a top stock among retail investors — is worth less than SpaceX by market cap.",
+              "Still, SpaceX was the most-bought stock by retail traders on net in Friday's trading, data from VandaTrack shows.",
               "Haynes added it could be longer than a year, \"much longer,' he said, before S&P 500 investors get exposure to SpaceX because the index committee also maintained its \"profitability test\" for stocks, which could exacerbate any performance issues between the S&P 500 and other popular U.S. benchmarks.",
               "SpaceX was valued at $1.77 trillion valuation in the IPO, but it remains a high-risk investment with a net loss in the latest quarter of $4.28 billion.",
               "They can be expected to face the same scrutiny from the S&P 500 that SpaceX just did.",
-              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes.",
               "Warren also detailed changes, or proposed changes the indexes had considered, including fast-tracking newly listed stocks into top indexes. \"The changes to your index rules to accommodate these large companies, however, have the potential to destabilize markets and create significant risks for American investors, especially retirees and other individuals that rely on index funds for their savings.\" SpaceX is set to begin trading on Friday and is poised to be one of the largest public offerings in history, with the company valued around $1.8 trillion.",
+              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes.",
               "Starlink has 9,600 satellites in low Earth orbit, serving customers in 164 countries and territories, SpaceX said in its IPO filing.",
               "As investors line up to buy SpaceX stock in the largest IPO on record, about the only real business they have to evaluate is Starlink , the company's satellite internet division.",
               "It's by far the biggest by revenue, the only piece of the company that's profitable, and it boasts a dominant market position, with consumer broadband customers more than doubling over the past year to 10.3 million, SpaceX says.",
@@ -1262,19 +882,19 @@
               "SpaceX CFO Bret Johnsen said during the investor roadshow that \"10 million customers can become hundreds of millions of customers around the world in time, because it's so much more efficient to deliver to so many different locations from space than it is terrestrially.\" Johnsen also said SpaceX plans to bring 5G-equivalent service to consumer devices within two years.",
               "Based on the figures SpaceX is putting out now, average revenue per using is dropping.",
               "The cost of producing Starlink terminals also remains a challenge for SpaceX as the company scales.",
-              "Anthropic has agreed to pay the company $1.25 billion per month through May 2029, while Google has committed to give SpaceX $920 million a month for 32 months.",
-              "He requested 2,500 shares on Charles Schwab, stressing that his decision on whether he will move forward with the investment in the SpaceX IPO is dependent on just how much they give him. \"If they say, 'We got them, here, you can have all of them,' I'm going to say, 'No thanks,' because that's going to tell me that there's an abundance of supply,\" he said. \"If they say, 'We could only get you 1,000 shares or 2,000,' then I'll probably take them, because that tells me there's a lot of demand, and that indicates more likely that at the IPO it will open higher, and we'll still see more demand.\" If he were to invest, it wouldn't be for long anyways before he'd exit.",
-              "Instead, he hopes to capitalize on what he expects will be a powerful first-day rally and then move on. \"With SpaceX and what Elon is doing, this is like a beautiful symphony of all the right trigger meme words,\" he said. \"I think this has got pretty good potential to pop strong the first day.",
-              "He's already skeptical about the IPO price, saying, \"We are buying at the very highest price it has ever traded, and that kind of defines dumb money.\" With the retail allocation being the \"biggest wild card,\" he believes he'll have a better chance to secure a \"good\" risk-to-reward ratio after evaluating the stock's movement over six months and once the lock-up period has ended. \"My feeling on SpaceX is to trade it and not to marry it yet to give it a chance to sell off, let all the insiders cash out, and then see where it finds support,\" Cameron said. \"Then, maybe there's something to work with.\" Helaine Markham sees opportunity well past that point.",
               "Follow CNBC's live updates on the SpaceX (SPCX) IPO SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion.",
+              "He requested 2,500 shares on Charles Schwab, stressing that his decision on whether he will move forward with the investment in the SpaceX IPO is dependent on just how much they give him. \"If they say, 'We got them, here, you can have all of them,' I'm going to say, 'No thanks,' because that's going to tell me that there's an abundance of supply,\" he said. \"If they say, 'We could only get you 1,000 shares or 2,000,' then I'll probably take them, because that tells me there's a lot of demand, and that indicates more likely that at the IPO it will open higher, and we'll still see more demand.\" If he were to invest, it wouldn't be for long anyways before he'd exit.",
+              "Instead, they were disrupted by SpaceX's Starlink satellite internet network. \"I was long a lot of those names and ended up being completely wrong because Elon was able to execute,\" Chen said. \"I've been wrong before betting against Elon, and I don't think that he'll be wrong when it comes to executing in space, he's obviously been tremendously successful.\" Now, as SpaceX prepares for its highly anticipated public debut, Chen is taking the opposite side of the trade.",
+              "Instead, he hopes to capitalize on what he expects will be a powerful first-day rally and then move on. \"With SpaceX and what Elon is doing, this is like a beautiful symphony of all the right trigger meme words,\" he said. \"I think this has got pretty good potential to pop strong the first day.",
+              "SpaceX has been one of the most discussed names on Reddit's WallStreetBets forum in the days leading up to the IPO, with more than 1,600 mentions since Monday, according to Breakout Point.",
               "Since Elon Musk founded SpaceX in 2002, the company has grown into a conglomerate, comprising not just its business in reusable rockets but also satellite internet service Starlink and xAI.",
               "The portfolio manager estimates that SpaceX could reach $200 billion in revenue by 2030 – a forecast he deems \"conservative.\" With all the optimism surrounding the IPO – and the odds that Musk could be the world's first trillionaire – retail investor Mikey Moran has a fear of missing out just like other investors.",
-              "SpaceX has been one of the most discussed names on Reddit's WallStreetBets forum in the days leading up to the IPO, with more than 1,600 mentions since Monday, according to Breakout Point.",
-              "Instead, they were disrupted by SpaceX's Starlink satellite internet network. \"I was long a lot of those names and ended up being completely wrong because Elon was able to execute,\" Chen said. \"I've been wrong before betting against Elon, and I don't think that he'll be wrong when it comes to executing in space, he's obviously been tremendously successful.\" Now, as SpaceX prepares for its highly anticipated public debut, Chen is taking the opposite side of the trade.",
               "With the addition of the Google deal disclosed during SpaceX's roadshow last week, the company more than doubled its revenue projections for 2026, Monaghan said. \"I've never seen anything like it,\" he continued.",
+              "He's already skeptical about the IPO price, saying, \"We are buying at the very highest price it has ever traded, and that kind of defines dumb money.\" With the retail allocation being the \"biggest wild card,\" he believes he'll have a better chance to secure a \"good\" risk-to-reward ratio after evaluating the stock's movement over six months and once the lock-up period has ended. \"My feeling on SpaceX is to trade it and not to marry it yet to give it a chance to sell off, let all the insiders cash out, and then see where it finds support,\" Cameron said. \"Then, maybe there's something to work with.\" Helaine Markham sees opportunity well past that point.",
+              "Anthropic has agreed to pay the company $1.25 billion per month through May 2029, while Google has committed to give SpaceX $920 million a month for 32 months.",
               "With its IPO, Musk's net worth could move past $1 trillion . \"Elon gets this premium multiple because he has this vision of what's going to happen in the future,\" said Michael Monaghan, portfolio manager at Founder ETFs, a firm that tracks 100 founder-led U.S.-listed companies through the actively managed Founders 100 ETF (FFF) . \"He builds it faster than anyone else,\" he continued, before later saying, \"You just can't model that in a traditional valuation framework.\" His remarks come as SpaceX has secured key compute deals with Anthropic and Google in recent weeks.",
-              "In February, he merged SpaceX with xAI, his artificial intelligence startup, in a deal that valued the combined company at $1.25 trillion.",
               "SpaceX's market cap opened above $2 trillion, making it the sixth most valuable U.S. company, ahead of Tesla. \"There's a convergence of what we're all trying to accomplish in the future, but right now I'm focused on keeping the lights on here,\" Shotwell said.",
+              "In February, he merged SpaceX with xAI, his artificial intelligence startup, in a deal that valued the combined company at $1.25 trillion.",
               "The main reason for that deal, he said at the time, is to better build \"orbital data centers.\" The transaction brought to SpaceX data centers as well as Grok's AI models, AI chatbot and image generator.",
               "The better way to understand SpaceX may be as private geopolitical infrastructure: A company with products that are embedded in how governments, militaries, airlines, remote communities and AI workloads operate.",
               "In its IPO filing, SpaceX said it was the primary launch provider for the U.S. government in 2025, launching 11 of 12 National Security Space Launch medium and heavy-lift missions and all five U.S. crew and cargo missions to the International Space Station for NASA.",
@@ -1304,23 +924,22 @@
             ],
             "GOOG": [
               "Page is followed by a second Google co-founder, Sergey Brin; Bezos, and Oracle founder Larry Ellison, each worth more than $200 billion as of Friday, according to Forbes.",
+              "With the addition of the Google deal disclosed during SpaceX's roadshow last week, the company more than doubled its revenue projections for 2026, Monaghan said. \"I've never seen anything like it,\" he continued.",
               "Anthropic has agreed to pay the company $1.25 billion per month through May 2029, while Google has committed to give SpaceX $920 million a month for 32 months.",
-              "With its IPO, Musk's net worth could move past $1 trillion . \"Elon gets this premium multiple because he has this vision of what's going to happen in the future,\" said Michael Monaghan, portfolio manager at Founder ETFs, a firm that tracks 100 founder-led U.S.-listed companies through the actively managed Founders 100 ETF (FFF) . \"He builds it faster than anyone else,\" he continued, before later saying, \"You just can't model that in a traditional valuation framework.\" His remarks come as SpaceX has secured key compute deals with Anthropic and Google in recent weeks.",
-              "With the addition of the Google deal disclosed during SpaceX's roadshow last week, the company more than doubled its revenue projections for 2026, Monaghan said. \"I've never seen anything like it,\" he continued."
-            ],
-            "TSLA": [
-              "In the 12-page letter, Warren flagged the potential for \"inaccurate or misleading accounting or valuation\" around SpaceX's acquisition of Elon Musk -owned xAI, conflicts of interest surrounding Musk's \"uniquely unchecked\" power as its majority shareholder, and that fast-tracking the company into major stock market indexes would carry \"significant risks\" for both active and passive investors.",
-              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes.",
-              "This time around, the Atlanta-based entrepreneur said Musk himself was a primary reason for wanting to get into the trade, describing him as someone who \"makes it happen.\" \"It's hard to bet against Elon Musk in whatever he does,\" Moran told CNBC. \"It's really hard to dispute that [Musk] is not the greatest entrepreneur of all time.\" Andrew Chen learned the hard way not to bet against Elon Musk.",
-              "The 51-year-old regional director of operations in veterinary care believes Elon Musk's rocket company is coming public at a valuation that is \"really, really aggressive.\" Yet, he still requested 1,000 shares through Robinhood , betting enthusiasm for one of the world's most anticipated initial public offerings will overwhelm concerns about price.",
-              "Elon Musk' s space firm isn't just a rocket company, or satellite internet company, or traditional defense contractor.",
-              "The Elon Musk -led company plans to direct a percentage in the low 20s of the offering to retail buyers, including international individual investors, online brokerages and private-bank clients, the person said."
+              "With its IPO, Musk's net worth could move past $1 trillion . \"Elon gets this premium multiple because he has this vision of what's going to happen in the future,\" said Michael Monaghan, portfolio manager at Founder ETFs, a firm that tracks 100 founder-led U.S.-listed companies through the actively managed Founders 100 ETF (FFF) . \"He builds it faster than anyone else,\" he continued, before later saying, \"You just can't model that in a traditional valuation framework.\" His remarks come as SpaceX has secured key compute deals with Anthropic and Google in recent weeks."
             ],
             "RKLB": [
               "Redwire and Rocket Lab slid more than 11% and 10%, respectively, in Friday's session."
             ],
             "MSCI": [
               "At that time, both FTSE and MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days. \"U.S. benchmarks were geared to follow the lead of global benchmarks,\" he said. \"They have a 'Made in the USA' stock that is sizable and belongs in benchmarks,\" Haynes said. \"What this is doing is setting a precedent that [the] S&P will not add OpenAI and Anthropic when those IPOs happen,\" Sohn said."
+            ],
+            "TSLA": [
+              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes.",
+              "The 51-year-old regional director of operations in veterinary care believes Elon Musk's rocket company is coming public at a valuation that is \"really, really aggressive.\" Yet, he still requested 1,000 shares through Robinhood , betting enthusiasm for one of the world's most anticipated initial public offerings will overwhelm concerns about price.",
+              "This time around, the Atlanta-based entrepreneur said Musk himself was a primary reason for wanting to get into the trade, describing him as someone who \"makes it happen.\" \"It's hard to bet against Elon Musk in whatever he does,\" Moran told CNBC. \"It's really hard to dispute that [Musk] is not the greatest entrepreneur of all time.\" Andrew Chen learned the hard way not to bet against Elon Musk.",
+              "Elon Musk' s space firm isn't just a rocket company, or satellite internet company, or traditional defense contractor.",
+              "The Elon Musk -led company plans to direct a percentage in the low 20s of the offering to retail buyers, including international individual investors, online brokerages and private-bank clients, the person said."
             ],
             "NDAQ": [
               "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes."
@@ -1349,11 +968,6 @@
             ]
           },
           "related_tickers": [
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
-              "count": 6
-            },
             {
               "ticker": "AMZN",
               "name": "Amazon.com",
@@ -1391,7 +1005,6 @@
             "MSFT": "Microsoft's valuation is north of $2 trillion.",
             "NVDA": "Nvidia's valuation is north of $2 trillion, similar to that of SpaceX, and is one of only five U.S. companies to achieve this milestone.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
-            "TSLA": "There is no direct mention of Tesla in the provided sentences.",
             "RKLB": "Rocket Lab's stock price declined by 10% in Friday's session.",
             "MSCI": "MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days.",
             "NDAQ": "Nasdaq was asked to determine if it had made or considered rule changes based on lobbying from Elon Musk or other SpaceX officials.",
@@ -1406,7 +1019,7 @@
         {
           "cluster_id": 32,
           "name": "SpaceX IPO Frenzy",
-          "count": 5,
+          "count": 4,
           "children": [
             {
               "name": "Small investors scrambled to get in SpaceX IPO, even with a 'stupid' valuation",
@@ -1443,33 +1056,21 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Unique SpaceX IPO is hedging challenge for Wall Street",
-              "summary": "SpaceX will debut under the ticker 'SPCX' this Friday, and its options will begin trading on Monday, June 16th.",
-              "hash": "44d846bd06e175e6",
-              "chunk_key": "44d846bd06e175e6_c000",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "SPCX": [
-              "There were correlations, proxies, and liquid names that at least gave you a framework for managing risk,\" says Millbank Dartmoor Portsmouth CIO Dennis Davitt on \"The Exchange.\" There are, of course, no real comparisons to SpaceX, which will be the only publicly traded private sector company operating in the space launch business at scale when it begins trading on the Nasdaq this Friday.",
-              "As Davitt puts it: \"What are you going to do, short NASA?\" The necessity of hedging is paramount for investors – often institutional – who own SpaceX equity via private markets.",
-              "This is where the lack of direct comparisons to SpaceX in the current market makes things tricky, and while Davitt has experienced similar blockbuster IPOs up close, he acknowledges that this is a unique challenge. \"This reminds me a lot of, like I used to work at Credit Suisse in 2004 when we IPOed Google,\" says Davitt. \"Hedging it back then was easier because there were more things to sell.",
-              "For fund investors, there are other ways to get exposure to SpaceX as a complement to a core portfolio position like an S&P 500 fund.",
+              "But expect ETF managers to stay creative with new ideas to meet investors where they aren't — yet. \"I would think some of the smaller independent [ETF] issuers will go to another index provider and they will create an 'S&P+SpaceX ... 'large-cap+SpaceX' ... '+Anthropic.' ...",
+              "The decision to leave in place the long window before SpaceX ever becomes part of the S&P 500 is not one that sat well with Peter Haynes, TD Securities' head of index and market structure research, supported. \"Personally, I didn't agree with the decision,\" he told \"ETF Edge.\" Haynes said in the podcast portion of \"ETF Edge\" that it is \"a controversial discussion,\" but he added, \"In my mind, it's a natural extension of what exists already in global benchmarks.\" He pointed to the example of Saudi Aramco, which when it went public in 2019 was the largest IPO in history.",
               "They can be expected to face the same scrutiny from the S&P 500 that SpaceX just did.",
-              "In the simplest terms, here's what that means for core U.S. market index fund investors. \"If you want SpaceX, you're not buying the S&P 500.",
+              "For fund investors, there are other ways to get exposure to SpaceX as a complement to a core portfolio position like an S&P 500 fund.",
               "A handful of ETFs, mostly thematic space and tech innovation funds , have already been holding SpaceX through pre-IPO direct stakes.",
               "There has been a rush by investors into space stocks and space ETFs in the past few weeks.",
               "It is one of the funds that offered direct access to SpaceX before the IPO.",
               "Risk-oriented investors will also be able to get in on a new wave of leveraged ETFs just launching to offer up to 2x daily performance of SpaceX shares, bullish and bearish bets.",
-              "But expect ETF managers to stay creative with new ideas to meet investors where they aren't — yet. \"I would think some of the smaller independent [ETF] issuers will go to another index provider and they will create an 'S&P+SpaceX ... 'large-cap+SpaceX' ... '+Anthropic.' ...",
-              "The decision to leave in place the long window before SpaceX ever becomes part of the S&P 500 is not one that sat well with Peter Haynes, TD Securities' head of index and market structure research, supported. \"Personally, I didn't agree with the decision,\" he told \"ETF Edge.\" Haynes said in the podcast portion of \"ETF Edge\" that it is \"a controversial discussion,\" but he added, \"In my mind, it's a natural extension of what exists already in global benchmarks.\" He pointed to the example of Saudi Aramco, which when it went public in 2019 was the largest IPO in history.",
-              "More than twice as many calls were bought than puts Friday morning. \"There's a ton of short-dated call buying in these names as a way to get long SpaceX,\" Danny Kirsch, head of options trading at Piper Sandler, said by phone. \"I have no doubt part of it is retail demand but there is definitely institutional demand for SATS.\" SATS is the ticker symbol for EchoStar, whose shares were higher by another 5% in early trading Friday.",
+              "In the simplest terms, here's what that means for core U.S. market index fund investors. \"If you want SpaceX, you're not buying the S&P 500.",
               "Procure Space, trading as UFO, is up 38% in 2026, while Defiance, trading as JEDI, is up around 33%. \"People who can't buy SpaceX or didn't think they could get enough quick enough, have been plowing money into these ETFs and so these funds are having to buy shares of AST, EchoStar, Spire, etc.,\" Johnson said in a phone call. \"It has nothing to do with the quality of these companies, demand for their products, or their cash flows.\" One thing seems clear: Demand for SpaceX options that will begin trading on Tuesday is likely to be nothing short of astronomic.",
+              "More than twice as many calls were bought than puts Friday morning. \"There's a ton of short-dated call buying in these names as a way to get long SpaceX,\" Danny Kirsch, head of options trading at Piper Sandler, said by phone. \"I have no doubt part of it is retail demand but there is definitely institutional demand for SATS.\" SATS is the ticker symbol for EchoStar, whose shares were higher by another 5% in early trading Friday.",
               "The fund has roughly $2.6 billion in assets under management and is the only space ETF that will own SpaceX directly at about 7% of net asset value.",
               "Options volumes are booming in stocks with ties to SpaceX ahead of Friday's historic debut of the newest public entity run by the world's richest man.",
               "Follow CNBC's live updates on the SpaceX (SPCX) IPO Shares of EchoStar , the Colorado-based networking business that owns an estimated 3% of SpaceX stock, surged 11% Thursday and options volume was more than eleven times the 30-day average in 'SATS', according to data from Cboe's LiveVol.",
@@ -1483,12 +1084,18 @@
           },
           "related_tickers": [
             {
+              "ticker": "SPCX",
+              "name": "Space Exploration Technologies",
+              "count": 16
+            },
+            {
               "ticker": "ASTS",
               "name": "AST SpaceMobile",
               "count": 2
             }
           ],
           "ticker_summary": {
+            "SPCX": "ETF managers will create new index providers to include SpaceX in their funds, and investors can get exposure to SpaceX through thematic space and tech innovation funds, leveraged ETFs, and direct stakes.",
             "ASTS": "AST SpaceMobile's shares experienced a 13% decline and a 12% jump in options trading following the launch of its satellites on a SpaceX rocket."
           }
         },
@@ -1554,12 +1161,12 @@
     },
     {
       "name": "World Cup Economic Impact",
-      "count": 2,
+      "count": 1,
       "children": [
         {
           "cluster_id": 16,
           "name": "World Cup Tourism and Hospitality",
-          "count": 2,
+          "count": 1,
           "children": [
             {
               "name": "CNBC Daily Open: ECB heads for a hike amid Iran energy price pressures",
@@ -1569,50 +1176,8 @@
               "article_date": "2026-06-10 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "World Cup travel boost hasn't materialized for U.S. businesses — yet",
-              "summary": "…A survey by the industry group in April showed 80% of respondents reported reservations weren't meeting expectations.",
-              "hash": "15d3af2bb3dc3aad",
-              "chunk_key": "15d3af2bb3dc3aad_c004",
-              "article_date": "2026-06-09 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
-          ],
-          "ticker_context": {
-            "BKNG": [
-              "It could also benefit from how long travelers are staying."
-            ],
-            "LYFT": [
-              "Derek Evans, CEO of the Marcus Samuelsson Group, told CNBC that in the restaurant business, it's too early to count his chickens. \"You haven't seen fandom really kick in yet,\" he said. \"When your country's team starts winning that's when travel budgets go out the window.\" Rideshare companies such as Uber and Lyft could also see increased demand around matches."
-            ],
-            "UBER": [
-              "Derek Evans, CEO of the Marcus Samuelsson Group, told CNBC that in the restaurant business, it's too early to count his chickens. \"You haven't seen fandom really kick in yet,\" he said. \"When your country's team starts winning that's when travel budgets go out the window.\" Rideshare companies such as Uber and Lyft could also see increased demand around matches."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "BKNG",
-              "name": "Booking",
-              "count": 1
-            },
-            {
-              "ticker": "LYFT",
-              "name": "Lyft",
-              "count": 1
-            },
-            {
-              "ticker": "UBER",
-              "name": "Uber Technologies",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "BKNG": "Staying duration could benefit Booking.",
-            "LYFT": "Increased demand for rides around matches could lead to higher revenue for Lyft.",
-            "UBER": "Increased demand for rideshare services around World Cup matches could lead to higher revenue for Uber Technologies."
-          }
+          ]
         }
       ]
     }
