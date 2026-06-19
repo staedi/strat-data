@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-06-19T09:07:22.176467-04:00",
+  "updated_at": "2026-06-19T10:08:13.001826-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -1594,9 +1594,6 @@
               "Avalanche Treasury Co., one of the newest publicly-listed companies built around a crypto treasury strategy, is set to begin trading on the Nasdaq on Thursday under the ticker AVAT.",
               "Avalanche Treasury Co. owns about 15 million tokens, or roughly 3.5% of the supply in circulation."
             ],
-            "NDAQ": [
-              "Avalanche Treasury Co., one of the newest publicly-listed companies built around a crypto treasury strategy, is set to begin trading on the Nasdaq on Thursday under the ticker AVAT."
-            ],
             "COIN": [
               "Coinbase on Thursday unveiled a new product that lets customers get price exposure to private companies before they go public, starting with a perpetual futures contract –better known as a \"perp\" – tied to SpaceX.",
               "Coinbase's first offering is the SpaceX Pre-IPO Perp, a derivative settled in the USDC stablecoin that tracks the private-market valuation of Elon Musk's space company.",
@@ -1906,10 +1903,6 @@
             "COIN": [
               "As of June 8, their market value had fallen to about 5.7 cents, according to Coinbase , a 72% decline."
             ],
-            "NDAQ": [
-              "Nasdaq requires its companies to trade above $1 a share.",
-              "Eric Trump in an X post in May said he has \"zero leadership or decision-making role in the company.\" He was nominated to a role on the company's board, but World Liberty nixed the plan after a discussion with Nasdaq, Alt5 said in an SEC filing ."
-            ],
             "HOOD": [
               "Investors who may find it difficult or inconvenient to directly hold crypto assets — or who simply prefer stocks — can buy the listed company's stock easily through a platform such as Robinhood , rather than dealing with the complexities of directly owning crypto."
             ],
@@ -1918,11 +1911,6 @@
             ]
           },
           "related_tickers": [
-            {
-              "ticker": "NDAQ",
-              "name": "Nasdaq",
-              "count": 2
-            },
             {
               "ticker": "COIN",
               "name": "Coinbase Global",
@@ -1941,7 +1929,6 @@
           ],
           "ticker_summary": {
             "COIN": "Coinbase's market value fell by 72% as of June 8.",
-            "NDAQ": "Nasdaq's requirement for companies to trade above $1 a share may be impacted by World Liberty's decision to reject Eric Trump's nomination to the board.",
             "HOOD": "Robinhood Markets' stock can be easily bought through a platform such as Robinhood, allowing investors to access crypto assets indirectly.",
             "MSTR": "Strategy holds bitcoin."
           }
@@ -2476,10 +2463,6 @@
             "LULU": [
               "In Thursday's after-hours trading session, shares of Lululemon Athletica sank 11% after the athleisure company lowered its full-year earnings and revenue guidance , citing headwinds."
             ],
-            "NDAQ": [
-              "S&P 500 futures fell early on Friday as traders looked ahead to the release of May's jobs report, while the tech-heavy Nasdaq was poised to open sharply lower as Thursday's U.S. tech sell-off spread to Asian and European markets.",
-              "The non-stop, two-month 80% rally in semiconductor stocks that added roughly half a trillion dollars in market cap to the Nasdaq 100 , spurred one of the most successful ETF launches in history, and birthed dozens of eye-popping, parabolic single stock moves, finally hit a wall on Friday as the VanEck Semiconductor ETF (SMH) dropped almost 10% at its low."
-            ],
             "TSLA": [
               "S&P Global has said it is not changing the requirements for entry into its major indices , dealing a setback to Elon Musk's SpaceX by effectively ruling out a swift entry for the world's biggest-ever IPO into the benchmark S&P 500 index."
             ],
@@ -2571,19 +2554,18 @@
               "count": 3
             },
             {
-              "ticker": "NDAQ",
-              "name": "Nasdaq",
-              "count": 2
-            },
-            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 2
+            },
+            {
+              "ticker": "LULU",
+              "name": "Lululemon Athletica",
+              "count": 1
             }
           ],
           "ticker_summary": {
             "LULU": "Lululemon Athletica lowered its full-year earnings and revenue guidance.",
-            "NDAQ": "Nasdaq 100's market cap increased by roughly half a trillion dollars due to a non-stop, two-month 80% rally in semiconductor stocks.",
             "TSLA": "SpaceX's IPO into the S&P 500 index is effectively ruled out, which may indirectly affect Tesla.",
             "NVDA": "Nvidia's investment in a company and its partnership with another chipmaker may be seen as a strategic move to mitigate potential risks in the tech supply chain.",
             "SPGI": "S&P Global's decision not to change the requirements for entry into its major indices will effectively rule out a swift entry for SpaceX into the S&P 500 index.",
@@ -2679,9 +2661,6 @@
               "So far in 2026, for example, Goldman Sachs, JPMorgan, Morgan Stanley and BofA Securities all rank ahead of Citigroup in the latest Global M&A Advisor Ranking on Dealogic, a leading financial analytical platform.",
               "By the end of the day, however, Citi fell 1%, still less than JPMorgan and Goldman Sachs and the S&P 500 ."
             ],
-            "MSCI": [
-              "He notes they are a big part of the broad iShares MSCI Emerging Markets ETF , which is up 26% year to date as of Thursday's close. \"These are major players in the AI trade and the AI space where valuations really haven't gone up as much as they have in the U.S.\" he said. \"There's still a lot of runway in our view to provide outsized gains with this AI trade.\" The iShares MSCI Taiwan ETF is up almost 67% so far this year while the iShares MSCI South Korea ETF market has risen 109%, as of Thursday's U.S. close."
-            ],
             "BAC": [
               "By contrast, Wells Fargo is down 12.1%, JPMorgan is lower by 4.1% and Bank of America is off 1% in 2026."
             ],
@@ -2728,11 +2707,6 @@
               "count": 4
             },
             {
-              "ticker": "MSCI",
-              "name": "MSCI",
-              "count": 1
-            },
-            {
               "ticker": "BAC",
               "name": "Bank of America",
               "count": 1
@@ -2746,11 +2720,15 @@
               "ticker": "WFC",
               "name": "Wells Fargo",
               "count": 1
+            },
+            {
+              "ticker": "CME",
+              "name": "CME Group",
+              "count": 1
             }
           ],
           "ticker_summary": {
             "GS": "Goldman Sachs Group's actively managed ETF is highlighted as a potential investment strategy for AI-driven gains in emerging markets.",
-            "MSCI": "MSCI's index-based ETFs, such as the iShares MSCI Emerging Markets ETF, are outperforming the U.S. market, with significant gains in Taiwan and South Korea.",
             "BAC": "Bank of America's 2026 performance is 1% lower than the previous year.",
             "C": "Citigroup advised on four deals worth a combined $41.4 billion in the energy industry so far in 2026.",
             "JPM": "JPMorgan Chase's stock price is lower by 4.1% in 2026.",
@@ -3335,21 +3313,12 @@
             "JPM": [
               "JPMorgan in 2023 agreed to pay victims of Epstein $290 million to settle a lawsuit that the bank had facilitated sex trafficking by Epstein, who was a client of JPMorgan.",
               "Staley was a friend of Epstein, who had been a major client of JPMorgan's private wealth and asset management divisions when Staley ran them."
-            ],
-            "COO": [
-              "The Department of Justice on Friday asked the appeals court to stay Cooper's order. \"It does not make sense to alter the Center's name and signage now, only to potentially revert the name again after what should be a successful appeal,\" Assistant Attorney General Brett Shumate wrote in that filing.",
-              "Cooper's rejection came the day of the deadline of his order that Trump's name be removed from the facade of the Kennedy Center, the performing arts landmark named after the late President John F."
             ]
           },
           "related_tickers": [
             {
               "ticker": "JPM",
               "name": "JPMorgan Chase",
-              "count": 2
-            },
-            {
-              "ticker": "COO",
-              "name": "Cooper",
               "count": 2
             },
             {
@@ -3360,8 +3329,7 @@
           ],
           "ticker_summary": {
             "MSFT": "Microsoft co-founder Bill Gates is scheduled to speak to the same panel as Groff, raising potential implications for Microsoft's involvement with the panel.",
-            "JPM": "JPMorgan Chase agreed to pay $290 million to settle a lawsuit related to facilitating sex trafficking by a major client.",
-            "COO": "Cooper's rejection of the name change request for the Kennedy Center is contingent on the outcome of the appeal."
+            "JPM": "JPMorgan Chase agreed to pay $290 million to settle a lawsuit related to facilitating sex trafficking by a major client."
           }
         },
         {
@@ -3626,21 +3594,12 @@
             "ZTS": [
               "Shares of Zoetis and Elanco Animal Health popped in Thursday's trading, and typically dormant options markets on the stocks woke up with a heavy bullish bias.",
               "Options volume in Zoetis jumped to almost 20 times the daily average, with just under 12,000 contracts traded and almost 11,000 in calls."
-            ],
-            "ROL": [
-              "Since screwworm was detected in Texas last week, Rollins has hit the airwaves to reassure the U.S. public that the U.S. Department of Agriculture is ahead of the infestation and that it does not pose a risk to the food system.",
-              "This is not a virus, it's not a disease, it's just a little pest, a larvae that lands in a calf's wound, for example, and it can be treated,\" she said on CNBC Monday . \"Under the last administration with the massive movement under the open borders policy, the cartels, etc., border security, that's when it began to make its way back up toward America.\" Last September, however, Rollins was more forthcoming about the threat posed by the screwworm in an appearance on Fox News ."
             ]
           },
           "related_tickers": [
             {
               "ticker": "ZTS",
               "name": "Zoetis",
-              "count": 2
-            },
-            {
-              "ticker": "ROL",
-              "name": "Rollins",
               "count": 2
             },
             {
@@ -3651,8 +3610,7 @@
           ],
           "ticker_summary": {
             "ELAN": "Shares of Elanco Animal Health increased in trading.",
-            "ZTS": "Options volume in Zoetis jumped to almost 20 times the daily average, with just under 12,000 contracts traded and almost 11,000 in calls.",
-            "ROL": "Rollins' reassurance to the U.S. public about the screwworm outbreak may be perceived as inconsistent with its previous more forthcoming statement about the threat posed by the screwworm."
+            "ZTS": "Options volume in Zoetis jumped to almost 20 times the daily average, with just under 12,000 contracts traded and almost 11,000 in calls."
           }
         }
       ]
@@ -3946,12 +3904,6 @@
             "RKLB": [
               "Redwire and Rocket Lab slid more than 11% and 10%, respectively, in Friday's session."
             ],
-            "MSCI": [
-              "At that time, both FTSE and MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days. \"U.S. benchmarks were geared to follow the lead of global benchmarks,\" he said. \"They have a 'Made in the USA' stock that is sizable and belongs in benchmarks,\" Haynes said. \"What this is doing is setting a precedent that [the] S&P will not add OpenAI and Anthropic when those IPOs happen,\" Sohn said."
-            ],
-            "NDAQ": [
-              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes."
-            ],
             "ALK": [
               "United, Southwest Airlines and Alaska Airlines , which merged with Hawaiian Airlines in 2024, have also selected Starlink, while Delta said in March it would use Amazon Leo starting in 2028."
             ],
@@ -4017,8 +3969,6 @@
             "SOFI": "SoFi Technologies will make shares available through brokerage platforms named by SpaceX.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Rocket Lab's stock price declined by 10% in Friday's session.",
-            "MSCI": "MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days.",
-            "NDAQ": "Nasdaq was asked to determine if it had made or considered rule changes based on lobbying from Elon Musk or other SpaceX officials.",
             "AAL": "American Airlines plans to use Starlink for Wi-Fi service on more than 500 of its narrow-body aircraft.",
             "LUV": "Southwest Airlines has selected Starlink.",
             "UAL": "Starlink is selected by United Airlines.",

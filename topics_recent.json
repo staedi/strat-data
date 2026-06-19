@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-06-19T09:09:37.326111-04:00",
+  "updated_at": "2026-06-19T10:10:24.483486-04:00",
   "children": [
     {
       "name": "Advertising Industry Evolution",
@@ -215,9 +215,6 @@
             "AVAT": [
               "Avalanche Treasury Co., one of the newest publicly-listed companies built around a crypto treasury strategy, is set to begin trading on the Nasdaq on Thursday under the ticker AVAT.",
               "Avalanche Treasury Co. owns about 15 million tokens, or roughly 3.5% of the supply in circulation."
-            ],
-            "NDAQ": [
-              "Avalanche Treasury Co., one of the newest publicly-listed companies built around a crypto treasury strategy, is set to begin trading on the Nasdaq on Thursday under the ticker AVAT."
             ],
             "COIN": [
               "Coinbase earns trading fees on agent-executed trades, and for payments it captures fees and spreads on USDC movement, which serves as the settlement currency for agentic transactions.",
@@ -612,23 +609,7 @@
               "provider": "CNBC",
               "value": 1
             }
-          ],
-          "ticker_context": {
-            "COO": [
-              "The Department of Justice on Friday asked the appeals court to stay Cooper's order. \"It does not make sense to alter the Center's name and signage now, only to potentially revert the name again after what should be a successful appeal,\" Assistant Attorney General Brett Shumate wrote in that filing.",
-              "Cooper's rejection came the day of the deadline of his order that Trump's name be removed from the facade of the Kennedy Center, the performing arts landmark named after the late President John F."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "COO",
-              "name": "Cooper",
-              "count": 2
-            }
-          ],
-          "ticker_summary": {
-            "COO": "Cooper's rejection of the name change request for the Kennedy Center is contingent on the outcome of the appeal."
-          }
+          ]
         },
         {
           "cluster_id": 10,
@@ -931,18 +912,12 @@
             "RKLB": [
               "Redwire and Rocket Lab slid more than 11% and 10%, respectively, in Friday's session."
             ],
-            "MSCI": [
-              "At that time, both FTSE and MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days. \"U.S. benchmarks were geared to follow the lead of global benchmarks,\" he said. \"They have a 'Made in the USA' stock that is sizable and belongs in benchmarks,\" Haynes said. \"What this is doing is setting a precedent that [the] S&P will not add OpenAI and Anthropic when those IPOs happen,\" Sohn said."
-            ],
             "TSLA": [
               "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes.",
               "The 51-year-old regional director of operations in veterinary care believes Elon Musk's rocket company is coming public at a valuation that is \"really, really aggressive.\" Yet, he still requested 1,000 shares through Robinhood , betting enthusiasm for one of the world's most anticipated initial public offerings will overwhelm concerns about price.",
               "This time around, the Atlanta-based entrepreneur said Musk himself was a primary reason for wanting to get into the trade, describing him as someone who \"makes it happen.\" \"It's hard to bet against Elon Musk in whatever he does,\" Moran told CNBC. \"It's really hard to dispute that [Musk] is not the greatest entrepreneur of all time.\" Andrew Chen learned the hard way not to bet against Elon Musk.",
               "Elon Musk' s space firm isn't just a rocket company, or satellite internet company, or traditional defense contractor.",
               "The Elon Musk -led company plans to direct a percentage in the low 20s of the offering to retail buyers, including international individual investors, online brokerages and private-bank clients, the person said."
-            ],
-            "NDAQ": [
-              "The letter to the heads of the Nasdaq, S&P Dow Jones Indices , FTSE Russell and Morningstar Indexes sent on Thursday asked the companies whether they had made or considered rule changes based on lobbying from Elon Musk , other SpaceX officials or officials from OpenAI or Anthropic, and asked for any communications between the companies and the indexes."
             ],
             "ALK": [
               "United, Southwest Airlines and Alaska Airlines , which merged with Hawaiian Airlines in 2024, have also selected Starlink, while Delta said in March it would use Amazon Leo starting in 2028."
@@ -1006,8 +981,6 @@
             "NVDA": "Nvidia's valuation is north of $2 trillion, similar to that of SpaceX, and is one of only five U.S. companies to achieve this milestone.",
             "GOOG": "Google has committed to give SpaceX $920 million a month for 32 months.",
             "RKLB": "Rocket Lab's stock price declined by 10% in Friday's session.",
-            "MSCI": "MSCI created fast-track models for global benchmarks to add the stock to indexes after 5 to 10 days.",
-            "NDAQ": "Nasdaq was asked to determine if it had made or considered rule changes based on lobbying from Elon Musk or other SpaceX officials.",
             "AAL": "American Airlines plans to use Starlink for Wi-Fi service on more than 500 of its narrow-body aircraft.",
             "LUV": "Southwest Airlines has selected Starlink.",
             "UAL": "Starlink is selected by United Airlines.",
