@@ -1,17 +1,17 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-07-18T08:11:50.634672-04:00",
+  "updated_at": "2026-07-18T18:13:15.885545-04:00",
   "children": [
     {
       "name": "AI Economic Transformation",
-      "count": 22,
+      "count": 27,
       "children": [
         {
           "cluster_id": 62,
           "name": "OpenAI ecosystem competition",
           "summary": "The race among AI firms to dominate with open-source, cost-effective, and agentic models, driving shifts in compute access, pricing, and market dynamics.",
-          "count": 8,
+          "count": 9,
           "children": [
             {
               "name": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
@@ -36,6 +36,15 @@
               "summary": "…providers like Anthropic and OpenAI and Chinese AI labs like Z.ai that offer so-called open-weight variants that developers can access for free via the open-source ecosystem.",
               "hash": "82dece2fdd9b2363",
               "chunk_key": "82dece2fdd9b2363_c001",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump administration is dictating access to frontier AI models, sources say",
+              "summary": "The Trump administration has taken new steps to assert more control over the rollout of future artificial intelligence model releases by dictating which companies and entities are …",
+              "hash": "3cbba401c1cc29cd",
+              "chunk_key": "3cbba401c1cc29cd_c000",
               "article_date": "2026-07-15 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -88,8 +97,8 @@
           ],
           "ticker_context": {
             "AAPL": [
-              "Earlier, Musk sued both Apple and OpenAI, alleging that they engaged in anti-competitive practices that left Grok lower in app store rankings than other AI chatbots and image generators.",
               "In response to an X post about Apple filing suit against OpenAI on Friday over alleged theft of trade secrets, Musk wrote , \"Scam Altman strikes again …\" The Tesla and SpaceX CEO has used the \"Scam Altman\" moniker to refer to the OpenAI CEO on several occasions over the past year.",
+              "Earlier, Musk sued both Apple and OpenAI, alleging that they engaged in anti-competitive practices that left Grok lower in app store rankings than other AI chatbots and image generators.",
               "Apple sued OpenAI on Friday, alleging that the artificial intelligence startup stole trade secrets as part of its effort to develop its own hardware products.",
               "Apple on Friday sued OpenAI in federal court in Northern California, alleging trade secret theft, saying that the artificial intelligence lab took the iPhone maker's intellectual property in order to develop its own consumer hardware.",
               "\"This much is clear, however: at every level, from members of its Technical Staff to its Chief Hardware Officer, and in coordination with business partners, OpenAI has been stealing Apple's trade secrets and confidential information,\" the company said in a legal filing .",
@@ -100,30 +109,30 @@
               "\"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technologies, processes, and products,\" an Apple representative told CNBC in a statement."
             ],
             "SPCX": [
-              "The deal would help SpaceX go up against Anthropic's Claude Code and OpenAI's Codex, which quickly write source code for applications.",
+              "Musk's relationship with Altman and OpenAI eroded after the Tesla and SpaceX CEO borrowed OpenAI engineering personnel to remake Tesla's Autopilot technology and poached AI researcher Andrej Karpathy from OpenAI.",
               "Weeks after the trial, Musk's company SpaceX — which controls the X social platform, the xAI lab that challenges OpenAI and the Starlink broadband internet service — completed its landmark initial public offering .",
               "SpaceX raised a record $75 billion as it promoted plans to launch data centers into space, as well as ambitions in enterprise AI applications and interplanetary transportation.",
-              "Musk's relationship with Altman and OpenAI eroded after the Tesla and SpaceX CEO borrowed OpenAI engineering personnel to remake Tesla's Autopilot technology and poached AI researcher Andrej Karpathy from OpenAI.",
               "In response to an X post about Apple filing suit against OpenAI on Friday over alleged theft of trade secrets, Musk wrote , \"Scam Altman strikes again …\" The Tesla and SpaceX CEO has used the \"Scam Altman\" moniker to refer to the OpenAI CEO on several occasions over the past year.",
               "SpaceX has sought to expand in AI coding through its $60 billion all-stock acquisition of Cursor , which it expects to close in the third quarter following regulatory review.",
+              "The deal would help SpaceX go up against Anthropic's Claude Code and OpenAI's Codex, which quickly write source code for applications.",
               "An Anthropic listing would build on momentum from June's massive SpaceX IPO and further open the public markets to companies at the center of the AI boom."
             ],
             "AMZN": [
-              "Over the last year, Amazon conducted its largest wave of layoffs in the company's history.",
               "The let-go Amazon employees entered a tech labor market that's grown increasingly tight.",
+              "Over the last year, Amazon conducted its largest wave of layoffs in the company's history.",
               "That's boosting cloud startup Fireworks , which competes with Amazon and Google to host models that developers can weave into applications."
             ],
             "COIN": [
               "Cryptocurrency exchange operator Coinbase has been adopting cheaper models where it makes sense, CEO Brian Armstrong wrote in a June X post ."
             ],
             "GOOG": [
-              "Google disclosed in May that its AI models were processing about 19 billion tokens per minute for developers, implying more than 27 trillion per day.",
-              "That's boosting cloud startup Fireworks , which competes with Amazon and Google to host models that developers can weave into applications."
+              "That's boosting cloud startup Fireworks , which competes with Amazon and Google to host models that developers can weave into applications.",
+              "Google disclosed in May that its AI models were processing about 19 billion tokens per minute for developers, implying more than 27 trillion per day."
             ],
             "MSFT": [
               "Microsoft CEO Satya Nadella wrote in a Sunday blog post that \"a company should be able to use a model without giving up the knowledge that makes it unique.\"",
-              "The arrangement allows customers of the Windows and Office company to draw on models through Fireworks, which relies on computing power from more than 20 suppliers, including Microsoft.",
-              "In March, it announced a partnership with Microsoft, which fields its own Foundry service for running open models."
+              "In March, it announced a partnership with Microsoft, which fields its own Foundry service for running open models.",
+              "The arrangement allows customers of the Windows and Office company to draw on models through Fireworks, which relies on computing power from more than 20 suppliers, including Microsoft."
             ],
             "NVDA": [
               "The Nvidia -backed company said Thursday that it has exceeded $1 billion in annualized revenue, five times what it had last year, and it has now raised a $1.5 billion round at a $17.5 billion valuation."
@@ -172,20 +181,20 @@
             }
           ],
           "ticker_summary": {
-            "COIN": "Coinbase is implementing cheaper models within its operations.",
-            "MSFT": "Microsoft is enabling customers to utilize open AI models through its Fireworks service and Foundry service, relying on computing power from numerous suppliers.",
-            "META": "Meta Platforms released the Muse Spark 1.1 AI model.",
             "AAPL": "Apple is suing OpenAI for alleged theft of trade secrets, a reversal of a prior partnership involving integration of OpenAI’s technology into Apple’s operating system.",
             "SPCX": "SpaceX completed its landmark initial public offering, raised $75 billion, and acquired Cursor to expand its efforts in AI coding.",
             "AMZN": "Amazon.com employees laid off by the company are entering a tighter tech labor market, benefiting competitors like Fireworks.",
-            "GOOG": "Alphabet’s AI models are supporting Fireworks, a cloud startup competing with Amazon and Google in hosting AI models for developers."
+            "COIN": "Coinbase is implementing cheaper models within its operations.",
+            "GOOG": "Alphabet’s AI models are supporting Fireworks, a cloud startup competing with Amazon and Google in hosting AI models for developers.",
+            "MSFT": "Microsoft is enabling customers to utilize open AI models through its Fireworks service and Foundry service, relying on computing power from numerous suppliers.",
+            "META": "Meta Platforms released the Muse Spark 1.1 AI model."
           }
         },
         {
           "cluster_id": 69,
           "name": "AI-driven semiconductor boom",
           "summary": "A surge in AI demand is driving record investments and revenue growth across semiconductor companies, particularly in data centers, CPUs, and memory chips, while shifting investor focus from AI chips to AI-enabled infrastructure and supply chain dynamics.",
-          "count": 8,
+          "count": 9,
           "children": [
             {
               "name": "Apple, Nvidia vie for title of world's most valuable company",
@@ -201,6 +210,15 @@
               "summary": "Taiwan Semiconductor Manufacturing Co on Thursday reported a 77.4% jump in second-quarter profit year on year, soaring past estimates as the world's largest contract-chipmaker cont…",
               "hash": "da38d88caac3d7a7",
               "chunk_key": "da38d88caac3d7a7_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "S&P 500 opens lower as semiconductors slide",
+              "summary": "The S&P 500 fell Thursday, after a slide in Taiwan Semiconductor following its latest earnings dragged on chip stocks.",
+              "hash": "0a29d40e5924e363",
+              "chunk_key": "0a29d40e5924e363_c000",
               "article_date": "2026-07-15 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -265,10 +283,10 @@
               "While Meta's stock popped on the news, it raised questions over whether this was a sign that there was broader overcapacity of compute out there."
             ],
             "AAPL": [
-              "That same month, Apple crossed a $4 trillion market cap for the first time ever on the heels of strong iPhone sales.",
-              "Apple has surged almost 23% this year, outperforming the market as investors reward its AI agenda and light capital spending model as businesses commit unprecedented capital to the infrastructure buildout.",
-              "Those spots later reversed, and Nvidia closed slightly above Apple.",
               "Shares of Nvidia briefly dropped about 3% and its market value dipped to $4.84 trillion in early morning trading, while Apple hovered near a $4.88 trillion market value.",
+              "That same month, Apple crossed a $4 trillion market cap for the first time ever on the heels of strong iPhone sales.",
+              "Those spots later reversed, and Nvidia closed slightly above Apple.",
+              "Apple has surged almost 23% this year, outperforming the market as investors reward its AI agenda and light capital spending model as businesses commit unprecedented capital to the infrastructure buildout.",
               "Apple and Nvidia battled it out on Friday for the title of world's most valuable company, with the iPhone maker briefly topping the long-time leader in market value.",
               "Asia's most valuable company that has been riding robust demand for AI chips it manufactures for global tech giants, including Nvidia , Apple and Broadcom saw shares gain 1.23% Thursday."
             ],
@@ -281,11 +299,11 @@
               "Nvidia had held the title of world's most valuable company since June 2025, when it surpassed Microsoft ."
             ],
             "NVDA": [
+              "Those spots later reversed, and Nvidia closed slightly above Apple.",
               "Nvidia had held the title of world's most valuable company since June 2025, when it surpassed Microsoft .",
+              "Meanwhile, Nvidia has gained just 9% and largely sat on the sidelines as Wall Street pivots to the memory chip and infrastructure stage of the data center buildout.",
               "Apple and Nvidia battled it out on Friday for the title of world's most valuable company, with the iPhone maker briefly topping the long-time leader in market value.",
               "Shares of Nvidia briefly dropped about 3% and its market value dipped to $4.84 trillion in early morning trading, while Apple hovered near a $4.88 trillion market value.",
-              "Those spots later reversed, and Nvidia closed slightly above Apple.",
-              "Meanwhile, Nvidia has gained just 9% and largely sat on the sidelines as Wall Street pivots to the memory chip and infrastructure stage of the data center buildout.",
               "Asia's most valuable company that has been riding robust demand for AI chips it manufactures for global tech giants, including Nvidia , Apple and Broadcom saw shares gain 1.23% Thursday."
             ],
             "GS": [
@@ -348,25 +366,25 @@
             }
           ],
           "ticker_summary": {
-            "GS": "Goldman Sachs Group is participating in reporting season.",
-            "JPM": "JPMorgan Chase is among the big names participating in reporting season.",
-            "NFLX": "Netflix is participating in reporting season.",
-            "AVGO": "Broadcom saw shares gain as it manufactures AI chips for global tech giants.",
             "META": "Meta’s stock increase raises questions about potential overcapacity of compute within the broader AI-driven semiconductor boom.",
             "AAPL": "Apple’s shares surged and its market value briefly surpassed $4.88 trillion as it battled Nvidia for the title of world’s most valuable company due to strong demand for AI chips.",
             "MU": "Micron Technology experienced a 8% decline in its stock price as demand for high-bandwidth memory chips continues to outstrip supply due to the AI infrastructure buildout.",
             "MSFT": "Nvidia surpassed Microsoft as the world’s most valuable company.",
             "NVDA": "Nvidia’s market value dipped briefly before reversing, and its stock gained slightly as it remained a supplier to global tech giants amid the AI chip boom.",
+            "GS": "Goldman Sachs Group is participating in reporting season.",
+            "JPM": "JPMorgan Chase is among the big names participating in reporting season.",
+            "NFLX": "Netflix is participating in reporting season.",
             "AMD": "Advanced Micro Devices fell approximately 3%.",
             "INTC": "Intel lost more than 4%.",
-            "LRCX": "Lam Research experienced a roughly 3% decline in its stock price alongside other semiconductor companies."
+            "LRCX": "Lam Research experienced a roughly 3% decline in its stock price alongside other semiconductor companies.",
+            "AVGO": "Broadcom saw shares gain as it manufactures AI chips for global tech giants."
           }
         },
         {
           "cluster_id": 68,
           "name": "AI-driven cloud expansion",
           "summary": "Meta is expanding its AI infrastructure and cloud computing capabilities to generate revenue, amid intense competition and significant capital spending.",
-          "count": 3,
+          "count": 4,
           "children": [
             {
               "name": "Anthropic in early talks with Meta to acquire compute power",
@@ -374,6 +392,15 @@
               "hash": "46e9dc79670bc499",
               "chunk_key": "46e9dc79670bc499_c000",
               "article_date": "2026-07-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+              "summary": "Nvidia CEO Jensen Huang is rarely seen without his leather jacket. He's been wearing them for nearly 20 years.",
+              "hash": "c617b9d431aa07ea",
+              "chunk_key": "c617b9d431aa07ea_c000",
+              "article_date": "2026-07-15 00:00:00",
               "provider": "CNBC",
               "value": 1
             },
@@ -399,23 +426,23 @@
           "ticker_context": {
             "LITE": [
               "Lumentum , which sells photonics and optical products for connectivity in the data center, said its products are sold out for the next five years.",
-              "\"We're trying to build up our capacity as much as we possibly can to fulfil a demand that we see out five years at this point,\" Michael Hurlston, CEO of Lumentum, told CNBC on Wednesday.",
-              "Lumentum's stock is up around 600% over the last 12 months as investors pile into companies addressing key bottlenecks in the buildout of AI data centers."
+              "Lumentum's stock is up around 600% over the last 12 months as investors pile into companies addressing key bottlenecks in the buildout of AI data centers.",
+              "\"We're trying to build up our capacity as much as we possibly can to fulfil a demand that we see out five years at this point,\" Michael Hurlston, CEO of Lumentum, told CNBC on Wednesday."
             ],
             "META": [
               "Andrew Feldman, CEO of Cerebras Systems , said the example of Meta and xAI selling its excess capacity is a \"unique\" case.",
               "Meta could spend as much as $145 billion on capital expenditures, including for AI infrastructure, in 2026.",
-              "The talks also come after Meta CEO Mark Zuckerberg said in May that the social media company was considering entering the cloud computing business, in an effort to show investors that the firm can make money from AI investments beyond improvements to its current business.",
               "Anthropic is in very preliminary talks to lease artificial intelligence computing power from Meta , a person familiar with the matter told CNBC's Kate Rooney.",
+              "The talks also come after Meta CEO Mark Zuckerberg said in May that the social media company was considering entering the cloud computing business, in an effort to show investors that the firm can make money from AI investments beyond improvements to its current business.",
               "CEO Mark Zuckerberg said in a Facebook post roughly six months later that the supercluster, named Hyperion, would be \"able to scale up to 5GW over several years.\"",
-              "In late 2024, Louisiana Republican Governor Jeff Landry signed into law a 20-year sales tax exemption for data centers built before 2029 as part of an effort to court Meta in the state, CNBC previously reported .",
-              "Meta said in Monday's post that the company \"pays the full costs of the energy, water, and related infrastructure the data center uses so consumers aren't paying the cost.\"",
               "Since construction of the Louisiana data center began in December 2024, local businesses have received over $1.6 billion in contracts from Meta, the company said.",
+              "Meta said in Monday's post that the company \"pays the full costs of the energy, water, and related infrastructure the data center uses so consumers aren't paying the cost.\"",
+              "In late 2024, Louisiana Republican Governor Jeff Landry signed into law a 20-year sales tax exemption for data centers built before 2029 as part of an effort to court Meta in the state, CNBC previously reported .",
+              "As Meta pursues its multi-hundred-billion-dollar buildout artificial intelligence buildout, the company and hyperscaler rivals Microsoft , Alphabet and Amazon are taking advantage of tax rebates and energy deals being offered by states that are fighting to get a piece of the AI boom.",
               "That's higher than the $27 billion figure that was revealed in October, when Meta and Blue Owl Capital formed a joint venture to help with the buildout and management of the facility, originally planned as a 2GW data center.",
-              "\"With this expansion, we will be investing over $1 billion in local infrastructure improvements, including roads, water and wastewater systems,\" Meta said in the post.",
               "The company said in a blog post on Monday that the site in Richland Parish, Louisiana — home to what will be Meta's largest data center — will be a 5GW facility and cost over $50 billion.",
-              "Meta's massive Hyperion data center project in rural Louisiana is getting much bigger and costlier, with a big assist from the state's government.",
-              "As Meta pursues its multi-hundred-billion-dollar buildout artificial intelligence buildout, the company and hyperscaler rivals Microsoft , Alphabet and Amazon are taking advantage of tax rebates and energy deals being offered by states that are fighting to get a piece of the AI boom."
+              "\"With this expansion, we will be investing over $1 billion in local infrastructure improvements, including roads, water and wastewater systems,\" Meta said in the post.",
+              "Meta's massive Hyperion data center project in rural Louisiana is getting much bigger and costlier, with a big assist from the state's government."
             ],
             "NVDA": [
               "Cerebras, which went public earlier this year, is one of a slew of semiconductor startups attempting to become major players in the data center market and challenge Nvidia.",
@@ -473,11 +500,11 @@
           ],
           "ticker_summary": {
             "LITE": "Lumentum’s photonics and optical products are sold out for the next five years due to increased demand for AI data centers.",
-            "NYT": "Shares of New York Times rose following a report suggesting a potential $10 billion deal related to AI-driven cloud expansion.",
-            "OWL": "Blue Owl Capital’s joint venture with Meta is now projected to result in a facility exceeding the previously reported $27 billion buildout.",
             "META": "Meta Platforms is considering entering the cloud computing business and plans to invest over $1 billion in local infrastructure improvements to support a planned 2GW data center in Louisiana.",
             "NVDA": "Nvidia is facing competition from semiconductor startups seeking to become major players in the data center market.",
+            "NYT": "Shares of New York Times rose following a report suggesting a potential $10 billion deal related to AI-driven cloud expansion.",
             "AMZN": "Amazon.com is taking advantage of tax rebates and energy deals to support its artificial intelligence buildout alongside competitors.",
+            "OWL": "Blue Owl Capital’s joint venture with Meta is now projected to result in a facility exceeding the previously reported $27 billion buildout.",
             "MSFT": "Microsoft is leveraging state incentives to benefit from the AI boom alongside competitors."
           }
         },
@@ -539,6 +566,48 @@
           }
         },
         {
+          "cluster_id": 67,
+          "name": "AI Industry Capital Allocation",
+          "summary": "The articles highlight intense market scrutiny of major tech firms' AI spending, balance sheet risks, talent attrition, and strategic shifts amid competition and investor skepticism.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Alphabet shares fall on report its Gemini 3.5 Pro AI model is delayed",
+              "summary": "Alphabet shares sank 4% on Thursday following a report that the company has delayed releasing its flagship artificial intelligence model.",
+              "hash": "82dece2fdd9b2363",
+              "chunk_key": "82dece2fdd9b2363_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+              "summary": "Shares of Chinese tech giants Alibaba and Baidu rose Thursday on their partnership with Apple for deploying their AI tools.",
+              "hash": "670557c5e87674ca",
+              "chunk_key": "670557c5e87674ca_c000",
+              "article_date": "2026-07-13 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AAPL": [
+              "Hong-Kong listed shares of Alibaba rose 5% after the company confirmed that its Qwen AI model would be integrated into Apple services in China.",
+              "Baidu 's Hong Kong-listed shares gained 4% as the company confirmed that it was working with Apple on Apple Intelligence features for iPhones in China."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "AAPL",
+              "name": "Apple",
+              "count": 2
+            }
+          ],
+          "ticker_summary": {
+            "AAPL": "Apple's Hong Kong-listed shares gained as the company collaborated with Baidu on integrating AI features for iPhones in China."
+          }
+        },
+        {
           "cluster_id": 66,
           "name": "AI-driven component shortages",
           "summary": "Rising AI demand is driving up memory and component costs, forcing major tech companies to raise prices across consoles, smartphones, and other devices.",
@@ -596,16 +665,16 @@
           ],
           "ticker_summary": {
             "AMZN": "Amazon is experiencing a business impact related to AI-driven component shortages due to price hikes affecting consumers.",
-            "NFLX": "Netflix is experiencing a business impact related to AI-driven component shortages due to price increases affecting consumer spending on entertainment.",
             "AAPL": "Apple acknowledged price increases for its devices following similar actions by other major companies.",
-            "MSFT": "Microsoft's Xbox and Apple are increasing prices on devices."
+            "MSFT": "Microsoft's Xbox and Apple are increasing prices on devices.",
+            "NFLX": "Netflix is experiencing a business impact related to AI-driven component shortages due to price increases affecting consumer spending on entertainment."
           }
         }
       ]
     },
     {
       "name": "Consumer & Market Shifts",
-      "count": 6,
+      "count": 11,
       "children": [
         {
           "cluster_id": 13,
@@ -712,8 +781,17 @@
           "cluster_id": 11,
           "name": "Retail retail evolution",
           "summary": "A surge in retail retail expansion and consumer-driven store experiences, driven by food, convenience, and experiential appeal, is reshaping the traditional gas station model.",
-          "count": 1,
+          "count": 2,
           "children": [
+            {
+              "name": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+              "summary": "Taylor Farms is voluntarily recalling iceberg lettuce in 27 states because the greens potentially could be contaminated with cyclosporiasis.",
+              "hash": "a2e4a8292737386c",
+              "chunk_key": "a2e4a8292737386c_c000",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Cyclosporiasis is hitting some restaurant stocks, but impact may be short-lived",
               "summary": "17% and about 2% on Friday, respectively, due to apparent relief that the CDC did not identify their ingredients as potential sources of cyclosporiasis.",
@@ -730,36 +808,41 @@
               "Shares of Sweetgreen and Cava rose more than 17% and about 2% on Friday, respectively, due to apparent relief that the CDC did not identify their ingredients as potential sources of cyclosporiasis."
             ],
             "CMG": [
-              "The company will need to regain customers' trust, just as other restaurants like McDonald's, Wendy's and Chipotle have had to in the past after health scares.",
-              "Chipotle , which did not see as much stock movement this week, said in a Friday statement that shredded iceberg lettuce is not served at its locations, and it does not believe its ingredients are associated with the outbreak."
+              "Chipotle , which did not see as much stock movement this week, said in a Friday statement that shredded iceberg lettuce is not served at its locations, and it does not believe its ingredients are associated with the outbreak.",
+              "The company will need to regain customers' trust, just as other restaurants like McDonald's, Wendy's and Chipotle have had to in the past after health scares."
             ],
             "MCD": [
               "The company will need to regain customers' trust, just as other restaurants like McDonald's, Wendy's and Chipotle have had to in the past after health scares.",
               "While lower demand in the impacted Midwest states will likely last longer than in other areas of the U.S., the Evercore analysts said Taco Bell could return to positive same-store sales growth in a matter of weeks, just as McDonald's did within roughly six weeks in 2024."
             ],
             "QSR": [
+              "According to reports , the affected lettuce at Taco Bell may be traced back to supplier Taylor Farms, which distributes the product to many restaurant chains and sells directly in most grocery stores.",
               "And because Taco Bell has already issued a statement and pulled its infected ingredients, Chiaro said it's likely to follow the recovery trend of other companies \"A very clear, accountable, transparent communication, a recommitment to our health safety and our food safety processes – it can make them better,\" he said.",
-              "Taco Bell said in a Thursday statement that the fast food chain is actively working to \"voluntarily remove potentially impacted lettuce from a supplier in select states.\"",
+              "While Taco Bell or other restaurant chains may take a temporary sales hit as headlines about the outbreak swirl, particularly in the states most affected by it, analysts said any dips in revenue or stock prices likely will not be prolonged.",
+              "Taco Bell's parent company, Yum Brands , saw its stock sink nearly 7% over the past five days as the company grappled with the health scare.",
               "He added that the outbreak is also limited to toppings at Taco Bell rather than the meat itself, which is a core offering and would likely have a larger impact on consumer behavior.",
               "While lower demand in the impacted Midwest states will likely last longer than in other areas of the U.S., the Evercore analysts said Taco Bell could return to positive same-store sales growth in a matter of weeks, just as McDonald's did within roughly six weeks in 2024.",
               "It's a lesson in marketing and brand loyalty for Taco Bell and other restaurants, too, according to Gerry Chiaro, an associate professor of marketing at Northwestern University.",
-              "According to reports , the affected lettuce at Taco Bell may be traced back to supplier Taylor Farms, which distributes the product to many restaurant chains and sells directly in most grocery stores.",
-              "While Taco Bell or other restaurant chains may take a temporary sales hit as headlines about the outbreak swirl, particularly in the states most affected by it, analysts said any dips in revenue or stock prices likely will not be prolonged.",
-              "Taco Bell's parent company, Yum Brands , saw its stock sink nearly 7% over the past five days as the company grappled with the health scare."
+              "Taco Bell said in a Thursday statement that the fast food chain is actively working to \"voluntarily remove potentially impacted lettuce from a supplier in select states.\"",
+              "The tainted lettuce has been at the center of a cyclosporiasis outbreak that the Centers for Disease Control and Prevention has traced to shredded iceberg lettuce served at Taco Bell locations in 5 states, including Indiana, Kentucky, and Michigan."
             ],
             "WEN": [
               "The company will need to regain customers' trust, just as other restaurants like McDonald's, Wendy's and Chipotle have had to in the past after health scares."
             ],
             "YUM": [
-              "Analysts say the outbreak likely won't have a major effect on Yum Brands' stock, especially based on how restaurants have fared during past health scares.",
-              "Taco Bell's parent company, Yum Brands , saw its stock sink nearly 7% over the past five days as the company grappled with the health scare."
+              "Taco Bell's parent company, Yum Brands , saw its stock sink nearly 7% over the past five days as the company grappled with the health scare.",
+              "Analysts say the outbreak likely won't have a major effect on Yum Brands' stock, especially based on how restaurants have fared during past health scares."
+            ],
+            "WMT": [
+              "Walmart on Saturday posted a message on its website about the FDA's latest announcement on the Taylor Farms recall, noting that the greens may have been sold at its stores in states including Alabama, Indiana, and West Virginia.",
+              "\"The health and safety of our customers is a top priority,\" a Walmart spokesperson told CNBC in an emailed statement."
             ]
           },
           "related_tickers": [
             {
               "ticker": "QSR",
               "name": "Restaurant Brands International",
-              "count": 8
+              "count": 9
             },
             {
               "ticker": "CAVA",
@@ -782,6 +865,11 @@
               "count": 2
             },
             {
+              "ticker": "WMT",
+              "name": "Walmart",
+              "count": 2
+            },
+            {
               "ticker": "WEN",
               "name": "Wendy's",
               "count": 1
@@ -791,9 +879,195 @@
             "CAVA": "Shares of Cava sank more than 2% this week, mirroring a decline in other food companies selling fresh lettuce.",
             "CMG": "Chipotle Mexican Grill needs to restore customer trust following a health scare related to its ingredients.",
             "MCD": "McDonald's will need to regain customers' trust, similar to other restaurants, after health scares.",
-            "QSR": "Yum Brands’ stock price decreased by nearly 7% over the past five days due to the lettuce-related health scare at Taco Bell.",
+            "QSR": "Restaurant Brands International may experience a temporary sales hit due to headlines about a lettuce-related outbreak at Taco Bell.",
+            "WEN": "Wendy’s needs to rebuild customers’ trust, similar to other restaurants facing health concerns.",
             "YUM": "Yum! Brands’ stock experienced a decline following a health scare.",
-            "WEN": "Wendy’s needs to rebuild customers’ trust, similar to other restaurants facing health concerns."
+            "WMT": "Walmart is alerting customers in Alabama, Indiana, and West Virginia about a potential health and safety issue related to greens sold at its stores."
+          }
+        },
+        {
+          "cluster_id": 40,
+          "name": "Healthcare logistics innovation",
+          "summary": "Rising demand for temperature-controlled healthcare logistics and long-term GLP-1 treatment solutions are driving investment and innovation in drug delivery and supply chain efficiency.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Fat cat? Weight-loss drugs may be coming for your overweight pet",
+              "summary": "…care, diagnostics, and pharmacy services are taking a growing share of household pet spending.",
+              "hash": "307e412a7579741a",
+              "chunk_key": "307e412a7579741a_c003",
+              "article_date": "2026-07-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "A tiny GLP-1 implant is the latest bet to help patients maintain weight loss",
+              "summary": "…their skin, meaning Vivani's implant will likely appeal to a specific subset of patients.",
+              "hash": "9be2dbbfc69a40be",
+              "chunk_key": "9be2dbbfc69a40be_c007",
+              "article_date": "2026-07-09 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "CHWY": [
+              "Online retailer Chewy has also broadened into pharmacy subscriptions and veterinary clinics."
+            ],
+            "CL": [
+              "Animal-health companies including Zoetis , Elanco and IDEXX are positioned to benefit through therapeutics and diagnostics, while Nestlé Purina, Colgate-Palmolive subsidiary Hill's and Freshpet are expanding health-focused nutrition, Gutman said."
+            ],
+            "ELAN": [
+              "Animal-health companies including Zoetis , Elanco and IDEXX are positioned to benefit through therapeutics and diagnostics, while Nestlé Purina, Colgate-Palmolive subsidiary Hill's and Freshpet are expanding health-focused nutrition, Gutman said."
+            ],
+            "FRPT": [
+              "Animal-health companies including Zoetis , Elanco and IDEXX are positioned to benefit through therapeutics and diagnostics, while Nestlé Purina, Colgate-Palmolive subsidiary Hill's and Freshpet are expanding health-focused nutrition, Gutman said."
+            ],
+            "IDXX": [
+              "Animal-health companies including Zoetis , Elanco and IDEXX are positioned to benefit through therapeutics and diagnostics, while Nestlé Purina, Colgate-Palmolive subsidiary Hill's and Freshpet are expanding health-focused nutrition, Gutman said."
+            ],
+            "MS": [
+              "\"I would describe this as an expansion from premiumization into medicalization, rather than owners abandoning premium food,\" Morgan Stanley analyst Simeon Gutman told CNBC via email.",
+              "Morgan Stanley estimates U.S. pet food will total roughly $65 billion in 2026, while overall U.S. pet spending is projected to grow from about $196 billion in 2025 to more than $240 billion by 2030."
+            ],
+            "ZTS": [
+              "Animal-health companies including Zoetis , Elanco and IDEXX are positioned to benefit through therapeutics and diagnostics, while Nestlé Purina, Colgate-Palmolive subsidiary Hill's and Freshpet are expanding health-focused nutrition, Gutman said."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "MS",
+              "name": "Morgan Stanley",
+              "count": 2
+            },
+            {
+              "ticker": "CHWY",
+              "name": "Chewy",
+              "count": 1
+            },
+            {
+              "ticker": "CL",
+              "name": "Colgate-Palmolive",
+              "count": 1
+            },
+            {
+              "ticker": "ELAN",
+              "name": "Elanco Animal Health",
+              "count": 1
+            },
+            {
+              "ticker": "IDXX",
+              "name": "IDEXX Laboratories",
+              "count": 1
+            },
+            {
+              "ticker": "ZTS",
+              "name": "Zoetis",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "CHWY": "Chewy has expanded its business model by offering pharmacy subscriptions and veterinary clinics.",
+            "CL": "Colgate-Palmolive’s Hill’s and Freshpet subsidiaries are expanding health-focused nutrition.",
+            "ELAN": "Elanco Animal Health is positioned to benefit through therapeutics and diagnostics.",
+            "IDXX": "IDEXX Laboratories is positioned to benefit through diagnostics, as an animal-health company.",
+            "MS": "Morgan Stanley estimates growth in U.S. pet spending, projecting a rise from $196 billion in 2025 to $240 billion by 2030.",
+            "ZTS": "Zoetis, as an animal-health company, is positioned to benefit through therapeutics and diagnostics."
+          }
+        },
+        {
+          "cluster_id": 9,
+          "name": "Women-driven brand growth",
+          "summary": "Apparel brands are driving revenue growth by prioritizing women's markets, boosting sales, and expanding product lines to capture a larger, more lucrative customer base.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Korean beauty products are becoming mainstream in the U.S. More growth may be ahead",
+              "summary": "…Raymond James analyst Olivia Tong underscored that products from brands such as The Ordinary, which is based in Canada and owned by Estee Lauder , have incorporated ingredients tha…",
+              "hash": "fc14e7e150de0e01",
+              "chunk_key": "fc14e7e150de0e01_c006",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "EL": [
+              "Raymond James analyst Olivia Tong underscored that products from brands such as The Ordinary, which is based in Canada and owned by Estee Lauder , have incorporated ingredients that have become popularized by those in the K-beauty space, such as centella asiatica."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "EL",
+              "name": "Estée Lauder",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "EL": "Estée Lauder’s brands, including The Ordinary, are incorporating ingredients popular in the K-beauty space."
+          }
+        },
+        {
+          "cluster_id": 10,
+          "name": "Retail transformation pressures",
+          "summary": "The articles examine retail giants' struggles and pivots amid declining performance, shareholder pushback, and efforts to regain market relevance through strategic realignment.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Korean beauty products are becoming mainstream in the U.S. More growth may be ahead",
+              "summary": "Westfield Garden State Plaza in New Jersey, the lineup of Asian retailers has expanded over the past 12 months, seeing new additions such as Sukoshi — a top destination for K-beaut…",
+              "hash": "fc14e7e150de0e01",
+              "chunk_key": "fc14e7e150de0e01_c003",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AMZN": [
+              "While a huge chunk of K-beauty sales comes from platforms such as TikTok Shop and Amazon , according to NielsenIQ data, there's room for retail to take up more market share."
+            ],
+            "EL": [
+              "Raymond James analyst Olivia Tong underscored that products from brands such as The Ordinary, which is based in Canada and owned by Estee Lauder , have incorporated ingredients that have become popularized by those in the K-beauty space, such as centella asiatica."
+            ],
+            "MS": [
+              "Morgan Stanley analyst Simeon Gutman said he expects K-beauty's growth trajectory to continue.",
+              "Earlier this year, Sephora partnered with Olive Young to bring K-beauty products to Sephora customers in stores as well as online, and Morgan Stanley's Gutman said Ulta Beauty is also set up to benefit from rising K-beauty popularity in the U.S."
+            ],
+            "TGT": [
+              "\"Beauty is an incredibly important and deeply personal category for our guests, and our team is always looking to flex our merchandising authority by bringing them the brands and trends they want most,\" Amanda Nusz, senior vice president of merchandising, essentials and beauty at Target, told CNBC."
+            ],
+            "ULTA": [
+              "Earlier this year, Sephora partnered with Olive Young to bring K-beauty products to Sephora customers in stores as well as online, and Morgan Stanley's Gutman said Ulta Beauty is also set up to benefit from rising K-beauty popularity in the U.S."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 1
+            },
+            {
+              "ticker": "EL",
+              "name": "Estée Lauder",
+              "count": 1
+            },
+            {
+              "ticker": "TGT",
+              "name": "Target",
+              "count": 1
+            },
+            {
+              "ticker": "ULTA",
+              "name": "Ulta Beauty",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "EL": "Estée Lauder’s brands are incorporating ingredients popularized by the K-beauty space.",
+            "ULTA": "Ulta Beauty is positioned to benefit from the rising popularity of K-beauty in the U.S.",
+            "AMZN": "Amazon.com faces pressures from retail to capture a larger share of the K-beauty market, which is currently distributed across platforms like TikTok Shop.",
+            "TGT": "Target is focusing on beauty as an important and personal category to meet guest demand for brands and trends."
           }
         },
         {
@@ -876,7 +1150,7 @@
     },
     {
       "name": "Digital Finance Evolution",
-      "count": 16,
+      "count": 17,
       "children": [
         {
           "cluster_id": 19,
@@ -1049,16 +1323,120 @@
             }
           ],
           "ticker_summary": {
-            "D": "Dominion Energy advised on a sale driven by the AI cycle.",
-            "NEE": "Nextera Energy advised Dominion Energy on a sale driven by the AI cycle.",
-            "NVDA": "Nvidia is benefiting from the massive flows of capital into AI.",
-            "SPCX": "Space Exploration Technologies received fees from banks for an IPO and debt financing.",
-            "FITB": "Because commercial lending constitutes a larger portion of its business, Fifth Third Bancorp may benefit from the trend of AI-driven financial growth.",
             "GS": "Goldman Sachs reported a 39% increase in revenue, driven by gains in equities trading and investment banking, fueled by the AI boom and related deals.",
             "JPM": "JPMorgan Chase’s revenue rose 27% to $58 billion, driven by massive gains in equities trading and investment banking, fueled by the AI boom and related capital flows.",
             "MS": "Morgan Stanley reported record revenue and profit driven by a 69% surge in equities trading revenue, and the firm is poised to benefit from fees related to the SpaceX IPO and potential wealth management opportunities.",
             "BAC": "Bank of America saw investment banking fees increase by 50% and equity trading revenue rise by 70%.",
-            "C": "Citigroup is among U.S. investment banks reporting strong trading revenues and dealmaking activity."
+            "D": "Dominion Energy advised on a sale driven by the AI cycle.",
+            "NEE": "Nextera Energy advised Dominion Energy on a sale driven by the AI cycle.",
+            "NVDA": "Nvidia is benefiting from the massive flows of capital into AI.",
+            "SPCX": "Space Exploration Technologies received fees from banks for an IPO and debt financing.",
+            "C": "Citigroup is among U.S. investment banks reporting strong trading revenues and dealmaking activity.",
+            "FITB": "Because commercial lending constitutes a larger portion of its business, Fifth Third Bancorp may benefit from the trend of AI-driven financial growth."
+          }
+        },
+        {
+          "cluster_id": 3,
+          "name": "Prediction market regulation",
+          "summary": "The regulatory landscape for prediction markets is evolving amid scrutiny, jurisdictional debates, and efforts to establish clear compliance and oversight frameworks.",
+          "count": 5,
+          "children": [
+            {
+              "name": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+              "summary": "…markets may generate tax revenue for states if its contracts would be considered gambling.",
+              "hash": "2b5dad2dfb5e0048",
+              "chunk_key": "2b5dad2dfb5e0048_c003",
+              "article_date": "2026-07-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump suspends teleprompter operator over Kalshi bets allegations, WH says",
+              "summary": "…the federal government and a teleprompter operator, according to the company. Kalshi then froze the account, retaining almost all of the profits.",
+              "hash": "08b11365859dbacf",
+              "chunk_key": "08b11365859dbacf_c002",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "As prediction markets expands event contract types, the SEC may get involved",
+              "summary": "…the two agencies can avoid repeating past regulatory disagreements and provide clear definitions, the harmonization will be a benefit for prediction markets, said Peter Chan, a Bak…",
+              "hash": "18f4aa2d82454e3d",
+              "chunk_key": "18f4aa2d82454e3d_c005",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Netflix earnings, Trump's approval rating and more: Morning Squawk",
+              "summary": "…but their systems still house sensitive information.",
+              "hash": "7a8fe15df43d4c0e",
+              "chunk_key": "7a8fe15df43d4c0e_c002",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Kalshi launches 'Pro' product for users trading multiple markets at same time",
+              "summary": "Prediction market platform Kalshi is launching a product for its highly active traders on Monday, the company told CNBC.",
+              "hash": "ee53c4d4dcb65375",
+              "chunk_key": "ee53c4d4dcb65375_c000",
+              "article_date": "2026-07-12 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "GOOG": [
+              "In May, federal prosecutors charged a Google employee, Michele Spagnuolo , with fraud in connection with Polymarket contracts that allegedly were based on internal company data related to Google's \"Year in Search\" lists."
+            ],
+            "AAPL": [
+              "That isn't directly tied to the company's share price, but when it may launch a highly anticipated product could impact Apple's stock."
+            ],
+            "NVDA": [
+              "An easy example of this, according to legal experts, is a contract that asks traders, \"Will Nvidia stock end the month up more than 5%?\""
+            ],
+            "TW": [
+              "Troy Dixon, co-head of global markets at Tradeweb Markets — a market infrastructure company that has a partnership with Kalshi — said getting clarification from the two agencies is critical for institutions who are looking to trade on prediction markets."
+            ],
+            "GS": [
+              "That move helps North Carolina possibly avoid getting sued by prediction market platforms, said Goldman."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "AAPL",
+              "name": "Apple",
+              "count": 1
+            },
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 1
+            },
+            {
+              "ticker": "TW",
+              "name": "Tradeweb Markets",
+              "count": 1
+            },
+            {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "GOOG": "Alphabet is facing fraud charges related to contracts based on internal company data.",
+            "AAPL": "Apple’s stock may be impacted by potential timing of a highly anticipated product launch.",
+            "NVDA": "Nvidia’s stock is referenced in a prediction market contract.",
+            "TW": "Clarification from regulatory agencies is critical for Tradeweb Markets’ clients who trade on prediction markets.",
+            "GS": "Goldman Sachs stated that a proposed move would help North Carolina avoid lawsuits from prediction market platforms."
           }
         },
         {
@@ -1159,97 +1537,11 @@
             }
           ],
           "ticker_summary": {
+            "AAPL": "Apple is alleging trade secret theft by OpenAI, related to its hardware product development efforts.",
             "UAL": "United Airlines plans to cover a significant portion of increased costs, including 90% in the current quarter and all in the final three months of the year.",
             "UNH": "UnitedHealth Group’s shares increased by nearly 6% in premarket trading due to exceeding profit expectations.",
             "AMD": "Advanced Micro Devices was 2% lower alongside Intel.",
-            "AAPL": "Apple is alleging trade secret theft by OpenAI, related to its hardware product development efforts.",
             "MU": "Shares in Micron Technology decreased by 4%."
-          }
-        },
-        {
-          "cluster_id": 3,
-          "name": "Prediction market regulation",
-          "summary": "The regulatory landscape for prediction markets is evolving amid scrutiny, jurisdictional debates, and efforts to establish clear compliance and oversight frameworks.",
-          "count": 4,
-          "children": [
-            {
-              "name": "Trump suspends teleprompter operator over Kalshi bets allegations, WH says",
-              "summary": "…the federal government and a teleprompter operator, according to the company. Kalshi then froze the account, retaining almost all of the profits.",
-              "hash": "08b11365859dbacf",
-              "chunk_key": "08b11365859dbacf_c002",
-              "article_date": "2026-07-15 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "As prediction markets expands event contract types, the SEC may get involved",
-              "summary": "…the two agencies can avoid repeating past regulatory disagreements and provide clear definitions, the harmonization will be a benefit for prediction markets, said Peter Chan, a Bak…",
-              "hash": "18f4aa2d82454e3d",
-              "chunk_key": "18f4aa2d82454e3d_c005",
-              "article_date": "2026-07-15 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Netflix earnings, Trump's approval rating and more: Morning Squawk",
-              "summary": "…but their systems still house sensitive information.",
-              "hash": "7a8fe15df43d4c0e",
-              "chunk_key": "7a8fe15df43d4c0e_c002",
-              "article_date": "2026-07-15 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Kalshi launches 'Pro' product for users trading multiple markets at same time",
-              "summary": "Prediction market platform Kalshi is launching a product for its highly active traders on Monday, the company told CNBC.",
-              "hash": "ee53c4d4dcb65375",
-              "chunk_key": "ee53c4d4dcb65375_c000",
-              "article_date": "2026-07-12 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "GOOG": [
-              "In May, federal prosecutors charged a Google employee, Michele Spagnuolo , with fraud in connection with Polymarket contracts that allegedly were based on internal company data related to Google's \"Year in Search\" lists."
-            ],
-            "AAPL": [
-              "That isn't directly tied to the company's share price, but when it may launch a highly anticipated product could impact Apple's stock."
-            ],
-            "NVDA": [
-              "An easy example of this, according to legal experts, is a contract that asks traders, \"Will Nvidia stock end the month up more than 5%?\""
-            ],
-            "TW": [
-              "Troy Dixon, co-head of global markets at Tradeweb Markets — a market infrastructure company that has a partnership with Kalshi — said getting clarification from the two agencies is critical for institutions who are looking to trade on prediction markets."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
-            },
-            {
-              "ticker": "TW",
-              "name": "Tradeweb Markets",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "AAPL": "Apple’s stock may be impacted by potential timing of a highly anticipated product launch.",
-            "NVDA": "Nvidia’s stock is referenced in a prediction market contract.",
-            "TW": "Clarification from regulatory agencies is critical for Tradeweb Markets’ clients who trade on prediction markets.",
-            "GOOG": "Alphabet is facing fraud charges related to contracts based on internal company data."
           }
         },
         {
@@ -1307,14 +1599,23 @@
     },
     {
       "name": "Economic Landscape",
-      "count": 16,
+      "count": 18,
       "children": [
         {
           "cluster_id": 50,
           "name": "Inflation and Rate Policy",
           "summary": "The Federal Reserve faces divided opinions on interest rates amid persistent inflation, with officials considering hikes despite recent data fluctuations and market expectations of continued tightening.",
-          "count": 15,
+          "count": 17,
           "children": [
+            {
+              "name": "'WarshGPT': Wall Street adapts to new era of Federal Reserve communications",
+              "summary": "Still, investors anticipate having less forward guidance from the Fed could result in bigger market swings after policy decisions or members' public appearances.",
+              "hash": "84bc0d97ea2dcccf",
+              "chunk_key": "84bc0d97ea2dcccf_c004",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Treasury yields rise, as oil resumes climb on mounting U.S.-Iran tensions",
               "summary": "U.S. Treasury yields rose Thursday, after oil prices resumed their climb on mounting tensions between the United States and Iran.",
@@ -1415,6 +1716,15 @@
               "value": 1
             },
             {
+              "name": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
+              "summary": "Federal Reserve Chairman Kevin Warsh spoke Tuesday to the House Financial Services Committee as part of the congressionally mandated semiannual monetary policy report.",
+              "hash": "9467dd7ed6f24cb4",
+              "chunk_key": "9467dd7ed6f24cb4_c000",
+              "article_date": "2026-07-12 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
               "name": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
               "summary": "…annual basis, pushed by a 26.7% gain for gasoline. However, gasoline and fuel oil both saw decreases of more than 9% in June.",
               "hash": "9e996e7582aacdcf",
@@ -1507,7 +1817,7 @@
     },
     {
       "name": "Entertainment Industry Dynamics",
-      "count": 2,
+      "count": 4,
       "children": [
         {
           "cluster_id": 8,
@@ -1560,24 +1870,84 @@
             "NFLX": "Netflix faces intensifying competition from streaming giants as consumers flee pay TV bundles.",
             "WBD": "Warner Bros. Discovery is facing a lawsuit challenging its proposed acquisition by Paramount Skydance."
           }
+        },
+        {
+          "cluster_id": 26,
+          "name": "Sports & Investment Trends",
+          "summary": "Private equity and media firms are expanding investments in youth sports, emerging leagues, and global sports media rights.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Fanatics CEO Michael Rubin on two sports businesses he'll never enter",
+              "summary": "Since founding Fanatics in 2011, Michael Rubin has built the company from a small online retailer of sports merchandise and apparel into a massive global sports platform.",
+              "hash": "66fba0a84f99135e",
+              "chunk_key": "66fba0a84f99135e_c000",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
+              "summary": "…the past year, with its posts garnering nearly 40 million likes and $48 million in earned media value.",
+              "hash": "bd236d0acb72b729",
+              "chunk_key": "bd236d0acb72b729_c001",
+              "article_date": "2026-07-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "ROL": [
+              "But even with all of that success, Rubin told Sorkin at Game Plan that, \"We think there are several opportunities to create new businesses that we're not in, leveraging the relationships we have with customers, with sports properties, with the athletes.\"",
+              "\"We believe we have probably the biggest opportunity in sports because it's not like we're in one specific business,\" Rubin told Sorkin at Game Plan."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "ROL",
+              "name": "Rollins",
+              "count": 2
+            }
+          ],
+          "ticker_summary": {
+            "ROL": "Rollins believes it can create new businesses by leveraging existing relationships with sports properties and athletes."
+          }
         }
       ]
     },
     {
       "name": "Financial Integrity",
-      "count": 8,
+      "count": 10,
       "children": [
         {
           "cluster_id": 23,
           "name": "Investor Psychology & Market Behavior",
           "summary": "The articles explore Warren Buffett's views on market bubbles, investor emotions, asset allocation, and long-term wealth management, highlighting key themes in behavioral finance and corporate governance.",
-          "count": 6,
+          "count": 8,
           "children": [
+            {
+              "name": "Fanatics CEO Michael Rubin on two sports businesses he'll never enter",
+              "summary": "…how you can make billions of dollars a year,\" he said. \"I don't want to be in that business; I want to be in a business where we can celebrate fandom like we're doing here.\"",
+              "hash": "66fba0a84f99135e",
+              "chunk_key": "66fba0a84f99135e_c004",
+              "article_date": "2026-07-17 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
               "summary": "Of that $36 trillion, they estimate that $28 trillion will go to savings and investments and $8 trillion will go to spending.",
               "hash": "129b934e98f42a60",
               "chunk_key": "129b934e98f42a60_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+              "summary": "…Huang has joked over the years about his founder's uniform — telling a podcast in 2023 that his wife and daughter dress him, and telling a Reddit discussion in 2016 that he's \"the …",
+              "hash": "c617b9d431aa07ea",
+              "chunk_key": "c617b9d431aa07ea_c001",
               "article_date": "2026-07-15 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -1664,8 +2034,8 @@
             }
           ],
           "ticker_summary": {
-            "MU": "Retail traders are buying shares of Micron and SpaceX.",
             "BRK-B": "Berkshire Hathaway’s B shares are down 1.8% year-to-date, trailing the S&P 500’s gain.",
+            "MU": "Retail traders are buying shares of Micron and SpaceX.",
             "SPCX": "Retail traders are buying shares of memory chipmakers and SpaceX, which may impact Space Exploration Technologies as a publicly traded company."
           }
         },
@@ -1889,8 +2259,8 @@
             }
           ],
           "ticker_summary": {
-            "UNH": "Shares of UnitedHealth Group increased nearly 6% in premarket trading following an earnings report that exceeded expectations and a raised profit outlook.",
-            "NYT": "New York Times journalists were subpoenaed by the Clayton, who defended his decision regarding a raid on a Georgia election office."
+            "NYT": "New York Times journalists were subpoenaed by the Clayton, who defended his decision regarding a raid on a Georgia election office.",
+            "UNH": "Shares of UnitedHealth Group increased nearly 6% in premarket trading following an earnings report that exceeded expectations and a raised profit outlook."
           }
         },
         {
@@ -1935,8 +2305,8 @@
             }
           ],
           "ticker_summary": {
-            "DJT": "Trump Media Technology Group reported a $406 million net loss in the first quarter of 2026 and went public through a blank-check merger.",
-            "META": "Meta Platforms’ decisions regarding Trump’s account led to the launch of Truth Social."
+            "META": "Meta Platforms’ decisions regarding Trump’s account led to the launch of Truth Social.",
+            "DJT": "Trump Media Technology Group reported a $406 million net loss in the first quarter of 2026 and went public through a blank-check merger."
           }
         }
       ]
