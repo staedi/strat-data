@@ -1,7 +1,7 @@
 {
   "name": "root",
   "mode": "full",
-  "updated_at": "2026-07-18T18:12:58.352096-04:00",
+  "updated_at": "2026-07-19T06:22:44.863750-04:00",
   "children": [
     {
       "name": "AI Economic Transformation",
@@ -248,6 +248,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.99,
+          "recent_count": 6,
           "ticker_context": {
             "TSLA": [
               "OpenAI has worried that Elon Musk's company's initial rally and subsequent fall signals retail investors may have less interest in buying, the report said.",
@@ -367,13 +369,13 @@
             }
           ],
           "ticker_summary": {
-            "TSLA": "Tesla’s Elon Musk is providing computing power to outside companies, potentially impacting the OpenAI ecosystem competition.",
+            "TSLA": "Tesla’s founder, Elon Musk, is involved with companies utilizing infrastructure that could impact the OpenAI ecosystem competition.",
             "AAPL": "Apple sued OpenAI alleging trade secret theft and claiming that OpenAI’s hardware chief directed Apple employees to reveal confidential information during interviews.",
-            "SPCX": "SpaceX is acquiring Cursor and securing computing power deals with Anthropic and Google to bolster its ambitions in enterprise AI applications.",
+            "SPCX": "SpaceX is acquiring Cursor and securing computing power agreements with Anthropic and Google to expand its efforts in AI coding.",
             "GOOG": "Google is competing with OpenAI through its AI models and cloud startup Fireworks.",
-            "NVDA": "Nvidia’s advanced chips are a key constraint for companies competing in the OpenAI ecosystem, and the Nvidia-backed company has exceeded $1 billion in annualized revenue.",
+            "NVDA": "Nvidia has agreed to provide advanced chips to Reflection, a company that has exceeded $1 billion in annualized revenue, and will continue to be a key supplier to companies competing in the OpenAI ecosystem.",
             "AMZN": "Amazon is seeking to deliver more differentiated experiences around Alexa by having more control over hardware and software integration, which is boosting cloud startup Fireworks.",
-            "COIN": "Coinbase is implementing cheaper models within its operations.",
+            "COIN": "Coinbase is implementing cheaper AI models where appropriate.",
             "MSFT": "Microsoft is enabling customers to utilize open AI models through its Fireworks service and Foundry service, relying on computing power from numerous suppliers.",
             "META": "Meta Platforms released the Muse Spark 1.1 AI model.",
             "BX": "Blackstone formed an AI services company with Anthropic, Hellman & Friedman, and Goldman Sachs."
@@ -548,6 +550,8 @@
               "value": 1
             }
           ],
+          "momentum": 2.09,
+          "recent_count": 7,
           "ticker_context": {
             "META": [
               "While Meta's stock popped on the news, it raised questions over whether this was a sign that there was broader overcapacity of compute out there.",
@@ -731,10 +735,10 @@
           ],
           "ticker_summary": {
             "META": "Meta Platforms’ stock declined as it may be renting out excess computing capacity, and its performance lagged behind other hyperscalers in the period.",
-            "ON": "ON Semiconductor expects to grow its addressable market by $30 billion, or $243 billion, by 2030 due to the acquisition of Synaptics and its pivot into physical AI.",
-            "QCOM": "Qualcomm’s non-handset revenue is projected to increase to $40 billion in fiscal 2029, up from a prior forecast of $22 billion, due to a new AI data center chip deal with Meta.",
-            "AAPL": "Apple’s shares surged almost 23% this year, driven by investor reward for its AI agenda and strong iPhone sales, and it briefly topped Nvidia as the world’s most valuable company.",
-            "MU": "Micron Technology’s market capitalization decreased by $138 billion as its memory business saw revenue multiply sevenfold, driven by 16 long-term agreements with data center operators and automakers.",
+            "ON": "On Semiconductor expects the acquisition to grow its addressable market by $30 billion by 2030 due to its pivot into physical AI.",
+            "QCOM": "Qualcomm shares jumped 15% after predicting non-handset revenue of $40 billion in fiscal 2029 and an expanded automotive design-win pipeline of $65 billion, driven by its AI chip and data center initiatives.",
+            "AAPL": "Apple's stock surged, and its market value briefly surpassed $4 trillion due to strong iPhone sales and investor interest in its AI agenda.",
+            "MU": "Micron Technology’s memory and data center solid state drive revenue multiplied, and its market capitalization decreased by $138 billion.",
             "MSFT": "Microsoft fell 3.5% after raising prices on Xbox consoles.",
             "NVDA": "Nvidia’s shares have been faltering recently, and the price of computing power for its B200 chip has also dropped.",
             "AMD": "Advanced Micro Devices dropped 7% in the second quarter.",
@@ -746,7 +750,7 @@
             "PANW": "Palo Alto Networks has experienced post-earnings declines due to the AI-driven semiconductor boom.",
             "SNDK": "Sandisk and Micron Technology experienced a decline in stock prices alongside the semiconductor ETF, and both have seen significant gains in the past month.",
             "GS": "Goldman Sachs Group is participating in reporting season.",
-            "JPM": "JPMorgan Chase is among the big names participating in reporting season.",
+            "JPM": "JPMorgan Chase is participating in reporting season.",
             "NFLX": "Netflix is participating in reporting season.",
             "GOOG": "Alphabet relies on Micron’s technology for the chips used in its processors.",
             "AMZN": "Amazon’s hyperscaler customers exhibited varied performance, with Meta experiencing a decline.",
@@ -877,6 +881,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.99,
+          "recent_count": 3,
           "ticker_context": {
             "LITE": [
               "Lumentum , which sells photonics and optical products for connectivity in the data center, said its products are sold out for the next five years.",
@@ -997,12 +1003,12 @@
           ],
           "ticker_summary": {
             "LITE": "Lumentum’s photonics and optical products are sold out for the next five years due to increased demand for AI data centers.",
-            "META": "Meta Platforms is exploring revenue generation through AI-powered services and leasing AI computing power to Anthropic.",
-            "NVDA": "Nvidia’s chips have been subject to export controls and the company has not yet generated revenue from China, despite agreements with companies like Anthropic.",
+            "META": "Meta Platforms is exploring and monetizing AI infrastructure by leasing computing power to Anthropic and developing AI-powered tools for advertising and content creation.",
+            "NVDA": "Nvidia’s chips have been subject to export controls, leading to the production of China-specific chips and a lack of revenue generation from exports to that region.",
             "NYT": "Shares of New York Times rose following a report suggesting a potential $10 billion deal related to AI-driven cloud expansion.",
             "AMZN": "Amazon.com plans to raise at least $25 billion to support investments, future capital expenditures, and debt repayment as part of its massive artificial intelligence buildout.",
             "GOOG": "Alphabet has entered a competitive market for AI-driven cloud expansion through lucrative deals with Anthropic.",
-            "MSFT": "Microsoft is taking advantage of tax rebates and energy deals to compete in a new and fiercely competitive market driven by AI-driven cloud expansion.",
+            "MSFT": "Microsoft is a competitor in the new and fiercely competitive market for AI-driven cloud expansion.",
             "OWL": "Blue Owl Capital’s joint venture with Meta is now projected to result in a facility exceeding the previously reported $27 billion buildout."
           }
         },
@@ -1067,6 +1073,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "AAPL": [
               "But while tech giants like Apple and Microsoft , which both announced price hikes this week, have a hefty cash cushion, supply chain leverage and customers numbering in the millions or billions, a much wider swath of businesses face potentially dire straits.",
@@ -1198,6 +1206,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.64,
+          "recent_count": 2,
           "ticker_context": {
             "AMZN": [
               "It's racing to open data centers alongside cloud giants Amazon , Microsoft and Google , but without being able to sell a full technology stack like its rivals.",
@@ -1277,10 +1287,10 @@
             }
           ],
           "ticker_summary": {
-            "EVR": "Evercore analysts, recommending the purchase of their stock, anticipate that discussions regarding financing and equity issuance will be a central focus for investors.",
-            "GOOG": "Alphabet's shares declined as investors questioned the return on its artificial intelligence spending, with researchers leaving for competitors and concerns about compute access.",
+            "EVR": "Evercore analysts recommend buying Oracle stock and anticipate that discussions about financing/leverage and equity issuance will be central to investor debates.",
+            "GOOG": "Alphabet's stock price declined as investors questioned the return on its artificial intelligence spending, with researchers leaving for competitors and concerns about compute access.",
             "MSFT": "Microsoft will join the blue-chip index alongside other tech peers as it seeks to reduce dependence on AI giants in a commoditized market.",
-            "ORCL": "Oracle’s debt has risen significantly, and its capital expenditures are increasing dramatically, raising concerns about balance sheet risk as it invests in AI infrastructure.",
+            "ORCL": "Oracle’s debt load has increased significantly, and its stock value has decreased substantially due to concerns about its investment in artificial intelligence.",
             "AAPL": "Apple’s Hong Kong-listed shares gained as the company collaborated with Baidu and Alibaba on integrating AI features into its services and iPhones in China."
           }
         },
@@ -1327,6 +1337,8 @@
               "value": 1
             }
           ],
+          "momentum": 3.29,
+          "recent_count": 2,
           "ticker_context": {
             "NVDA": [
               "It said India also has the broadest AI accelerator stack in APAC — spanning NVIDIA , AMD , and hyperscaler silicon — giving it a flexibility that most markets lack.",
@@ -1403,7 +1415,7 @@
           "ticker_summary": {
             "NVDA": "Nvidia is expanding its AI footprint into Japan’s industrial automation and healthcare sectors through partnerships with local companies like Kawasaki Heavy Industries and pharmaceutical firms.",
             "AMZN": "Amazon.com is receiving $21 billion in investment for AI and cloud infrastructure, and is purchasing gas turbines from a related company.",
-            "GOOG": "Alphabet is investing $15 billion to build an AI hub in India and is receiving gas turbine purchases from hyperscalers.",
+            "GOOG": "Alphabet is investing $15 billion to build the firm’s largest AI hub in India.",
             "MSFT": "Microsoft is purchasing gas turbines to power data centers as part of its AI infrastructure expansion.",
             "TSLA": "Tesla’s xAI Colossus 1 and OpenAI’s Stargate projects are deploying GE Vernova turbines, representing an expansion of AI-driven industrial facilities.",
             "GEV": "GE Vernova turbines are being deployed at data centers operated by xAI and OpenAI.",
@@ -1414,7 +1426,7 @@
     },
     {
       "name": "Consumer & Market Shifts",
-      "count": 34,
+      "count": 32,
       "children": [
         {
           "cluster_id": 11,
@@ -1477,6 +1489,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.64,
+          "recent_count": 2,
           "ticker_context": {
             "CAVA": [
               "Other food companies that sell fresh lettuce also saw their shares drop, like salad chain Sweetgreen , which plunged nearly 13% this week, and fast casual chain Cava , which sank more than 3%.",
@@ -1573,15 +1587,15 @@
           ],
           "ticker_summary": {
             "CAVA": "Shares of Cava sank more than 2% this week, mirroring a decline in other food companies selling fresh lettuce.",
-            "CMG": "Chipotle Mexican Grill needs to restore customer trust following a health scare related to its ingredients.",
-            "MCD": "McDonald's will need to regain customers' trust, similar to other restaurants, after health scares.",
-            "WEN": "Wendy's shares have experienced a rapid and substantial increase in trading volume driven by social media enthusiasm and retail traders, seemingly disconnected from the company's underlying fundamentals.",
+            "CMG": "Chipotle Mexican Grill needs to restore customer trust following a health scare, similar to other restaurants.",
+            "MCD": "McDonald's will need to regain customers' trust, similar to how other restaurants have recovered after health scares.",
+            "QSR": "Restaurant Brands International may experience a temporary sales hit due to headlines about a lettuce-related outbreak at Taco Bell.",
+            "WEN": "Wendy's shares have been targeted by retail traders, experiencing a rally driven by social media engagement and a \"Save Wendy's\" campaign, resulting in abnormally high levels of retail buying.",
             "YUM": "Yum! Brands’ stock experienced a decline following a health scare.",
             "SPCX": "Space Exploration Technologies’ recent IPO follows a trend of companies seeking public markets.",
+            "WMT": "Walmart is alerting customers about a food safety recall involving greens sold at its stores in specific states.",
             "GME": "GameStop is an example of a stock receiving longer-term support from individual traders.",
-            "RDDT": "Don Bilson, head of event-driven research at Gordon Haskett, wrote a note regarding Reddit's stock.",
-            "QSR": "Restaurant Brands International may experience a temporary sales hit due to headlines about a lettuce-related outbreak at Taco Bell.",
-            "WMT": "Walmart is alerting customers in Alabama, Indiana, and West Virginia about a potential health and safety issue related to greens sold at its stores."
+            "RDDT": "Don Bilson, head of event-driven research at Gordon Haskett, wrote a note regarding Reddit's stock."
           }
         },
         {
@@ -1645,6 +1659,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.66,
+          "recent_count": 1,
           "ticker_context": {
             "CHWY": [
               "Online retailer Chewy has also broadened into pharmacy subscriptions and veterinary clinics."
@@ -1714,15 +1730,15 @@
             }
           ],
           "ticker_summary": {
-            "LLY": "Novo Nordisk spent significantly more on advertising for its obesity drugs than Eli Lilly did, suggesting a competitive dynamic in the market for obesity treatments.",
-            "REGN": "Regeneron Pharmaceuticals will produce monoclonal antibodies for other customers as parts of its site open.",
-            "UPS": "United Parcel Service is investing $48 million to build 27 temperature-controlled facilities due to a boom in healthcare logistics.",
             "CHWY": "Chewy has expanded its business model by offering pharmacy subscriptions and veterinary clinics.",
             "CL": "Colgate-Palmolive’s Hill’s and Freshpet subsidiaries are expanding health-focused nutrition.",
             "ELAN": "Elanco Animal Health is positioned to benefit through therapeutics and diagnostics.",
             "IDXX": "IDEXX Laboratories is positioned to benefit through diagnostics, as an animal-health company.",
             "MS": "Morgan Stanley estimates growth in U.S. pet spending, projecting a rise from $196 billion in 2025 to $240 billion by 2030.",
-            "ZTS": "Zoetis, as an animal-health company, is positioned to benefit through therapeutics and diagnostics."
+            "ZTS": "Zoetis, as an animal-health company, is positioned to benefit through therapeutics and diagnostics.",
+            "LLY": "Novo Nordisk’s increased advertising spending for obesity drugs resulted in Lilly spending less on promotional advertising for its competing obesity and diabetes medications.",
+            "REGN": "Regeneron Pharmaceuticals will produce monoclonal antibodies for other customers as parts of its site open.",
+            "UPS": "United Parcel Service is investing $48 million to build 27 temperature-controlled facilities due to a boom in healthcare logistics."
           }
         },
         {
@@ -1768,6 +1784,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.1,
+          "recent_count": 1,
           "ticker_context": {
             "COLM": [
               "The CEOs of Timberland owner VF Corp. , Levi's , and Columbia Sportswear have all recently highlighted women as a key focus as they look to boost revenues and broaden their customer bases.",
@@ -1824,101 +1842,11 @@
             }
           ],
           "ticker_summary": {
-            "COLM": "Columbia Sportswear is pursuing a strategy mirroring other major apparel brands to focus on women as a key element in revenue growth and expanding their customer base.",
+            "COLM": "Columbia Sportswear is pursuing a strategy mirroring its competitors, VF Corp., Levi's, and their CEOs, by focusing on women as a key element for revenue growth and expanded customer bases.",
             "VFC": "VF Corp. experienced companywide sales growth in fiscal 2026, driven by expansion of women-focused products within brands like Timberland and The North Face.",
-            "FDX": "FedEx received a cash dividend of approximately $4.1 billion from the spun-off FedEx Freight business.",
-            "NKE": "Nike reported a decrease in net income from $1.07 billion to $3.11 billion over the period, alongside workforce reductions.",
-            "EL": "Estée Lauder’s brands, including The Ordinary, are incorporating ingredients popular in the K-beauty space."
-          }
-        },
-        {
-          "cluster_id": 31,
-          "name": "Airlines in Transition",
-          "summary": "The shift in airline business models, driven by fuel costs, consumer preferences, and scale, is reshaping low-cost carrier viability and route strategies.",
-          "count": 4,
-          "children": [
-            {
-              "name": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
-              "summary": "The U.S. government on Friday said Boeing can once again issue airworthiness certificates for its bestselling 737 Max aircraft and 787 Dreamliners, an authority that was stripped f…",
-              "hash": "c27d46e2bb56a497",
-              "chunk_key": "c27d46e2bb56a497_c000",
-              "article_date": "2026-07-16 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump exclusive, prediction markets jump and more in Morning Squawk",
-              "summary": "…in partnership with the Fidelity Center for Applied Technology.",
-              "hash": "f704e5b616a8f9d9",
-              "chunk_key": "f704e5b616a8f9d9_c002",
-              "article_date": "2026-07-04 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "American Airlines brings grab-and-go lounge to New York's JFK",
-              "summary": "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in…",
-              "hash": "bc4490b504ee3b3a",
-              "chunk_key": "bc4490b504ee3b3a_c000",
-              "article_date": "2026-06-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "The budget airline model in the U.S. is running out of runway",
-              "summary": "…low-cost carrier, compared to approximately 17–18% of Gen Xers and baby boomers.",
-              "hash": "adc276d798fda74e",
-              "chunk_key": "adc276d798fda74e_c009",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "UAL": [
-              "\"You need scale in order to compete, but to compete, you need scale,\" Potter said, noting that the Big Three airlines — American, Delta and United especially — have used their scale and their lucrative loyalty and credit card programs to muscle out smaller carriers.",
-              "United Airlines' results tell a similar story, with $3.5 billion in adjusted net profit for 2025 — up 6% — and premium seat revenue jumping 11% for the full year.",
-              "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in more than four years as it continues its fight for high-paying customers to close a profit gap with Delta Air Lines and United Airlines ."
-            ],
-            "ALK": [
-              "American operates out of JFK's Terminal 8, which is shared by its Oneworld Alliance partners, Japan Airlines, Alaska Airlines , British Airways and others."
-            ],
-            "AAL": [
-              "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in more than four years as it continues its fight for high-paying customers to close a profit gap with Delta Air Lines and United Airlines ."
-            ],
-            "BA": [
-              "The decision is a vote of confidence for Boeing, one of the biggest U.S. exporters by value, from its regulator and the U.S. government after years of safety crises, including the two crashes and a near catastrophe in January 2024 when a door plug blew off of a new 737 Max 9 moments into the flight.",
-              "The U.S. government on Friday said Boeing can once again issue airworthiness certificates for its bestselling 737 Max aircraft and 787 Dreamliners, an authority that was stripped from the manufacturer after fatal crashes in 2018 and 2019 of the 737 Max.",
-              "The Federal Aviation Administration said last September that Boeing could ticket its own planes before they're handed off to customers for only some of the Maxes and Dreamliners, alternating weeks between the FAA and Boeing doing that work."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "UAL",
-              "name": "United Airlines",
-              "count": 3
-            },
-            {
-              "ticker": "BA",
-              "name": "Boeing",
-              "count": 3
-            },
-            {
-              "ticker": "ALK",
-              "name": "Alaska Air Group",
-              "count": 1
-            },
-            {
-              "ticker": "AAL",
-              "name": "American Airlines Group",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "UAL": "United Airlines’ results show increased premium seat revenue, and it is competing with Delta Air Lines to attract high-paying customers.",
-            "ALK": "Alaska Airlines shares a terminal with its Oneworld Alliance partners.",
-            "AAL": "American Airlines Group is expanding its airport facilities to attract high-paying customers.",
-            "BA": "Boeing can once again issue airworthiness certificates for its 737 Max and 787 Dreamliners after regaining authority from the U.S. government."
+            "FDX": "FedEx reported $21.57 billion in FedEx Express revenue, exceeding estimates, and received a $4.1 billion cash dividend from the spun-off FedEx Freight.",
+            "NKE": "Nike reported a decline in net income, indicating challenges in its sportswear and streetwear segments.",
+            "EL": "Estée Lauder’s brands are incorporating ingredients popularized by the K-beauty space."
           }
         },
         {
@@ -1955,6 +1883,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.64,
+          "recent_count": 1,
           "ticker_context": {
             "TGT": [
               "\"Investors are not supporting Target's leadership because it mismanaged the company's workforce, hurt the brand, and damaged shareholder value,\" DiNapoli said.",
@@ -2016,9 +1946,9 @@
             }
           ],
           "ticker_summary": {
-            "WMT": "Walmart is losing market share to competitors and online retailers.",
             "TGT": "Shareholder backing for Target’s former CEO and current Executive Chairman Cornell fell to its lowest level ever during the company’s annual general meeting, suggesting investor pressure for change.",
-            "AMZN": "Amazon is growing as an online retailer, competing for market share in the beauty products sector.",
+            "AMZN": "Amazon is growing as an online retailer, competing for market share in the K-beauty sector.",
+            "WMT": "Walmart is losing market share to competitors and online retailers.",
             "EL": "Estée Lauder’s brands are incorporating ingredients popularized by the K-beauty space.",
             "ULTA": "Ulta Beauty is positioned to benefit from the rising popularity of K-beauty in the U.S."
           }
@@ -2057,6 +1987,8 @@
               "value": 1
             }
           ],
+          "momentum": 6.57,
+          "recent_count": 2,
           "ticker_context": {
             "ALNY": [
               "Both Goldman Sachs and Bank of America highlighted that investors had not seriously considered the possibility of the trial failing, given the favorable precedent from Alnylam's rival drug Amvuttra that works similarly."
@@ -2120,7 +2052,7 @@
           ],
           "ticker_summary": {
             "AZN": "AstraZeneca’s failed Wainua trial is causing investors to reassess the credibility of its broader pipeline and execution capabilities.",
-            "LLY": "Eli Lilly is acquiring AtaiBeckley for $2.8 billion up front and up to $1 billion additional, indicating a continued investment in psychedelic drug development for mental health treatments.",
+            "LLY": "Eli Lilly is acquiring AtaiBeckley for $2.8 billion up front and up to $1 billion additional, indicating a continued investment in its pharmaceutical pipeline.",
             "UNH": "Rising healthcare costs are leading to premium increases and membership losses for UnitedHealth Group, despite improved management of medical expenses and operational streamlining."
           }
         },
@@ -2158,6 +2090,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.64,
+          "recent_count": 1,
           "ticker_context": {
             "SBUX": [
               "Starbucks introduced protein coffees sold in its stores across the U.S., Canada, and Europe in the past year to capitalize on the frenzy for multipurpose wellness drinks — an expansion of its ready-to-drink protein coffees in supermarkets launched in 2024.",
@@ -2209,6 +2143,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "AXP": [
               "Credit card companies American Express and Chase are increasingly waging their luxury lounge wars outside the airport.",
@@ -2263,14 +2199,89 @@
           "ticker_summary": {
             "AXP": "American Express’ credit card fees are projected to total nearly $10 billion in 2025, an 18% increase from 2024, driven by a shift in marketing dollars toward premium offerings and partnerships with luxury experiences like Formula 1.",
             "JPM": "JPMorgan Chase is engaging in a competitive strategy within the luxury experience economy by partnering with businesses like Marriott and offering exclusive lounge access to its premium cardholders.",
-            "WFC": "Wells Fargo’s managing director of consumer finance equity research believes issuers are leveraging premium differentiation through expensive luxury experiences."
+            "WFC": "Wells Fargo’s managing director of consumer finance equity research believes issuers are leveraging expensive luxury experiences as a premium differentiator."
+          }
+        },
+        {
+          "cluster_id": 31,
+          "name": "Airlines in Transition",
+          "summary": "The shift in airline business models, driven by fuel costs, consumer preferences, and scale, is reshaping low-cost carrier viability and route strategies.",
+          "count": 3,
+          "children": [
+            {
+              "name": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+              "summary": "The U.S. government on Friday said Boeing can once again issue airworthiness certificates for its bestselling 737 Max aircraft and 787 Dreamliners, an authority that was stripped f…",
+              "hash": "c27d46e2bb56a497",
+              "chunk_key": "c27d46e2bb56a497_c000",
+              "article_date": "2026-07-16 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump exclusive, prediction markets jump and more in Morning Squawk",
+              "summary": "…in partnership with the Fidelity Center for Applied Technology.",
+              "hash": "f704e5b616a8f9d9",
+              "chunk_key": "f704e5b616a8f9d9_c002",
+              "article_date": "2026-07-04 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "American Airlines brings grab-and-go lounge to New York's JFK",
+              "summary": "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in…",
+              "hash": "bc4490b504ee3b3a",
+              "chunk_key": "bc4490b504ee3b3a_c000",
+              "article_date": "2026-06-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "momentum": 1.64,
+          "recent_count": 1,
+          "ticker_context": {
+            "ALK": [
+              "American operates out of JFK's Terminal 8, which is shared by its Oneworld Alliance partners, Japan Airlines, Alaska Airlines , British Airways and others."
+            ],
+            "AAL": [
+              "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in more than four years as it continues its fight for high-paying customers to close a profit gap with Delta Air Lines and United Airlines ."
+            ],
+            "UAL": [
+              "American Airlines is planning to open a new grab-and-go lounge at New York's John F. Kennedy International Airport by the end of this year, its first new facility at the airport in more than four years as it continues its fight for high-paying customers to close a profit gap with Delta Air Lines and United Airlines ."
+            ],
+            "BA": [
+              "The decision is a vote of confidence for Boeing, one of the biggest U.S. exporters by value, from its regulator and the U.S. government after years of safety crises, including the two crashes and a near catastrophe in January 2024 when a door plug blew off of a new 737 Max 9 moments into the flight.",
+              "The U.S. government on Friday said Boeing can once again issue airworthiness certificates for its bestselling 737 Max aircraft and 787 Dreamliners, an authority that was stripped from the manufacturer after fatal crashes in 2018 and 2019 of the 737 Max.",
+              "The Federal Aviation Administration said last September that Boeing could ticket its own planes before they're handed off to customers for only some of the Maxes and Dreamliners, alternating weeks between the FAA and Boeing doing that work."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "BA",
+              "name": "Boeing",
+              "count": 3
+            },
+            {
+              "ticker": "ALK",
+              "name": "Alaska Air Group",
+              "count": 1
+            },
+            {
+              "ticker": "AAL",
+              "name": "American Airlines Group",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "ALK": "Alaska Airlines shares a terminal with its Oneworld Alliance partners.",
+            "AAL": "American Airlines Group is establishing a new lounge to attract high-paying customers and address a profit gap with competitors.",
+            "BA": "Boeing can once again issue airworthiness certificates for its 737 Max and 787 Dreamliners after regaining authority from the U.S. government."
           }
         },
         {
           "cluster_id": 21,
           "name": "Food retail consumer pressure",
           "summary": "Shrinking consumer spending and shifting SNAP restrictions are forcing major food companies to adapt product lines, pricing, and marketing in response to rising grocery costs and demand for healthier, less processed options.",
-          "count": 2,
+          "count": 1,
           "children": [
             {
               "name": "U.S. grocery slowdown deepens as shoppers buy fewer items",
@@ -2280,38 +2291,15 @@
               "article_date": "2026-07-15 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "SNAP restrictions could change what shoppers buy — and food giants are watching",
-              "summary": "The growing push to restrict Americans from using federal food aid to buy certain processed or sugary products is creating a new challenge for some of the biggest U.S. food and bev…",
-              "hash": "829b1188376dde08",
-              "chunk_key": "829b1188376dde08_c000",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
+          "momentum": null,
+          "recent_count": 1,
           "ticker_context": {
-            "GIS": [
-              "General Mills, Kraft Heinz and Target have all pledged to phase out certain artificial colors and additives by 2027 or sooner.",
-              "Many of the products most exposed to the changes are produced by some of the largest companies in the industry like Kraft Heinz , PepsiCo , Coca-Cola , General Mills , Nestle and others."
-            ],
-            "HSY": [
-              "At a Goldman Sachs conference in May, Hershey said it has researchers in Texas conducting in-store interviews with shoppers who receive SNAP benefits to understand how purchasing behavior is shifting under new restrictions in the state."
-            ],
-            "KHC": [
-              "General Mills, Kraft Heinz and Target have all pledged to phase out certain artificial colors and additives by 2027 or sooner.",
-              "Many of the products most exposed to the changes are produced by some of the largest companies in the industry like Kraft Heinz , PepsiCo , Coca-Cola , General Mills , Nestle and others."
-            ],
             "KR": [
-              "Kroger CEO Greg Foran said on the company's first-quarter earnings call on Thursday that customers remain under pressure in part due to reduced SNAP benefits, as well as higher gas prices, \"squeezing budgets.\"",
               "Those results align with a broader shift across the grocery industry, where retailers including Walmart and Kroger have emphasized price cuts and value-focused promotions to attract shoppers."
             ],
-            "TGT": [
-              "General Mills, Kraft Heinz and Target have all pledged to phase out certain artificial colors and additives by 2027 or sooner."
-            ],
             "WMT": [
-              "Walmart is particularly exposed to SNAP spending, capturing roughly a quarter of all SNAP grocery dollars nationwide, according to Numerator.",
               "Those results align with a broader shift across the grocery industry, where retailers including Walmart and Kroger have emphasized price cuts and value-focused promotions to attract shoppers.",
               "Walmart announced summer price cuts to beef, ice cream and other items including products made by PepsiCo, Coca-Cola and the company's own private label Great Value."
             ]
@@ -2320,273 +2308,25 @@
             {
               "ticker": "WMT",
               "name": "Walmart",
-              "count": 3
-            },
-            {
-              "ticker": "GIS",
-              "name": "General Mills",
-              "count": 2
-            },
-            {
-              "ticker": "KHC",
-              "name": "Kraft Heinz",
               "count": 2
             },
             {
               "ticker": "KR",
               "name": "Kroger",
-              "count": 2
-            },
-            {
-              "ticker": "TGT",
-              "name": "Target",
               "count": 1
             }
           ],
           "ticker_summary": {
-            "GIS": "General Mills is among the largest companies in the industry facing pressure to phase out certain artificial colors and additives.",
-            "KHC": "Kraft Heinz is among the largest companies in the industry facing pressure to phase out certain artificial colors and additives.",
-            "KR": "Kroger’s CEO indicated that reduced SNAP benefits and higher gas prices are putting pressure on customers, leading to a shift in the grocery industry toward price cuts and value promotions.",
-            "TGT": "Target is aligning with General Mills and Kraft Heinz to reduce artificial colors and additives.",
-            "WMT": "Walmart is exposed to consumer pressure due to its capture of a significant portion of SNAP grocery spending and its response with price cuts."
+            "KR": "Kroger is experiencing a shift across the grocery industry, similar to Walmart, where retailers are emphasizing price cuts and value-focused promotions to attract shoppers.",
+            "WMT": "Walmart is implementing price cuts and value-focused promotions to respond to shifts in the grocery industry."
           }
         }
       ]
     },
     {
       "name": "Digital Finance Evolution",
-      "count": 73,
+      "count": 72,
       "children": [
-        {
-          "cluster_id": 70,
-          "name": "AI-driven semiconductor volatility",
-          "summary": "Global semiconductor stocks and AI-related tech are experiencing significant price swings due to AI infrastructure costs, memory demand, and sector rotation.",
-          "count": 16,
-          "children": [
-            {
-              "name": "Grocery sales, United earnings and more: Morning Squawk",
-              "summary": "Planning a road trip this summer? If Kalshi traders are right, you could once again be shelling out $4 a gallon for gas.",
-              "hash": "c45693122268b25d",
-              "chunk_key": "c45693122268b25d_c000",
-              "article_date": "2026-07-15 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Netflix earnings, Trump's approval rating and more: Morning Squawk",
-              "summary": "There are vastly different numbers floating around about the great wealth transfer. CNBC's Robert Frank explains why the estimates can vary so widely.",
-              "hash": "7a8fe15df43d4c0e",
-              "chunk_key": "7a8fe15df43d4c0e_c000",
-              "article_date": "2026-07-15 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Big Tech rally drowns out Iran war fears  Buffett urges caution",
-              "summary": "The U.S. conducted several rounds of strikes on Iran on Wednesday, while President Donald Trump said the pressure was working, telling reporters that Iran now wants to meet.",
-              "hash": "1e07bdef80a0af08",
-              "chunk_key": "1e07bdef80a0af08_c000",
-              "article_date": "2026-07-13 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
-              "summary": "I spent the weekend on an overnight trail race in Vermont. Even if you stayed home, you likely still felt inflation's pinch. Stock futures are lower this morning.",
-              "hash": "61c1dda87bc0862b",
-              "chunk_key": "61c1dda87bc0862b_c000",
-              "article_date": "2026-07-12 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-              "summary": "Stock futures fell on Monday, with chipmakers following international peers sharply lower in premarket trade, as traders weighed the latest events in the Middle East and braced for…",
-              "hash": "d7a7b5ca0eb308b4",
-              "chunk_key": "d7a7b5ca0eb308b4_c000",
-              "article_date": "2026-07-12 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump exclusive, prediction markets jump and more in Morning Squawk",
-              "summary": "I spent part of the weekend catsitting for a friend, which meant I could run their AC instead of mine during the heat wave. Stock futures are mixed this morning.",
-              "hash": "f704e5b616a8f9d9",
-              "chunk_key": "f704e5b616a8f9d9_c000",
-              "article_date": "2026-07-04 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Global stock markets mixed as Europe's benchmark hits 52-week high",
-              "summary": "Global stock markets moved higher on Friday, after U.S. equities closed mixed on Wall Street in New York's final trading session of the week.",
-              "hash": "50eddbafcb72e872",
-              "chunk_key": "50eddbafcb72e872_c000",
-              "article_date": "2026-07-02 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "CNBC Daily Open: Trump on 'nothing illegal,' family matters and foregoing the Presidential salary",
-              "summary": ", with payrolls growth coming in at just 57,000, worse than the 115,000 consensus forecast from Dow Jones, and slower than May's revised 129,000.",
-              "hash": "3dbd14fa2817b620",
-              "chunk_key": "3dbd14fa2817b620_c001",
-              "article_date": "2026-07-01 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Stock futures are little changed after weak start to July trading; jobs report ahead",
-              "summary": "Stock futures traded near the flatline on Wednesday night after Wall Street began a new month of trading on a somewhat sour note, with traders awaiting the latest batch of U.S. emp…",
-              "hash": "9eb6d507cf4a1597",
-              "chunk_key": "9eb6d507cf4a1597_c000",
-              "article_date": "2026-06-30 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Kalshi traders expect this week's jobs report will disappoint Wall Street outlook",
-              "summary": "Kalshi traders are differing with Dow Jones consensus on Thursday's job report from the Bureau of Labor Statistics.",
-              "hash": "52de8153d0500ead",
-              "chunk_key": "52de8153d0500ead_c000",
-              "article_date": "2026-06-27 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "CNBC Daily Open: One session, two major sell-offs",
-              "summary": "Sell-off number one: The global tech sell-off is deepening , with the moves in Asia particularly severe.",
-              "hash": "091c5d40af10321c",
-              "chunk_key": "091c5d40af10321c_c000",
-              "article_date": "2026-06-25 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Global tech sell-off deepens as South Korea's Kospi sinks 4%, S&P 500 futures fall",
-              "summary": "S&P 500 futures fell early Friday while Asia-Pacific markets tumbled as a global sell-off in technology stocks gathered pace amid mounting concerns over the rising cost of artifici…",
-              "hash": "647526d9eaff5708",
-              "chunk_key": "647526d9eaff5708_c000",
-              "article_date": "2026-06-25 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "CNBC Daily Open: Oil worries flare as tech's winners split from the pack",
-              "summary": "…higher output quota and has warned the group it could leave if demands are not met.",
-              "hash": "fa71c69f53c1507d",
-              "chunk_key": "fa71c69f53c1507d_c001",
-              "article_date": "2026-06-24 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Stock futures are little changed as traders look ahead to Micron's earnings",
-              "summary": "U.S. stock futures were near flat Tuesday night as traders looked ahead to the release of Micron Technology 's earnings report S&P 500 futures and Nasdaq 100 futures slipped less t…",
-              "hash": "371931624ad154ae",
-              "chunk_key": "371931624ad154ae_c000",
-              "article_date": "2026-06-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "U.S.- Iran roadmap, Greenspan dies at 100 and more: Morning Squawk",
-              "summary": "Struggling to find a a job? You might want to look in Nevada. The Silver State saw its workforce grow by 1.9% between April 2025 and April 2026 — the highest of any U.S. state.",
-              "hash": "62658b86a00cf7c8",
-              "chunk_key": "62658b86a00cf7c8_c000",
-              "article_date": "2026-06-20 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal",
-              "summary": "Global stock markets closed broadly lower on Friday, with most European and Asia-Pacific exchanges finishing in negative territory, as investors assessed the durability of a U.S.-b…",
-              "hash": "c223625c6185496a",
-              "chunk_key": "c223625c6185496a_c000",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "MSFT": [
-              "Microsoft dropped more than 3% after announcing higher prices on its Xbox gaming consoles , citing surging component costs."
-            ],
-            "MU": [
-              "U.S. stock futures were near flat Tuesday night as traders looked ahead to the release of Micron Technology 's earnings report S&P 500 futures and Nasdaq 100 futures slipped less than 0.1%.",
-              "The VanEck Semiconductor ETF (SMH) lost 5.4%, with Micron Technology and Sandisk dropping more than 10% each.",
-              "Shares in Micron Technology were down 4%, as were shares of Sandisk .",
-              "Memory maker Micron surged 15% after posting blockbuster earnings, fueled by growing demand for memory amid the artificial intelligence boom."
-            ],
-            "HOOD": [
-              "Speaking to CNBC, the CEO of Robinhood Vlad Tenev, says AI agents will soon be able to match human traders , as agentic technology disrupts the investing space."
-            ],
-            "AAPL": [
-              "Apple sued OpenAI on Friday, alleging that the artificial intelligence startup stole trade secrets as part of its effort to develop its own hardware products.",
-              "Apple shares slid more than 6% overnight, their steepest decline since April 2025, after the company announced price hikes on MacBooks and iPads, adding another headwind for the sector."
-            ],
-            "SNDK": [
-              "The VanEck Semiconductor ETF (SMH) lost 5.4%, with Micron Technology and Sandisk dropping more than 10% each."
-            ],
-            "UAL": [
-              "United said it would cover as much as 90% of the elevated costs in the current quarter and all of it in the final three months of the year.",
-              "Here's what else to know: United Airlines beat Wall Street's second-quarter expectations on both lines."
-            ],
-            "UNH": [
-              "Shares of UnitedHealth are nearly 6% higher in premarket trading after the insurer blew past Wall Street's expectations for the second quarter and raised its profit outlook for the full year."
-            ],
-            "AMD": [
-              "Elsewhere, Advanced Micro Devices was 2% lower, along with Intel ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "MU",
-              "name": "Micron Technology",
-              "count": 4
-            },
-            {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 2
-            },
-            {
-              "ticker": "UAL",
-              "name": "United Airlines",
-              "count": 2
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
-            },
-            {
-              "ticker": "HOOD",
-              "name": "Robinhood Markets",
-              "count": 1
-            },
-            {
-              "ticker": "SNDK",
-              "name": "Sandisk",
-              "count": 1
-            },
-            {
-              "ticker": "UNH",
-              "name": "UnitedHealth Group",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "MSFT": "Microsoft’s stock price decreased following an increase in Xbox console prices due to rising component costs.",
-            "MU": "Shares in Micron Technology were down 4%, as were shares of Sandisk.",
-            "HOOD": "Robinhood’s CEO suggests agentic technology will disrupt the investing space.",
-            "AAPL": "Apple shares slid significantly following a lawsuit alleging trade secret theft related to AI development.",
-            "SNDK": "Sandisk dropped more than 10%.",
-            "UAL": "United Airlines plans to cover a significant portion of increased costs, including 90% in the current quarter and all in the final three months of the year.",
-            "UNH": "UnitedHealth Group’s shares increased by nearly 6% in premarket trading due to exceeding profit expectations.",
-            "AMD": "Advanced Micro Devices was 2% lower alongside Intel."
-          }
-        },
         {
           "cluster_id": 3,
           "name": "Prediction market regulation",
@@ -2729,6 +2469,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.64,
+          "recent_count": 5,
           "ticker_context": {
             "GOOG": [
               "In May, federal prosecutors charged a Google employee, Michele Spagnuolo , with fraud in connection with Polymarket contracts that allegedly were based on internal company data related to Google's \"Year in Search\" lists.",
@@ -2831,10 +2573,11 @@
             }
           ],
           "ticker_summary": {
-            "GOOG": "Alphabet employee Michele Spagnuolo was charged with fraud for using internal company data to trade on prediction markets.",
+            "GOOG": "Alphabet employees have been charged with using internal company data to trade on prediction markets, potentially leading to regulatory scrutiny.",
             "AAPL": "Apple’s stock may be impacted by potential timing of a highly anticipated product launch.",
             "NVDA": "Nvidia’s stock is referenced in a prediction market contract.",
             "TW": "Clarification from regulatory agencies is critical for Tradeweb Markets’ clients who trade on prediction markets.",
+            "GS": "Goldman Sachs has banned its employees from trading on contracts related to events like elections, financial markets, and macroeconomic data to limit the risk of insider trading.",
             "BAC": "Bank of America is updating policies to address prohibited activities for employees regarding trading on prediction market platforms.",
             "HOOD": "Robinhood’s trading platform declined after a report about prediction market regulation.",
             "DKNG": "DraftKings’ stock fell more than 2% following a report indicating that regulatory scrutiny of prediction markets could disrupt the company’s sports gambling business.",
@@ -2842,8 +2585,7 @@
             "PLTR": "Palantir Technologies will monitor suspicious activity related to its sports-related contracts.",
             "MRSH": "Smarsh, a compliance technology company, suggests that Marsh McLennan benefits from explicitly mentioning prediction markets in its policies.",
             "UAL": "United Airlines’ employee guidelines prevent the use of position-based or confidential information for personal gain in prediction market trading.",
-            "META": "Meta Platforms is developing a separate prediction markets platform, “Arena,” to leverage its user base.",
-            "GS": "Goldman Sachs has banned its employees from trading on contracts related to events like elections, financial markets, and macroeconomic data to limit the risk of insider trading."
+            "META": "Meta Platforms is developing a separate prediction markets platform, “Arena,” to leverage its user base."
           }
         },
         {
@@ -2988,6 +2730,8 @@
               "value": 1
             }
           ],
+          "momentum": 2.19,
+          "recent_count": 6,
           "ticker_context": {
             "GS": [
               "Heightened activity fueled by the global artificial intelligence boom propelled JPMorgan and Goldman to beat estimates for equities trading by a combined $4.4 billion, while investment banking at the two firms topped estimates by a combined $1 billion.",
@@ -3134,7 +2878,7 @@
             }
           ],
           "ticker_summary": {
-            "GS": "Goldman Sachs saw revenue jump 39% to $20.3 billion, driven by massive gains in equities trading and investment banking, fueled by the AI cycle.",
+            "GS": "Goldman Sachs saw its revenue jump 39% to $20.3 billion, driven by massive gains in equities trading and investment banking, fueled by the AI boom.",
             "JPM": "JPMorgan Chase posted record quarterly revenue hauls, driven by massive gains in equities trading and investment banking, and is participating in a $1.5 trillion initiative to finance sectors critical to U.S. economic and national security.",
             "MS": "Morgan Stanley posted record revenue and profit, and is expected to continue benefiting from increased fees related to the SpaceX IPO and related activities.",
             "C": "Citigroup is among the U.S. investment banks projected to experience reductions in capital buffers if this year's results were used for capital requirements.",
@@ -3149,6 +2893,229 @@
             "FITB": "Because commercial lending constitutes a larger portion of its business, Fifth Third Bancorp may benefit from the trend of AI-driven financial growth.",
             "LMT": "Lockheed Martin has been awarded management of $30 billion in pension assets through Goldman Sachs.",
             "VZ": "Verizon Communications has secured $70 billion in retirement assets managed by Goldman Sachs."
+          }
+        },
+        {
+          "cluster_id": 70,
+          "name": "AI-driven semiconductor volatility",
+          "summary": "Global semiconductor stocks and AI-related tech are experiencing significant price swings due to AI infrastructure costs, memory demand, and sector rotation.",
+          "count": 15,
+          "children": [
+            {
+              "name": "Grocery sales, United earnings and more: Morning Squawk",
+              "summary": "Planning a road trip this summer? If Kalshi traders are right, you could once again be shelling out $4 a gallon for gas.",
+              "hash": "c45693122268b25d",
+              "chunk_key": "c45693122268b25d_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Netflix earnings, Trump's approval rating and more: Morning Squawk",
+              "summary": "There are vastly different numbers floating around about the great wealth transfer. CNBC's Robert Frank explains why the estimates can vary so widely.",
+              "hash": "7a8fe15df43d4c0e",
+              "chunk_key": "7a8fe15df43d4c0e_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Big Tech rally drowns out Iran war fears  Buffett urges caution",
+              "summary": "The U.S. conducted several rounds of strikes on Iran on Wednesday, while President Donald Trump said the pressure was working, telling reporters that Iran now wants to meet.",
+              "hash": "1e07bdef80a0af08",
+              "chunk_key": "1e07bdef80a0af08_c000",
+              "article_date": "2026-07-13 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
+              "summary": "I spent the weekend on an overnight trail race in Vermont. Even if you stayed home, you likely still felt inflation's pinch. Stock futures are lower this morning.",
+              "hash": "61c1dda87bc0862b",
+              "chunk_key": "61c1dda87bc0862b_c000",
+              "article_date": "2026-07-12 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
+              "summary": "Stock futures fell on Monday, with chipmakers following international peers sharply lower in premarket trade, as traders weighed the latest events in the Middle East and braced for…",
+              "hash": "d7a7b5ca0eb308b4",
+              "chunk_key": "d7a7b5ca0eb308b4_c000",
+              "article_date": "2026-07-12 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump exclusive, prediction markets jump and more in Morning Squawk",
+              "summary": "I spent part of the weekend catsitting for a friend, which meant I could run their AC instead of mine during the heat wave. Stock futures are mixed this morning.",
+              "hash": "f704e5b616a8f9d9",
+              "chunk_key": "f704e5b616a8f9d9_c000",
+              "article_date": "2026-07-04 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Global stock markets mixed as Europe's benchmark hits 52-week high",
+              "summary": "Global stock markets moved higher on Friday, after U.S. equities closed mixed on Wall Street in New York's final trading session of the week.",
+              "hash": "50eddbafcb72e872",
+              "chunk_key": "50eddbafcb72e872_c000",
+              "article_date": "2026-07-02 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Trump on 'nothing illegal,' family matters and foregoing the Presidential salary",
+              "summary": ", with payrolls growth coming in at just 57,000, worse than the 115,000 consensus forecast from Dow Jones, and slower than May's revised 129,000.",
+              "hash": "3dbd14fa2817b620",
+              "chunk_key": "3dbd14fa2817b620_c001",
+              "article_date": "2026-07-01 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Stock futures are little changed after weak start to July trading; jobs report ahead",
+              "summary": "Stock futures traded near the flatline on Wednesday night after Wall Street began a new month of trading on a somewhat sour note, with traders awaiting the latest batch of U.S. emp…",
+              "hash": "9eb6d507cf4a1597",
+              "chunk_key": "9eb6d507cf4a1597_c000",
+              "article_date": "2026-06-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Kalshi traders expect this week's jobs report will disappoint Wall Street outlook",
+              "summary": "Kalshi traders are differing with Dow Jones consensus on Thursday's job report from the Bureau of Labor Statistics.",
+              "hash": "52de8153d0500ead",
+              "chunk_key": "52de8153d0500ead_c000",
+              "article_date": "2026-06-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: One session, two major sell-offs",
+              "summary": "Sell-off number one: The global tech sell-off is deepening , with the moves in Asia particularly severe.",
+              "hash": "091c5d40af10321c",
+              "chunk_key": "091c5d40af10321c_c000",
+              "article_date": "2026-06-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Global tech sell-off deepens as South Korea's Kospi sinks 4%, S&P 500 futures fall",
+              "summary": "S&P 500 futures fell early Friday while Asia-Pacific markets tumbled as a global sell-off in technology stocks gathered pace amid mounting concerns over the rising cost of artifici…",
+              "hash": "647526d9eaff5708",
+              "chunk_key": "647526d9eaff5708_c000",
+              "article_date": "2026-06-25 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "CNBC Daily Open: Oil worries flare as tech's winners split from the pack",
+              "summary": "…higher output quota and has warned the group it could leave if demands are not met.",
+              "hash": "fa71c69f53c1507d",
+              "chunk_key": "fa71c69f53c1507d_c001",
+              "article_date": "2026-06-24 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Stock futures are little changed as traders look ahead to Micron's earnings",
+              "summary": "U.S. stock futures were near flat Tuesday night as traders looked ahead to the release of Micron Technology 's earnings report S&P 500 futures and Nasdaq 100 futures slipped less t…",
+              "hash": "371931624ad154ae",
+              "chunk_key": "371931624ad154ae_c000",
+              "article_date": "2026-06-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S.- Iran roadmap, Greenspan dies at 100 and more: Morning Squawk",
+              "summary": "Struggling to find a a job? You might want to look in Nevada. The Silver State saw its workforce grow by 1.9% between April 2025 and April 2026 — the highest of any U.S. state.",
+              "hash": "62658b86a00cf7c8",
+              "chunk_key": "62658b86a00cf7c8_c000",
+              "article_date": "2026-06-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "momentum": 1.64,
+          "recent_count": 5,
+          "ticker_context": {
+            "MSFT": [
+              "Microsoft dropped more than 3% after announcing higher prices on its Xbox gaming consoles , citing surging component costs."
+            ],
+            "MU": [
+              "U.S. stock futures were near flat Tuesday night as traders looked ahead to the release of Micron Technology 's earnings report S&P 500 futures and Nasdaq 100 futures slipped less than 0.1%.",
+              "The VanEck Semiconductor ETF (SMH) lost 5.4%, with Micron Technology and Sandisk dropping more than 10% each.",
+              "Shares in Micron Technology were down 4%, as were shares of Sandisk .",
+              "Memory maker Micron surged 15% after posting blockbuster earnings, fueled by growing demand for memory amid the artificial intelligence boom."
+            ],
+            "HOOD": [
+              "Speaking to CNBC, the CEO of Robinhood Vlad Tenev, says AI agents will soon be able to match human traders , as agentic technology disrupts the investing space."
+            ],
+            "AAPL": [
+              "Apple sued OpenAI on Friday, alleging that the artificial intelligence startup stole trade secrets as part of its effort to develop its own hardware products.",
+              "Apple shares slid more than 6% overnight, their steepest decline since April 2025, after the company announced price hikes on MacBooks and iPads, adding another headwind for the sector."
+            ],
+            "SNDK": [
+              "The VanEck Semiconductor ETF (SMH) lost 5.4%, with Micron Technology and Sandisk dropping more than 10% each."
+            ],
+            "UAL": [
+              "United said it would cover as much as 90% of the elevated costs in the current quarter and all of it in the final three months of the year.",
+              "Here's what else to know: United Airlines beat Wall Street's second-quarter expectations on both lines."
+            ],
+            "UNH": [
+              "Shares of UnitedHealth are nearly 6% higher in premarket trading after the insurer blew past Wall Street's expectations for the second quarter and raised its profit outlook for the full year."
+            ],
+            "AMD": [
+              "Elsewhere, Advanced Micro Devices was 2% lower, along with Intel ."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 4
+            },
+            {
+              "ticker": "AAPL",
+              "name": "Apple",
+              "count": 2
+            },
+            {
+              "ticker": "UAL",
+              "name": "United Airlines",
+              "count": 2
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            },
+            {
+              "ticker": "HOOD",
+              "name": "Robinhood Markets",
+              "count": 1
+            },
+            {
+              "ticker": "SNDK",
+              "name": "Sandisk",
+              "count": 1
+            },
+            {
+              "ticker": "UNH",
+              "name": "UnitedHealth Group",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "MSFT": "Microsoft’s stock price decreased following an increase in Xbox console prices due to rising component costs.",
+            "MU": "Shares in Micron Technology were down 4%, as were shares of Sandisk.",
+            "HOOD": "Robinhood’s CEO suggests agentic technology will disrupt the investing space.",
+            "AAPL": "Apple shares declined significantly following a lawsuit alleging trade secret theft related to AI development.",
+            "SNDK": "Sandisk dropped more than 10%.",
+            "UAL": "United Airlines will cover up to 90% of elevated costs in the current quarter and all of them in the final three months of the year.",
+            "UNH": "UnitedHealth Group’s shares increased by nearly 6% in premarket trading due to exceeding profit expectations.",
+            "AMD": "Advanced Micro Devices was 2% lower in price."
           }
         },
         {
@@ -3284,6 +3251,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.25,
+          "recent_count": 1,
           "ticker_context": {
             "MET": [
               "It allows investors to capture MetLife's upward momentum while mitigating immediate downside risk after the stock's impressive recent rally and also reducing the impact of \"theta\" (aka \"decay\").",
@@ -3458,6 +3427,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.31,
+          "recent_count": 2,
           "ticker_context": {
             "CME": [
               "The CME Group's FedWatch gauge as of late Friday shows a 78% chance the Fed will hike rates in December."
@@ -3491,7 +3462,7 @@
           ],
           "ticker_summary": {
             "CME": "CME Group’s FedWatch gauge indicates a high probability of a December interest rate hike.",
-            "INTC": "Intel is seeing investor interest aligning with the broader market trend of AI-related names.",
+            "INTC": "Intel is seeing increased investment from investors in AI-related names.",
             "NVDA": "Nvidia is experiencing increased investor demand due to its role in the AI sector."
           }
         },
@@ -3538,6 +3509,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "BAC": [
               "Bank of America estimates that every additional 25 basis point hike would reduce Russell 2000 operating earnings by about 2%."
@@ -3579,8 +3552,8 @@
           ],
           "ticker_summary": {
             "BAC": "Bank of America estimates that an additional 25 basis point hike would reduce Russell 2000 operating earnings by approximately 2%.",
-            "CME": "CME Group's FedWatch tool is pricing in a 30% chance of a rate increase.",
-            "LPLA": "LPL Financial’s chief technical strategist noted that small-cap leadership is linked to exposure to semiconductors and technology hardware.",
+            "CME": "CME Group’s FedWatch tool is pricing in a 30% chance of a rate increase.",
+            "LPLA": "LPL Financial’s chief technical strategist noted small-cap leadership, including exposure to semiconductors and technology hardware, within the broader market trend.",
             "NVDA": "Nvidia is benefiting from rising demand across the AI supply chain as smaller companies compete with industry leaders."
           }
         },
@@ -3609,6 +3582,8 @@
               "value": 1
             }
           ],
+          "momentum": 3.29,
+          "recent_count": 1,
           "ticker_context": {
             "CAT": [
               "GE Vernova (GEV) and Caterpillar (CAT) are selling the turbines to make it all happen."
@@ -3674,7 +3649,7 @@
             "GEV": "GE Vernova and Caterpillar are selling turbines, indicating a business impact related to the AI & Energy Power Shift.",
             "JPM": "JPMorgan Chase’s Natasha Kaneva provided a macro call.",
             "MSFT": "Microsoft has entered into a 20-year agreement to supply natural gas to power a new data center.",
-            "SPCX": "Wall Street has taken a breather on stock and research calls due to the SpaceX IPO and two national holidays."
+            "SPCX": "Wall Street has paused large stock and research calls due to the SpaceX IPO and national holidays."
           }
         }
       ]
@@ -4023,6 +3998,8 @@
               "value": 1
             }
           ],
+          "momentum": 2.24,
+          "recent_count": 15,
           "ticker_context": {
             "CME": [
               "Stocks were higher Wednesday morning, though traders scaled back expectations for interest rate hikes, with September now a 50-50 bet, according to the CME Group's FedWatch gauge of futures pricing.",
@@ -4098,6 +4075,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.82,
+          "recent_count": 1,
           "ticker_context": {
             "EVR": [
               "Many investors in China increasingly view the two-speed growth — marked by robust exports versus weak consumption and housing market — as a defining long-term feature of the Chinese economy, said Neo Wang, China strategist at Evercore ISI."
@@ -4154,6 +4133,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "JCI": [
               "\"Certainly, industrial firms like Johnson Controls and Siemens would be huge beneficiaries,\" he said in an email on Friday."
@@ -4267,6 +4248,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.1,
+          "recent_count": 2,
           "ticker_context": {
             "AMZN": [
               "Amazon , which currently owns UEFA Champions League rights in the U.K., and Apple, which owns global MLS rights, could also enter the mix, further fueling a potential bidding war for the rights."
@@ -4340,12 +4323,12 @@
           "ticker_summary": {
             "AMZN": "Amazon.com and Apple could participate in bidding wars for sports rights.",
             "AAPL": "Apple could participate in a bidding war for sports rights.",
-            "DIS": "Walt Disney may compete with Netflix, Alphabet's YouTube, and Fox for U.S. broadcast rights to the 2030 and 2034 World Cup.",
-            "CMCSA": "NBCUniversal is not likely to compete for rights at a price nearing $2 billion if English- and Spanish-language games are sold together.",
+            "DIS": "Walt Disney could be involved in competing for U.S. broadcast rights to the 2030 and 2034 World Cup.",
+            "CMCSA": "NBCUniversal is not likely to compete for the rights at a price nearing $2 billion if English- and Spanish-language games are sold together.",
             "NFLX": "Netflix is seeking U.S. broadcast rights to the 2030 and 2034 World Cup.",
+            "ROL": "Rollins believes it can create new businesses leveraging existing relationships with sports properties and athletes.",
             "VSNT": "Versant Media Group will acquire Full Swing, a golf simulation company, for approximately $530 million in cash.",
-            "TKO": "TKO Group would be open to discussions regarding a potential acquisition of the league.",
-            "ROL": "Rollins believes it can create new businesses by leveraging existing relationships with sports properties and athletes."
+            "TKO": "TKO Group would be open to discussions regarding a potential acquisition of the league."
           }
         },
         {
@@ -4391,6 +4374,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "DIS": [
               "Instead, the first major hit of the season came with the release of Disney's \"The Devil Wears Prada 2,\" followed by Universal's \"Obsession\" and A24's \"Backrooms,\" two low-budget horror films from YouTube creators-turned-filmmakers ."
@@ -4435,6 +4420,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "CMCSA": [
               "The split comes as Comcast's share price has plummeted 30% over the past 12 months amid significant challenges facing the media industry, driven by the shift away from the TV bundle and toward streaming.",
@@ -4534,7 +4521,7 @@
             "CHTR": "Charter shares soared after Comcast’s announcement, suggesting investors favor a potential Comcast and Charter merger.",
             "DIS": "Walt Disney would be unable to merge with a company possessing another national network, preventing the acquisition of Paramount Skydance.",
             "NFLX": "Netflix is shedding WBD’s linear networks as part of its interest in WBD’s film studio and streaming assets.",
-            "ROKU": "Roku will become a publicly traded streaming platform company as part of a $22 billion acquisition by Fox."
+            "ROKU": "Roku will become a publicly traded streaming platform company following the agreement for Fox to acquire it for $22 billion."
           }
         },
         {
@@ -4562,6 +4549,8 @@
               "value": 1
             }
           ],
+          "momentum": 3.29,
+          "recent_count": 1,
           "ticker_context": {
             "NFLX": [
               "\"Anybody who knows the entertainment industry knows it is in deep trouble,\" he added, noting widespread challenges as consumers flee pay TV bundles and competition among streaming giants like Netflix intensifies.",
@@ -4585,7 +4574,7 @@
             }
           ],
           "ticker_summary": {
-            "NFLX": "Netflix faces intensifying competition from streaming giants as consumers flee pay TV bundles.",
+            "NFLX": "Netflix faces intensifying competition from streaming giants.",
             "WBD": "Warner Bros. Discovery is facing a lawsuit challenging its proposed acquisition by Paramount Skydance."
           }
         }
@@ -4593,13 +4582,13 @@
     },
     {
       "name": "Financial Integrity",
-      "count": 17,
+      "count": 16,
       "children": [
         {
           "cluster_id": 23,
           "name": "Investor Psychology & Market Behavior",
           "summary": "The articles explore Warren Buffett's views on market bubbles, investor emotions, asset allocation, and long-term wealth management, highlighting key themes in behavioral finance and corporate governance.",
-          "count": 13,
+          "count": 12,
           "children": [
             {
               "name": "Fanatics CEO Michael Rubin on two sports businesses he'll never enter",
@@ -4708,17 +4697,10 @@
               "article_date": "2026-06-20 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "NetJets' first fatal crash kills influential Texas VC founder",
-              "summary": "…time very well, and we have one episode when the basic franchise was protected but we lost profit opportunities for a while, it's not a big failure record.",
-              "hash": "a9ed5a26a01f06b5",
-              "chunk_key": "a9ed5a26a01f06b5_c007",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
+          "momentum": 4.6,
+          "recent_count": 7,
           "ticker_context": {
             "DHI": [
               "Horton said it would be a mistake for the wealth management industry or any company serving wealthy clients to discount the impact of the great wealth transfer and the acceleration of inherited wealth."
@@ -4741,10 +4723,8 @@
               "Holdings are as of March 31, 2026, as reported in Berkshire Hathaway's 13F filing on May 15, 2026, except for: The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker .",
               "Warren Buffett's aversion to stock splits meant its stock price, especially for the A shares , which are currently worth more than $745,000 each, would have overwhelmed the other 29 stocks, making it, in effect, just a Berkshire index.",
               "Warren Buffett called Bill Gates' association with the late sex offender Jeffrey Epstein \"distasteful\" after the Berkshire Hathaway chairman excluded the Gates Foundation from his sizable annual charitable donations.",
-              "Jimmy Buffett regularly attended Berkshire's annual meeting, even opening the 2007 gathering with a rendition of \" Margaritaville \" featuring rewritten lyrics about \"Wasting away in Berkshire Hathaway-a-ville / Searchin' for some good companies to buy.\"",
-              "Berkshire Hathaway has not yet told us whether it has actually purchased the $10 billion of Alphabet shares it agreed to buy directly from Google's parent in a deal announced on June 1 .",
-              "Berkshire Hathaway CEO Greg Abel and portfolio manager Ted Weschler aren't featured in the Forbes article on \"Sun Valley's Billionaire Summer Camp\" now underway in Idaho.",
-              "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&P 500's 10.7% gain."
+              "With 2026 a bit more than half over, Berkshire Hathaway's B shares are down 1.8% year-to-date and 12.4 percentage points behind the S&P 500's 10.7% gain.",
+              "Berkshire Hathaway CEO Greg Abel and portfolio manager Ted Weschler aren't featured in the Forbes article on \"Sun Valley's Billionaire Summer Camp\" now underway in Idaho."
             ],
             "MU": [
               "Equities have increasingly attracted retail traders en masse, who are buying shares of memory chipmaker Micron and recent initial public offering SpaceX ."
@@ -4753,25 +4733,19 @@
               "And while Berkshire's $499 B shares are in the Dow's ballpark, there are still roughly twice the index's median price, and would be larger than every other Dow 30 stock except for Goldman and Caterpillar ($997)."
             ],
             "GS": [
-              "A \"hitch\" is Goldman's 13% weighting means the Dow is already \"heavy in financial stocks,\" and Berkshire is classified as a financial company.",
               "And while Berkshire's $499 B shares are in the Dow's ballpark, there are still roughly twice the index's median price, and would be larger than every other Dow 30 stock except for Goldman and Caterpillar ($997).",
+              "A \"hitch\" is Goldman's 13% weighting means the Dow is already \"heavy in financial stocks,\" and Berkshire is classified as a financial company.",
               "As a result, the median Dow stock price is around $244, with the highest-priced component, Goldman Sachs , trading for a once-unthinkable $1020 per share."
             ],
             "VZ": [
               "On Monday , Google parent Alphabet , with a $337 stock price, will replace Verizon Communications and its $47 stock because, S&P Dow Jones Indices says , \"Persistently lower-priced stocks have an immaterial impact on the index.\""
-            ],
-            "KO": [
-              "Adding the new shares to the existing holdings gives Berkshire 68.5 million Class A shares and 17.9 million Class C shares: Using Thursday's closing prices, the Class A shares are valued at just under $25.2 billion and the Class C shares are worth almost $6.6 billion for a total of $31.79 billion: That puts Alphabet into third place in Berkshire's equity portfolio by a razor-thin margin of $34 million ahead of Coke:"
-            ],
-            "GOOG": [
-              "Berkshire Hathaway has not yet told us whether it has actually purchased the $10 billion of Alphabet shares it agreed to buy directly from Google's parent in a deal announced on June 1 ."
             ]
           },
           "related_tickers": [
             {
               "ticker": "BRK-B",
               "name": "Berkshire Hathaway",
-              "count": 8
+              "count": 6
             },
             {
               "ticker": "GS",
@@ -4807,10 +4781,8 @@
             "BRK-B": "Berkshire Hathaway’s B shares are down 1.8% year-to-date, trailing the S&P 500’s gain.",
             "MU": "Retail traders are buying shares of Micron and SpaceX.",
             "CAT": "Caterpillar’s shares are valued approximately twice the median price of the Dow 30 index.",
-            "GS": "Goldman Sachs’s 13% weighting on the Dow and its stock price of $1020 per share represent a significantly higher valuation than the median Dow stock price.",
-            "VZ": "Verizon Communications will be replaced by Alphabet in the S&P Dow Jones Indices due to Alphabet's higher stock price.",
-            "KO": "Berkshire Hathaway's holdings of Coca-Cola shares are valued at approximately $31.79 billion.",
-            "GOOG": "Alphabet’s public trading status is relevant to Berkshire Hathaway’s pending $10 billion purchase of Alphabet shares."
+            "GS": "Goldman Sachs’s weighting within the Dow Jones Industrial Average, at 13%, results in a share price of $1020, exceeding the median Dow stock price and surpassing all other Dow 30 stocks except Caterpillar.",
+            "VZ": "Verizon Communications will be replaced by Alphabet in the S&P Dow Jones Indices due to Alphabet's higher stock price."
           }
         },
         {
@@ -4838,6 +4810,8 @@
               "value": 1
             }
           ],
+          "momentum": 3.29,
+          "recent_count": 1,
           "ticker_context": {
             "GOOG": [
               "Google co-founder Sergey Brin, who has already relocated his primary residence to Nevada in case the tax goes through, has poured tens of millions of dollars into \" Building a Better California ,\" a non-profit backing a ballot measure that would effectively neuter the wealth tax."
@@ -4879,6 +4853,8 @@
               "value": 1
             }
           ],
+          "momentum": 3.29,
+          "recent_count": 1,
           "ticker_context": {
             "BJ": [
               "\"Once a fraudster has a person's email password and credit card, they can load that credit card into a device that they control,\" said Jeff Otto, the chief marketing officer of Riskified , a tech company that works with retailers including Foot Locker, Peloton and BJ's Wholesale Club to fight fraud."
@@ -4931,9 +4907,9 @@
           ],
           "ticker_summary": {
             "BJ": "BJ's Wholesale Club is partnering with Riskified to combat fraud involving stolen credit card information.",
-            "SYF": "Synchrony Financial’s accounts were accessed by a suspect who used the company’s card issuer to add a phone number to customer accounts.",
+            "SYF": "Synchrony Financial’s accounts were accessed by someone who added a phone number he controlled, potentially indicating a vulnerability in their systems.",
             "HD": "Home Depot’s asset protection vice president stated that automated fraud in retail and events presents a low risk for bad actors.",
-            "WMT": "Walmart’s systems are being exploited to detect and respond to unauthorized account access, and login credentials are being sold on Telegram channels.",
+            "WMT": "Walmart’s systems are being used to detect and respond to unauthorized account access, and login credentials for its accounts are being sold on Telegram.",
             "LYV": "Live Nation Entertainment reached a $9.9 million settlement with the District of Columbia over allegations of deceptive advertising and misleading pricing tactics related to ticket sales."
           }
         }
@@ -4941,13 +4917,13 @@
     },
     {
       "name": "Global Economic Interdependence",
-      "count": 61,
+      "count": 60,
       "children": [
         {
           "cluster_id": 42,
           "name": "Global energy security tensions",
           "summary": "Rising maritime conflicts and shipping disruptions in the Strait of Hormuz are affecting global oil and gas supply chains, with geopolitical tensions influencing trade routes and energy market stability.",
-          "count": 45,
+          "count": 44,
           "children": [
             {
               "name": "Iran threatens U.S. after calling off peace agreement",
@@ -5344,29 +5320,22 @@
               "article_date": "2026-06-19 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed",
-              "summary": "Brent crude oil prices rose Friday after talks between the U.S. and Iran in Switzerland were abruptly called off , underscoring lingering uncertainty over efforts to turn an interi…",
-              "hash": "33ba8144add67163",
-              "chunk_key": "33ba8144add67163_c000",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
+          "momentum": 0.73,
+          "recent_count": 8,
           "ticker_context": {
             "BA": [
-              "The CEOs of Boeing , Lockheed Martin and Honeywell arrived at the White House on Wednesday for a meeting with President Donald Trump , as the administration presses major defense contractors to ramp up weapons production amid concerns about U.S. missile and munitions stockpiles.",
               "Wednesday's meeting follows a March White House gathering with executives from major defense firms, including Lockheed Martin , RTX , Boeing , Northrop Grumman , BAE Systems , Honeywell Aerospace and L3Harris .",
+              "The CEOs of Boeing , Lockheed Martin and Honeywell arrived at the White House on Wednesday for a meeting with President Donald Trump , as the administration presses major defense contractors to ramp up weapons production amid concerns about U.S. missile and munitions stockpiles.",
               "If it makes it into the final bill, it could upend how the Pentagon does business with its tens of thousands of contractors such as Boeing , Lockheed Martin and Northrop Grumman ."
             ],
             "HON": [
               "The CEOs of Boeing , Lockheed Martin and Honeywell arrived at the White House on Wednesday for a meeting with President Donald Trump , as the administration presses major defense contractors to ramp up weapons production amid concerns about U.S. missile and munitions stockpiles."
             ],
             "LMT": [
-              "The CEOs of Boeing , Lockheed Martin and Honeywell arrived at the White House on Wednesday for a meeting with President Donald Trump , as the administration presses major defense contractors to ramp up weapons production amid concerns about U.S. missile and munitions stockpiles.",
               "Wednesday's meeting follows a March White House gathering with executives from major defense firms, including Lockheed Martin , RTX , Boeing , Northrop Grumman , BAE Systems , Honeywell Aerospace and L3Harris .",
+              "The CEOs of Boeing , Lockheed Martin and Honeywell arrived at the White House on Wednesday for a meeting with President Donald Trump , as the administration presses major defense contractors to ramp up weapons production amid concerns about U.S. missile and munitions stockpiles.",
               "If it makes it into the final bill, it could upend how the Pentagon does business with its tens of thousands of contractors such as Boeing , Lockheed Martin and Northrop Grumman ."
             ],
             "NOC": [
@@ -5403,9 +5372,9 @@
             }
           ],
           "ticker_summary": {
-            "BA": "Boeing may be affected if the Pentagon changes how it does business with contractors like Boeing, Lockheed Martin, and Northrop Grumman.",
+            "BA": "Boeing may alter its business practices with the Pentagon if the bill advances.",
             "HON": "Honeywell International was present at the White House meeting due to its status as a major defense contractor.",
-            "LMT": "Lockheed Martin may see its business with the Pentagon potentially change if the meeting results in increased weapons production.",
+            "LMT": "Lockheed Martin, along with other defense firms, may see its business model altered if the final bill increases weapons production.",
             "NOC": "If the bill is included, Northrop Grumman could alter the Pentagon’s contracting processes with its thousands of contractors."
           }
         },
@@ -5515,6 +5484,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "GM": [
               "Meanwhile, General Motors , which offers a broad EV lineup but only one hybrid, a low-volume Corvette, reported a 4.2% decline in second quarter sales.",
@@ -5687,6 +5658,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.82,
+          "recent_count": 1,
           "ticker_context": {
             "AMZN": [
               "but is known as the \"Amazon of Asia,\" and other U.S. companies going back decades.",
@@ -5737,13 +5710,13 @@
     },
     {
       "name": "Political and Economic Instability",
-      "count": 39,
+      "count": 38,
       "children": [
         {
           "cluster_id": 22,
           "name": "Political funding and accountability",
           "summary": "The articles examine controversies surrounding government funds, legal challenges to their existence, and allegations of misuse for political purposes, highlighting tensions between executive power and financial transparency.",
-          "count": 21,
+          "count": 20,
           "children": [
             {
               "name": "Epstein victims blast Trump AG nominee Blanche after meeting",
@@ -5924,17 +5897,10 @@
               "article_date": "2026-06-24 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-              "summary": "The Department of Justice rebuffed a federal judge's request to attest in writing it that won't move forward with its \" anti-weaponization fund ,\" arguing in a filing Friday that i…",
-              "hash": "fe9b748c915373d9",
-              "chunk_key": "fe9b748c915373d9_c000",
-              "article_date": "2026-06-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
+          "momentum": 1.1,
+          "recent_count": 5,
           "ticker_context": {
             "NYT": [
               "Republicans in recent election cycles have been more reliant on super PAC money than Democrats, resulting in pro-GOP-candidates' ads sometimes costing significantly more, The New York Times has reported .",
@@ -6076,6 +6042,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.3,
+          "recent_count": 1,
           "ticker_context": {
             "AMZN": [
               "For instance, the form shows Trump purchased Amazon stock worth between $500,000 and $1 million on Sept. 23, the same day a trial began on federal allegations that Amazon duped customers into paying for Prime memberships.",
@@ -6222,6 +6190,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "MSFT": [
               "Gates, a co-founder of Microsoft , in his June 10 testimony, expressed regret about his contacts with Epstein, which he said were designed to win financial support for the Gates Foundation, his philanthropic venture."
@@ -6272,6 +6242,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "GS": [
               "Rep. Adriano Espaillat, D-N.Y., who finds himself in a similarly precarious electoral position amidst a challenge from his left in a district about a dozen miles north of Goldman's, has seen organized labor line up near-unanimously behind his candidacy.",
@@ -6432,6 +6404,8 @@
               "value": 1
             }
           ],
+          "momentum": 1.31,
+          "recent_count": 4,
           "ticker_context": {
             "SPCX": [
               "And SpaceX stock sank below its $135 IPO price for the first time about a month after its blockbuster debut , as hype around the reusable rocket maker fizzled.",
@@ -6619,6 +6593,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.82,
+          "recent_count": 1,
           "ticker_context": {
             "SPCX": [
               "\"To us, it's a question of flow rather than fundamentals – a lot of fund managers are starved for cash,\" he said, pointing to companies like Alphabet and SpaceX raising large amounts of money recently."
@@ -6688,6 +6664,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "AMZN": [
               "Amazon CEO Jeff Bezos has voiced similar aspirations for his rocket and AI ventures, Blue Origin and Prometheus, respectively.",
@@ -6806,6 +6784,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "TSLA": [
               "And even as shares in Elon Musk's company come down from their IPO high , there remains an underlying boom in the space economy that is creating a new job market for Americans."
@@ -6864,6 +6844,8 @@
               "value": 1
             }
           ],
+          "momentum": 0.0,
+          "recent_count": 0,
           "ticker_context": {
             "AMZN": [
               "On an early morning in January, Jake Linsley woke up to a text from Amazon that was lighting up his phone.",
@@ -6923,7 +6905,7 @@
           "ticker_summary": {
             "AMZN": "Amazon has reduced its corporate workforce and is hiring in lower-cost countries while simultaneously developing AI tools and striving to reduce its overall workforce due to anticipated efficiency gains from AI.",
             "AAPL": "Some individuals previously employed by Apple are experiencing difficulties finding new positions.",
-            "META": "Meta Platforms laid-off employees are now competing for jobs in a job market rapidly reshaped by artificial intelligence.",
+            "META": "Meta Platforms’ layoffs have resulted in laid-off employees competing for jobs in a job market rapidly reshaped by artificial intelligence.",
             "CRM": "Salesforce is hiring individuals who have transitioned from other companies."
           }
         }
