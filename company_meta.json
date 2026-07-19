@@ -1,19 +1,17 @@
 {
-  "updated_at": "2026-07-19T06:51:03.797789-04:00",
+  "updated_at": "2026-07-19T18:15:51.673576-04:00",
   "companies": {
     "AAL": {
       "name": "American Airlines Group Inc.",
       "summary": "American Airlines Group Inc. is a holding company that owns and operates American Airlines, Inc., a major airline in the United States, as well as several regional airlines. The company was formed in 1982 and is headquartered in Fort Worth, Texas. Its primary operations involve airline operations, including domestic and international flights.",
-      "news_role": "American Airlines Group is positioning itself as a leader in passenger convenience and premium travel services, potentially boosting revenue.",
+      "news_role": "American Airlines Group is currently receiving attention due to internal leadership challenges.",
       "contextual_peers": [
-        "ALK",
         "UAL",
-        "DAL"
+        "BA"
       ],
       "contextual_peer_names": {
-        "ALK": "Alaska Air Group",
         "UAL": "United Airlines",
-        "DAL": "Delta Air Lines"
+        "BA": "Boeing"
       },
       "industry": "Air Transportation, Scheduled",
       "exchange": "NASDAQ",
@@ -31,21 +29,29 @@
       },
       "industry_peer_theme": "Airline Consolidation",
       "filing_date": "2026-02-18",
-      "enriched_at": "2026-07-07T18:55:57.427244-04:00"
+      "enriched_at": "2026-07-19T18:11:26.461455-04:00"
     },
     "BA": {
       "name": "BOEING CO",
       "summary": "Boeing is a major aerospace firm that develops, produces, and markets commercial jet aircraft, defense systems, and global services. The company operates in three reportable segments: Commercial Airplanes, Defense, Space & Security, and Global Services. Its commercial jet aircraft include the 737 narrow-body model.",
-      "news_role": "Boeing has regained authority to issue airworthiness certificates, signaling a potential shift in the company's operational challenges and financial recovery.",
-      "contextual_peers": [],
-      "contextual_peer_names": {},
+      "news_role": "Boeing is regaining certification authority for its aircraft and actively pursuing new business opportunities, shifting its focus from solely relying on its own sales.",
+      "contextual_peers": [
+        "UAL",
+        "ALK",
+        "AAL"
+      ],
+      "contextual_peer_names": {
+        "UAL": "United Airlines",
+        "ALK": "Alaska Air Group",
+        "AAL": "American Airlines Group"
+      },
       "industry": "Aircraft",
       "exchange": "NYSE",
       "industry_peers": [],
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-01-30",
-      "enriched_at": "2026-07-18T18:15:19.676361-04:00"
+      "enriched_at": "2026-07-19T18:11:30.831091-04:00"
     },
     "BAC": {
       "name": "BANK OF AMERICA CORP /DE/",
@@ -79,7 +85,7 @@
       },
       "industry_peer_theme": "Banks Financial Services",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-07-18T18:15:24.098526-04:00"
+      "enriched_at": "2026-07-19T18:11:34.640868-04:00"
     },
     "CARR": {
       "name": "Carrier Global",
@@ -191,7 +197,7 @@
       },
       "industry_peer_theme": "Cloud Software Services",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-07-18T18:15:28.648719-04:00"
+      "enriched_at": "2026-07-19T18:11:38.584586-04:00"
     },
     "DIS": {
       "name": "Walt Disney Co",
@@ -248,17 +254,15 @@
     "GOOG": {
       "name": "Alphabet Inc.",
       "summary": "Alphabet Inc. is a parent company of Google, investing in artificial intelligence and other moonshots, with a focus on tackling big problems and driving innovation. The company reports its businesses in two segments: Google Services and Google Cloud, and Other Bets. Alphabet is an AI-first company, with a collection of businesses led by CEO Sundar Pichai.",
-      "news_role": "Alphabet is facing scrutiny regarding potential fraud and is positioned as a competitor in the AI cloud market, alongside other tech giants.",
+      "news_role": "Alphabet is experiencing a mix of positive developments in AI-driven cloud services alongside legal and political challenges related to trade policies and a wealth tax.",
       "contextual_peers": [
-        "AMZN",
-        "META",
         "MSFT",
+        "META",
         "NVDA"
       ],
       "contextual_peer_names": {
-        "AMZN": "Amazon.com",
-        "META": "Meta Platforms",
         "MSFT": "Microsoft",
+        "META": "Meta Platforms",
         "NVDA": "Nvidia"
       },
       "industry": "Services-Computer Programming, Data Processing, Etc.",
@@ -279,21 +283,21 @@
       },
       "industry_peer_theme": "Digital Advertising",
       "filing_date": "2026-02-05",
-      "enriched_at": "2026-07-18T18:15:34.549763-04:00"
+      "enriched_at": "2026-07-19T18:11:43.610299-04:00"
     },
     "GS": {
       "name": "GOLDMAN SACHS GROUP INC",
       "summary": "Goldman Sachs is a leading global financial institution that delivers a wide range of financial services, including global banking and markets, asset and wealth management, platform solutions, and more. The company aims to deliver long-term value to its shareholders through its various business segments. Goldman Sachs operates in a competitive landscape with other financial institutions.",
-      "news_role": "Goldman Sachs is experiencing strong revenue growth, primarily due to increased activity in equities trading and investment banking, and is positioned alongside peers like Morgan Stanley in significant investments related to the AI sector.",
+      "news_role": "Goldman Sachs is experiencing strong revenue growth, particularly in trading and investment banking, linked to the AI trend and related deals, and maintains a similar investment strategy to Morgan Stanley.",
       "contextual_peers": [
         "NVDA",
         "MSFT",
-        "JPM"
+        "GOOG"
       ],
       "contextual_peer_names": {
         "NVDA": "Nvidia",
         "MSFT": "Microsoft",
-        "JPM": "JPMorgan Chase"
+        "GOOG": "Alphabet"
       },
       "industry": "Security Brokers, Dealers & Flotation Companies",
       "exchange": "NYSE",
@@ -311,7 +315,7 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-07-18T18:15:40.914355-04:00"
+      "enriched_at": "2026-07-19T18:11:49.002371-04:00"
     },
     "HOOD": {
       "name": "Robinhood Markets, Inc.",
@@ -412,17 +416,15 @@
     "JPM": {
       "name": "JPMORGAN CHASE & CO",
       "summary": "JPMorgan Chase & Co. is a leading financial services firm providing investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. The firm serves millions of customers globally and has a market capitalization of over $450 billion. It is led by CEO Jamie Dimon, who has expressed interest in acquiring a large bank to expand its operations.",
-      "news_role": "JPMorgan Chase is a prominent participant in reporting season, experiencing significant revenue growth due to strong performance in equities trading and investment banking, particularly linked to AI-related trends.",
+      "news_role": "JPMorgan Chase is currently in the spotlight due to strong revenue growth fueled by trading activity and participation in funding for the defense sector.",
       "contextual_peers": [
         "NVDA",
         "MSFT",
-        "MS",
         "BAC"
       ],
       "contextual_peer_names": {
         "NVDA": "Nvidia",
         "MSFT": "Microsoft",
-        "MS": "Morgan Stanley",
         "BAC": "Bank of America"
       },
       "industry": "National Commercial Banks",
@@ -443,7 +445,7 @@
       },
       "industry_peer_theme": "Bancshares",
       "filing_date": "2026-02-13",
-      "enriched_at": "2026-07-18T18:15:47.033208-04:00"
+      "enriched_at": "2026-07-19T18:11:53.776465-04:00"
     },
     "LHX": {
       "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
@@ -512,7 +514,7 @@
     "MCD": {
       "name": "MCDONALDS CORP",
       "summary": "McDonald's Corporation franchises and owns and operates McDonald's restaurants serving quality food and beverages in over 100 countries. Approximately 95% of its 45,356 restaurants were franchised at year-end 2025. The company's business structure and operations remained unchanged for the year ended December 31, 2025.",
-      "news_role": "McDonald's is currently facing scrutiny and a need to rebuild consumer confidence alongside other restaurant chains due to recent health concerns.",
+      "news_role": "McDonald's is currently facing a challenge similar to other restaurants, requiring efforts to rebuild consumer confidence following recent health concerns.",
       "contextual_peers": [
         "QSR",
         "CMG",
@@ -539,7 +541,7 @@
       },
       "industry_peer_theme": "Fast Food",
       "filing_date": "2026-02-24",
-      "enriched_at": "2026-07-18T18:15:52.282794-04:00"
+      "enriched_at": "2026-07-19T18:11:58.277341-04:00"
     },
     "MCO": {
       "name": "MOODYS CORP /DE/",
@@ -673,7 +675,7 @@
       },
       "industry_peer_theme": "Financial Services",
       "filing_date": "2026-02-19",
-      "enriched_at": "2026-07-18T18:15:58.678714-04:00"
+      "enriched_at": "2026-07-19T18:12:03.777433-04:00"
     },
     "MSFT": {
       "name": "MICROSOFT CORP",
@@ -707,7 +709,7 @@
       },
       "industry_peer_theme": "Cloud Computing Software",
       "filing_date": "2025-07-30",
-      "enriched_at": "2026-07-18T18:16:04.956637-04:00"
+      "enriched_at": "2026-07-19T18:12:09.124767-04:00"
     },
     "MU": {
       "name": "MICRON TECHNOLOGY INC",
@@ -739,7 +741,7 @@
       },
       "industry_peer_theme": "Semiconductor Industry",
       "filing_date": "2025-10-03",
-      "enriched_at": "2026-07-18T18:16:10.440457-04:00"
+      "enriched_at": "2026-07-19T18:12:13.871893-04:00"
     },
     "NFLX": {
       "name": "NETFLIX INC",
@@ -759,7 +761,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-01-23",
-      "enriched_at": "2026-07-18T18:16:15.348176-04:00"
+      "enriched_at": "2026-07-19T18:12:18.053620-04:00"
     },
     "NOW": {
       "name": "ServiceNow, Inc.",
@@ -802,12 +804,14 @@
     "NVDA": {
       "name": "NVIDIA CORP",
       "summary": "NVIDIA is a data center scale AI infrastructure company that accelerates computational problems using its CUDA development platform and domain-specific software libraries. Its technology stack facilitates the deployment of accelerated computing for AI, data analytics, scientific computing, robotics, and 3D graphics. The company is now reshaping all industries with its technology.",
-      "news_role": "Nvidia remains a key supplier to major tech companies and is strategically expanding its AI presence internationally, facing competition in the data center market.",
+      "news_role": "Nvidia's market capitalization has fluctuated, with Apple currently holding the top spot, and the company is navigating increased competition in the data center market while simultaneously expanding its AI presence internationally.",
       "contextual_peers": [
+        "AAPL",
         "MSFT",
         "META"
       ],
       "contextual_peer_names": {
+        "AAPL": "Apple",
         "MSFT": "Microsoft",
         "META": "Meta Platforms"
       },
@@ -829,7 +833,7 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-07-18T18:16:21.081522-04:00"
+      "enriched_at": "2026-07-19T18:12:23.658746-04:00"
     },
     "NYT": {
       "name": "NEW YORK TIMES CO",
@@ -857,7 +861,7 @@
       },
       "industry_peer_theme": "Media and News",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-07-18T18:16:27.112607-04:00"
+      "enriched_at": "2026-07-19T18:12:28.878831-04:00"
     },
     "ORCL": {
       "name": "ORACLE CORP",
@@ -1067,19 +1071,19 @@
       },
       "industry_peer_theme": "Electric Vehicle Makers",
       "filing_date": "2026-01-29",
-      "enriched_at": "2026-07-18T18:16:31.717632-04:00"
+      "enriched_at": "2026-07-19T18:12:32.920922-04:00"
     },
     "UAL": {
       "name": "United Airlines Holdings, Inc.",
       "summary": "United Airlines Holdings, Inc. is a holding company with a comprehensive route network, connecting people and uniting the world. Its subsidiary, United Airlines, Inc., operates with nearly 100% of the company's revenues and expenses. United has hubs in major US cities, including Newark Liberty International Airport.",
-      "news_role": "United Airlines is focused on absorbing a substantial increase in costs, demonstrating a strategy of operational efficiency and cost control.",
+      "news_role": "United Airlines is currently positioned as a revenue leader among major airlines and has secured advantageous operational improvements.",
       "contextual_peers": [
-        "UNH",
-        "AMD"
+        "AAL",
+        "ALK"
       ],
       "contextual_peer_names": {
-        "UNH": "UnitedHealth Group",
-        "AMD": "Advanced Micro Devices"
+        "AAL": "American Airlines Group",
+        "ALK": "Alaska Air Group"
       },
       "industry": "Air Transportation, Scheduled",
       "exchange": "NASDAQ",
@@ -1091,7 +1095,7 @@
       },
       "industry_peer_theme": "Low Cost Airlines",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-07-18T18:16:36.387115-04:00"
+      "enriched_at": "2026-07-19T18:12:37.392759-04:00"
     },
     "VIRT": {
       "name": "Virtu Financial, Inc.",
@@ -1189,23 +1193,23 @@
       },
       "industry_peer_theme": "Media and Entertainment",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-07-18T18:16:41.376223-04:00"
+      "enriched_at": "2026-07-19T18:12:41.691871-04:00"
     },
     "AAPL": {
       "name": "Apple Inc.",
       "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, with a focus on its iPhone, Mac, and iPad product lines.",
-      "news_role": "Apple is currently a focal point in news due to a lawsuit against OpenAI, a battle for market dominance with Nvidia in the AI chip space, and collaborations on AI integration, alongside broader price increases and potential product launch impacts.",
+      "news_role": "Apple is facing legal challenges related to alleged trade secret theft from OpenAI while maintaining its position as a leading technology company with significant market capitalization and a focus on AI integration.",
       "contextual_peers": [
-        "NVDA",
         "MSFT",
         "GOOG",
-        "META"
+        "META",
+        "NVDA"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
         "MSFT": "Microsoft",
         "GOOG": "Alphabet",
-        "META": "Meta Platforms"
+        "META": "Meta Platforms",
+        "NVDA": "Nvidia"
       },
       "industry": "Electronic Computers",
       "exchange": "NASDAQ",
@@ -1217,23 +1221,23 @@
       },
       "industry_peer_theme": "Technology Hardware",
       "filing_date": "2025-10-31",
-      "enriched_at": "2026-07-18T18:16:48.958535-04:00"
+      "enriched_at": "2026-07-19T18:12:48.293410-04:00"
     },
     "AMZN": {
       "name": "AMAZON COM INC",
       "summary": "Amazon.com Inc. is a customer-centric company guided by four principles: customer obsession, passion for invention, commitment to operational excellence, and long-term thinking. It serves its primary customer sets across various segments and seeks to be Earth's most customer-centric company. The company's products and services include e-commerce, cloud computing, and artificial intelligence.",
-      "news_role": "Amazon is navigating a complex landscape of labor market shifts, AI-driven supply chain challenges, and competitive pressures in retail, exhibiting a strongly bullish outlook.",
+      "news_role": "Amazon is navigating a complex landscape of layoffs, AI investments, and shifting retail dynamics, exhibiting a strong bullish outlook while contending with supply chain issues and competition for market share.",
       "contextual_peers": [
-        "NVDA",
-        "GOOG",
         "MSFT",
-        "META"
+        "GOOG",
+        "META",
+        "NVDA"
       ],
       "contextual_peer_names": {
-        "NVDA": "Nvidia",
-        "GOOG": "Alphabet",
         "MSFT": "Microsoft",
-        "META": "Meta Platforms"
+        "GOOG": "Alphabet",
+        "META": "Meta Platforms",
+        "NVDA": "Nvidia"
       },
       "industry": "Retail-Catalog & Mail-Order Houses",
       "exchange": "NASDAQ",
@@ -1245,7 +1249,7 @@
       },
       "industry_peer_theme": "E-commerce and Retail",
       "filing_date": "2026-02-06",
-      "enriched_at": "2026-07-18T18:16:56.035751-04:00"
+      "enriched_at": "2026-07-19T18:12:54.956047-04:00"
     },
     "ASTS": {
       "name": "AST SpaceMobile, Inc.",
@@ -1305,7 +1309,7 @@
       },
       "industry_peer_theme": "Insurance Industry",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-07-18T18:17:01.220842-04:00"
+      "enriched_at": "2026-07-19T18:12:59.746097-04:00"
     },
     "BX": {
       "name": "Blackstone Inc.",
@@ -1490,16 +1494,18 @@
     "META": {
       "name": "Meta Platforms, Inc.",
       "summary": "Meta Platforms, Inc. develops technology that enables people to connect and share through various devices and platforms, innovating in artificial intelligence to build transformative experiences. The company aims to deliver personal superintelligence for everyone. Its products include social media platforms, virtual reality headsets, and AI-powered capabilities.",
-      "news_role": "Meta is facing scrutiny regarding potential overcapacity in the AI chip market while simultaneously pursuing cloud computing expansion and navigating regulatory challenges alongside other tech giants.",
+      "news_role": "Meta is facing scrutiny due to massive AI investments and potential overcapacity in the semiconductor market, alongside broader trade policy concerns and shifts in the tech job landscape.",
       "contextual_peers": [
         "NVDA",
         "MSFT",
-        "JPM"
+        "GS",
+        "AAPL"
       ],
       "contextual_peer_names": {
         "NVDA": "Nvidia",
         "MSFT": "Microsoft",
-        "JPM": "JPMorgan Chase"
+        "GS": "Goldman Sachs Group",
+        "AAPL": "Apple"
       },
       "industry": "Services-Computer Programming, Data Processing, Etc.",
       "exchange": "NASDAQ",
@@ -1517,7 +1523,7 @@
       },
       "industry_peer_theme": "Digital Advertising",
       "filing_date": "2026-01-29",
-      "enriched_at": "2026-07-18T18:17:07.986734-04:00"
+      "enriched_at": "2026-07-19T18:13:06.730943-04:00"
     },
     "MRNA": {
       "name": "Moderna, Inc.",
@@ -1875,7 +1881,7 @@
       },
       "industry_peer_theme": "Discount Retail",
       "filing_date": "2026-03-11",
-      "enriched_at": "2026-07-18T18:17:12.658197-04:00"
+      "enriched_at": "2026-07-19T18:13:11.135347-04:00"
     },
     "TW": {
       "name": "Tradeweb Markets Inc.",
@@ -1907,7 +1913,7 @@
       },
       "industry_peer_theme": "Financial Market Infrastructure",
       "filing_date": "2026-02-05",
-      "enriched_at": "2026-07-18T18:17:17.793504-04:00"
+      "enriched_at": "2026-07-19T18:13:15.979045-04:00"
     },
     "V": {
       "name": "VISA INC.",
@@ -2378,12 +2384,14 @@
     "LLY": {
       "name": "ELI LILLY & Co",
       "summary": "ELI LILLY & Co (LLY) is a pharmaceutical company that discovers, develops, manufactures, and markets human pharmaceutical products. The company aims to unite caring with discovery to create medicines that make life better for people around the world. Its products are sold in approximately 90 countries.",
-      "news_role": "Eli Lilly is bolstering its position in the mental health drug market through a significant acquisition of AtaiBeckley, signaling continued investment in psychedelic therapies.",
+      "news_role": "Eli Lilly is experiencing increased attention due to a significant acquisition in the mental health space and participation in a broader trend of pharmaceutical investment in this area.",
       "contextual_peers": [
+        "ABBV",
         "AZN",
         "UNH"
       ],
       "contextual_peer_names": {
+        "ABBV": "Abbvie",
         "AZN": "AstraZeneca",
         "UNH": "UnitedHealth Group"
       },
@@ -2405,7 +2413,7 @@
       },
       "industry_peer_theme": "Biotechnology Pharmaceuticals",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-07-18T18:17:22.832072-04:00"
+      "enriched_at": "2026-07-19T18:13:21.370123-04:00"
     },
     "MET": {
       "name": "METLIFE INC",
@@ -2690,16 +2698,14 @@
     "AMD": {
       "name": "ADVANCED MICRO DEVICES INC",
       "summary": "Advanced Micro Devices Inc. (AMD) designs, manufactures, and sells computer processors and related technologies for the computing and communications industries. The company's products include microprocessors, microprocessors with integrated memory controllers, and chipsets. AMD's products are used in a variety of applications, including personal computers, servers, and gaming consoles.",
-      "news_role": "AMD is currently experiencing a slight decline in performance, mirroring the trend of Intel within the broader market news.",
+      "news_role": "Advanced Micro Devices is currently experiencing a slight price decrease within the broader financial news landscape.",
       "contextual_peers": [
-        "UAL",
         "AAPL",
-        "UNH"
+        "MU"
       ],
       "contextual_peer_names": {
-        "UAL": "United Airlines",
         "AAPL": "Apple",
-        "UNH": "UnitedHealth Group"
+        "MU": "Micron Technology"
       },
       "industry": "Semiconductors & Related Devices",
       "exchange": "NASDAQ",
@@ -2719,7 +2725,7 @@
       },
       "industry_peer_theme": "Semiconductor Technology",
       "filing_date": "2026-02-04",
-      "enriched_at": "2026-07-18T18:17:27.682312-04:00"
+      "enriched_at": "2026-07-19T18:13:25.667128-04:00"
     },
     "AMKR": {
       "name": "AMKOR TECHNOLOGY, INC.",
@@ -2853,7 +2859,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-07-18T18:17:32.854349-04:00"
+      "enriched_at": "2026-07-19T18:13:30.657302-04:00"
     },
     "CBOE": {
       "name": "Cboe Global Markets, Inc.",
@@ -2927,7 +2933,7 @@
       },
       "industry_peer_theme": "Financial Market Infrastructure",
       "filing_date": "2026-02-26",
-      "enriched_at": "2026-07-18T18:17:37.662443-04:00"
+      "enriched_at": "2026-07-19T18:13:35.175925-04:00"
     },
     "COF": {
       "name": "CAPITAL ONE FINANCIAL CORP",
@@ -2985,7 +2991,7 @@
       },
       "industry_peer_theme": "Animal Health Pharmaceuticals",
       "filing_date": "2026-02-24",
-      "enriched_at": "2026-07-18T18:17:42.395150-04:00"
+      "enriched_at": "2026-07-19T18:13:39.898194-04:00"
     },
     "EVR": {
       "name": "Evercore Inc.",
@@ -3541,21 +3547,19 @@
       },
       "industry_peer_theme": "Animal Health Pharmaceuticals",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-07-18T18:17:47.312990-04:00"
+      "enriched_at": "2026-07-19T18:13:44.714858-04:00"
     },
     "SPCX": {
       "name": "SpaceX",
       "summary": "SpaceX is a private aerospace manufacturer and space transport services company. It designs, manufactures, and launches advanced rockets and spacecraft. The company aims to reduce space transportation costs and enable the colonization of Mars.",
-      "news_role": "SpaceX is currently a focal point of news due to its recent IPO, substantial funding, and acquisition, alongside a significant number of short positions indicating market skepticism.",
+      "news_role": "SpaceX is currently attracting attention due to its recent IPO, AI investments, and significant short interest, amidst broader market trends involving retail trading activity.",
       "contextual_peers": [
         "MSFT",
-        "GOOG",
-        "JPM"
+        "GOOG"
       ],
       "contextual_peer_names": {
         "MSFT": "Microsoft",
-        "GOOG": "Alphabet",
-        "JPM": "JPMorgan Chase"
+        "GOOG": "Alphabet"
       },
       "industry": null,
       "exchange": null,
@@ -3563,7 +3567,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": null,
-      "enriched_at": "2026-07-18T18:17:53.764178-04:00"
+      "enriched_at": "2026-07-19T18:13:51.010413-04:00"
     },
     "BKNG": {
       "name": "Booking Holdings Inc.",
@@ -3667,7 +3671,7 @@
       },
       "industry_peer_theme": "Asset Management",
       "filing_date": "2026-02-24",
-      "enriched_at": "2026-07-18T18:17:58.237444-04:00"
+      "enriched_at": "2026-07-19T18:13:55.393249-04:00"
     },
     "JEF": {
       "name": "Jefferies Financial Group Inc.",
@@ -3851,7 +3855,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-07-18T18:18:02.403476-04:00"
+      "enriched_at": "2026-07-19T18:13:59.577472-04:00"
     },
     "TT": {
       "name": "Trane Technologies plc",
@@ -3978,16 +3982,18 @@
     "WMT": {
       "name": "Walmart Inc.",
       "summary": "Walmart Inc. is a people-led, technology-powered omnichannel retailer offering retail stores and eCommerce services to help people save money and live better. With approximately 280 million customers served weekly, the company aims to continuously improve a customer-centric experience. Its strategy is to make every day easier for busy families.",
-      "news_role": "Walmart is facing operational challenges including a food safety issue and cybersecurity concerns, while also reacting to competitive pressures in the grocery sector.",
+      "news_role": "Walmart is facing challenges related to food safety issues and cybersecurity risks, while also adjusting its strategy through pricing and promotional efforts within the competitive grocery market.",
       "contextual_peers": [
         "CMG",
         "YUM",
-        "MCD"
+        "WEN",
+        "SYF"
       ],
       "contextual_peer_names": {
         "CMG": "Chipotle Mexican Grill",
         "YUM": "Yum! Brands",
-        "MCD": "McDonald's"
+        "WEN": "Wendy's",
+        "SYF": "Synchrony Financial"
       },
       "industry": "Retail-Variety Stores",
       "exchange": "NASDAQ",
@@ -4007,7 +4013,7 @@
       },
       "industry_peer_theme": "Discount Retail",
       "filing_date": "2026-03-13",
-      "enriched_at": "2026-07-18T18:18:08.432092-04:00"
+      "enriched_at": "2026-07-19T18:14:05.673845-04:00"
     },
     "AVAT": {
       "name": "Avalanche Treasury",
@@ -4535,7 +4541,7 @@
       },
       "industry_peer_theme": "Fast Casual Restaurants",
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-07-18T18:18:13.384547-04:00"
+      "enriched_at": "2026-07-19T18:14:10.433452-04:00"
     },
     "LCID": {
       "name": "Lucid Group, Inc.",
@@ -4899,7 +4905,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-23",
-      "enriched_at": "2026-07-18T18:18:18.892890-04:00"
+      "enriched_at": "2026-07-19T18:14:15.859710-04:00"
     },
     "CAT": {
       "name": "CATERPILLAR INC",
@@ -5124,7 +5130,7 @@
     "CMG": {
       "name": "CHIPOTLE MEXICAN GRILL INC",
       "summary": "Chipotle Mexican Grill, Inc. operates a chain of restaurants serving responsibly sourced, classically cooked, real food with wholesome ingredients. The company aims to provide a great guest experience and make its food more accessible to everyone. It has been in operation for over 30 years since its first restaurant opened in Denver, Colorado in 1993.",
-      "news_role": "Chipotle is currently facing negative sentiment due to a recent health incident impacting consumer confidence.",
+      "news_role": "Chipotle is currently facing scrutiny and a need to rebuild consumer confidence amidst broader concerns about food safety and restaurant health incidents.",
       "contextual_peers": [
         "QSR",
         "CAVA",
@@ -5155,7 +5161,7 @@
       },
       "industry_peer_theme": "Fast Casual Restaurants",
       "filing_date": "2026-02-04",
-      "enriched_at": "2026-07-18T18:18:24.210824-04:00"
+      "enriched_at": "2026-07-19T18:14:21.539187-04:00"
     },
     "IRDM": {
       "name": "Iridium Communications Inc.",
@@ -5244,14 +5250,14 @@
     "ALK": {
       "name": "ALASKA AIR GROUP, INC.",
       "summary": "Alaska Air Group, Inc. operates three airlines: Alaska Airlines, Hawaiian Airlines, and Horizon Air. Alaska Airlines was organized in 1932 and incorporated in 1937, while Hawaiian Airlines was originally incorporated in 1929. The company's airlines offer unique guest experiences to guests traveling to, from, or within the Hawaiian Islands.",
-      "news_role": "ALASKA AIR GROUP, INC. (ALK) benefits from increased passenger traffic at JFK's Terminal 8 through its shared Oneworld Alliance positioning with Japan Airlines, British Airways, and other partners.",
+      "news_role": "Alaska Air Group is currently highlighted as significantly outpacing its competitors in terms of flight volume.",
       "contextual_peers": [
-        "AAL",
-        "DAL"
+        "UAL",
+        "AAL"
       ],
       "contextual_peer_names": {
-        "AAL": "American Airlines Group",
-        "DAL": "Delta Air Lines"
+        "UAL": "United Airlines",
+        "AAL": "American Airlines Group"
       },
       "industry": "Air Transportation, Scheduled",
       "exchange": "NYSE",
@@ -5269,7 +5275,7 @@
       },
       "industry_peer_theme": "Low Cost Carriers",
       "filing_date": "2026-02-12",
-      "enriched_at": "2026-07-07T18:58:52.606564-04:00"
+      "enriched_at": "2026-07-19T18:14:26.130906-04:00"
     },
     "PM": {
       "name": "Philip Morris International Inc.",
@@ -5597,7 +5603,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-24",
-      "enriched_at": "2026-07-18T18:18:28.971472-04:00"
+      "enriched_at": "2026-07-19T18:14:30.887270-04:00"
     },
     "BLDR": {
       "name": "Builders FirstSource, Inc.",
@@ -5639,12 +5645,12 @@
       },
       "industry_peer_theme": "Digital Media Tech",
       "filing_date": "2026-02-27",
-      "enriched_at": "2026-07-18T18:18:33.832402-04:00"
+      "enriched_at": "2026-07-19T18:14:35.723173-04:00"
     },
     "KR": {
       "name": "KROGER CO",
       "summary": "Kroger operates a retail grocery business with integrated pharmacies and fuel centers, leveraging customer data to personalize experiences and grow an alternative profit business through media revenue. Their strategy centers on delivering value and convenience to attract and retain customers.",
-      "news_role": "Kroger is facing similar pressures as other major retailers like Walmart, driven by a focus on price reductions and value-oriented strategies to maintain market share.",
+      "news_role": "Kroger is facing similar pressures as Walmart, with the grocery industry trending towards a focus on price reductions and value-driven strategies.",
       "contextual_peers": [
         "WMT"
       ],
@@ -5663,7 +5669,7 @@
       },
       "industry_peer_theme": "Grocery retail",
       "filing_date": "2026-03-31",
-      "enriched_at": "2026-07-18T18:18:38.988349-04:00"
+      "enriched_at": "2026-07-19T18:14:40.518925-04:00"
     },
     "LITE": {
       "name": "Lumentum Holdings Inc.",
@@ -5685,7 +5691,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2025-08-19",
-      "enriched_at": "2026-07-18T18:18:44.785764-04:00"
+      "enriched_at": "2026-07-19T18:14:46.320185-04:00"
     },
     "OWL": {
       "name": "BLUE OWL CAPITAL INC.",
@@ -5719,7 +5725,7 @@
       },
       "industry_peer_theme": "Alternative asset management",
       "filing_date": "2026-02-19",
-      "enriched_at": "2026-07-18T18:18:50.404528-04:00"
+      "enriched_at": "2026-07-19T18:14:51.853748-04:00"
     },
     "TFC": {
       "name": "TRUIST FINANCIAL CORP",
@@ -5781,7 +5787,7 @@
       },
       "industry_peer_theme": "Healthcare insurance",
       "filing_date": "2026-03-02",
-      "enriched_at": "2026-07-18T18:18:56.113170-04:00"
+      "enriched_at": "2026-07-19T18:14:57.488295-04:00"
     },
     "BJ": {
       "name": "BJ's Wholesale Club Holdings, Inc.",
@@ -5813,7 +5819,7 @@
       },
       "industry_peer_theme": "Discount Retail",
       "filing_date": "2026-03-12",
-      "enriched_at": "2026-07-18T18:19:01.258830-04:00"
+      "enriched_at": "2026-07-19T18:15:02.526890-04:00"
     },
     "CAVA": {
       "name": "CAVA GROUP, INC.",
@@ -5851,7 +5857,7 @@
       },
       "industry_peer_theme": "Quick service dining",
       "filing_date": "2026-02-25",
-      "enriched_at": "2026-07-18T18:19:07.427456-04:00"
+      "enriched_at": "2026-07-19T18:15:08.381316-04:00"
     },
     "CHWY": {
       "name": "Chewy, Inc.",
@@ -5875,7 +5881,7 @@
       },
       "industry_peer_theme": "E-commerce retail",
       "filing_date": "2026-03-25",
-      "enriched_at": "2026-07-18T18:19:12.227297-04:00"
+      "enriched_at": "2026-07-19T18:15:13.046106-04:00"
     },
     "CL": {
       "name": "COLGATE PALMOLIVE CO",
@@ -5905,12 +5911,12 @@
       },
       "industry_peer_theme": "Personal Care Beauty",
       "filing_date": "2026-02-23",
-      "enriched_at": "2026-07-18T18:19:17.746369-04:00"
+      "enriched_at": "2026-07-19T18:15:18.271189-04:00"
     },
     "EL": {
       "name": "ESTEE LAUDER COMPANIES INC",
       "summary": "Estée Lauder Companies Inc. is a global leader in luxury and prestige beauty products, encompassing skincare, makeup, fragrance, and hair care. They distribute their products through a vast network of channels including retail stores, e-commerce, and direct sales, operating as a wholesaler across numerous countries.",
-      "news_role": "Estée Lauder is leveraging trends from the K-beauty market by incorporating its popular ingredients into its own product lines.",
+      "news_role": "Estée Lauder is leveraging trends from the K-beauty market by incorporating popular ingredients into its product formulations.",
       "contextual_peers": [
         "ULTA"
       ],
@@ -5931,7 +5937,7 @@
       },
       "industry_peer_theme": "Beauty Consumer Trends",
       "filing_date": "2025-08-20",
-      "enriched_at": "2026-07-18T18:19:22.871875-04:00"
+      "enriched_at": "2026-07-19T18:15:22.882464-04:00"
     },
     "HD": {
       "name": "HOME DEPOT, INC.",
@@ -5961,7 +5967,7 @@
       },
       "industry_peer_theme": "Home improvement retail",
       "filing_date": "2026-03-18",
-      "enriched_at": "2026-07-18T18:19:27.681280-04:00"
+      "enriched_at": "2026-07-19T18:15:27.576794-04:00"
     },
     "IDXX": {
       "name": "IDEXX LABORATORIES INC /DE",
@@ -5981,7 +5987,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-07-18T18:19:32.648543-04:00"
+      "enriched_at": "2026-07-19T18:15:32.393279-04:00"
     },
     "QSR": {
       "name": "Restaurant Brands International Inc.",
@@ -6013,12 +6019,12 @@
       },
       "industry_peer_theme": "Quick service dining",
       "filing_date": "2026-02-20",
-      "enriched_at": "2026-07-18T18:19:38.367479-04:00"
+      "enriched_at": "2026-07-19T18:15:37.668908-04:00"
     },
     "SYF": {
       "name": "Synchrony Financial",
       "summary": "Synchrony Financial is a leading consumer financial services company that facilitates a broad ecosystem connecting partners (retailers, manufacturers, etc.) and consumers through diverse financing solutions. They operate as a key intermediary in various industries like retail, telecommunications, and healthcare, providing financing options to both merchants and end-users.",
-      "news_role": "Synchrony Financial is facing a security breach involving unauthorized access to its accounts and potential misuse of its card issuer system.",
+      "news_role": "Synchrony Financial is facing a security incident involving unauthorized access to its accounts, highlighting potential vulnerabilities within its systems.",
       "contextual_peers": [
         "WMT",
         "BJ",
@@ -6035,7 +6041,7 @@
       "industry_peer_names": {},
       "industry_peer_theme": null,
       "filing_date": "2026-02-06",
-      "enriched_at": "2026-07-18T18:19:43.325762-04:00"
+      "enriched_at": "2026-07-19T18:15:42.543615-04:00"
     },
     "ULTA": {
       "name": "Ulta Beauty, Inc.",
@@ -6061,7 +6067,37 @@
       },
       "industry_peer_theme": "Beauty retail",
       "filing_date": "2026-03-26",
-      "enriched_at": "2026-07-18T18:19:48.921604-04:00"
+      "enriched_at": "2026-07-19T18:15:47.616775-04:00"
+    },
+    "ABBV": {
+      "name": "AbbVie Inc.",
+      "summary": "AbbVie is a global, research-based biopharmaceutical company focused on developing and marketing advanced therapies across immunology, neuroscience, oncology, and aesthetics. Established as an independent company in 2013 following a distribution from Abbott Laboratories, AbbVie leverages innovation and expertise to address serious diseases.",
+      "news_role": "AbbVie is currently in the news due to its significant acquisitions within the pharmaceutical industry.",
+      "contextual_peers": [
+        "LLY"
+      ],
+      "contextual_peer_names": {
+        "LLY": "Eli Lilly"
+      },
+      "industry": "Pharmaceutical Preparations",
+      "exchange": "NYSE",
+      "industry_peers": [
+        "BMY",
+        "ABT",
+        "PFE",
+        "VRTX",
+        "OGN"
+      ],
+      "industry_peer_names": {
+        "BMY": "Bristol-Myers Squibb",
+        "ABT": "Abbott Laboratories",
+        "PFE": "Pfizer",
+        "VRTX": "Vertex Pharmaceuticals",
+        "OGN": "Organon"
+      },
+      "industry_peer_theme": "Biopharmaceuticals",
+      "filing_date": "2026-02-20",
+      "enriched_at": "2026-07-19T18:15:51.673267-04:00"
     }
   }
 }
