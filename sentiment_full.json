@@ -1,6 +1,6 @@
 {
   "mode": "full",
-  "updated_at": "2026-07-19T06:36:34.416769-04:00",
+  "updated_at": "2026-07-19T10:18:50.184244-04:00",
   "tickers": {
     "ROL": {
       "name": "Rollins",
@@ -49,7 +49,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 2
     },
     "MS": {
       "name": "Morgan Stanley",
@@ -292,7 +294,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 14.79,
+      "recent_count": 18
     },
     "AMZN": {
       "name": "Amazon.com",
@@ -710,7 +714,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.38,
+      "recent_count": 7
     },
     "TGT": {
       "name": "Target",
@@ -788,7 +794,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.27,
+      "recent_count": 1
     },
     "QSR": {
       "name": "Restaurant Brands International",
@@ -866,7 +874,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 10
     },
     "YUM": {
       "name": "Yum! Brands",
@@ -934,7 +944,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 3
     },
     "WMT": {
       "name": "Walmart",
@@ -1067,7 +1079,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 23.0,
+      "recent_count": 7
     },
     "NVDA": {
       "name": "Nvidia",
@@ -1417,7 +1431,9 @@
           "positive_pct": 66.7,
           "negative_pct": 33.3
         }
-      ]
+      ],
+      "momentum": 1.44,
+      "recent_count": 18
     },
     "AAPL": {
       "name": "Apple",
@@ -1756,7 +1772,9 @@
           "positive_pct": 80.0,
           "negative_pct": 20.0
         }
-      ]
+      ],
+      "momentum": 1.1,
+      "recent_count": 10
     },
     "MU": {
       "name": "Micron Technology",
@@ -2024,7 +2042,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.37,
+      "recent_count": 5
     },
     "MSFT": {
       "name": "Microsoft",
@@ -2354,7 +2374,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.7,
+      "recent_count": 7
     },
     "META": {
       "name": "Meta Platforms",
@@ -2680,7 +2702,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 1.43,
+      "recent_count": 17
     },
     "NYT": {
       "name": "New York Times",
@@ -2788,7 +2812,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 3.29,
+      "recent_count": 2
     },
     "SPCX": {
       "name": "Space Exploration Technologies",
@@ -3162,7 +3188,9 @@
           "positive_pct": 33.3,
           "negative_pct": 66.7
         }
-      ]
+      ],
+      "momentum": 0.51,
+      "recent_count": 12
     },
     "GS": {
       "name": "Goldman Sachs Group",
@@ -3532,7 +3560,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 1.99,
+      "recent_count": 20
     },
     "CAVA": {
       "name": "CAVA Group",
@@ -3581,7 +3611,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 2
     },
     "CMG": {
       "name": "Chipotle Mexican Grill",
@@ -3635,7 +3667,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 2
     },
     "MCD": {
       "name": "McDonald's",
@@ -3703,7 +3737,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 6.57,
+      "recent_count": 2
     },
     "WEN": {
       "name": "Wendy's",
@@ -3795,7 +3831,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.3,
+      "recent_count": 1
     },
     "BA": {
       "name": "Boeing",
@@ -3889,7 +3927,9 @@
           "positive_pct": 33.3,
           "negative_pct": 66.7
         }
-      ]
+      ],
+      "momentum": 3.29,
+      "recent_count": 3
     },
     "DJT": {
       "name": "Trump Media Technology Group",
@@ -3943,7 +3983,9 @@
           "positive_pct": 14.3,
           "negative_pct": 71.4
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 7
     },
     "UNH": {
       "name": "UnitedHealth Group",
@@ -4045,7 +4087,9 @@
           "positive_pct": 50.0,
           "negative_pct": 33.3
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 7
     },
     "GOOG": {
       "name": "Alphabet",
@@ -4341,7 +4385,9 @@
           "positive_pct": 20.0,
           "negative_pct": 60.0
         }
-      ]
+      ],
+      "momentum": 0.66,
+      "recent_count": 5
     },
     "UAL": {
       "name": "United Airlines",
@@ -4452,7 +4498,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 3.29,
+      "recent_count": 2
     },
     "JPM": {
       "name": "JPMorgan Chase",
@@ -4713,7 +4761,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 3.29,
+      "recent_count": 18
     },
     "NFLX": {
       "name": "Netflix",
@@ -4906,7 +4956,9 @@
           "positive_pct": 36.4,
           "negative_pct": 18.2
         }
-      ]
+      ],
+      "momentum": 5.34,
+      "recent_count": 13
     },
     "WBD": {
       "name": "Warner Bros Discovery",
@@ -5019,7 +5071,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 1.64,
+      "recent_count": 2
     },
     "LLY": {
       "name": "Eli Lilly",
@@ -5123,7 +5177,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 1.64,
+      "recent_count": 3
     },
     "WFC": {
       "name": "Wells Fargo",
@@ -5250,7 +5306,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 8.21,
+      "recent_count": 5
     },
     "C": {
       "name": "Citigroup",
@@ -5389,7 +5447,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 2.46,
+      "recent_count": 3
     },
     "BAC": {
       "name": "Bank of America",
@@ -5609,7 +5669,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 2.3,
+      "recent_count": 7
     },
     "TSLA": {
       "name": "Tesla",
@@ -5807,7 +5869,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.27,
+      "recent_count": 1
     },
     "CME": {
       "name": "CME Group",
@@ -5954,7 +6018,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 1.31,
+      "recent_count": 2
     },
     "AVGO": {
       "name": "Broadcom",
@@ -6034,7 +6100,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 3.29,
+      "recent_count": 1
     },
     "SYF": {
       "name": "Synchrony Financial",
@@ -6088,7 +6156,9 @@
           "positive_pct": 0.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": null,
+      "recent_count": 2
     },
     "INTC": {
       "name": "Intel",
@@ -6231,7 +6301,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.55,
+      "recent_count": 1
     },
     "LRCX": {
       "name": "Lam Research",
@@ -6313,7 +6385,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 1.64,
+      "recent_count": 1
     },
     "AMD": {
       "name": "Advanced Micro Devices",
@@ -6430,7 +6504,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 2.19,
+      "recent_count": 2
     },
     "BRK-B": {
       "name": "Berkshire Hathaway",
@@ -6531,7 +6607,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 1.31,
+      "recent_count": 2
     },
     "F": {
       "name": "Ford Motor",
@@ -6649,7 +6727,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.18,
+      "recent_count": 1
     },
     "LITE": {
       "name": "Lumentum",
@@ -6703,7 +6783,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "AZN": {
       "name": "AstraZeneca",
@@ -6767,7 +6849,9 @@
           "positive_pct": 66.7,
           "negative_pct": 22.2
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "MORN": {
       "name": "Morningstar",
@@ -6857,7 +6941,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "ORCL": {
       "name": "Oracle",
@@ -6954,7 +7040,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "LMT": {
       "name": "Lockheed Martin",
@@ -7079,7 +7167,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "VZ": {
       "name": "Verizon Communications",
@@ -7159,7 +7249,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "PLTR": {
       "name": "Palantir Technologies",
@@ -7239,7 +7331,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "FLUT": {
       "name": "Flutter Entertainment",
@@ -7307,7 +7401,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "DKNG": {
       "name": "Draftkings",
@@ -7375,7 +7471,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "DIS": {
       "name": "Walt Disney",
@@ -7500,7 +7598,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "CMCSA": {
       "name": "Comcast",
@@ -7595,7 +7695,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "CRWD": {
       "name": "CrowdStrike",
@@ -7685,7 +7787,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "PANW": {
       "name": "Palo Alto Networks",
@@ -7748,7 +7852,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "SNDK": {
       "name": "Sandisk",
@@ -7854,7 +7960,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "AMAT": {
       "name": "Applied Materials",
@@ -7931,7 +8039,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "EVR": {
       "name": "Evercore",
@@ -8011,7 +8121,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "GM": {
       "name": "General Motors",
@@ -8126,7 +8238,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "SBUX": {
       "name": "Starbucks",
@@ -8206,7 +8320,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "COST": {
       "name": "Costco Wholesale",
@@ -8260,7 +8376,9 @@
           "positive_pct": 0.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "NKE": {
       "name": "Nike",
@@ -8340,7 +8458,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "ABBV": {
       "name": "Abbvie",
@@ -8389,7 +8509,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "AXP": {
       "name": "American Express",
@@ -8472,7 +8594,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "DELL": {
       "name": "Dell Technologies",
@@ -8567,7 +8691,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "HOOD": {
       "name": "Robinhood Markets",
@@ -8723,7 +8849,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "VSNT": {
       "name": "Versant Media Group",
@@ -8803,7 +8931,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "DE": {
       "name": "Deere",
@@ -8844,7 +8974,9 @@
           "positive_pct": 50.0,
           "negative_pct": 50.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "JCI": {
       "name": "Johnson Controls International",
@@ -8919,7 +9051,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "UBER": {
       "name": "Uber Technologies",
@@ -9015,7 +9149,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "VFC": {
       "name": "VF",
@@ -9079,7 +9215,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "COLM": {
       "name": "Columbia Sportswear",
@@ -9133,7 +9271,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "BX": {
       "name": "Blackstone",
@@ -9208,7 +9348,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "PM": {
       "name": "Philip Morris International",
@@ -9244,7 +9386,9 @@
           "positive_pct": 66.7,
           "negative_pct": 33.3
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "CAT": {
       "name": "Caterpillar",
@@ -9338,7 +9482,9 @@
           "positive_pct": 60.0,
           "negative_pct": 40.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "REGN": {
       "name": "Regeneron Pharmaceuticals",
@@ -9397,7 +9543,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "WDC": {
       "name": "Western Digital",
@@ -9465,7 +9613,9 @@
           "positive_pct": 33.3,
           "negative_pct": 33.3
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "CHTR": {
       "name": "Charter Communications",
@@ -9524,7 +9674,9 @@
           "positive_pct": 57.1,
           "negative_pct": 42.9
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "RKLB": {
       "name": "Rocket Lab",
@@ -9604,7 +9756,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "NOC": {
       "name": "Northrop Grumman",
@@ -9667,7 +9821,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "MET": {
       "name": "MetLife",
@@ -9716,7 +9872,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "ON": {
       "name": "ON Semiconductor",
@@ -9784,7 +9942,9 @@
           "positive_pct": 80.0,
           "negative_pct": 20.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "GEV": {
       "name": "GE Vernova",
@@ -9864,7 +10024,9 @@
           "positive_pct": 66.7,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "LYV": {
       "name": "Live Nation Entertainment",
@@ -9913,7 +10075,9 @@
           "positive_pct": 0.0,
           "negative_pct": 100.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "QCOM": {
       "name": "Qualcomm",
@@ -10005,7 +10169,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "GME": {
       "name": "GameStop",
@@ -10068,7 +10234,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "HON": {
       "name": "Honeywell International",
@@ -10143,7 +10311,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "SPGI": {
       "name": "S&P Global",
@@ -10214,7 +10384,9 @@
           "positive_pct": 0.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     },
     "FDX": {
       "name": "FedEx",
@@ -10268,7 +10440,9 @@
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
-      ]
+      ],
+      "momentum": 0.0,
+      "recent_count": 0
     }
   },
   "window_start": "2026-06-19"
