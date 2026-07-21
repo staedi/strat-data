@@ -1,67 +1,144 @@
 {
   "mode": "recent",
-  "updated_at": "2026-07-20T20:13:08.988150-04:00",
+  "updated_at": "2026-07-22T19:28:50.799150-04:00",
   "tickers": {
-    "GOOG": {
-      "name": "Alphabet",
-      "pos": 4,
-      "neg": 4,
+    "RDDT": {
+      "name": "Reddit",
+      "pos": 2,
+      "neg": 2,
       "neu": 0,
-      "total": 8,
+      "total": 4,
       "positive_pct": 50.0,
       "negative_pct": 50.0,
-      "score": 0.119,
+      "score": 0.0,
       "categories": {
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
         "Business": {
           "pos": 1,
-          "neg": 1,
+          "neg": 2,
           "neu": 0
         },
         "Performance": {
           "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "Reddit stock sinks on report it may not renew Google AI content deal",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-21",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "GOOG": {
+      "name": "Alphabet",
+      "pos": 15,
+      "neg": 6,
+      "neu": 2,
+      "total": 23,
+      "positive_pct": 65.2,
+      "negative_pct": 26.1,
+      "score": 0.384,
+      "categories": {
+        "Business": {
+          "pos": 5,
+          "neg": 3,
+          "neu": 1
+        },
+        "Legal": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 4,
           "neg": 1,
           "neu": 0
         },
-        "Legal": {
-          "pos": 1,
-          "neg": 2,
+        "NewsRelease": {
+          "pos": 4,
+          "neg": 0,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 48,
+          "cluster_id": 56,
           "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 2,
-          "neg": 2,
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 4,
+          "neg": 1,
           "neu": 0,
-          "total": 4,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
+          "total": 5,
+          "score": 0.6,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0
+        },
+        {
+          "cluster_id": 54,
+          "label": "AI-driven workforce transformation",
+          "meta_category": "Economic Future Shifts",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
         },
         {
           "cluster_id": 46,
-          "label": "AI Industry Capital Allocation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 2,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 37,
+          "label": "SpaceX market volatility",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
           "neg": 0,
           "neu": 0,
-          "total": 2,
+          "total": 1,
           "score": 1.0,
           "positive_pct": 100.0,
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 31,
-          "label": "Global trade tensions",
-          "meta_category": "Power and Influence Dynamics",
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
           "pos": 0,
           "neg": 1,
           "neu": 0,
@@ -72,8 +149,8 @@
         },
         {
           "cluster_id": 1,
-          "label": "Wealth taxation debate",
-          "meta_category": "Wealth and Power Dynamics",
+          "label": "Wealth tax debates and economic policy",
+          "meta_category": "Economic Future Shifts",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -83,9 +160,9 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 11,
+          "cluster_id": 69,
           "label": "Prediction market regulation",
-          "meta_category": "Economic Disruption Frontiers",
+          "meta_category": "Sports and Media Economics",
           "pos": 0,
           "neg": 1,
           "neu": 0,
@@ -97,29 +174,29 @@
       ],
       "articles": [
         {
-          "headline": "Alphabet stock pops on report it's developing a more efficient AI chip",
-          "date": "2026-07-19 00:00:00",
+          "headline": "Reddit stock sinks on report it may not renew Google AI content deal",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex",
+          "date": "2026-07-21 00:00:00",
           "polarity": "+"
         },
         {
-          "headline": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
-          "date": "2026-07-15 00:00:00",
+          "headline": "Amazon cuts some jobs in its artificial general intelligence unit",
+          "date": "2026-07-21 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
         },
         {
-          "headline": "California billionaire tax: What's at risk for biggest state economy in America",
-          "date": "2026-07-15 00:00:00",
+          "headline": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+          "date": "2026-07-20 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Trump suspends teleprompter operator over Kalshi bets allegations, WH says",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
@@ -134,38 +211,46 @@
         },
         {
           "date": "2026-07-19",
-          "pos": 2,
+          "pos": 3,
           "neg": 1,
           "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 7,
+          "neg": 0,
+          "neu": 1,
+          "total": 8,
+          "positive_pct": 87.5,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 3,
+          "neg": 2,
+          "neu": 1,
+          "total": 6,
+          "positive_pct": 50.0,
           "negative_pct": 33.3
         }
       ]
     },
-    "SPCX": {
-      "name": "Space Exploration Technologies",
-      "pos": 14,
-      "neg": 8,
+    "WBD": {
+      "name": "Warner Bros Discovery",
+      "pos": 1,
+      "neg": 2,
       "neu": 0,
-      "total": 22,
-      "positive_pct": 63.6,
-      "negative_pct": 36.4,
-      "score": 0.311,
+      "total": 3,
+      "positive_pct": 33.3,
+      "negative_pct": 66.7,
+      "score": -0.155,
       "categories": {
         "Business": {
-          "pos": 13,
-          "neg": 4,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 3,
-          "neu": 0
-        },
-        "NewsRelease": {
           "pos": 1,
-          "neg": 0,
+          "neg": 1,
           "neu": 0
         },
         "Legal": {
@@ -176,33 +261,103 @@
       },
       "clusters": [
         {
-          "cluster_id": 50,
-          "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 5,
+          "cluster_id": 0,
+          "label": "Media merger competitiveness",
+          "meta_category": "Sports and Media Economics",
+          "pos": 1,
           "neg": 1,
           "neu": 0,
-          "total": 6,
-          "score": 0.667,
-          "positive_pct": 83.3,
-          "negative_pct": 16.7
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         },
         {
-          "cluster_id": 29,
-          "label": "SpaceX market volatility",
-          "meta_category": "Future Tech Frontiers",
-          "pos": 1,
-          "neg": 4,
+          "cluster_id": 41,
+          "label": "Women-driven apparel growth",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 0,
+          "neg": 1,
           "neu": 0,
-          "total": 5,
-          "score": -0.6,
-          "positive_pct": 20.0,
-          "negative_pct": 80.0
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "EU regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "+"
         },
         {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
+          "headline": "Paramount and Warner Bros. merger hit with temporary restraining order",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "COIN": {
+      "name": "Coinbase Global",
+      "pos": 5,
+      "neg": 1,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 83.3,
+      "negative_pct": 16.7,
+      "score": 0.768,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 39,
+          "label": "Crypto bear market dynamics",
+          "meta_category": "AI-Driven Market Shifts",
           "pos": 3,
           "neg": 1,
           "neu": 0,
@@ -212,45 +367,9 @@
           "negative_pct": 25.0
         },
         {
-          "cluster_id": 46,
-          "label": "AI Industry Capital Allocation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 28,
-          "label": "Hybrid market surge",
-          "meta_category": "Automotive Industry Shifts",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 19,
-          "label": "Premium aviation strategy",
-          "meta_category": "Consumer Lifestyle Shifts",
+          "cluster_id": 18,
+          "label": "Housing affordability crisis",
+          "meta_category": "Societal Resilience & Change",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -261,20 +380,8 @@
         },
         {
           "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 21,
-          "label": "Wealth legacy and market dynamics",
-          "meta_category": "Wealth and Power Dynamics",
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -286,50 +393,521 @@
       ],
       "articles": [
         {
-          "headline": "Alphabet stock pops on report it's developing a more efficient AI chip",
-          "date": "2026-07-19 00:00:00",
+          "headline": "Senate crypto bill would ban federal officials from issuing digital assets",
+          "date": "2026-07-21 00:00:00",
           "polarity": "+"
         },
         {
-          "headline": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
-          "date": "2026-07-19 00:00:00",
+          "headline": "Time for a crypto comeback? Traders bet that this stock will lead the way",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Coinbase trading results may fall short, according to prediction markets",
+          "date": "2026-07-18 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-          "date": "2026-07-17 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Anthropic in early talks with Meta to acquire compute power",
-          "date": "2026-07-16 00:00:00",
+          "headline": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
+          "date": "2026-07-15 00:00:00",
           "polarity": "+"
         }
       ],
       "daily": [
         {
-          "date": "2026-07-10",
-          "pos": 4,
-          "neg": 1,
+          "date": "2026-07-15",
+          "pos": 1,
+          "neg": 0,
           "neu": 0,
-          "total": 5,
-          "positive_pct": 80.0,
-          "negative_pct": 20.0
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
         },
         {
-          "date": "2026-07-12",
-          "pos": 2,
+          "date": "2026-07-18",
+          "pos": 1,
           "neg": 1,
           "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         },
+        {
+          "date": "2026-07-20",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "GM": {
+      "name": "General Motors",
+      "pos": 2,
+      "neg": 1,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 66.7,
+      "negative_pct": 33.3,
+      "score": -0.1,
+      "categories": {
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 33,
+          "label": "Hybrid market shift and EV challenges",
+          "meta_category": "Future of Mobility",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "S&P 500 futures slip as traders shift focus to earnings amid Middle East tensions",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-19",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com",
+      "pos": 9,
+      "neg": 4,
+      "neu": 1,
+      "total": 14,
+      "positive_pct": 64.3,
+      "negative_pct": 28.6,
+      "score": 0.555,
+      "categories": {
+        "Recruitment": {
+          "pos": 1,
+          "neg": 2,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 5,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 54,
+          "label": "AI-driven workforce transformation",
+          "meta_category": "Economic Future Shifts",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "score": -0.5,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 38,
+          "label": "Retail transformation and investor sentiment",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 51,
+          "label": "AI-driven semiconductor volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Amazon cuts some jobs in its artificial general intelligence unit",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Intel foundry lands key customer for CEO Tan, as Fortinet signs on for security chips",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Korean beauty products are becoming mainstream in the U.S. More growth may be ahead",
+          "date": "2026-07-17 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-07-17",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 5,
+          "neg": 2,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 71.4,
+          "negative_pct": 28.6
+        }
+      ]
+    },
+    "SPCX": {
+      "name": "Space Exploration Technologies",
+      "pos": 23,
+      "neg": 16,
+      "neu": 0,
+      "total": 39,
+      "positive_pct": 59.0,
+      "negative_pct": 41.0,
+      "score": 0.224,
+      "categories": {
+        "Performance": {
+          "pos": 4,
+          "neg": 7,
+          "neu": 0
+        },
+        "Recruitment": {
+          "pos": 4,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 13,
+          "neg": 9,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 37,
+          "label": "SpaceX market volatility",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 11,
+          "neg": 13,
+          "neu": 0,
+          "total": 24,
+          "score": -0.083,
+          "positive_pct": 45.8,
+          "negative_pct": 54.2
+        },
+        {
+          "cluster_id": 23,
+          "label": "Tesla's automotive and autonomy challenges",
+          "meta_category": "Future of Mobility",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 25,
+          "label": "Premium airline competition",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 59,
+          "label": "AI infrastructure expansion",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 55,
+          "label": "AI IPO race and competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Market sentiment and value investing",
+          "meta_category": "Economic Future Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Goldman creates private markets platform as rich investors seek the next SpaceX",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Bets against SpaceX grow to 32% as Musk warns short sellers won't survive",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Tesla shares poised for biggest earnings move in a year",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "SpaceX sets earnings date, triggering first unlock for millions of shares",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
         {
           "date": "2026-07-13",
           "pos": 3,
@@ -383,81 +961,215 @@
           "total": 2,
           "positive_pct": 50.0,
           "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 14,
+          "neg": 9,
+          "neu": 0,
+          "total": 23,
+          "positive_pct": 60.9,
+          "negative_pct": 39.1
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         }
       ]
     },
-    "AAPL": {
-      "name": "Apple",
-      "pos": 12,
-      "neg": 10,
-      "neu": 1,
-      "total": 23,
-      "positive_pct": 52.2,
-      "negative_pct": 43.5,
-      "score": 0.152,
+    "INTC": {
+      "name": "Intel",
+      "pos": 7,
+      "neg": 5,
+      "neu": 2,
+      "total": 14,
+      "positive_pct": 50.0,
+      "negative_pct": 35.7,
+      "score": 0.129,
       "categories": {
-        "Performance": {
-          "pos": 5,
-          "neg": 2,
-          "neu": 0
-        },
         "Business": {
           "pos": 3,
-          "neg": 3,
+          "neg": 1,
           "neu": 1
         },
-        "Legal": {
-          "pos": 4,
-          "neg": 4,
+        "Performance": {
+          "pos": 3,
+          "neg": 3,
           "neu": 0
         },
-        "Recruitment": {
+        "NewsRelease": {
           "pos": 0,
           "neg": 1,
+          "neu": 1
+        },
+        "Recruitment": {
+          "pos": 1,
+          "neg": 0,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 50,
-          "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 4,
-          "neg": 5,
-          "neu": 0,
-          "total": 9,
-          "score": -0.111,
-          "positive_pct": 44.4,
-          "negative_pct": 55.6
-        },
-        {
-          "cluster_id": 55,
+          "cluster_id": 63,
           "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 5,
-          "neg": 1,
+          "neg": 2,
           "neu": 0,
-          "total": 6,
-          "score": 0.667,
-          "positive_pct": 83.3,
-          "negative_pct": 16.7
+          "total": 7,
+          "score": 0.429,
+          "positive_pct": 71.4,
+          "negative_pct": 28.6
         },
         {
-          "cluster_id": 45,
-          "label": "Component cost inflation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
           "neg": 2,
           "neu": 1,
-          "total": 3,
-          "score": -0.667,
-          "positive_pct": 0.0,
-          "negative_pct": 66.7
+          "total": 4,
+          "score": -0.25,
+          "positive_pct": 25.0,
+          "negative_pct": 50.0
         },
         {
-          "cluster_id": 54,
+          "cluster_id": 23,
+          "label": "Tesla's automotive and autonomy challenges",
+          "meta_category": "Future of Mobility",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+          "date": "2026-07-21 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Intel foundry lands key customer for CEO Tan, as Fortinet signs on for security chips",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
+          "date": "2026-07-14 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 6,
+          "neg": 4,
+          "neu": 1,
+          "total": 11,
+          "positive_pct": 54.5,
+          "negative_pct": 36.4
+        },
+        {
+          "date": "2026-07-21",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "META": {
+      "name": "Meta Platforms",
+      "pos": 8,
+      "neg": 2,
+      "neu": 0,
+      "total": 10,
+      "positive_pct": 80.0,
+      "negative_pct": 20.0,
+      "score": 0.804,
+      "categories": {
+        "Legal": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Recruitment": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 4,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 59,
+          "label": "AI infrastructure expansion",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 51,
           "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
+          "meta_category": "AI-Driven Market Shifts",
           "pos": 1,
           "neg": 1,
           "neu": 0,
@@ -467,9 +1179,9 @@
           "negative_pct": 50.0
         },
         {
-          "cluster_id": 11,
-          "label": "Prediction market regulation",
-          "meta_category": "Economic Disruption Frontiers",
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -479,9 +1191,33 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 47,
-          "label": "AI-driven workforce transformation",
-          "meta_category": "AI Economic Transformation",
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
           "pos": 0,
           "neg": 1,
           "neu": 0,
@@ -489,13 +1225,177 @@
           "score": -1.0,
           "positive_pct": 0.0,
           "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
         }
       ],
       "articles": [
         {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Goldman creates private markets platform as rich investors seek the next SpaceX",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Anthropic in early talks with Meta to acquire compute power",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-16",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple",
+      "pos": 10,
+      "neg": 2,
+      "neu": 1,
+      "total": 13,
+      "positive_pct": 76.9,
+      "negative_pct": 15.4,
+      "score": 0.491,
+      "categories": {
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 6,
+          "neg": 2,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 4,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 69,
+          "label": "Prediction market regulation",
+          "meta_category": "Sports and Media Economics",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        },
+        {
           "headline": "S&P 500 futures slip as traders shift focus to earnings amid Middle East tensions",
           "date": "2026-07-19 00:00:00",
           "polarity": "-"
+        },
+        {
+          "headline": "Intel foundry lands key customer for CEO Tan, as Fortinet signs on for security chips",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
         },
         {
           "headline": "Apple, Nvidia vie for title of world's most valuable company",
@@ -506,46 +1406,9 @@
           "headline": "TSMC second-quarter profit spikes over 77%, topping estimates",
           "date": "2026-07-15 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "As prediction markets expands event contract types, the SEC may get involved",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 3,
-          "neg": 6,
-          "neu": 1,
-          "total": 10,
-          "positive_pct": 30.0,
-          "negative_pct": 60.0
-        },
-        {
-          "date": "2026-07-10",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-07-13",
           "pos": 2,
@@ -575,28 +1438,1921 @@
         },
         {
           "date": "2026-07-19",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft",
+      "pos": 13,
+      "neg": 2,
+      "neu": 1,
+      "total": 16,
+      "positive_pct": 81.2,
+      "negative_pct": 12.5,
+      "score": 0.29,
+      "categories": {
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 1
+        },
+        "Business": {
+          "pos": 9,
+          "neg": 0,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 3,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 5,
+          "neg": 0,
+          "neu": 0,
+          "total": 5,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "score": -0.5,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 60,
+          "label": "AI-driven energy and infrastructure surge",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 51,
+          "label": "AI-driven semiconductor volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Bessent says U.S. could sanction China over AI model 'theft'",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Intel foundry lands key customer for CEO Tan, as Fortinet signs on for security chips",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Apple, Nvidia vie for title of world's most valuable company",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 5,
+          "neg": 0,
+          "neu": 0,
+          "total": 5,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-16",
           "pos": 0,
           "neg": 1,
           "neu": 0,
           "total": 1,
           "positive_pct": 0.0,
           "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 7,
+          "neg": 0,
+          "neu": 0,
+          "total": 7,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "Nvidia",
+      "pos": 32,
+      "neg": 5,
+      "neu": 2,
+      "total": 39,
+      "positive_pct": 82.1,
+      "negative_pct": 12.8,
+      "score": 0.517,
+      "categories": {
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 2
+        },
+        "Performance": {
+          "pos": 12,
+          "neg": 3,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 8,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 12,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 7,
+          "neg": 2,
+          "neu": 0,
+          "total": 9,
+          "score": 0.556,
+          "positive_pct": 77.8,
+          "negative_pct": 22.2
+        },
+        {
+          "cluster_id": 60,
+          "label": "AI-driven energy and infrastructure surge",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 7,
+          "neg": 0,
+          "neu": 0,
+          "total": 7,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 59,
+          "label": "AI infrastructure expansion",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 1,
+          "label": "Wealth tax debates and economic policy",
+          "meta_category": "Economic Future Shifts",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "score": 0.0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 69,
+          "label": "Prediction market regulation",
+          "meta_category": "Sports and Media Economics",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "Super Micro shares surge on new order disclosure after SpaceX announcement",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-13",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-15",
+          "pos": 11,
+          "neg": 0,
+          "neu": 1,
+          "total": 12,
+          "positive_pct": 91.7,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-16",
+          "pos": 4,
+          "neg": 2,
+          "neu": 0,
+          "total": 6,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 13,
+          "neg": 1,
+          "neu": 0,
+          "total": 14,
+          "positive_pct": 92.9,
+          "negative_pct": 7.1
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 1,
+          "neu": 1,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 33.3
+        }
+      ]
+    },
+    "BA": {
+      "name": "Boeing",
+      "pos": 3,
+      "neg": 4,
+      "neu": 0,
+      "total": 7,
+      "positive_pct": 42.9,
+      "negative_pct": 57.1,
+      "score": 0.22,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 25,
+          "label": "Premium airline competition",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 2,
+          "neg": 3,
+          "neu": 0,
+          "total": 5,
+          "score": -0.2,
+          "positive_pct": 40.0,
+          "negative_pct": 60.0
+        },
+        {
+          "cluster_id": 43,
+          "label": "Autonomous defense tech surge",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+          "date": "2026-07-17 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-16",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-07-17",
+          "pos": 1,
+          "neg": 2,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 33.3,
+          "negative_pct": 66.7
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "GS": {
+      "name": "Goldman Sachs Group",
+      "pos": 22,
+      "neg": 3,
+      "neu": 1,
+      "total": 26,
+      "positive_pct": 84.6,
+      "negative_pct": 11.5,
+      "score": 0.553,
+      "categories": {
+        "Business": {
+          "pos": 11,
+          "neg": 1,
+          "neu": 1
+        },
+        "Recruitment": {
+          "pos": 2,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 8,
+          "neg": 0,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 17,
+          "neg": 0,
+          "neu": 1,
+          "total": 18,
+          "score": 0.944,
+          "positive_pct": 94.4,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 69,
+          "label": "Prediction market regulation",
+          "meta_category": "Sports and Media Economics",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "cluster_id": 55,
+          "label": "AI IPO race and competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 37,
+          "label": "SpaceX market volatility",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 65,
+          "label": "Banking resilience and AI regulation",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Goldman creates private markets platform as rich investors seek the next SpaceX",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Kalshi launches election hub for prediction markets ahead of midterms",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-13",
+          "pos": 10,
+          "neg": 0,
+          "neu": 1,
+          "total": 11,
+          "positive_pct": 90.9,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-15",
+          "pos": 3,
+          "neg": 1,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 75.0,
+          "negative_pct": 25.0
+        },
+        {
+          "date": "2026-07-16",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 8,
+          "neg": 1,
+          "neu": 0,
+          "total": 9,
+          "positive_pct": 88.9,
+          "negative_pct": 11.1
+        }
+      ]
+    },
+    "NYT": {
+      "name": "New York Times",
+      "pos": 1,
+      "neg": 1,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.245,
+      "categories": {
+        "Legal": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 46,
+          "label": "AI regulation and security",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 11,
+          "label": "Healthcare efficiency and AI investment",
+          "meta_category": "Societal Resilience & Change",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Bessent says U.S. could sanction China over AI model 'theft'",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Grocery sales, United earnings and more: Morning Squawk",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "WFC": {
+      "name": "Wells Fargo",
+      "pos": 1,
+      "neg": 1,
+      "neu": 2,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 25.0,
+      "score": 0.051,
+      "categories": {
+        "Recruitment": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 1
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 0,
+          "neg": 1,
+          "neu": 2,
+          "total": 3,
+          "score": -0.333,
+          "positive_pct": 0.0,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 65,
+          "label": "Banking resilience and AI regulation",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+          "date": "2026-07-13 00:00:00",
+          "polarity": "0"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-13",
+          "pos": 0,
+          "neg": 0,
+          "neu": 1,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 0,
+          "neg": 1,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "JPM": {
+      "name": "JPMorgan Chase",
+      "pos": 15,
+      "neg": 2,
+      "neu": 1,
+      "total": 18,
+      "positive_pct": 83.3,
+      "negative_pct": 11.1,
+      "score": 0.533,
+      "categories": {
+        "Recruitment": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "Business": {
+          "pos": 7,
+          "neg": 2,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 8,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 11,
+          "neg": 1,
+          "neu": 1,
+          "total": 13,
+          "score": 0.769,
+          "positive_pct": 84.6,
+          "negative_pct": 7.7
+        },
+        {
+          "cluster_id": 55,
+          "label": "AI IPO race and competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 51,
+          "label": "AI-driven semiconductor volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 65,
+          "label": "Banking resilience and AI regulation",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        },
+        {
+          "headline": "The worst dotcom bubble investing risks are coming for your money. Avoid them",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Jamie Dimon says markets underestimate risks, he wouldn't buy stocks or Treasurys",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "As the U.S.-Iran war heats up, these parts of the economy could be affected",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-13",
+          "pos": 10,
+          "neg": 0,
+          "neu": 0,
+          "total": 10,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-15",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 1,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "FISV": {
+      "name": "Fiserv",
+      "pos": 0,
+      "neg": 3,
+      "neu": 1,
+      "total": 4,
+      "positive_pct": 0.0,
+      "negative_pct": 75.0,
+      "score": -0.75,
+      "categories": {
+        "Recruitment": {
+          "pos": 0,
+          "neg": 0,
+          "neu": 1
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 0,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [],
+      "articles": [
+        {
+          "headline": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "0"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-20",
+          "pos": 0,
+          "neg": 3,
+          "neu": 1,
+          "total": 4,
+          "positive_pct": 0.0,
+          "negative_pct": 75.0
+        }
+      ]
+    },
+    "BRK-B": {
+      "name": "Berkshire Hathaway",
+      "pos": 1,
+      "neg": 3,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 25.0,
+      "negative_pct": 75.0,
+      "score": -0.022,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 3,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 28,
+          "label": "Market sentiment and value investing",
+          "meta_category": "Economic Future Shifts",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "cluster_id": 45,
+          "label": "Inflation and rate policy divergence",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 68,
+          "label": "Berkshire's charitable strategy shift",
+          "meta_category": "Economic Future Shifts",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Jamie Dimon's stock, bond market warning: Investors acted on one of his calls",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "CNBC Daily Open: A Messi end for England",
+          "date": "2026-07-14 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Warren Buffett on the market today: 'It's tough to find values'",
+          "date": "2026-07-13 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "Buffett calls Gates' ties to Epstein 'distasteful' but says people make mistakes",
+          "date": "2026-07-13 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-13",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "SMCI": {
+      "name": "Super Micro Computer",
+      "pos": 6,
+      "neg": 0,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Performance": {
+          "pos": 4,
+          "neg": 0,
+          "neu": 0
+        },
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Recruitment": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Super Micro shares surge on new order disclosure after SpaceX announcement",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-20",
+          "pos": 6,
+          "neg": 0,
+          "neu": 0,
+          "total": 6,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AMD": {
+      "name": "Advanced Micro Devices",
+      "pos": 3,
+      "neg": 2,
+      "neu": 0,
+      "total": 5,
+      "positive_pct": 60.0,
+      "negative_pct": 40.0,
+      "score": 0.388,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 1,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "S&P 500 futures slip as traders shift focus to earnings amid Middle East tensions",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
+          "date": "2026-07-19 00:00:00",
+          "polarity": "-"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
+          "date": "2026-07-14 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-14",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-19",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla",
+      "pos": 3,
+      "neg": 1,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 75.0,
+      "negative_pct": 25.0,
+      "score": 0.608,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        },
+        "NewsRelease": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Legal": {
+          "pos": 0,
+          "neg": 1,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 59,
+          "label": "AI infrastructure expansion",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 37,
+          "label": "SpaceX market volatility",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Anthropic in early talks with Meta to acquire compute power",
+          "date": "2026-07-16 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Short sellers load up against SpaceX as stock drops below IPO price",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "-"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        },
+        {
+          "date": "2026-07-16",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "AVGO": {
+      "name": "Broadcom",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 56,
+          "label": "Open-source AI competition",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "TSMC second-quarter profit spikes over 77%, topping estimates",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "LLY": {
+      "name": "Eli Lilly",
+      "pos": 5,
+      "neg": 1,
+      "neu": 0,
+      "total": 6,
+      "positive_pct": 83.3,
+      "negative_pct": 16.7,
+      "score": 0.684,
+      "categories": {
+        "Business": {
+          "pos": 4,
+          "neg": 1,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 9,
+          "label": "Psychedelic mental health treatments",
+          "meta_category": "Future of Health Care",
+          "pos": 4,
+          "neg": 1,
+          "neu": 0,
+          "total": 5,
+          "score": 0.6,
+          "positive_pct": 80.0,
+          "negative_pct": 20.0
+        },
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Trump plans high generic-drug tariffs in 2028 to spur U.S. production",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Market case for psychedelic drugs to treat mental health gets a big buy signal",
+          "date": "2026-07-17 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-17",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "PFE": {
+      "name": "Pfizer",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Trump plans high generic-drug tariffs in 2028 to spur U.S. production",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "What to know about testosterone replacement as U.S. military plans to test troops",
+          "date": "2026-07-18 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-18",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "BALL": {
+      "name": "Ball",
+      "pos": 2,
+      "neg": 2,
+      "neu": 0,
+      "total": 4,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": 0.0,
+      "categories": {
+        "Performance": {
+          "pos": 2,
+          "neg": 2,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 51,
+          "label": "AI-driven semiconductor volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 0,
+          "neg": 1,
+          "neu": 0,
+          "total": 1,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Under-the-radar beverage name captures trader's attention",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-20",
+          "pos": 2,
+          "neg": 2,
+          "neu": 0,
+          "total": 4,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ]
+    },
+    "CMCSA": {
+      "name": "Comcast",
+      "pos": 3,
+      "neg": 0,
+      "neu": 0,
+      "total": 3,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 2,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 30,
+          "label": "Sports event impacts and operations",
+          "meta_category": "Societal Resilience & Change",
+          "pos": 2,
+          "neg": 0,
+          "neu": 0,
+          "total": 2,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 40,
+          "label": "Media consolidation trends",
+          "meta_category": "Sports and Media Economics",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "Peacock is getting a lift from World Cup, Spanish-language content",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-20",
+          "pos": 3,
+          "neg": 0,
+          "neu": 0,
+          "total": 3,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ]
+    },
+    "C": {
+      "name": "Citigroup",
+      "pos": 2,
+      "neg": 0,
+      "neu": 0,
+      "total": 2,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
+      "score": 1.0,
+      "categories": {
+        "Business": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        }
+      },
+      "clusters": [
+        {
+          "cluster_id": 26,
+          "label": "Trade policy volatility",
+          "meta_category": "Global strategic risks",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 65,
+          "label": "Banking resilience and AI regulation",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        }
+      ],
+      "articles": [
+        {
+          "headline": "What Trump's generic drug tariffs could mean for patients, drugmakers and prices",
+          "date": "2026-07-20 00:00:00",
+          "polarity": "+"
+        },
+        {
+          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+          "date": "2026-07-15 00:00:00",
+          "polarity": "+"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-15",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "date": "2026-07-20",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
         }
       ]
     },
     "MU": {
       "name": "Micron Technology",
       "pos": 4,
-      "neg": 2,
+      "neg": 1,
       "neu": 0,
-      "total": 6,
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
-      "score": 0.528,
+      "total": 5,
+      "positive_pct": 80.0,
+      "negative_pct": 20.0,
+      "score": 0.791,
       "categories": {
         "Performance": {
           "pos": 3,
-          "neg": 2,
+          "neg": 1,
           "neu": 0
         },
         "Business": {
@@ -607,21 +3363,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 55,
+          "cluster_id": 63,
           "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 2,
-          "neg": 1,
-          "neu": 0,
-          "total": 3,
-          "score": 0.333,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 1,
           "neg": 1,
           "neu": 0,
@@ -631,9 +3375,21 @@
           "negative_pct": 50.0
         },
         {
-          "cluster_id": 21,
-          "label": "Wealth legacy and market dynamics",
-          "meta_category": "Wealth and Power Dynamics",
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
+          "pos": 1,
+          "neg": 0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
+          "negative_pct": 0.0
+        },
+        {
+          "cluster_id": 28,
+          "label": "Market sentiment and value investing",
+          "meta_category": "Economic Future Shifts",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -663,23 +3419,9 @@
           "headline": "Warren Buffett on the market today: 'It's tough to find values'",
           "date": "2026-07-13 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
         {
           "date": "2026-07-13",
           "pos": 1,
@@ -705,182 +3447,6 @@
           "neu": 0,
           "total": 1,
           "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-19",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "AMD": {
-      "name": "Advanced Micro Devices",
-      "pos": 2,
-      "neg": 2,
-      "neu": 0,
-      "total": 4,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": 0.267,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 55,
-          "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "S&P 500 futures slip as traders shift focus to earnings amid Middle East tensions",
-          "date": "2026-07-19 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
-          "date": "2026-07-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-19",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "GM": {
-      "name": "General Motors",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.668,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 32,
-          "label": "Auto trade tensions and global competition",
-          "meta_category": "Automotive Industry Shifts",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "S&P 500 futures slip as traders shift focus to earnings amid Middle East tensions",
-          "date": "2026-07-19 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Chinese EV makers are outpacing U.S. automakers in overseas investments",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "0"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
           "negative_pct": 0.0
         },
         {
@@ -930,7 +3496,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 3,
+          "neg": 13,
+          "neu": 0,
+          "total": 16,
+          "score": -0.625,
+          "positive_pct": 18.8,
+          "negative_pct": 81.2
+        }
+      ],
       "articles": [
         {
           "headline": "The FDA made a reversal on cyclosporiasis, but it still thinks iceberg lettuce is to blame",
@@ -1011,9 +3590,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 9,
-          "label": "Automated fraud in retail and events",
-          "meta_category": "Economic Disruption Frontiers",
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
           "pos": 2,
           "neg": 1,
           "neu": 0,
@@ -1023,9 +3602,21 @@
           "negative_pct": 33.3
         },
         {
-          "cluster_id": 52,
-          "label": "Inflation and consumer spending",
-          "meta_category": "Economic Resilience Shifts",
+          "cluster_id": 35,
+          "label": "Digital retail fraud surge",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 2,
+          "neg": 1,
+          "neu": 0,
+          "total": 3,
+          "score": 0.333,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
+        },
+        {
+          "cluster_id": 45,
+          "label": "Inflation and rate policy divergence",
+          "meta_category": "Economic Transformation",
           "pos": 2,
           "neg": 0,
           "neu": 0,
@@ -1113,7 +3704,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 1,
+          "neg": 3,
+          "neu": 0,
+          "total": 4,
+          "score": -0.5,
+          "positive_pct": 25.0,
+          "negative_pct": 75.0
+        }
+      ],
       "articles": [
         {
           "headline": "The FDA made a reversal on cyclosporiasis, but it still thinks iceberg lettuce is to blame",
@@ -1161,90 +3765,57 @@
         }
       ]
     },
-    "WBD": {
-      "name": "Warner Bros Discovery",
+    "ORCL": {
+      "name": "Oracle",
       "pos": 1,
-      "neg": 3,
+      "neg": 1,
       "neu": 0,
-      "total": 4,
-      "positive_pct": 25.0,
-      "negative_pct": 75.0,
-      "score": -0.62,
+      "total": 2,
+      "positive_pct": 50.0,
+      "negative_pct": 50.0,
+      "score": -0.05,
       "categories": {
-        "Legal": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        },
         "Business": {
-          "pos": 0,
+          "pos": 1,
           "neg": 1,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 34,
-          "label": "Media merger competitiveness",
-          "meta_category": "Economic Disruption Frontiers",
+          "cluster_id": 61,
+          "label": "AI-driven compute race",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 1,
-          "neg": 2,
+          "neg": 1,
           "neu": 0,
-          "total": 3,
-          "score": -0.333,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
         }
       ],
       "articles": [
         {
-          "headline": "Paramount and Warner Bros. merger hit with temporary restraining order",
+          "headline": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
           "date": "2026-07-19 00:00:00",
           "polarity": "-"
         },
         {
-          "headline": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Paramount still plans to close WBD merger by end of September despite lawsuit",
-          "date": "2026-07-12 00:00:00",
+          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+          "date": "2026-07-18 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Paramount, WBD hit with lawsuit from 12 states to block merger",
-          "date": "2026-07-11 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
         {
-          "date": "2026-07-11",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-12",
+          "date": "2026-07-18",
           "pos": 1,
           "neg": 0,
           "neu": 0,
           "total": 1,
           "positive_pct": 100.0,
           "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
         },
         {
           "date": "2026-07-19",
@@ -1257,66 +3828,57 @@
         }
       ]
     },
-    "COIN": {
-      "name": "Coinbase Global",
+    "FTNT": {
+      "name": "Fortinet",
       "pos": 2,
       "neg": 1,
       "neu": 0,
       "total": 3,
       "positive_pct": 66.7,
       "negative_pct": 33.3,
-      "score": 0.426,
+      "score": 0.333,
       "categories": {
         "Business": {
-          "pos": 2,
+          "pos": 1,
+          "neg": 0,
+          "neu": 0
+        },
+        "Performance": {
+          "pos": 1,
           "neg": 1,
           "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
+          "cluster_id": 63,
+          "label": "AI-driven semiconductor boom",
+          "meta_category": "AI and Autonomous Revolution",
+          "pos": 2,
+          "neg": 1,
           "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
+          "total": 3,
+          "score": 0.333,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
         }
       ],
       "articles": [
         {
-          "headline": "Coinbase trading results may fall short, according to prediction markets",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
-          "date": "2026-07-15 00:00:00",
+          "headline": "Intel foundry lands key customer for CEO Tan, as Fortinet signs on for security chips",
+          "date": "2026-07-19 00:00:00",
           "polarity": "+"
         }
       ],
       "daily": [
         {
-          "date": "2026-07-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 1,
+          "date": "2026-07-19",
+          "pos": 2,
           "neg": 1,
           "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
+          "total": 3,
+          "positive_pct": 66.7,
+          "negative_pct": 33.3
         }
       ]
     },
@@ -1348,9 +3910,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 19,
-          "label": "Premium aviation strategy",
-          "meta_category": "Consumer Lifestyle Shifts",
+          "cluster_id": 25,
+          "label": "Premium airline competition",
+          "meta_category": "Consumer Economy Shifts",
           "pos": 0,
           "neg": 3,
           "neu": 0,
@@ -1411,21 +3973,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 16,
-          "label": "Psychedelic drug market expansion",
-          "meta_category": "Economic Disruption Frontiers",
+          "cluster_id": 9,
+          "label": "Psychedelic mental health treatments",
+          "meta_category": "Future of Health Care",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -1468,705 +4018,6 @@
         }
       ]
     },
-    "MSFT": {
-      "name": "Microsoft",
-      "pos": 13,
-      "neg": 2,
-      "neu": 0,
-      "total": 15,
-      "positive_pct": 86.7,
-      "negative_pct": 13.3,
-      "score": 0.303,
-      "categories": {
-        "NewsRelease": {
-          "pos": 3,
-          "neg": 0,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 9,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 55,
-          "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 49,
-          "label": "AI & Fintech Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 45,
-          "label": "Component cost inflation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Apple, Nvidia vie for title of world's most valuable company",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 5,
-          "neg": 0,
-          "neu": 0,
-          "total": 5,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-16",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 7,
-          "neg": 0,
-          "neu": 0,
-          "total": 7,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "NVDA": {
-      "name": "Nvidia",
-      "pos": 18,
-      "neg": 4,
-      "neu": 1,
-      "total": 23,
-      "positive_pct": 78.3,
-      "negative_pct": 17.4,
-      "score": 0.399,
-      "categories": {
-        "Business": {
-          "pos": 9,
-          "neg": 3,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 6,
-          "neg": 1,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 3,
-          "neg": 0,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 49,
-          "label": "AI & Fintech Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 8,
-          "neg": 0,
-          "neu": 0,
-          "total": 8,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 55,
-          "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 5,
-          "neg": 2,
-          "neu": 0,
-          "total": 7,
-          "score": 0.429,
-          "positive_pct": 71.4,
-          "negative_pct": 28.6
-        },
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "score": 0.0,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 1,
-          "label": "Wealth taxation debate",
-          "meta_category": "Wealth and Power Dynamics",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 11,
-          "label": "Prediction market regulation",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Anthropic in early talks with Meta to acquire compute power",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Apple, Nvidia vie for title of world's most valuable company",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Catching up in the AI race? India gets its second AI unicorn in a month",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "TSMC second-quarter profit spikes over 77%, topping estimates",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-13",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 11,
-          "neg": 0,
-          "neu": 1,
-          "total": 12,
-          "positive_pct": 91.7,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-16",
-          "pos": 4,
-          "neg": 2,
-          "neu": 0,
-          "total": 6,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 2,
-          "neg": 1,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 33.3
-        }
-      ]
-    },
-    "META": {
-      "name": "Meta Platforms",
-      "pos": 13,
-      "neg": 6,
-      "neu": 1,
-      "total": 20,
-      "positive_pct": 65.0,
-      "negative_pct": 30.0,
-      "score": 0.403,
-      "categories": {
-        "Business": {
-          "pos": 11,
-          "neg": 1,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 1
-        },
-        "Recruitment": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 10,
-          "neg": 1,
-          "neu": 1,
-          "total": 12,
-          "score": 0.75,
-          "positive_pct": 83.3,
-          "negative_pct": 8.3
-        },
-        {
-          "cluster_id": 47,
-          "label": "AI-driven workforce transformation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 31,
-          "label": "Global trade tensions",
-          "meta_category": "Power and Influence Dynamics",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 55,
-          "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Anthropic in early talks with Meta to acquire compute power",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Alphabet shares fall on report its Gemini 3.5 Pro AI model is delayed",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-10",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 7,
-          "neg": 1,
-          "neu": 0,
-          "total": 8,
-          "positive_pct": 87.5,
-          "negative_pct": 12.5
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 2,
-          "neg": 2,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-07-16",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "TSLA": {
-      "name": "Tesla",
-      "pos": 2,
-      "neg": 1,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 66.7,
-      "negative_pct": 33.3,
-      "score": 0.421,
-      "categories": {
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 29,
-          "label": "SpaceX market volatility",
-          "meta_category": "Future Tech Frontiers",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Anthropic in early talks with Meta to acquire compute power",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Short sellers load up against SpaceX as stock drops below IPO price",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-15",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-16",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "INTC": {
-      "name": "Intel",
-      "pos": 1,
-      "neg": 1,
-      "neu": 0,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 50.0,
-      "score": 0.197,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 55,
-          "label": "AI-driven semiconductor boom",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-          "date": "2026-07-18 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
-          "date": "2026-07-14 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-18",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
     "UAL": {
       "name": "United Airlines",
       "pos": 9,
@@ -2195,9 +4046,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 19,
-          "label": "Premium aviation strategy",
-          "meta_category": "Consumer Lifestyle Shifts",
+          "cluster_id": 25,
+          "label": "Premium airline competition",
+          "meta_category": "Consumer Economy Shifts",
           "pos": 7,
           "neg": 0,
           "neu": 0,
@@ -2207,9 +4058,9 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
           "pos": 2,
           "neg": 0,
           "neu": 0,
@@ -2275,9 +4126,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 19,
-          "label": "Premium aviation strategy",
-          "meta_category": "Consumer Lifestyle Shifts",
+          "cluster_id": 25,
+          "label": "Premium airline competition",
+          "meta_category": "Consumer Economy Shifts",
           "pos": 1,
           "neg": 1,
           "neu": 0,
@@ -2306,93 +4157,20 @@
         }
       ]
     },
-    "BA": {
-      "name": "Boeing",
-      "pos": 2,
-      "neg": 4,
-      "neu": 0,
-      "total": 6,
-      "positive_pct": 33.3,
-      "negative_pct": 66.7,
-      "score": -0.333,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 2,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 19,
-          "label": "Premium aviation strategy",
-          "meta_category": "Consumer Lifestyle Shifts",
-          "pos": 2,
-          "neg": 3,
-          "neu": 0,
-          "total": 5,
-          "score": -0.2,
-          "positive_pct": 40.0,
-          "negative_pct": 60.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-          "date": "2026-07-17 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-16",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-07-17",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        }
-      ]
-    },
     "MS": {
       "name": "Morgan Stanley",
-      "pos": 13,
-      "neg": 2,
-      "neu": 3,
-      "total": 18,
-      "positive_pct": 72.2,
-      "negative_pct": 11.1,
-      "score": 0.655,
+      "pos": 10,
+      "neg": 1,
+      "neu": 2,
+      "total": 13,
+      "positive_pct": 76.9,
+      "negative_pct": 7.7,
+      "score": 0.7,
       "categories": {
         "Business": {
-          "pos": 6,
+          "pos": 5,
           "neg": 1,
-          "neu": 1
+          "neu": 0
         },
         "NewsRelease": {
           "pos": 0,
@@ -2405,33 +4183,28 @@
           "neu": 0
         },
         "Performance": {
-          "pos": 5,
+          "pos": 3,
           "neg": 0,
           "neu": 1
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 5,
-          "neg": 1,
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 3,
+          "neg": 0,
           "neu": 1,
-          "total": 7,
-          "score": 0.571,
-          "positive_pct": 71.4,
-          "negative_pct": 14.3
+          "total": 4,
+          "score": 0.75,
+          "positive_pct": 75.0,
+          "negative_pct": 0.0
         },
         {
-          "cluster_id": 26,
-          "label": "Retail transformation pressures",
-          "meta_category": "Consumer Lifestyle Shifts",
+          "cluster_id": 38,
+          "label": "Retail transformation and investor sentiment",
+          "meta_category": "Consumer Economy Shifts",
           "pos": 2,
           "neg": 0,
           "neu": 0,
@@ -2442,8 +4215,8 @@
         },
         {
           "cluster_id": 13,
-          "label": "Healthcare logistics innovation",
-          "meta_category": "Economic Disruption Frontiers",
+          "label": "Healthcare innovation and logistics",
+          "meta_category": "Future of Health Care",
           "pos": 1,
           "neg": 0,
           "neu": 1,
@@ -2453,9 +4226,9 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 50,
+          "cluster_id": 55,
           "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 2,
           "neg": 0,
           "neu": 0,
@@ -2465,9 +4238,9 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 29,
+          "cluster_id": 37,
           "label": "SpaceX market volatility",
-          "meta_category": "Future Tech Frontiers",
+          "meta_category": "AI and Autonomous Revolution",
           "pos": 0,
           "neg": 1,
           "neu": 0,
@@ -2478,8 +4251,8 @@
         },
         {
           "cluster_id": 8,
-          "label": "AI & Energy Power Shift",
-          "meta_category": "AI-Driven Market Evolution",
+          "label": "AI and energy infrastructure boom",
+          "meta_category": "AI-Driven Market Shifts",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -2489,39 +4262,15 @@
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 37,
-          "label": "Two-Speed Economic Growth",
-          "meta_category": "Economic Resilience Shifts",
+          "cluster_id": 44,
+          "label": "Global supply chain tensions",
+          "meta_category": "Global strategic risks",
           "pos": 1,
           "neg": 0,
           "neu": 0,
           "total": 1,
           "score": 1.0,
           "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 40,
-          "label": "Brain-Computer Interface Race",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
           "negative_pct": 0.0
         }
       ],
@@ -2553,15 +4302,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 3,
-          "neg": 1,
-          "neu": 1,
-          "total": 5,
-          "positive_pct": 60.0,
-          "negative_pct": 20.0
-        },
         {
           "date": "2026-07-13",
           "pos": 5,
@@ -2600,250 +4340,6 @@
         }
       ]
     },
-    "AMZN": {
-      "name": "Amazon.com",
-      "pos": 9,
-      "neg": 15,
-      "neu": 4,
-      "total": 28,
-      "positive_pct": 32.1,
-      "negative_pct": 53.6,
-      "score": 0.208,
-      "categories": {
-        "Business": {
-          "pos": 4,
-          "neg": 3,
-          "neu": 0
-        },
-        "NewsRelease": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 1,
-          "neu": 0
-        },
-        "Recruitment": {
-          "pos": 3,
-          "neg": 9,
-          "neu": 4
-        },
-        "Unknown": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 47,
-          "label": "AI-driven workforce transformation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 6,
-          "neg": 11,
-          "neu": 3,
-          "total": 20,
-          "score": -0.25,
-          "positive_pct": 30.0,
-          "negative_pct": 55.0
-        },
-        {
-          "cluster_id": 50,
-          "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "score": -0.5,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
-        {
-          "cluster_id": 26,
-          "label": "Retail transformation pressures",
-          "meta_category": "Consumer Lifestyle Shifts",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 48,
-          "label": "Open-source AI competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 45,
-          "label": "Component cost inflation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Korean beauty products are becoming mainstream in the U.S. More growth may be ahead",
-          "date": "2026-07-17 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Nvidia-backed startup hits $17.5B valuation as companies eye cheaper AI models",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "~"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 6,
-          "neg": 12,
-          "neu": 3,
-          "total": 21,
-          "positive_pct": 28.6,
-          "negative_pct": 57.1
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 1,
-          "neg": 1,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 1,
-          "neg": 2,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 33.3,
-          "negative_pct": 66.7
-        },
-        {
-          "date": "2026-07-17",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "LLY": {
-      "name": "Eli Lilly",
-      "pos": 4,
-      "neg": 1,
-      "neu": 0,
-      "total": 5,
-      "positive_pct": 80.0,
-      "negative_pct": 20.0,
-      "score": 0.45,
-      "categories": {
-        "Business": {
-          "pos": 3,
-          "neg": 1,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 16,
-          "label": "Psychedelic drug market expansion",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 4,
-          "neg": 1,
-          "neu": 0,
-          "total": 5,
-          "score": 0.6,
-          "positive_pct": 80.0,
-          "negative_pct": 20.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Market case for psychedelic drugs to treat mental health gets a big buy signal",
-          "date": "2026-07-17 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-15",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-17",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
     "CAVA": {
       "name": "CAVA Group",
       "pos": 1,
@@ -2860,7 +4356,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ],
       "articles": [
         {
           "headline": "Cyclosporiasis is hitting some restaurant stocks, but impact may be short-lived",
@@ -2901,7 +4410,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 0,
+          "neg": 2,
+          "neu": 0,
+          "total": 2,
+          "score": -1.0,
+          "positive_pct": 0.0,
+          "negative_pct": 100.0
+        }
+      ],
       "articles": [
         {
           "headline": "Cyclosporiasis is hitting some restaurant stocks, but impact may be short-lived",
@@ -2937,7 +4459,20 @@
           "neu": 0
         }
       },
-      "clusters": [],
+      "clusters": [
+        {
+          "cluster_id": 15,
+          "label": "Food safety supply chain impact",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 1,
+          "neg": 1,
+          "neu": 0,
+          "total": 2,
+          "score": 0.0,
+          "positive_pct": 50.0,
+          "negative_pct": 50.0
+        }
+      ],
       "articles": [
         {
           "headline": "Cyclosporiasis is hitting some restaurant stocks, but impact may be short-lived",
@@ -2957,493 +4492,44 @@
         }
       ]
     },
-    "GS": {
-      "name": "Goldman Sachs Group",
-      "pos": 19,
-      "neg": 5,
-      "neu": 1,
-      "total": 25,
-      "positive_pct": 76.0,
-      "negative_pct": 20.0,
-      "score": 0.406,
-      "categories": {
-        "Business": {
-          "pos": 9,
-          "neg": 1,
-          "neu": 1
-        },
-        "Legal": {
-          "pos": 1,
-          "neg": 2,
-          "neu": 0
-        },
-        "Performance": {
-          "pos": 9,
-          "neg": 1,
-          "neu": 0
-        },
-        "Recruitment": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 12,
-          "neg": 1,
-          "neu": 1,
-          "total": 14,
-          "score": 0.786,
-          "positive_pct": 85.7,
-          "negative_pct": 7.1
-        },
-        {
-          "cluster_id": 50,
-          "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 40,
-          "label": "Brain-Computer Interface Race",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 29,
-          "label": "SpaceX market volatility",
-          "meta_category": "Future Tech Frontiers",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 11,
-          "label": "Prediction market regulation",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 36,
-          "label": "Oil market volatility",
-          "meta_category": "Power and Influence Dynamics",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
-          "date": "2026-07-16 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Grocery sales, United earnings and more: Morning Squawk",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Pipelines around Hormuz won't end the threat Iran poses to Middle East oil",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-10",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-11",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 3,
-          "neg": 1,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-07-13",
-          "pos": 10,
-          "neg": 0,
-          "neu": 1,
-          "total": 11,
-          "positive_pct": 90.9,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 3,
-          "neg": 1,
-          "neu": 0,
-          "total": 4,
-          "positive_pct": 75.0,
-          "negative_pct": 25.0
-        },
-        {
-          "date": "2026-07-16",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        }
-      ]
-    },
-    "WFC": {
-      "name": "Wells Fargo",
+    "BAC": {
+      "name": "Bank of America",
       "pos": 4,
       "neg": 0,
-      "neu": 1,
-      "total": 5,
-      "positive_pct": 80.0,
-      "negative_pct": 0.0,
-      "score": 0.68,
-      "categories": {
-        "Performance": {
-          "pos": 3,
-          "neg": 0,
-          "neu": 1
-        },
-        "Recruitment": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 3,
-          "neg": 0,
-          "neu": 1,
-          "total": 4,
-          "score": 0.75,
-          "positive_pct": 75.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "0"
-        },
-        {
-          "headline": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-13",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "C": {
-      "name": "Citigroup",
-      "pos": 5,
-      "neg": 0,
       "neu": 0,
-      "total": 5,
+      "total": 4,
       "positive_pct": 100.0,
       "negative_pct": 0.0,
       "score": 1.0,
       "categories": {
         "Performance": {
-          "pos": 4,
+          "pos": 3,
           "neg": 0,
           "neu": 0
-        },
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium too vulnerable?",
-          "date": "2026-07-09 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "BAC": {
-      "name": "Bank of America",
-      "pos": 9,
-      "neg": 0,
-      "neu": 1,
-      "total": 10,
-      "positive_pct": 90.0,
-      "negative_pct": 0.0,
-      "score": 0.941,
-      "categories": {
-        "Performance": {
-          "pos": 6,
-          "neg": 0,
-          "neu": 1
         },
         "Recruitment": {
           "pos": 1,
           "neg": 0,
           "neu": 0
-        },
-        "Business": {
-          "pos": 2,
-          "neg": 0,
-          "neu": 0
         }
       },
       "clusters": [
         {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 6,
+          "cluster_id": 66,
+          "label": "AI-driven banking boom",
+          "meta_category": "Economic Transformation",
+          "pos": 3,
           "neg": 0,
           "neu": 0,
-          "total": 6,
+          "total": 3,
           "score": 1.0,
           "positive_pct": 100.0,
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 2,
-          "neg": 0,
-          "neu": 1,
-          "total": 3,
-          "score": 0.667,
-          "positive_pct": 66.7,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
+          "cluster_id": 65,
+          "label": "Banking resilience and AI regulation",
+          "meta_category": "Economic Transformation",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -3463,42 +4549,9 @@
           "headline": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
           "date": "2026-07-13 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium too vulnerable?",
-          "date": "2026-07-09 00:00:00",
-          "polarity": "0"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 2,
-          "neg": 0,
-          "neu": 1,
-          "total": 3,
-          "positive_pct": 66.7,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-07-13",
           "pos": 3,
@@ -3514,143 +4567,6 @@
           "neg": 0,
           "neu": 0,
           "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "JPM": {
-      "name": "JPMorgan Chase",
-      "pos": 18,
-      "neg": 1,
-      "neu": 0,
-      "total": 19,
-      "positive_pct": 94.7,
-      "negative_pct": 5.3,
-      "score": 0.924,
-      "categories": {
-        "Performance": {
-          "pos": 10,
-          "neg": 1,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 8,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 12,
-          "label": "AI-driven financial boom",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 13,
-          "neg": 1,
-          "neu": 0,
-          "total": 14,
-          "score": 0.857,
-          "positive_pct": 92.9,
-          "negative_pct": 7.1
-        },
-        {
-          "cluster_id": 50,
-          "label": "AI IPO race and competition",
-          "meta_category": "AI Economic Transformation",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 27,
-          "label": "Autonomous Defense Innovation",
-          "meta_category": "Future Tech Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Grocery sales, United earnings and more: Morning Squawk",
-          "date": "2026-07-15 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Arsenal of democracy: Dimon announces $24 million to boost U.S. shipbuilding",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-11",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 5,
-          "neg": 1,
-          "neu": 0,
-          "total": 6,
-          "positive_pct": 83.3,
-          "negative_pct": 16.7
-        },
-        {
-          "date": "2026-07-13",
-          "pos": 10,
-          "neg": 0,
-          "neu": 0,
-          "total": 10,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
           "positive_pct": 100.0,
           "negative_pct": 0.0
         }
@@ -3660,16 +4576,16 @@
       "name": "UnitedHealth Group",
       "pos": 3,
       "neg": 2,
-      "neu": 2,
-      "total": 7,
-      "positive_pct": 42.9,
-      "negative_pct": 28.6,
-      "score": 0.096,
+      "neu": 1,
+      "total": 6,
+      "positive_pct": 50.0,
+      "negative_pct": 33.3,
+      "score": 0.167,
       "categories": {
         "Performance": {
           "pos": 3,
           "neg": 0,
-          "neu": 2
+          "neu": 1
         },
         "Business": {
           "pos": 0,
@@ -3684,9 +4600,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
+          "cluster_id": 9,
+          "label": "Psychedelic mental health treatments",
+          "meta_category": "Future of Health Care",
           "pos": 2,
           "neg": 2,
           "neu": 1,
@@ -3696,21 +4612,21 @@
           "negative_pct": 40.0
         },
         {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
+          "cluster_id": 62,
+          "label": "AI and semiconductor market volatility",
+          "meta_category": "AI-Driven Market Shifts",
           "pos": 1,
           "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "score": 0.5,
-          "positive_pct": 50.0,
+          "neu": 0,
+          "total": 1,
+          "score": 1.0,
+          "positive_pct": 100.0,
           "negative_pct": 0.0
         },
         {
-          "cluster_id": 22,
-          "label": "Voter suppression and election policy",
-          "meta_category": "Political Instability",
+          "cluster_id": 11,
+          "label": "Healthcare efficiency and AI investment",
+          "meta_category": "Societal Resilience & Change",
           "pos": 1,
           "neg": 0,
           "neu": 0,
@@ -3730,23 +4646,9 @@
           "headline": "UnitedHealth beats quarterly estimates, hikes profit outlook",
           "date": "2026-07-15 00:00:00",
           "polarity": "+"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "~"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-12",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-07-15",
           "pos": 3,
@@ -3760,22 +4662,22 @@
     },
     "NFLX": {
       "name": "Netflix",
-      "pos": 6,
-      "neg": 4,
-      "neu": 6,
-      "total": 16,
-      "positive_pct": 37.5,
-      "negative_pct": 25.0,
-      "score": -0.188,
+      "pos": 5,
+      "neg": 1,
+      "neu": 5,
+      "total": 11,
+      "positive_pct": 45.5,
+      "negative_pct": 9.1,
+      "score": 0.364,
       "categories": {
         "Performance": {
-          "pos": 3,
-          "neg": 2,
-          "neu": 2
+          "pos": 2,
+          "neg": 1,
+          "neu": 1
         },
         "Business": {
           "pos": 3,
-          "neg": 2,
+          "neg": 0,
           "neu": 3
         },
         "NewsRelease": {
@@ -3786,40 +4688,16 @@
       },
       "clusters": [
         {
-          "cluster_id": 34,
-          "label": "Media merger competitiveness",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "cluster_id": 54,
-          "label": "AI-driven semiconductor volatility",
-          "meta_category": "AI-Driven Market Evolution",
-          "pos": 0,
-          "neg": 0,
-          "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 45,
-          "label": "Component cost inflation",
-          "meta_category": "AI Economic Transformation",
-          "pos": 0,
+          "cluster_id": 41,
+          "label": "Women-driven apparel growth",
+          "meta_category": "Consumer Economy Shifts",
+          "pos": 5,
           "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "score": -1.0,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
+          "neu": 5,
+          "total": 11,
+          "score": 0.364,
+          "positive_pct": 45.5,
+          "negative_pct": 9.1
         }
       ],
       "articles": [
@@ -3827,56 +4705,9 @@
           "headline": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
           "date": "2026-07-15 00:00:00",
           "polarity": "~"
-        },
-        {
-          "headline": "Stock futures slide as chipmakers fall; SK Hynix sinks 8%",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "~"
-        },
-        {
-          "headline": "Paramount still plans to close WBD merger by end of September despite lawsuit",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
-          "date": "2026-07-11 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Paramount, WBD hit with lawsuit from 12 states to block merger",
-          "date": "2026-07-11 00:00:00",
-          "polarity": "-"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-11",
-          "pos": 1,
-          "neg": 1,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 50.0
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 0,
-          "neg": 1,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 50.0
-        },
         {
           "date": "2026-07-15",
           "pos": 5,
@@ -3890,43 +4721,31 @@
     },
     "CME": {
       "name": "CME Group",
-      "pos": 2,
+      "pos": 1,
       "neg": 0,
       "neu": 1,
-      "total": 3,
-      "positive_pct": 66.7,
+      "total": 2,
+      "positive_pct": 50.0,
       "negative_pct": 0.0,
-      "score": 0.671,
+      "score": 0.55,
       "categories": {
         "Business": {
-          "pos": 2,
+          "pos": 1,
           "neg": 0,
           "neu": 1
         }
       },
       "clusters": [
         {
-          "cluster_id": 53,
-          "label": "Central Bank Reform & Inflation",
-          "meta_category": "Economic Resilience Shifts",
-          "pos": 2,
-          "neg": 0,
-          "neu": 0,
-          "total": 2,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "cluster_id": 52,
-          "label": "Inflation and consumer spending",
-          "meta_category": "Economic Resilience Shifts",
-          "pos": 0,
+          "cluster_id": 45,
+          "label": "Inflation and rate policy divergence",
+          "meta_category": "Economic Transformation",
+          "pos": 1,
           "neg": 0,
           "neu": 1,
-          "total": 1,
-          "score": 0.0,
-          "positive_pct": 0.0,
+          "total": 2,
+          "score": 0.5,
+          "positive_pct": 50.0,
           "negative_pct": 0.0
         }
       ],
@@ -3940,23 +4759,9 @@
           "headline": "The producer price index was expected to be unchanged in June, according to the Dow Jones consensus forecast.",
           "date": "2026-07-13 00:00:00",
           "polarity": "0"
-        },
-        {
-          "headline": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-          "date": "2026-07-11 00:00:00",
-          "polarity": "+"
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-11",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
         {
           "date": "2026-07-13",
           "pos": 0,
@@ -4000,9 +4805,9 @@
       },
       "clusters": [
         {
-          "cluster_id": 2,
-          "label": "Crypto-Presidential Conflicts",
-          "meta_category": "Power and Influence Dynamics",
+          "cluster_id": 4,
+          "label": "Crypto-linked investment flows",
+          "meta_category": "Societal Resilience & Change",
           "pos": 2,
           "neg": 4,
           "neu": 0,
@@ -4030,280 +4835,7 @@
           "negative_pct": 66.7
         }
       ]
-    },
-    "BRK-B": {
-      "name": "Berkshire Hathaway",
-      "pos": 1,
-      "neg": 4,
-      "neu": 2,
-      "total": 7,
-      "positive_pct": 14.3,
-      "negative_pct": 57.1,
-      "score": -0.387,
-      "categories": {
-        "Business": {
-          "pos": 1,
-          "neg": 3,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 0,
-          "neg": 1,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 21,
-          "label": "Wealth legacy and market dynamics",
-          "meta_category": "Wealth and Power Dynamics",
-          "pos": 1,
-          "neg": 4,
-          "neu": 2,
-          "total": 7,
-          "score": -0.429,
-          "positive_pct": 14.3,
-          "negative_pct": 57.1
-        }
-      ],
-      "articles": [
-        {
-          "headline": "CNBC Daily Open: A Messi end for England",
-          "date": "2026-07-14 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Warren Buffett on the market today: 'It's tough to find values'",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Buffett calls Gates' ties to Epstein 'distasteful' but says people make mistakes",
-          "date": "2026-07-13 00:00:00",
-          "polarity": "-"
-        },
-        {
-          "headline": "Warren Buffett excludes Gates Foundation from his annual donations",
-          "date": "2026-07-12 00:00:00",
-          "polarity": "+"
-        },
-        {
-          "headline": "Berkshire gains ground, but still trails the S&P 500 as '26 enters second half",
-          "date": "2026-07-09 00:00:00",
-          "polarity": "-"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 0,
-          "neg": 1,
-          "neu": 2,
-          "total": 3,
-          "positive_pct": 0.0,
-          "negative_pct": 33.3
-        },
-        {
-          "date": "2026-07-12",
-          "pos": 1,
-          "neg": 0,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        },
-        {
-          "date": "2026-07-13",
-          "pos": 0,
-          "neg": 2,
-          "neu": 0,
-          "total": 2,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        },
-        {
-          "date": "2026-07-14",
-          "pos": 0,
-          "neg": 1,
-          "neu": 0,
-          "total": 1,
-          "positive_pct": 0.0,
-          "negative_pct": 100.0
-        }
-      ]
-    },
-    "LITE": {
-      "name": "Lumentum",
-      "pos": 3,
-      "neg": 0,
-      "neu": 0,
-      "total": 3,
-      "positive_pct": 100.0,
-      "negative_pct": 0.0,
-      "score": 1.0,
-      "categories": {
-        "Performance": {
-          "pos": 2,
-          "neg": 0,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 56,
-          "label": "AI & Cloud Expansion",
-          "meta_category": "AI Economic Transformation",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "score": 1.0,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "‘Almost unlimited’: Execs says AI demand remains strong amid market volatility",
-          "date": "2026-07-10 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-10",
-          "pos": 3,
-          "neg": 0,
-          "neu": 0,
-          "total": 3,
-          "positive_pct": 100.0,
-          "negative_pct": 0.0
-        }
-      ]
-    },
-    "AZN": {
-      "name": "AstraZeneca",
-      "pos": 6,
-      "neg": 2,
-      "neu": 1,
-      "total": 9,
-      "positive_pct": 66.7,
-      "negative_pct": 22.2,
-      "score": 0.444,
-      "categories": {
-        "NewsRelease": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        },
-        "Performance": {
-          "pos": 5,
-          "neg": 2,
-          "neu": 0
-        },
-        "Business": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 6,
-          "neg": 2,
-          "neu": 1,
-          "total": 9,
-          "score": 0.444,
-          "positive_pct": 66.7,
-          "negative_pct": 22.2
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium too vulnerable?",
-          "date": "2026-07-09 00:00:00",
-          "polarity": "0"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 6,
-          "neg": 2,
-          "neu": 1,
-          "total": 9,
-          "positive_pct": 66.7,
-          "negative_pct": 22.2
-        }
-      ]
-    },
-    "MORN": {
-      "name": "Morningstar",
-      "pos": 1,
-      "neg": 0,
-      "neu": 1,
-      "total": 2,
-      "positive_pct": 50.0,
-      "negative_pct": 0.0,
-      "score": 0.5,
-      "categories": {
-        "Performance": {
-          "pos": 1,
-          "neg": 0,
-          "neu": 0
-        },
-        "Legal": {
-          "pos": 0,
-          "neg": 0,
-          "neu": 1
-        }
-      },
-      "clusters": [
-        {
-          "cluster_id": 17,
-          "label": "Pharma pipeline credibility",
-          "meta_category": "Economic Disruption Frontiers",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "score": 0.5,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ],
-      "articles": [
-        {
-          "headline": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium too vulnerable?",
-          "date": "2026-07-09 00:00:00",
-          "polarity": "+"
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-07-09",
-          "pos": 1,
-          "neg": 0,
-          "neu": 1,
-          "total": 2,
-          "positive_pct": 50.0,
-          "negative_pct": 0.0
-        }
-      ]
     }
   },
-  "window_start": "2026-07-09"
+  "window_start": "2026-07-13"
 }

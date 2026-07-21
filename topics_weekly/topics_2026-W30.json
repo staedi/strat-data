@@ -1,0 +1,640 @@
+{
+  "name": "root",
+  "mode": "weekly",
+  "updated_at": "2026-07-23T03:04:42.369316-04:00",
+  "children": [
+    {
+      "name": "AI and Autonomous Revolution",
+      "count": 16,
+      "children": [
+        {
+          "cluster_id": 37,
+          "name": "SpaceX market volatility",
+          "summary": "SpaceX faces declining momentum and rising short interest amid growing market skepticism despite strong initial trading and Nasdaq inclusion.",
+          "count": 5,
+          "children": [
+            {
+              "name": "House advances bill barring sitting Congress members from buying stocks",
+              "summary": "…really important that we tell the American people we're done allowing members of Congress to be day-trading stocks,\" Steil said in an appearance on CNBC's \"Squawk Box\" on Wednesday…",
+              "hash": "139d89cbbb1248ce",
+              "chunk_key": "139d89cbbb1248ce_c002",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+              "summary": ", Microsoft , Apple , Nvidia and Tesla — found they spent a combined $21.25 million on federal lobbying during the second quarter, essentially unchanged from $21.27 million in the …",
+              "hash": "59fe28898c870925",
+              "chunk_key": "59fe28898c870925_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bets against SpaceX grow to 32% as Musk warns short sellers won't survive",
+              "summary": "Elon Musk warned that investors betting against SpaceX have little chance of survival — even as short sellers boosted their wagers against the company to about one-third of its pub…",
+              "hash": "1e8e027234e10630",
+              "chunk_key": "1e8e027234e10630_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Tesla shares poised for biggest earnings move in a year",
+              "summary": "Options traders are betting Tesla could see its biggest post-earnings move in a year when the electric auto giant reports on Wednesday after the bell.",
+              "hash": "68c330b725dd918d",
+              "chunk_key": "68c330b725dd918d_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "SpaceX sets earnings date, triggering first unlock for millions of shares",
+              "summary": "…company said it was modifying the rocket's propulsion system to address the engine issues.",
+              "hash": "f7d29e3540a862f0",
+              "chunk_key": "f7d29e3540a862f0_c002",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 46,
+          "name": "AI regulation and security",
+          "summary": "The articles highlight escalating U.S. government oversight of AI model releases, security concerns over foreign access, and the competitive dynamics between U.S. and Chinese AI firms in the development and deployment of advanced artificial intelligence systems.",
+          "count": 3,
+          "children": [
+            {
+              "name": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+              "summary": "…cyber capabilities since OpenAI's rival Anthropic released a powerful offering called Claude Mythos Preview in April.",
+              "hash": "c6909a6c9f44bf5a",
+              "chunk_key": "c6909a6c9f44bf5a_c001",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+              "summary": "Together, the two leading AI developers spent $3.17 million during the second quarter, up 23% from the first three months of the year, according to federal lobbying disclosures.",
+              "hash": "59fe28898c870925",
+              "chunk_key": "59fe28898c870925_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bessent says U.S. could sanction China over AI model 'theft'",
+              "summary": "U.S. Treasury Secretary Scott Bessent on Tuesday said the Trump administration will look into whether Chinese artificial intelligence models have been distilled from American model…",
+              "hash": "9ddedd288393a3ce",
+              "chunk_key": "9ddedd288393a3ce_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 56,
+          "name": "Open-source AI competition",
+          "summary": "The rise of open-source AI models is challenging closed-model providers by offering cost-effective, customizable, and transparent alternatives for enterprises and governments.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Amazon cuts some jobs in its artificial general intelligence unit",
+              "summary": "…Amazon is scheduled to report second-quarter results next week.",
+              "hash": "d46567fe6ef6f5be",
+              "chunk_key": "d46567fe6ef6f5be_c002",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+              "summary": "Flash already undercuts comparable models from Anthropic, OpenAI and Chinese rivals on cost.",
+              "hash": "f454aa9e8a67520f",
+              "chunk_key": "f454aa9e8a67520f_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+              "summary": "…with vesting milestones tied to both deployment volume and AMD's share price.",
+              "hash": "c069a61eecf13c63",
+              "chunk_key": "c069a61eecf13c63_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 55,
+          "name": "AI IPO race and competition",
+          "summary": "OpenAI, Anthropic, and SpaceX compete to launch AI IPOs amid growing market pressure, legal challenges, and technological advancements.",
+          "count": 2,
+          "children": [
+            {
+              "name": "OpenAI appoints two new members to board of directors",
+              "summary": "OpenAI said it appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards of directors, as the company marches closer to a prospecti…",
+              "hash": "7824531a6227d815",
+              "chunk_key": "7824531a6227d815_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+              "summary": "…it generated over the entirety of last year.",
+              "hash": "c069a61eecf13c63",
+              "chunk_key": "c069a61eecf13c63_c002",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 43,
+          "name": "Autonomous defense tech surge",
+          "summary": "A wave of investment and growth is driving demand for autonomous drone, AI, and unmanned systems in global defense and military applications.",
+          "count": 1,
+          "children": [
+            {
+              "name": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+              "summary": "…the second quarter, down 3.3% from $20.36 million in the first quarter.",
+              "hash": "59fe28898c870925",
+              "chunk_key": "59fe28898c870925_c002",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 61,
+          "name": "AI-driven compute race",
+          "summary": "Microsoft and AMD are scaling AI infrastructure amid intense competition for data center compute capacity and market share.",
+          "count": 1,
+          "children": [
+            {
+              "name": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+              "summary": "Advanced Micro Devices on Wednesday announced a strategic partnership with Anthropic and said it will invest up to $5 billion in the artificial intelligence company \"in the future.…",
+              "hash": "c069a61eecf13c63",
+              "chunk_key": "c069a61eecf13c63_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 63,
+          "name": "AI-driven semiconductor boom",
+          "summary": "The global semiconductor market is experiencing rapid growth driven by AI demand, with companies expanding data center and memory capabilities, while investors shift focus from AI hyperscalers to AI enablers.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Super Micro shares surge on new order disclosure after SpaceX announcement",
+              "summary": "…the low end of its guidance range of $11.0 billion to $12.5 billion, according to Tuesday's statement. Analysts polled by LSEG were looking for $11.67 billion.",
+              "hash": "ccdc529bbb06c231",
+              "chunk_key": "ccdc529bbb06c231_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI-Driven Market Shifts",
+      "count": 3,
+      "children": [
+        {
+          "cluster_id": 51,
+          "name": "AI-driven semiconductor volatility",
+          "summary": "The semiconductor sector, fueled by AI investment demand, experiences extreme volatility, driving massive options and leveraged ETF activity amid concerns over sustainability and potential drawdowns.",
+          "count": 2,
+          "children": [
+            {
+              "name": "The worst dotcom bubble investing risks are coming for your money. Avoid them",
+              "summary": "…to high fliers might also consider options that offer some upside, but also limit their downside exposure.",
+              "hash": "a48e40cd8252ce2e",
+              "chunk_key": "a48e40cd8252ce2e_c005",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Under-the-radar beverage name captures trader's attention",
+              "summary": "Ball Corp is scheduled to report earnings during the first week of August.",
+              "hash": "3d32b5dd9d7f5359",
+              "chunk_key": "3d32b5dd9d7f5359_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 39,
+          "name": "Crypto bear market dynamics",
+          "summary": "Bitcoin faces sustained sell-off amid institutional outflows, macroeconomic headwinds, and loss of confidence, despite some defensive positioning and sentiment shifts.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Time for a crypto comeback? Traders bet that this stock will lead the way",
+              "summary": "The S&P 500 has barely moved in five days, but crypto assets are gaining some momentum in the background. Bitcoin jumped on Tuesday to hit its highest level since mid-June.",
+              "hash": "c5fcc73abb9cefb7",
+              "chunk_key": "c5fcc73abb9cefb7_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consumer Economy Shifts",
+      "count": 2,
+      "children": [
+        {
+          "cluster_id": 15,
+          "name": "Food safety supply chain impact",
+          "summary": "The cyclosporiasis outbreak linked to Taylor Farms' lettuce affects restaurant chains temporarily, with stock volatility and traffic drops, but analysts expect quick recovery due to no fatalities and limited product exposure.",
+          "count": 1,
+          "children": [
+            {
+              "name": "RFK Jr. says cyclospora outbreak is 'under control'",
+              "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control.\"",
+              "hash": "c4ef808a7c47cddb",
+              "chunk_key": "c4ef808a7c47cddb_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 25,
+          "name": "Premium airline competition",
+          "summary": "American Airlines is scaling up premium services and fleet upgrades to close revenue and margin gaps with United and Delta amid growing competition in luxury travel and customer experience.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+              "summary": "Southwest Airlines reported a more than 9% increase in second-quarter profit from last year as higher fares are increasingly helping the airline cover its fuel tab, but its outlook…",
+              "hash": "a1455116e45348b9",
+              "chunk_key": "a1455116e45348b9_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economic Future Shifts",
+      "count": 1,
+      "children": [
+        {
+          "cluster_id": 54,
+          "name": "AI-driven workforce transformation",
+          "summary": "The rise of AI is reshaping employment, accelerating layoffs in tech, and forcing workers to adapt to new job markets, shifting work models, and reevaluating career priorities.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Amazon cuts some jobs in its artificial general intelligence unit",
+              "summary": "Amazon is laying off some employees in its unit focused on artificial general intelligence, the company confirmed Wednesday, as it continues to cut jobs while pouring money into AI…",
+              "hash": "d46567fe6ef6f5be",
+              "chunk_key": "d46567fe6ef6f5be_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economic Transformation",
+      "count": 5,
+      "children": [
+        {
+          "cluster_id": 45,
+          "name": "Inflation and rate policy divergence",
+          "summary": "Central banks remain divided on inflation trends and future rate moves, with officials signaling potential for continued tightening despite signs of easing inflation and market uncertainty.",
+          "count": 3,
+          "children": [
+            {
+              "name": "John Paulson says we are in the early stages of a long-term bull market for gold",
+              "summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the ea…",
+              "hash": "3f4e569e0c044195",
+              "chunk_key": "3f4e569e0c044195_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+              "summary": "…and not revealed too much to the public. I think it's the second part that his committee colleagues (and market participants) are finding problematic, and doesn't fit the priors.",
+              "hash": "4e74239cd8b00aa4",
+              "chunk_key": "4e74239cd8b00aa4_c002",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Jamie Dimon's stock, bond market warning: Investors acted on one of his calls",
+              "summary": "Investors concerned about the stock market and looking for ways to prepare their portfolio for a potential equities downturn typically turn to the U.S. treasuries market as a \"flig…",
+              "hash": "52b99fb14263072a",
+              "chunk_key": "52b99fb14263072a_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 66,
+          "name": "AI-driven banking boom",
+          "summary": "Major U.S. banks are reporting record profits fueled by surges in equities and investment banking trading, driven by global AI investment flows, blockbuster IPOs, and expanded advisory services.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Goldman creates private markets platform as rich investors seek the next SpaceX",
+              "summary": "…\"If you haven't participated along the way, you're clearly missing a big part of the growth cycle.\"",
+              "hash": "88a056298e2a173e",
+              "chunk_key": "88a056298e2a173e_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+              "summary": "Internal Revenue Service CEO Frank Bisignano denied allegations that he spied on his fellow executives while working at JPMorgan Chase more than a decade age.",
+              "hash": "e9741b18a2c064ca",
+              "chunk_key": "e9741b18a2c064ca_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Future of Mobility",
+      "count": 2,
+      "children": [
+        {
+          "cluster_id": 23,
+          "name": "Tesla's automotive and autonomy challenges",
+          "summary": "Tesla faces growing competitive pressure, production challenges, and market skepticism despite strong delivery numbers and autonomous technology ambitions.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+              "summary": "Despite better-than-expected revenue in its auto business, the company's gross margin dropped and missed estimates as average selling price per vehicle fell and regulatory credit r…",
+              "hash": "4838519b4d5de17e",
+              "chunk_key": "4838519b4d5de17e_c001",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 33,
+          "name": "Hybrid market shift and EV challenges",
+          "summary": "A growing U.S. preference for hybrid vehicles is outpacing electric vehicle adoption, putting pressure on automakers like GM and Ford while boosting Toyota's sales and market position.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
+              "summary": "…Moreno said during the markup that Mercedes-Benz would have until 2030 to comply with the ownership limit and could seek a waiver.",
+              "hash": "3847593c7227eaec",
+              "chunk_key": "3847593c7227eaec_c001",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Global strategic risks",
+      "count": 6,
+      "children": [
+        {
+          "cluster_id": 26,
+          "name": "Trade policy volatility",
+          "summary": "Escalating U.S. tariffs and renegotiations are disrupting North American trade, increasing uncertainty for automakers and supply chains while challenging regional economic stability.",
+          "count": 4,
+          "children": [
+            {
+              "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
+              "summary": "The Senate Commerce Committee advanced bipartisan legislation Wednesday aimed at toughening a ban on Chinese automakers from the U.S. market, even as Chairman Ted Cruz , R-Texas, w…",
+              "hash": "3847593c7227eaec",
+              "chunk_key": "3847593c7227eaec_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "White House teases new trade action 'soon' as it works to re-create global tariff regime",
+              "summary": "…Those that do don't really enforce it.\" Greer said those proposed 301 tariffs would cover \"about 99% of our trade.\"",
+              "hash": "2240ccef2ab141ba",
+              "chunk_key": "2240ccef2ab141ba_c002",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump plans high generic-drug tariffs in 2028 to spur U.S. production",
+              "summary": "…on patented and branded drugs will remain unchanged, Trump said.",
+              "hash": "206599de0febe08f",
+              "chunk_key": "206599de0febe08f_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "What Trump's generic drug tariffs could mean for patients, drugmakers and prices",
+              "summary": "…Makers of patented medicines and generic drug manufacturers have very different business models, which means they are likely to see varying impacts from potential tariffs.",
+              "hash": "4369f6334decadfe",
+              "chunk_key": "4369f6334decadfe_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 48,
+          "name": "Strait of Hormuz shipping risks",
+          "summary": "Ongoing tensions and attacks disrupt commercial shipping through the Strait of Hormuz, increasing operational and financial risks for global energy trade.",
+          "count": 2,
+          "children": [
+            {
+              "name": "U.S. signs nuclear power agreement with Saudi Arabia",
+              "summary": "The U.S. signed an agreement with Saudi Arabia on Wednesday to develop a civilian nuclear program in the kingdom.",
+              "hash": "98194b23025a500e",
+              "chunk_key": "98194b23025a500e_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
+              "summary": "The U.S. economy is more vulnerable than ever to the problems in energy markets caused by the Iran war .",
+              "hash": "f7a76f45c23c9576",
+              "chunk_key": "f7a76f45c23c9576_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Societal Resilience & Change",
+      "count": 4,
+      "children": [
+        {
+          "cluster_id": 18,
+          "name": "Housing affordability crisis",
+          "summary": "A bipartisan housing bill aimed at increasing supply, lowering costs, and capping private equity purchases faces delays due to President Trump's demand for the passage of the controversial SAVE America Act, highlighting tensions between housing policy and election-related legislation.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Senate crypto bill would ban federal officials from issuing digital assets",
+              "summary": "Thune , R-S.D., said he expects the Senate will quickly consider the measure.",
+              "hash": "04d5bbc82506f9af",
+              "chunk_key": "04d5bbc82506f9af_c002",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "House advances bill barring sitting Congress members from buying stocks",
+              "summary": "The U.S. House advanced legislation on Wednesday that would stop members of Congress from buying individual stocks while in office, taking the first meaningful action on an issue t…",
+              "hash": "139d89cbbb1248ce",
+              "chunk_key": "139d89cbbb1248ce_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "name": "Crypto-linked investment flows",
+          "summary": "The articles detail how Trump-linked crypto ventures, including token sales and stablecoin usage, drive significant financial activity and influence U.S. export policies and market dynamics.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Senate crypto bill would ban federal officials from issuing digital assets",
+              "summary": "Presidents and other federal officials would be banned from issuing or sponsoring cryptocurrency and other digital assets under newly updated legislation the Senate is considering.",
+              "hash": "04d5bbc82506f9af",
+              "chunk_key": "04d5bbc82506f9af_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 10,
+          "name": "Regulatory clarity in consumer products",
+          "summary": "The Supreme Court's rulings support regulatory consistency in tobacco and pesticide products, affirming scientific standards and market access for manufacturers.",
+          "count": 1,
+          "children": [
+            {
+              "name": "U.S. Secret Service official: 'Threat environment is the highest we've ever seen'",
+              "summary": "A senior U.S. Secret Service official said Wednesday that the \"threat environment\" for the agency's protectees, who include President Donald Trump , \"is the highest we've ever seen…",
+              "hash": "88efa34470ea96a3",
+              "chunk_key": "88efa34470ea96a3_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports and Media Economics",
+      "count": 4,
+      "children": [
+        {
+          "cluster_id": 69,
+          "name": "Prediction market regulation",
+          "summary": "The CFTC and SEC are clarifying jurisdiction over prediction markets, with states challenging federal control and platforms navigating compliance, enforcement, and institutional adoption.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Healthcare students turn to Kalshi, betting to pay for degrees, survey shows",
+              "summary": "About two-thirds of healthcare students using prediction markets and betting sites believe these platforms can help finance their education, according to a report from the workforc…",
+              "hash": "2c2991a81f383545",
+              "chunk_key": "2c2991a81f383545_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Kalshi launches election hub for prediction markets ahead of midterms",
+              "summary": "Prediction market platform Kalshi on Wednesday launched a new hub that allows political junkies to see how traders in many event contracts think the midterm elections will play out…",
+              "hash": "82333c155bfa2768",
+              "chunk_key": "82333c155bfa2768_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 0,
+          "name": "Media merger competitiveness",
+          "summary": "A major media merger faces a legal challenge over antitrust concerns, with parties debating its pro-competitive impact and potential delays affecting content, pricing, and industry stability.",
+          "count": 1,
+          "children": [
+            {
+              "name": "EU regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
+              "summary": "European Union antitrust regulators said on Wednesday they had signed off on Paramount Skydance's proposed acquisition of Warner Bros. Discovery .",
+              "hash": "de0dbb4a78471cc0",
+              "chunk_key": "de0dbb4a78471cc0_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "cluster_id": 40,
+          "name": "Media consolidation trends",
+          "summary": "Comcast's spinoff of NBCUniversal and Sky reflects a broader industry trend of media consolidation amid rising streaming competition and declining cable demand.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Peacock is getting a lift from World Cup, Spanish-language content",
+              "summary": "…\"It not only brought so many new audiences and subscribers to Peacock, but it also introduced them to so much additional programming that they weren't familiar with,\" Conde said, a…",
+              "hash": "687966ec151a1603",
+              "chunk_key": "687966ec151a1603_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
