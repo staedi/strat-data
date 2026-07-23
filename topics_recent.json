@@ -1,11 +1,11 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-07-23T03:04:41.685213-04:00",
+  "updated_at": "2026-07-23T18:18:15.998369-04:00",
   "children": [
     {
       "name": "AI and Autonomous Revolution",
-      "count": 35,
+      "count": 41,
       "children": [
         {
           "cluster_id": 37,
@@ -160,20 +160,29 @@
             }
           ],
           "ticker_summary": {
+            "SPCX": "Space Exploration Technologies faces significant short interest, with substantial bearish bets reflecting investor concerns about its valuation and future prospects.",
             "GS": "Goldman Sachs is experiencing a situation analogous to that faced by Morgan Stanley, after providing additional equity to SpaceX.",
             "MS": "Morgan Stanley, like Goldman Sachs, faced a similar situation after investing in SpaceX equity.",
             "LMT": "Lockheed Martin’s spending was third, at $4.18 million, following RTX and General Dynamics.",
-            "GOOG": "Alphabet is renting excess compute capacity to SpaceXAI, a new venture involving Google, Anthropic, and xAI.",
-            "SPCX": "Space Exploration Technologies faces significant short interest, with substantial bearish bets reflecting investor concerns about its valuation and future prospects.",
-            "TSLA": "Tesla’s public trading status is impacted by Elon Musk’s locked-up stake representing a significant portion of shares."
+            "TSLA": "Tesla’s public trading status is impacted by Elon Musk’s locked-up stake representing a significant portion of shares.",
+            "GOOG": "Alphabet is renting excess compute capacity to SpaceXAI, a new venture involving Google, Anthropic, and xAI."
           }
         },
         {
           "cluster_id": 46,
           "name": "AI regulation and security",
           "summary": "The articles highlight escalating U.S. government oversight of AI model releases, security concerns over foreign access, and the competitive dynamics between U.S. and Chinese AI firms in the development and deployment of advanced artificial intelligence systems.",
-          "count": 7,
+          "count": 8,
           "children": [
+            {
+              "name": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+              "summary": "Rep. Ted Lieu, D-Calif., and Rep. Nathaniel Moran, R-Texas, on Thursday introduced a bill called the \"AI Kill Switch Act,\" which would require artificial intelligence companies to …",
+              "hash": "1b78863513ace6cf",
+              "chunk_key": "1b78863513ace6cf_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "OpenAI cyber models broke out of training environment to hack Hugging Face",
               "summary": "…cyber capabilities since OpenAI's rival Anthropic released a powerful offering called Claude Mythos Preview in April.",
@@ -301,21 +310,30 @@
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon’s Zoox subsidiary recalled software due to safety concerns, linked to AI regulation and security.",
             "AAPL": "Apple’s lobbying spending remained consistent with the previous quarter, reflecting its engagement on AI regulation and security.",
             "GOOG": "Alphabet, alongside other tech companies, spent a similar amount lobbying during the second and first quarters.",
             "META": "Meta Platforms spent $21.25 million on federal lobbying during the second quarter, unchanged from the first.",
             "MSFT": "Microsoft is cited as a defendant in a lawsuit alleging copyright infringement related to AI model training.",
             "NVDA": "Nvidia’s inclusion in the “Magnificent Seven” indicates a potential impact related to AI regulation and security.",
-            "NYT": "New York Times is suing OpenAI and Microsoft over copyright infringement related to AI model training.",
-            "AMZN": "Amazon’s Zoox subsidiary recalled software due to safety concerns, linked to AI regulation and security."
+            "NYT": "New York Times is suing OpenAI and Microsoft over copyright infringement related to AI model training."
           }
         },
         {
           "cluster_id": 56,
           "name": "Open-source AI competition",
           "summary": "The rise of open-source AI models is challenging closed-model providers by offering cost-effective, customizable, and transparent alternatives for enterprises and governments.",
-          "count": 5,
+          "count": 6,
           "children": [
+            {
+              "name": "Google's Kurian says cloud customers are spending 50% more",
+              "summary": "…and said companies are seeing real returns on utilizing Google's AI solutions.",
+              "hash": "224af4ee7d39bf4d",
+              "chunk_key": "224af4ee7d39bf4d_c002",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Amazon cuts some jobs in its artificial general intelligence unit",
               "summary": "…Amazon is scheduled to report second-quarter results next week.",
@@ -371,15 +389,15 @@
               "Cryptocurrency exchange operator Coinbase has been adopting cheaper models where it makes sense, CEO Brian Armstrong wrote in a June X post ."
             ],
             "GOOG": [
-              "That's boosting cloud startup Fireworks , which competes with Amazon and Google to host models that developers can weave into applications.",
               "Google disclosed in May that its AI models were processing about 19 billion tokens per minute for developers, implying more than 27 trillion per day.",
+              "That's boosting cloud startup Fireworks , which competes with Amazon and Google to host models that developers can weave into applications.",
               "The company inked a multi-billion-dollar agreement with Amazon , as well as a multi-gigawatt compute agreement with Google and Broadcom , in April.",
-              "Google has a potential advantage through its custom chips, cloud infrastructure and ability to design models and hardware together, although the company has faced capacity constraints of its own.",
-              "Tuesday's model launches come as Google is reportedly developing a specialized chip designed to run Gemini up to 10 times more efficiently, part of a broader push to lower the cost of serving AI."
+              "Tuesday's model launches come as Google is reportedly developing a specialized chip designed to run Gemini up to 10 times more efficiently, part of a broader push to lower the cost of serving AI.",
+              "Google has a potential advantage through its custom chips, cloud infrastructure and ability to design models and hardware together, although the company has faced capacity constraints of its own."
             ],
             "MSFT": [
-              "In March, it announced a partnership with Microsoft, which fields its own Foundry service for running open models.",
               "The arrangement allows customers of the Windows and Office company to draw on models through Fireworks, which relies on computing power from more than 20 suppliers, including Microsoft.",
+              "In March, it announced a partnership with Microsoft, which fields its own Foundry service for running open models.",
               "Microsoft CEO Satya Nadella wrote in a Sunday blog post that \"a company should be able to use a model without giving up the knowledge that makes it unique.\""
             ],
             "NVDA": [
@@ -431,22 +449,174 @@
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon.com has entered into multi-billion and multi-gigawatt agreements related to open-source AI competition.",
             "COIN": "Coinbase is adopting cheaper AI models to reduce costs, aligning with the open-source AI competition.",
             "GOOG": "Alphabet is involved in multi-billion dollar agreements with Amazon and Broadcom related to AI compute resources.",
             "MSFT": "Microsoft is providing computing power to a Fireworks service that enables Windows and Office customers to utilize open AI models.",
             "META": "Meta Platforms released Muse Spark 1.1, a new AI model, as part of its open-source AI competition.",
             "AVGO": "Broadcom has secured multi-billion dollar deals with Amazon and Google related to AI compute.",
             "TSLA": "Tesla is utilizing SpaceX’s compute capacity for its AI development efforts.",
-            "SPCX": "Space Exploration Technologies is providing compute capacity to Anthropic via a deal with Elon Musk.",
-            "AMZN": "Amazon.com has entered into multi-billion and multi-gigawatt agreements related to open-source AI competition."
+            "SPCX": "Space Exploration Technologies is providing compute capacity to Anthropic via a deal with Elon Musk."
+          }
+        },
+        {
+          "cluster_id": 61,
+          "name": "AI-driven compute race",
+          "summary": "Microsoft and AMD are scaling AI infrastructure amid intense competition for data center compute capacity and market share.",
+          "count": 5,
+          "children": [
+            {
+              "name": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+              "summary": "…centers in the U.S. Trump supported Oracle taking a stake in TikTok's U.S. business, and in May, the Defense Department announced agreements with Oracle and other tech companies ar…",
+              "hash": "65ae2851f5eb1f19",
+              "chunk_key": "65ae2851f5eb1f19_c001",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "IBM's Krishna argues that AI won't disrupt company's software unit",
+              "summary": "…current-generation z17 mainframe encountered challenges in the quarter.",
+              "hash": "774a7becd5c90607",
+              "chunk_key": "774a7becd5c90607_c001",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+              "summary": "Advanced Micro Devices on Wednesday announced a strategic partnership with Anthropic and said it will invest up to $5 billion in the artificial intelligence company \"in the future.…",
+              "hash": "c069a61eecf13c63",
+              "chunk_key": "c069a61eecf13c63_c000",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
+              "summary": "…while a Bernstein estimate from earlier this year said the mature server CPU market in total was worth about $37 billion in 2025.",
+              "hash": "69c31079960ffe4f",
+              "chunk_key": "69c31079960ffe4f_c002",
+              "article_date": "2026-07-19 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
+              "summary": "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of c…",
+              "hash": "b79717064762299f",
+              "chunk_key": "b79717064762299f_c000",
+              "article_date": "2026-07-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "ORCL": [
+              "Oracle said in June that quarterly software revenue declined 2% from a year earlier, though the company's database software is widely used inside large companies.",
+              "Still, Oracle shares are down 38% this year, as investors have grown concerned that AI could hurt growth prospects for software incumbents.",
+              "The company didn't list any major cloud service providers except Oracle on its list of partners but said OpenAI plans to deploy Vera chips in large quantities starting this quarter.",
+              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible."
+            ],
+            "IT": [
+              "Gartner analyst Kevin Knox said that AMD is currently the company to beat in enterprise AI server CPUs."
+            ],
+            "INTC": [
+              "Some analysts have said that Nvidia has created a new class of CPUs that Intel and AMD don't have a response to yet.",
+              "AMD reportedly holds about 33% of the market for server CPUs, and Intel has 66.8%, but AMD is gaining share and has deep relationships with hyperscalers.",
+              "The company said Vera was specifically designed to address bottlenecks in AI agents, and that its chip has 50% better performance for AI agents than x86 chips, the type of silicon that Intel and AMD make.",
+              "In data center CPU market share, Intel remains the clear leader, but AMD has steadily been gaining ground."
+            ],
+            "NVDA": [
+              "It will also be available paired with Nvidia's GPUs in a system called Vera Rubin .",
+              "Hannah Coutand, a Vera product marketer at Nvidia, said in a presentation that the chip focused on per-core speed, high memory bandwidth, and latency, \"so that agents can return to their GPUs as quickly as possible and keep those GPUs, which are a very expensive and a highly valuable asset in the AI factory, as highly utilized as possible.\"",
+              "Nvidia said last week that Vera is the first server CPU that it has designed from the core, as opposed to using an off-the-shelf design provided by Arm, which requires less engineering work.",
+              "Some analysts have said that Nvidia has created a new class of CPUs that Intel and AMD don't have a response to yet.",
+              "Wolfe Research said in May that it expected the average selling price to be about $5,000 per Vera chip, and forecast that Nvidia would ship about 1.3 million of them this year.",
+              "Nvidia controls more than 95% of the data center GPU market, according to the Futurum Group.",
+              "It's the first rival to Nvidia 's wildly popular Grace Blackwell and Vera Rubin systems , and is aiming to give the world's most valuable chipmaker its first real competition in years.",
+              "First look at Vera Rubin, Nvidia's AI system that's 10 times more efficient than Grace Blackwell — CNBC's Jordan Novet contributed to this report.",
+              "It competes directly with Nvidia , which dominates the market, but it has inked deals with a number of high-profile players in the industry, including Anthropic's rival OpenAI ."
+            ],
+            "AMD": [
+              "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of customers that now includes Microsoft .",
+              "Advanced Micro Devices on Wednesday announced a strategic partnership with Anthropic and said it will invest up to $5 billion in the artificial intelligence company \"in the future.\""
+            ],
+            "TSLA": [
+              "AMD says eight of the top 10 AI companies run workloads on its Instinct GPUs, including OpenAI, Cohere and Elon Musk 's SpaceXAI , which is part of SpaceX ."
+            ],
+            "META": [
+              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible."
+            ],
+            "MSFT": [
+              "It's the continuation of a longtime partnership, with AMD chips powering Microsoft's Surface PCs and Xbox gaming consoles for many years.",
+              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible.",
+              "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of customers that now includes Microsoft .",
+              "Microsoft is part of a growing number of big companies turning to AMD for AI acceleration.",
+              "Like its peers, Microsoft needs as much compute as possible, especially as it ramps up its own model development and allocates more computing capacity to research and development."
+            ],
+            "SPCX": [
+              "AMD says eight of the top 10 AI companies run workloads on its Instinct GPUs, including OpenAI, Cohere and Elon Musk 's SpaceXAI , which is part of SpaceX ."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 9
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 5
+            },
+            {
+              "ticker": "ORCL",
+              "name": "Oracle",
+              "count": 4
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel",
+              "count": 4
+            },
+            {
+              "ticker": "AMD",
+              "name": "Advanced Micro Devices",
+              "count": 2
+            },
+            {
+              "ticker": "TSLA",
+              "name": "Tesla",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "ORCL": "Oracle’s shares are down 38% this year due to investor concern that AI could diminish software growth prospects.",
+            "INTC": "Intel remains the leader in data center CPU market share, but AMD is steadily gaining ground in the AI-driven compute race.",
+            "NVDA": "Nvidia faces a new competitor in the AI-driven compute race, aiming to challenge its dominance with a new AI system.",
+            "AMD": "Advanced Micro Devices is partnering with Anthropic and investing billions to supply AI compute systems.",
+            "TSLA": "SpaceXAI, a part of Tesla’s SpaceX, is running workloads on AMD’s GPUs within the AI-driven compute race.",
+            "META": "Meta Platforms is joining a competition to acquire significant computing resources, as announced by Microsoft.",
+            "MSFT": "Microsoft is joining a growing group of companies leveraging AMD’s Helios system for increased AI compute capacity.",
+            "SPCX": "SpaceXAI, a part of SpaceX, is running workloads on AMD’s GPUs alongside other leading AI firms."
           }
         },
         {
           "cluster_id": 63,
           "name": "AI-driven semiconductor boom",
           "summary": "The global semiconductor market is experiencing rapid growth driven by AI demand, with companies expanding data center and memory capabilities, while investors shift focus from AI hyperscalers to AI enablers.",
-          "count": 4,
+          "count": 5,
           "children": [
+            {
+              "name": "Intel stock jumps 11% as chipmaker rides AI boom to fastest growth in almost 15 years",
+              "summary": "Intel reported better-than-expected second-quarter results on Thursday, notching its fastest revenue growth rate for any quarter since 2011 and issuing guidance that topped expecta…",
+              "hash": "f80f4445f9a49f0e",
+              "chunk_key": "f80f4445f9a49f0e_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Super Micro shares surge on new order disclosure after SpaceX announcement",
               "summary": "…the low end of its guidance range of $11.0 billion to $12.5 billion, according to Tuesday's statement. Analysts polled by LSEG were looking for $11.67 billion.",
@@ -489,26 +659,35 @@
               "Under Pat Gelsinger, Intel's previous CEO, Microsoft announced a partnership with the chipmaker to manufacture an unspecified processor in 2024, and Amazon said later that year it would use Intel to build a custom artificial intelligence chip, but those announcements were for relatively low-volume chips."
             ],
             "AAPL": [
-              "Fortinet doesn't have the name recognition of Apple, Tesla or any of the hyperscalers, but it's operating in a hot market due to the heightened demand for advanced security in a world increasingly dominated by AI.",
               "And President Donald Trump said in June that Apple would use Intel to manufacture chips in the U.S., but neither company has officially confirmed a deal.",
+              "Fortinet doesn't have the name recognition of Apple, Tesla or any of the hyperscalers, but it's operating in a hot market due to the heightened demand for advanced security in a world increasingly dominated by AI.",
               "Asia's most valuable company that has been riding robust demand for AI chips it manufactures for global tech giants, including Nvidia , Apple and Broadcom saw shares gain 1.23% Thursday."
             ],
             "FTNT": [
-              "Fortinet doesn't have the name recognition of Apple, Tesla or any of the hyperscalers, but it's operating in a hot market due to the heightened demand for advanced security in a world increasingly dominated by AI.",
               "Fortinet's stock price has more than doubled this year, and the company said on its last earnings call in May that it would keep in investing in its ASIC technology.",
-              "Fortinet will use Intel's foundry to produce its next-generation security chip, the two companies announced Tuesday, marking a win for Intel CEO Lip-Bu Tan, who took over the company in March 2025."
+              "Fortinet doesn't have the name recognition of Apple, Tesla or any of the hyperscalers, but it's operating in a hot market due to the heightened demand for advanced security in a world increasingly dominated by AI.",
+              "Fortinet will use Intel's foundry to produce its next-generation security chip, the two companies announced Tuesday, marking a win for Intel CEO Lip-Bu Tan, who took over the company in March 2025.",
+              "Intel's foundry landed Fortinet as its first named customer under Tan earlier this week, but it's using an older manufacturing technology to make security chips."
             ],
             "GOOG": [
               "In April, Intel said it would help design an ASIC with Google that it calls an infrastructure processing unit."
             ],
             "INTC": [
+              "In April, Intel said it would help design an ASIC with Google that it calls an infrastructure processing unit.",
+              "Under Pat Gelsinger, Intel's previous CEO, Microsoft announced a partnership with the chipmaker to manufacture an unspecified processor in 2024, and Amazon said later that year it would use Intel to build a custom artificial intelligence chip, but those announcements were for relatively low-volume chips.",
               "A major customer announcement would increase confidence among chip designers and investors that Intel is capable of building the most advanced chips in large quantities.",
               "The company's leading processes designed to manufacture computer processors are known as 14A and 18A. Intel 4 is older manufacturing technology that's less advanced and was established for simpler chips called ASICs for networking.",
-              "In April, Intel said it would help design an ASIC with Google that it calls an infrastructure processing unit.",
               "Intel said in a filing in April that it's still trying to secure a \"significant\" customer for the company's most advanced manufacturing technology, as it tries to justify the large capital expenditures needed to build factories in the U.S. and overseas.",
-              "Under Pat Gelsinger, Intel's previous CEO, Microsoft announced a partnership with the chipmaker to manufacture an unspecified processor in 2024, and Amazon said later that year it would use Intel to build a custom artificial intelligence chip, but those announcements were for relatively low-volume chips.",
               "Fortinet will use Intel's foundry to produce its next-generation security chip, the two companies announced Tuesday, marking a win for Intel CEO Lip-Bu Tan, who took over the company in March 2025.",
-              "Micron Technology sank 8%, Intel lost more than 4%, while Lam Research and Advanced Micro Devices each fell about 3%."
+              "Micron Technology sank 8%, Intel lost more than 4%, while Lam Research and Advanced Micro Devices each fell about 3%.",
+              "Here's how the chipmaker did versus LSEG consensus estimates Intel shares are up over 170% so far in 2026 as of Thursday's close after soaring 84% last year, when the U.S. government took a 10% stake in the company as part of an effort to support U.S. chip manufacturing.",
+              "Intel's 25% revenue growth was the fastest for any quarter since the third quarter of 2011 .",
+              "Intel said it had reached 10 long-term agreements, and CFO David Zinsner said the company is supply constrained, with data center customers demanding more than it can produce.",
+              "It's still Intel's biggest unit, but the robust growth is coming from its data center business, where revenue rose 59% to $6.3 billion.",
+              "Intel said it expects flat PC sales in the third quarter because of the memory shortage.",
+              "Intel is boosting its capital expenditures, targeting a \"meaningful increase\" next year, as it aggressively tries to morph into a manufacturer of chips for other companies.",
+              "Intel's foundry landed Fortinet as its first named customer under Tan earlier this week, but it's using an older manufacturing technology to make security chips.",
+              "Intel's gross margin also recovered to 42%, up from 2.5% in the year-ago period, which the company attributed to benefits of scale with more revenue, as well as selling chips with higher margins and pricing."
             ],
             "MSFT": [
               "Under Pat Gelsinger, Intel's previous CEO, Microsoft announced a partnership with the chipmaker to manufacture an unspecified processor in 2024, and Amazon said later that year it would use Intel to build a custom artificial intelligence chip, but those announcements were for relatively low-volume chips."
@@ -537,16 +716,16 @@
             {
               "ticker": "INTC",
               "name": "Intel",
-              "count": 7
-            },
-            {
-              "ticker": "AAPL",
-              "name": "Apple",
-              "count": 3
+              "count": 15
             },
             {
               "ticker": "FTNT",
               "name": "Fortinet",
+              "count": 4
+            },
+            {
+              "ticker": "AAPL",
+              "name": "Apple",
               "count": 3
             },
             {
@@ -566,16 +745,16 @@
             }
           ],
           "ticker_summary": {
-            "FTNT": "Fortinet’s stock has doubled this year and will use Intel’s foundry to bolster its security chip investments amid the AI boom.",
-            "AVGO": "Broadcom’s shares gained as the company manufactures AI chips for global tech giants.",
             "AAPL": "Apple is cited as a global tech giant riding robust demand for AI chips.",
+            "FTNT": "Fortinet’s stock has doubled this year, and it’s securing a customer for Intel’s foundry in the AI-driven semiconductor boom.",
             "GOOG": "Alphabet is collaborating with Intel to design an ASIC for an infrastructure processing unit driven by AI.",
-            "INTC": "Intel’s efforts to secure advanced manufacturing customers are driving stock declines across the semiconductor industry.",
             "MSFT": "Microsoft is partnering with Intel to manufacture AI chips for Amazon, indicating a broader trend in AI-driven semiconductor demand.",
             "AMD": "Advanced Micro Devices is cited as a company that fell approximately 3% alongside other semiconductor firms.",
             "LRCX": "Lam Research, along with Advanced Micro Devices, experienced a similar decline to Micron and Intel within the AI-driven semiconductor boom.",
             "MU": "Micron Technology maintains strong pricing power due to continued high demand for its memory chips supporting AI infrastructure growth.",
-            "NVDA": "Nvidia’s shares gained as the company benefits from robust demand for AI chips globally."
+            "AVGO": "Broadcom’s shares gained as the company manufactures AI chips for global tech giants.",
+            "NVDA": "Nvidia’s shares gained as the company benefits from robust demand for AI chips globally.",
+            "INTC": "Intel’s shares are up over 170% this year, driven by revenue growth and long-term customer agreements related to the AI-driven semiconductor boom."
           }
         },
         {
@@ -641,129 +820,6 @@
           "ticker_summary": {
             "CRM": "Salesforce’s former co-CEO Taylor and current OpenAI CEO Altman will serve on the board of the AI IPO race.",
             "MS": "Morgan Stanley is involved in planning AI IPOs alongside Goldman Sachs and JPMorgan Chase."
-          }
-        },
-        {
-          "cluster_id": 61,
-          "name": "AI-driven compute race",
-          "summary": "Microsoft and AMD are scaling AI infrastructure amid intense competition for data center compute capacity and market share.",
-          "count": 3,
-          "children": [
-            {
-              "name": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
-              "summary": "Advanced Micro Devices on Wednesday announced a strategic partnership with Anthropic and said it will invest up to $5 billion in the artificial intelligence company \"in the future.…",
-              "hash": "c069a61eecf13c63",
-              "chunk_key": "c069a61eecf13c63_c000",
-              "article_date": "2026-07-20 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Nvidia details its next-generation Vera CPU for AI, in challenge to AMD and Intel",
-              "summary": "…while a Bernstein estimate from earlier this year said the mature server CPU market in total was worth about $37 billion in 2025.",
-              "hash": "69c31079960ffe4f",
-              "chunk_key": "69c31079960ffe4f_c002",
-              "article_date": "2026-07-19 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "AMD lands Microsoft for Helios, its first rack AI system to rival Nvidia",
-              "summary": "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of c…",
-              "hash": "b79717064762299f",
-              "chunk_key": "b79717064762299f_c000",
-              "article_date": "2026-07-18 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "IT": [
-              "Gartner analyst Kevin Knox said that AMD is currently the company to beat in enterprise AI server CPUs."
-            ],
-            "INTC": [
-              "AMD reportedly holds about 33% of the market for server CPUs, and Intel has 66.8%, but AMD is gaining share and has deep relationships with hyperscalers.",
-              "Some analysts have said that Nvidia has created a new class of CPUs that Intel and AMD don't have a response to yet.",
-              "The company said Vera was specifically designed to address bottlenecks in AI agents, and that its chip has 50% better performance for AI agents than x86 chips, the type of silicon that Intel and AMD make.",
-              "In data center CPU market share, Intel remains the clear leader, but AMD has steadily been gaining ground."
-            ],
-            "NVDA": [
-              "Nvidia said last week that Vera is the first server CPU that it has designed from the core, as opposed to using an off-the-shelf design provided by Arm, which requires less engineering work.",
-              "Wolfe Research said in May that it expected the average selling price to be about $5,000 per Vera chip, and forecast that Nvidia would ship about 1.3 million of them this year.",
-              "Hannah Coutand, a Vera product marketer at Nvidia, said in a presentation that the chip focused on per-core speed, high memory bandwidth, and latency, \"so that agents can return to their GPUs as quickly as possible and keep those GPUs, which are a very expensive and a highly valuable asset in the AI factory, as highly utilized as possible.\"",
-              "It will also be available paired with Nvidia's GPUs in a system called Vera Rubin .",
-              "Some analysts have said that Nvidia has created a new class of CPUs that Intel and AMD don't have a response to yet.",
-              "First look at Vera Rubin, Nvidia's AI system that's 10 times more efficient than Grace Blackwell — CNBC's Jordan Novet contributed to this report.",
-              "Nvidia controls more than 95% of the data center GPU market, according to the Futurum Group.",
-              "It's the first rival to Nvidia 's wildly popular Grace Blackwell and Vera Rubin systems , and is aiming to give the world's most valuable chipmaker its first real competition in years.",
-              "It competes directly with Nvidia , which dominates the market, but it has inked deals with a number of high-profile players in the industry, including Anthropic's rival OpenAI ."
-            ],
-            "ORCL": [
-              "The company didn't list any major cloud service providers except Oracle on its list of partners but said OpenAI plans to deploy Vera chips in large quantities starting this quarter.",
-              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible."
-            ],
-            "AMD": [
-              "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of customers that now includes Microsoft .",
-              "Advanced Micro Devices on Wednesday announced a strategic partnership with Anthropic and said it will invest up to $5 billion in the artificial intelligence company \"in the future.\""
-            ],
-            "TSLA": [
-              "AMD says eight of the top 10 AI companies run workloads on its Instinct GPUs, including OpenAI, Cohere and Elon Musk 's SpaceXAI , which is part of SpaceX ."
-            ],
-            "META": [
-              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible."
-            ],
-            "MSFT": [
-              "Like its peers, Microsoft needs as much compute as possible, especially as it ramps up its own model development and allocates more computing capacity to research and development.",
-              "It's the continuation of a longtime partnership, with AMD chips powering Microsoft's Surface PCs and Xbox gaming consoles for many years.",
-              "Microsoft is part of a growing number of big companies turning to AMD for AI acceleration.",
-              "Microsoft announced Monday it will use the Helios system in its data centers, joining Meta , OpenAI , Oracle and others in a race to grab as much compute as possible.",
-              "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence , called Helios, to a growing list of customers that now includes Microsoft ."
-            ],
-            "SPCX": [
-              "AMD says eight of the top 10 AI companies run workloads on its Instinct GPUs, including OpenAI, Cohere and Elon Musk 's SpaceXAI , which is part of SpaceX ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 9
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 5
-            },
-            {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 4
-            },
-            {
-              "ticker": "ORCL",
-              "name": "Oracle",
-              "count": 2
-            },
-            {
-              "ticker": "AMD",
-              "name": "Advanced Micro Devices",
-              "count": 2
-            },
-            {
-              "ticker": "TSLA",
-              "name": "Tesla",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "INTC": "Intel remains the leader in data center CPU market share, but AMD is steadily gaining ground in the AI-driven compute race.",
-            "ORCL": "Oracle is joining a race to secure compute resources as OpenAI plans to utilize its Vera chips extensively.",
-            "AMD": "Advanced Micro Devices is partnering with Anthropic and investing billions to supply AI compute systems.",
-            "TSLA": "SpaceXAI, a part of Tesla’s SpaceX, is running workloads on AMD’s GPUs within the AI-driven compute race.",
-            "SPCX": "SpaceXAI, a part of SpaceX, is running workloads on AMD’s GPUs alongside other leading AI firms.",
-            "NVDA": "Nvidia faces a new competitor in the AI-driven compute race, aiming to challenge its dominance with a new AI system.",
-            "META": "Meta Platforms is joining a competition to acquire significant computing resources, as announced by Microsoft.",
-            "MSFT": "Microsoft is joining a growing group of companies leveraging AMD’s Helios system for increased AI compute capacity."
           }
         },
         {
@@ -900,6 +956,87 @@
           }
         },
         {
+          "cluster_id": 58,
+          "name": "AI-driven component cost surge",
+          "summary": "Rising memory and component costs due to AI demand are forcing major tech companies to raise prices across consoles, devices, and niche electronics, disrupting consumer affordability and profitability.",
+          "count": 1,
+          "children": [
+            {
+              "name": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
+              "summary": "Amazon and Microsoft have devised new ways to get people playing video games in the cloud.",
+              "hash": "d1d03bd00978db8a",
+              "chunk_key": "d1d03bd00978db8a_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AMZN": [
+              "Amazon is working to fix an awareness gap among consumers who may not know about or understand its gaming strategy, Gattis said.",
+              "Amazon entered the cloud gaming market during the Covid pandemic, as gaming was gaining popularity with people spending more time at home.",
+              "Amazon's gaming head, Jeff Gattis, told CNBC in an interview that the company doesn't aim to lure hardcore gamers or compete with console makers.",
+              "Amazon , meanwhile, announced plans to add the Luna cloud gaming service to its Prime Video streaming platform.",
+              "Amazon has recently shut down or offloaded several of its titles, including its massively multiplayer online games \"New World\" and a planned Lord of the Rings project."
+            ],
+            "EA": [
+              "Publishers Electronic Arts and Take-Two Interactive have experimented with ads and quickly backpedaled in response to criticism ."
+            ],
+            "GOOG": [
+              "The digital commerce company debuted Luna in 2020, three years after Microsoft had introduced Game Pass, and one year after cloud challenger Google revealed its own cloud streaming option, Stadia ."
+            ],
+            "MCD": [
+              "In 2024, some players complained about a McDonald's ad appearing on a screen for selecting games."
+            ],
+            "META": [
+              "Since Meta executive Asha Sharma replaced Phil Spencer in February as Xbox CEO, she has appointed new leaders , touted a forthcoming console , pushed for exclusive games and dropped subscription prices ."
+            ],
+            "MSFT": [
+              "The digital commerce company debuted Luna in 2020, three years after Microsoft had introduced Game Pass, and one year after cloud challenger Google revealed its own cloud streaming option, Stadia ."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 5
+            },
+            {
+              "ticker": "EA",
+              "name": "Electronic Arts",
+              "count": 1
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "MCD",
+              "name": "McDonald's",
+              "count": 1
+            },
+            {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "EA": "Electronic Arts’ experimentation with advertising suggests a potential impact from AI-driven component cost surges.",
+            "GOOG": "Alphabet debuted streaming services, mirroring competitors’ moves and potentially contributing to component cost surges.",
+            "MCD": "McDonald’s is experiencing a business impact related to AI-driven component cost surge, as evidenced by a complaint about ads appearing in game selection.",
+            "META": "Meta’s executive leadership changes signal a shift toward prioritizing exclusive gaming content and subscription strategies.",
+            "AMZN": "Amazon.com is expanding its cloud gaming service through Prime Video, despite shifting away from standalone games.",
+            "MSFT": "Microsoft’s Luna debut follows Google’s Stadia, suggesting a competitive response to cloud streaming component costs."
+          }
+        },
+        {
           "cluster_id": 59,
           "name": "AI infrastructure expansion",
           "summary": "Meta is scaling up its AI computing infrastructure through massive data center investments, cloud computing ventures, and AI model developments to diversify revenue and meet growing AI demands.",
@@ -955,23 +1092,32 @@
           ],
           "ticker_summary": {
             "TSLA": "Tesla is involved in talks to utilize Anthropic’s computing capacity, mirroring a similar agreement with SpaceX.",
+            "META": "Meta Platforms is considering leasing AI computing power to Anthropic, potentially spending $145 billion on infrastructure expansion.",
             "NVDA": "Nvidia is expanding its business due to continued commitments from AI labs seeking its chips.",
-            "SPCX": "Space Exploration Technologies is utilizing Anthropic’s data center capacity to bolster its computing resources for subscribers.",
-            "META": "Meta Platforms is considering leasing AI computing power to Anthropic, potentially spending $145 billion on infrastructure expansion."
+            "SPCX": "Space Exploration Technologies is utilizing Anthropic’s data center capacity to bolster its computing resources for subscribers."
           }
         }
       ]
     },
     {
       "name": "AI-Driven Market Shifts",
-      "count": 12,
+      "count": 13,
       "children": [
         {
           "cluster_id": 51,
           "name": "AI-driven semiconductor volatility",
           "summary": "The semiconductor sector, fueled by AI investment demand, experiences extreme volatility, driving massive options and leveraged ETF activity amid concerns over sustainability and potential drawdowns.",
-          "count": 5,
+          "count": 6,
           "children": [
+            {
+              "name": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
+              "summary": "Barchart and Cboe LiveVol, the biggest positions were concentrated around the 7,500 level in the S&P 500.",
+              "hash": "ba3fba31cd8f7363",
+              "chunk_key": "ba3fba31cd8f7363_c001",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "The worst dotcom bubble investing risks are coming for your money. Avoid them",
               "summary": "…to high fliers might also consider options that offer some upside, but also limit their downside exposure.",
@@ -1203,13 +1349,13 @@
             }
           ],
           "ticker_summary": {
-            "CB": "Chubb Limited’s quarterly results are due, reflecting potential market volatility related to AI and semiconductors.",
-            "GM": "General Motors, alongside other companies, is scheduled to report its quarterly results.",
-            "UAL": "United Airlines expects to cover 90% of elevated costs this quarter and all in the final three months.",
-            "UNH": "UnitedHealth Group’s shares rose as the insurer exceeded profit expectations and improved its full-year forecast.",
             "AMD": "Advanced Micro Devices is included in the VanEck Semiconductor ETF, which saw a modest gain.",
             "AAPL": "Apple shares declined by 2% as the Dow dropped, indicating market volatility.",
-            "MU": "Micron Technology is included in the VanEck Semiconductor ETF’s modest gain."
+            "CB": "Chubb Limited’s quarterly results are due, reflecting potential market volatility related to AI and semiconductors.",
+            "GM": "General Motors, alongside other companies, is scheduled to report its quarterly results.",
+            "MU": "Micron Technology is included in the VanEck Semiconductor ETF’s modest gain.",
+            "UAL": "United Airlines expects to cover 90% of elevated costs this quarter and all in the final three months.",
+            "UNH": "UnitedHealth Group’s shares rose as the insurer exceeded profit expectations and improved its full-year forecast."
           }
         },
         {
@@ -1398,12 +1544,12 @@
           ],
           "ticker_summary": {
             "LUV": "Southwest Airlines’ increased profits are tempered by a summer outlook below Wall Street’s expectations.",
+            "AAL": "American Airlines’ profit margins lag behind United and Delta, presenting a challenge within premium airline competition.",
             "BA": "Boeing is regaining authority to certify its own aircraft, but competitors like United are securing new deliveries.",
+            "ALK": "Alaska Air Group is operating at nearly double the flight volume of its closest competitor, despite a widening profit gap for American Airlines.",
             "SPCX": "Space Exploration Technologies is providing satellite Wi-Fi to American Airlines, a competitor in the premium airline market.",
             "UAL": "United Airlines secured numerous slots and expanded its network, surpassing American and Delta in revenue and international flights.",
-            "CARR": "Carrier Global’s earnings are hampered by a substantial debt load as American Airlines invests heavily in airport renovations.",
-            "AAL": "American Airlines’ profit margins lag behind United and Delta, presenting a challenge within premium airline competition.",
-            "ALK": "Alaska Air Group is operating at nearly double the flight volume of its closest competitor, despite a widening profit gap for American Airlines."
+            "CARR": "Carrier Global’s earnings are hampered by a substantial debt load as American Airlines invests heavily in airport renovations."
           }
         },
         {
@@ -1608,10 +1754,10 @@
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon.com faces potential market share loss as K-beauty sales shift to platforms like TikTok Shop.",
             "EL": "Estée Lauder’s products are incorporating ingredients popularized by the K-beauty space, reflecting retail transformation trends.",
             "TGT": "Target is focusing on beauty and trends to meet guests’ personal preferences and merchandising authority.",
-            "ULTA": "Ulta Beauty is positioned to gain from the increasing popularity of K-beauty products through Sephora’s partnership.",
-            "AMZN": "Amazon.com faces potential market share loss as K-beauty sales shift to platforms like TikTok Shop."
+            "ULTA": "Ulta Beauty is positioned to gain from the increasing popularity of K-beauty products through Sephora’s partnership."
           }
         },
         {
@@ -1866,22 +2012,40 @@
             }
           ],
           "ticker_summary": {
-            "GOOG": "Alphabet is competing with OpenAI and Anthropic to maintain leadership in AI strategy through its AGI unit.",
-            "AMZN": "Amazon.com is reducing its workforce in an AI unit while simultaneously investing heavily in artificial intelligence."
+            "AMZN": "Amazon.com is reducing its workforce in an AI unit while simultaneously investing heavily in artificial intelligence.",
+            "GOOG": "Alphabet is competing with OpenAI and Anthropic to maintain leadership in AI strategy through its AGI unit."
           }
         }
       ]
     },
     {
       "name": "Economic Transformation",
-      "count": 18,
+      "count": 20,
       "children": [
         {
           "cluster_id": 45,
           "name": "Inflation and rate policy divergence",
           "summary": "Central banks remain divided on inflation trends and future rate moves, with officials signaling potential for continued tightening despite signs of easing inflation and market uncertainty.",
-          "count": 14,
+          "count": 16,
           "children": [
+            {
+              "name": "Stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+              "summary": "…on the back of adverse geopolitical headlines in order to add.\"",
+              "hash": "3aadcef47d472aa1",
+              "chunk_key": "3aadcef47d472aa1_c002",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+              "summary": "Investors are increasingly preparing for the Federal Reserve to hike interest rates as oil prices climb.",
+              "hash": "e3ef3eec23f451ed",
+              "chunk_key": "e3ef3eec23f451ed_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "John Paulson says we are in the early stages of a long-term bull market for gold",
               "summary": "John Paulson, the hedge fund manager who made billions betting against the U.S. housing market before turning bullish on gold, said he believes the precious metal is only in the ea…",
@@ -2230,10 +2394,10 @@
           ],
           "ticker_summary": {
             "BAC": "Bank of America is experiencing a strong earnings season due to increased trading revenues and dealmaking activity.",
+            "C": "Citigroup is among U.S. investment banks reporting strong earnings due to trading revenue and dealmaking.",
             "GS": "Goldman Sachs is included in a group of U.S. investment banks reporting strong earnings due to trading revenue.",
             "JPM": "JPMorgan Chase is part of a group of U.S. investment banks exceeding earnings expectations due to trading revenue.",
-            "WFC": "Wells Fargo is included among U.S. investment banks reporting strong second-quarter earnings due to trading revenue.",
-            "C": "Citigroup is among U.S. investment banks reporting strong earnings due to trading revenue and dealmaking."
+            "WFC": "Wells Fargo is included among U.S. investment banks reporting strong second-quarter earnings due to trading revenue."
           }
         }
       ]
@@ -2402,8 +2566,59 @@
     },
     {
       "name": "Future of Mobility",
-      "count": 4,
+      "count": 5,
       "children": [
+        {
+          "cluster_id": 33,
+          "name": "Hybrid market shift and EV challenges",
+          "summary": "A growing U.S. preference for hybrid vehicles is outpacing electric vehicle adoption, putting pressure on automakers like GM and Ford while boosting Toyota's sales and market position.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Honda teases new American-built midsize pickup truck",
+              "summary": "Honda Motor on Thursday confirmed a next-generation model of its Ridgeline pickup truck will be produced in the U.S. following a temporary production stoppage later this year.",
+              "hash": "a2fa7b3799756fed",
+              "chunk_key": "a2fa7b3799756fed_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
+              "summary": "…Moreno said during the markup that Mercedes-Benz would have until 2030 to comply with the ownership limit and could seek a waiver.",
+              "hash": "3847593c7227eaec",
+              "chunk_key": "3847593c7227eaec_c001",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
+              "summary": "General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles.",
+              "hash": "27147608fd877c29",
+              "chunk_key": "27147608fd877c29_c000",
+              "article_date": "2026-07-19 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "GM": [
+              "General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles.",
+              "During the markup, Cruz also accused General Motors of supporting the provision in an effort to weaken Mercedes-Benz and make Cadillac more competitive."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "GM",
+              "name": "General Motors",
+              "count": 2
+            }
+          ],
+          "ticker_summary": {
+            "GM": "General Motors is shifting away from EVs and bolstering Cadillac’s competitiveness through new gas-powered models."
+          }
+        },
         {
           "cluster_id": 23,
           "name": "Tesla's automotive and autonomy challenges",
@@ -2455,61 +2670,28 @@
             "INTC": "Intel will be evaluating Tesla and SpaceX’s collaboration on a jointly built chip factory.",
             "SPCX": "Space Exploration Technologies’ shares have declined alongside Tesla’s challenges, diminishing speculative interest in cross-entity financial engineering."
           }
-        },
-        {
-          "cluster_id": 33,
-          "name": "Hybrid market shift and EV challenges",
-          "summary": "A growing U.S. preference for hybrid vehicles is outpacing electric vehicle adoption, putting pressure on automakers like GM and Ford while boosting Toyota's sales and market position.",
-          "count": 2,
-          "children": [
-            {
-              "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
-              "summary": "…Moreno said during the markup that Mercedes-Benz would have until 2030 to comply with the ownership limit and could seek a waiver.",
-              "hash": "3847593c7227eaec",
-              "chunk_key": "3847593c7227eaec_c001",
-              "article_date": "2026-07-21 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
-              "summary": "General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles.",
-              "hash": "27147608fd877c29",
-              "chunk_key": "27147608fd877c29_c000",
-              "article_date": "2026-07-19 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "GM": [
-              "General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles.",
-              "During the markup, Cruz also accused General Motors of supporting the provision in an effort to weaken Mercedes-Benz and make Cadillac more competitive."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "GM",
-              "name": "General Motors",
-              "count": 2
-            }
-          ],
-          "ticker_summary": {
-            "GM": "General Motors is shifting away from EVs and bolstering Cadillac’s competitiveness through new gas-powered models."
-          }
         }
       ]
     },
     {
       "name": "Global strategic risks",
-      "count": 6,
+      "count": 7,
       "children": [
         {
           "cluster_id": 26,
           "name": "Trade policy volatility",
           "summary": "Escalating U.S. tariffs and renegotiations are disrupting North American trade, increasing uncertainty for automakers and supply chains while challenging regional economic stability.",
-          "count": 6,
+          "count": 7,
           "children": [
+            {
+              "name": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+              "summary": "The Trump administration will impose new tariffs just after midnight ET Friday on dozens of countries over alleged forced-labor violations, according to a notice in the Federal Reg…",
+              "hash": "a4f6bf324c6ab273",
+              "chunk_key": "a4f6bf324c6ab273_c000",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Mercedes-Benz may be shut out of U.S. market under bill aimed at China ownership",
               "summary": "The Senate Commerce Committee advanced bipartisan legislation Wednesday aimed at toughening a ban on Chinese automakers from the U.S. market, even as Chairman Ted Cruz , R-Texas, w…",
@@ -2630,8 +2812,94 @@
     },
     {
       "name": "Societal Resilience & Change",
-      "count": 6,
+      "count": 13,
       "children": [
+        {
+          "cluster_id": 10,
+          "name": "Regulatory clarity in consumer products",
+          "summary": "The Supreme Court's rulings support regulatory consistency in tobacco and pesticide products, affirming scientific standards and market access for manufacturers.",
+          "count": 7,
+          "children": [
+            {
+              "name": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
+              "summary": "…A DOJ spokesperson, in a statement to CNBC, said, \"This judge threatened our attorneys with sanctions unless subpoenas were withdrawn, and blocked us from presenting the meticulous…",
+              "hash": "fc422342b5ee5437",
+              "chunk_key": "fc422342b5ee5437_c002",
+              "article_date": "2026-07-22 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "U.S. Secret Service official: 'Threat environment is the highest we've ever seen'",
+              "summary": "A senior U.S. Secret Service official said Wednesday that the \"threat environment\" for the agency's protectees, who include President Donald Trump , \"is the highest we've ever seen…",
+              "hash": "88efa34470ea96a3",
+              "chunk_key": "88efa34470ea96a3_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Man with airsoft rifles caused fireworks explosion outside NYC immigration court: MS NOW",
+              "summary": "A man described as an anti- ICE activist was taken into custody after setting off fireworks and wielding two airsoft rifles outside an immigration court building in lower Manhattan…",
+              "hash": "64cee57c2e7a4b10",
+              "chunk_key": "64cee57c2e7a4b10_c000",
+              "article_date": "2026-07-19 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Property taxes are poised to be major midterm election ballot battle across U.S.",
+              "summary": "…in local government revenue at a May roundtable event. \"I think everybody understands that [basic services could be provided] at a lower level than $83 billion,\" he added.",
+              "hash": "bac107140409d6c6",
+              "chunk_key": "bac107140409d6c6_c005",
+              "article_date": "2026-07-19 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "FBI will reportedly no longer investigate ICE confrontations",
+              "summary": "U.S. Immigration and Customs Enforcement agents recently have been told that the FBI will no longer investigate claims of assault against the federal officers, according to a repor…",
+              "hash": "89244ada9f33af66",
+              "chunk_key": "89244ada9f33af66_c000",
+              "article_date": "2026-07-18 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Trump to deliver election-focused national address tonight. Here's what to know",
+              "summary": "…the White House historically underperforms in midterm elections, and Democrats aim to capitalize on what polls have shown are Americans' negative views on the economy, the Iran war…",
+              "hash": "dc23d193beeb9678",
+              "chunk_key": "dc23d193beeb9678_c003",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+              "summary": "Sen. Elizabeth Warren , D-Mass., said Thursday that the Trump administration's overhaul of the Consumer Financial Protection Bureau has cost Americans up to $26.5 billion so far, t…",
+              "hash": "a22284e6315aa86a",
+              "chunk_key": "a22284e6315aa86a_c000",
+              "article_date": "2026-07-15 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "NYT": [
+              "The Department of Justice withdrew subpoenas it had obtained seeking grand jury testimony from and phone records of New York Times reporters involved in an article about security issues involving President Donald Trump 's new Air Force One jet, prosecutors told a federal judge in New York on Thursday."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "NYT",
+              "name": "New York Times",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "NYT": "New York Times’ reporters are facing scrutiny regarding a security article about the Air Force One, with subpoenas withdrawn."
+          }
+        },
         {
           "cluster_id": 18,
           "name": "Housing affordability crisis",
@@ -2750,7 +3018,7 @@
     },
     {
       "name": "Sports and Media Economics",
-      "count": 11,
+      "count": 12,
       "children": [
         {
           "cluster_id": 69,
@@ -2868,10 +3136,10 @@
             }
           ],
           "ticker_summary": {
+            "GOOG": "Alphabet is facing fraud charges linked to internal data used in prediction markets.",
             "AAPL": "Apple’s anticipated product launches could impact its stock price due to prediction market regulation.",
             "NVDA": "Nvidia’s stock is referenced in a prediction market contract, indicating potential regulatory scrutiny of the company’s trading activities.",
             "TW": "Tradeweb Markets needs clarification from agencies to facilitate trading for institutions utilizing prediction markets.",
-            "GOOG": "Alphabet is facing fraud charges linked to internal data used in prediction markets.",
             "GS": "Goldman Sachs’ analysis suggests that prediction market regulation could benefit the firm by avoiding lawsuits."
           }
         },
@@ -2927,6 +3195,55 @@
           }
         },
         {
+          "cluster_id": 40,
+          "name": "Media consolidation trends",
+          "summary": "Comcast's spinoff of NBCUniversal and Sky reflects a broader industry trend of media consolidation amid rising streaming competition and declining cable demand.",
+          "count": 2,
+          "children": [
+            {
+              "name": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
+              "summary": "Comcast's second-quarter results on Thursday showcased strength at NBCUniversal — particularly in its TV and film units — as the company prepares to split its media and broadband b…",
+              "hash": "9c925245b7857c93",
+              "chunk_key": "9c925245b7857c93_c000",
+              "article_date": "2026-07-21 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Peacock is getting a lift from World Cup, Spanish-language content",
+              "summary": "…\"It not only brought so many new audiences and subscribers to Peacock, but it also introduced them to so much additional programming that they weren't familiar with,\" Conde said, a…",
+              "hash": "687966ec151a1603",
+              "chunk_key": "687966ec151a1603_c001",
+              "article_date": "2026-07-20 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "CMCSA": [
+              "Live sports in general have lifted Peacock — especially after NBCUniversal started airing the NBA in 2025.",
+              "But Comcast once again reported broadband customer losses for the period, and revenue for the connectivity and platforms segment notched down as its lower pricing plans and promotions took hold.",
+              "NBCUniversal's streaming service, Peacock, hit profitability during the quarter for the first time, Comcast said, giving the media business a lift.",
+              "Comcast's second-quarter results on Thursday showcased strength at NBCUniversal — particularly in its TV and film units — as the company prepares to split its media and broadband businesses apart.",
+              "Mobile has become a major driver and key part of Comcast's strategy to boost the broadband business.",
+              "On a pro-forma basis, accounting for the impact of Comcast's Versant spinoff that was completed at the start of the year, the company said quarterly revenue was 4.7% higher.",
+              "Comcast reported net income attributable to the company of $3.53 billion.",
+              "Revenue in the company's content and experiences division, which includes media unit NBCUniversal, rose almost 23% year over year.",
+              "The content and experiences segment that houses NBCUniversal's TV, film and theme parks, however, saw revenue surge to $10.73 billion, boosted by the impact of the FIFA World Cup that began in mid-June and was aired in Spanish in the U.S. on the company's Telemundo network."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "CMCSA",
+              "name": "Comcast",
+              "count": 9
+            }
+          ],
+          "ticker_summary": {
+            "CMCSA": "Comcast’s content and experiences segment revenue rose due to the FIFA World Cup, while broadband revenue decreased."
+          }
+        },
+        {
           "cluster_id": 36,
           "name": "Private equity in sports expansion",
           "summary": "Private equity is increasingly investing in and reshaping youth and professional sports, raising concerns over cost, access, and the prioritization of profit over fan experience.",
@@ -2956,38 +3273,6 @@
           ],
           "ticker_summary": {
             "ROL": "Rollins believes it can build new businesses by utilizing existing relationships within sports to expand its operations."
-          }
-        },
-        {
-          "cluster_id": 40,
-          "name": "Media consolidation trends",
-          "summary": "Comcast's spinoff of NBCUniversal and Sky reflects a broader industry trend of media consolidation amid rising streaming competition and declining cable demand.",
-          "count": 1,
-          "children": [
-            {
-              "name": "Peacock is getting a lift from World Cup, Spanish-language content",
-              "summary": "…\"It not only brought so many new audiences and subscribers to Peacock, but it also introduced them to so much additional programming that they weren't familiar with,\" Conde said, a…",
-              "hash": "687966ec151a1603",
-              "chunk_key": "687966ec151a1603_c001",
-              "article_date": "2026-07-20 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "CMCSA": [
-              "Live sports in general have lifted Peacock — especially after NBCUniversal started airing the NBA in 2025."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "CMCSA",
-              "name": "Comcast",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "CMCSA": "Comcast’s Peacock is benefiting from live sports rights, particularly the NBA, due to NBCUniversal’s broadcast deals."
           }
         }
       ]
