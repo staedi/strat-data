@@ -1,12 +1,13 @@
 # strat-data
 
 This is the repo serving backend data generated for the [Financial News Explorer](https://staedi.github.io/strat-ui).
-The original data being generated into this repo is from the financial news, asset prices (price and volume), and SEC EDGAR 10-K financial statement (10-K).
+The original data being generated into this repo is from the financial news, asset prices (price and volume), SEC EDGAR 10-K financial statement (10-K), and economic indicators via [FRED](https://fred.stlouisfed.org/), [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), [Bank of England](https://www.bankofengland.co.uk/), and [Bank of Japan](https://www.boj.or.jp/en/).
 
 ## Types of data
 
 Currently, generated data are the following.
 
+* Market Briefings (`briefings.json`): Daily market overview including economic and market snapshots and key tickers
 * Topic Clusters (`topics_*.json`): News are being grouped into topic clusters
 * Ticker sentiments (`sentiment_*.json`): Each ticker's sentiment (within and out of clusters) is analyzed
 * Ticker prices (`prices_*.json`): Each ticker's price data are being gathered
@@ -16,29 +17,19 @@ Currently, generated data are the following.
 
 ### Topic Clusters
 
-* (Root)
-  * `topics_recent.json`: Clusters based on recent data
-  * `topics_full.json`: Clusters based on full data
-  * (topics_weekly)
-    * `topics_[YYYY]-W[Week].json`: Clusters of weekly data
+* `topics_recent.json`: Clusters based on recent data
+* `topics_full.json`: Clusters based on full data
    
 ### Ticker sentiments
 
-* (Root)
-  * `sentiment_recent.json`: Ticker sentiments based on recent data
-  * `sentiment_full.json`: Ticker sentiments based on full data
-  * (sentiment_weekly)
-    * `sentiment_[YYYY]-W[Week].json`: Ticker sentiments of weekly data
+* `sentiment_recent.json`: Ticker sentiments based on recent data
+* `sentiment_full.json`: Ticker sentiments based on full data
 
 ### Ticker prices
 
-* (Root)
-  * `prices_recent.json`: Ticker prices based on recent data
-  * `prices_full.json`: Ticker prices based on full data
-  * (prices_weekly)
-    * `prices_[YYYY]-W[Week].json`: Ticker prices of weekly data
+* `prices_recent.json`: Ticker prices based on recent data
+* `prices_full.json`: Ticker prices based on full data
 
 ### Company summary
 
-* (Root)
-  * `company_meta.json`: (Single) file of Company summary
+* `company_meta.json`: (Single) file of Company summary
