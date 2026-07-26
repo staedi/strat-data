@@ -7,29 +7,33 @@ The original data being generated into this repo is from the financial news, ass
 
 Currently, generated data are the following.
 
-* Market Briefings (`briefings.json`): Daily market overview including economic and market snapshots and key tickers
+* Market Briefings (`briefings.json`): Daily market overview including economic and market snapshots and market movers (based on price changes and sentiment changes)
 * Topic Clusters (`topics_*.json`): News are being grouped into topic clusters
-* Ticker sentiments (`sentiment_*.json`): Each ticker's sentiment (within and out of clusters) is analyzed
-* Ticker prices (`prices_*.json`): Each ticker's price data are being gathered
+* Ticker Sentiments (`sentiment_*.json`): Each ticker's sentiment (within and out of clusters) is analyzed
+* Ticker Prices (`prices_*.json`): Each ticker's price data are being gathered
 * Company Summary (`company_meta.json`): Summary of company info with its related peers
 
 ## Directory structure
+
+### Market Briefings
+
+* `briefings.json`: Daily market overview based on recent data
 
 ### Topic Clusters
 
 * `topics_recent.json`: Clusters based on recent data
 * `topics_full.json`: Clusters based on full data
    
-### Ticker sentiments
+### Ticker Sentiments
 
 * `sentiment_recent.json`: Ticker sentiments based on recent data
 * `sentiment_full.json`: Ticker sentiments based on full data
 
-### Ticker prices
+### Ticker Prices
 
 * `prices_recent.json`: Ticker prices based on recent data
 * `prices_full.json`: Ticker prices based on full data
 
-### Company summary
+### Company Summary
 
 * `company_meta.json`: (Single) file of Company summary
