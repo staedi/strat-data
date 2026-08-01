@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-07-31T22:41:38.718893-04:00",
-  "snapshot_date": "2026-08-01",
+  "generated_at": "2026-08-01T18:51:21.466833-04:00",
+  "snapshot_date": "2026-08-02",
   "disclaimer": "Topic clusters reflect the past 7 days. Market data and sentiment updated daily. Macro indicators sourced from FRED and respective central banks (FED, ECB, BOJ, and BOE)",
   "schedule": [
-    {
-      "date": "2026-07-31",
-      "type": "boj",
-      "label": "BOJ Rate Decision"
-    },
     {
       "date": "2026-08-07",
       "type": "nfp",
@@ -47,6 +42,11 @@
       "date": "2026-09-17",
       "type": "boe",
       "label": "BOE Rate Decision"
+    },
+    {
+      "date": "2026-09-18",
+      "type": "boj",
+      "label": "BOJ Rate Decision"
     }
   ],
   "macro_outcomes": [
@@ -243,6 +243,7 @@
       "latest_date": "2026-06-16",
       "direction": null,
       "source": "boj_official",
+      "last_meeting_date": "2026-07-31",
       "trend": [
         {
           "date": "2026-04-28",
@@ -265,11 +266,6 @@
       "source": "boe_official",
       "trend": [
         {
-          "date": "2026-04-30",
-          "value": "3.75%",
-          "raw": 3.75
-        },
-        {
           "date": "2026-06-18",
           "value": "3.75%",
           "raw": 3.75
@@ -290,31 +286,31 @@
         "close": 7489.7202,
         "change_pct": 0.7,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "^IXIC",
         "label": "Nasdaq",
-        "close": 25373.8535,
+        "close": 25373.8496,
         "change_pct": 1.0,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "^N225",
         "label": "Nikkei 225",
-        "close": 64362.02,
+        "close": 64362.0195,
         "change_pct": 4.03,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "^KS11",
         "label": "KOSPI",
-        "close": 6595.45,
+        "close": 6595.4502,
         "change_pct": 17.91,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "^VIX",
@@ -322,17 +318,17 @@
         "close": 15.99,
         "change_pct": -6.44,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       }
     ],
     "fx": [
       {
         "ticker": "DX-Y.NYB",
         "label": "DXY",
-        "close": 99.803,
+        "close": 99.8,
         "change_pct": -0.21,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "EURUSD=X",
@@ -340,7 +336,7 @@
         "close": 1.1527,
         "change_pct": 0.52,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "JPY=X",
@@ -348,59 +344,59 @@
         "close": 157.4,
         "change_pct": -1.74,
         "as_of": "2026-08-01",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "GBPUSD=X",
         "label": "GBP/USD",
-        "close": 1.3487,
-        "change_pct": 0.89,
-        "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "close": 1.3482,
+        "change_pct": 0.16,
+        "as_of": "2026-08-01",
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "KRW=X",
         "label": "USD/KRW",
-        "close": 1442.0699,
-        "change_pct": -0.01,
-        "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "close": 1436.6,
+        "change_pct": 1.13,
+        "as_of": "2026-08-01",
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       }
     ],
     "crypto": [
       {
         "ticker": "BTC-USD",
         "label": "Bitcoin",
-        "close": 62916.0,
-        "change_pct": -2.47,
+        "close": 62797.5391,
+        "change_pct": -0.03,
         "as_of": "2026-08-01",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "ETH-USD",
         "label": "Ethereum",
-        "close": 1864.54,
-        "change_pct": -2.32,
+        "close": 1846.8101,
+        "change_pct": -0.73,
         "as_of": "2026-08-01",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       }
     ],
     "commodities": [
       {
         "ticker": "CL=F",
         "label": "WTI Crude",
-        "close": 86.8,
-        "change_pct": 3.84,
+        "close": 84.67,
+        "change_pct": 1.29,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       },
       {
         "ticker": "GC=F",
         "label": "Gold",
-        "close": 4098.6001,
-        "change_pct": -0.04,
+        "close": 4049.1001,
+        "change_pct": -1.24,
         "as_of": "2026-07-31",
-        "updated_at": "2026-07-31T20:53:42.417916-04:00"
+        "updated_at": "2026-08-01T18:33:51.071272-04:00"
       }
     ],
     "bonds": [
@@ -453,7 +449,7 @@
           "score": 1.0,
           "positive_pct": 100.0,
           "negative_pct": 0.0,
-          "top_cluster": null
+          "top_cluster": "Food safety supply chain risks"
         },
         {
           "ticker": "GOOG",
@@ -494,7 +490,7 @@
           "cluster_id": 28,
           "label": "Consumer spending decline",
           "meta_category": "Economic Headwinds",
-          "article_count": 14
+          "article_count": 13
         },
         {
           "cluster_id": 63,
@@ -503,16 +499,16 @@
           "article_count": 10
         },
         {
-          "cluster_id": 11,
-          "label": "Global tariff enforcement",
-          "meta_category": "Global Policy Shifts",
-          "article_count": 8
-        },
-        {
           "cluster_id": 53,
           "label": "AI-driven semiconductor boom",
           "meta_category": "AI Economy Expansion",
-          "article_count": 7
+          "article_count": 6
+        },
+        {
+          "cluster_id": 11,
+          "label": "Global tariff enforcement",
+          "meta_category": "Global Policy Shifts",
+          "article_count": 6
         }
       ]
     },

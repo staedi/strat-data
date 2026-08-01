@@ -1,17 +1,17 @@
 {
   "name": "root",
   "mode": "recent",
-  "updated_at": "2026-07-31T20:51:09.376997-04:00",
+  "updated_at": "2026-08-01T18:19:19.693556-04:00",
   "children": [
     {
       "name": "AI Economy Expansion",
-      "count": 32,
+      "count": 27,
       "children": [
         {
           "cluster_id": 53,
           "name": "AI-driven semiconductor boom",
           "summary": "The global semiconductor market is experiencing a surge driven by AI demand, with strong performance from TSMC, Intel, and memory leaders, despite short-term volatility and profit-taking.",
-          "count": 7,
+          "count": 6,
           "children": [
             {
               "name": "Dwindling cash and soaring memory costs: Tech's ballooning AI buildout",
@@ -50,6 +50,15 @@
               "value": 1
             },
             {
+              "name": "Corning tumbles 12% after earnings, leading rout in optical stocks",
+              "summary": "Shares of glassware maker Corning dove 12% on Tuesday after the company reported its second-quarter earnings, dragging down other optical component names in the artificial intellig…",
+              "hash": "19ad7b7de5e4c4d5",
+              "chunk_key": "19ad7b7de5e4c4d5_c000",
+              "article_date": "2026-07-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
               "name": "Apple ends day as world's most valuable company, passing Nvidia",
               "summary": "AI boom, such as Micron Technology , SK Hynix , and Sandisk .",
               "hash": "7cfbce17285f2fd7",
@@ -57,33 +66,21 @@
               "article_date": "2026-07-26 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Intel stock jumps 11% as chipmaker rides AI boom to fastest growth in almost 15 years",
-              "summary": "Intel reported better-than-expected second-quarter results on Thursday, notching its fastest revenue growth rate for any quarter since 2011 and issuing guidance that topped expecta…",
-              "hash": "f80f4445f9a49f0e",
-              "chunk_key": "f80f4445f9a49f0e_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Oil spurs a sell-off, Trump's new tariffs and more: Morning Squawk",
-              "summary": "…trading partner has announced retaliation as most signal they will keep negotiating with Washington.",
-              "hash": "babd01615a6db651",
-              "chunk_key": "babd01615a6db651_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
+            "AMZN": [
+              "In June, Corning inked its latest multi-year deal to power and connect Amazon's expanding fleet of data centers, one in a string of billion-dollar deals it's inked in recent months as hyperscalers and other AI companies race to meet their skyrocketing demand for computing power.",
+              "South Korea's chip heavyweights SK Hynix and Samsung Electronics skyrocketed in Seoul on Friday, tracking a sharp rally in U.S. technology stocks after blockbuster earnings from Amazon and Microsoft revived optimism around artificial intelligence spending."
+            ],
+            "GLW": [
+              "Shares of glassware maker Corning dove 12% on Tuesday after the company reported its second-quarter earnings, dragging down other optical component names in the artificial intelligence space.",
+              "Corning's networking solutions and fiber optic cable have become a growing portion of the AI data center buildout, since their equipment enables fast connections between the facilities and the racks and chips inside.",
+              "In June, Corning inked its latest multi-year deal to power and connect Amazon's expanding fleet of data centers, one in a string of billion-dollar deals it's inked in recent months as hyperscalers and other AI companies race to meet their skyrocketing demand for computing power."
+            ],
             "AAPL": [
               "Apple will report fiscal third-quarter earnings on Thursday, in which the iPhone maker is expected to reveal for the first time some of the financial impacts from the AI-driven global memory chip shortage, which forced the company to raise Mac and iPad prices in June.",
               "For Apple, memory is a revenue problem, as the company prepares for weaker consumer demand due to higher prices."
-            ],
-            "AMZN": [
-              "South Korea's chip heavyweights SK Hynix and Samsung Electronics skyrocketed in Seoul on Friday, tracking a sharp rally in U.S. technology stocks after blockbuster earnings from Amazon and Microsoft revived optimism around artificial intelligence spending."
             ],
             "MSFT": [
               "South Korea's chip heavyweights SK Hynix and Samsung Electronics skyrocketed in Seoul on Friday, tracking a sharp rally in U.S. technology stocks after blockbuster earnings from Amazon and Microsoft revived optimism around artificial intelligence spending.",
@@ -101,36 +98,23 @@
               "Marvell Technology gained 13% and Nvidia rose nearly 3%."
             ],
             "QCOM": [
+              "Qualcomm makes significant profit through its QTL division, which licenses its intellectual property for cellular connections and other chip technology to other companies.",
+              "Qualcomm's automotive business was a bright spot.",
+              "Qualcomm reported fiscal third-quarter earnings on Wednesday that were in line with analyst expectations, but it provided light guidance for current-quarter earnings on in-line revenue, blaming the ongoing supply crunch for computer parts, especially memory.",
+              "Qualcomm reported $1.59 billion in automotive sales.",
               "Qualcomm reported $5.1 billion in handset chip sales, which was down 20% on an annual basis, and which the company said reflected a bottoming in the China market.",
               "\"The semiconductor industry is experiencing a broad-based increase in input costs, across wafer fabrication, assembly, test, advanced packaging, memory and other materials,\" Qualcomm said in its release, although, as management noted, \"revenues continue to be healthy.\"",
-              "Qualcomm's automotive business was a bright spot.",
-              "Qualcomm makes significant profit through its QTL division, which licenses its intellectual property for cellular connections and other chip technology to other companies.",
-              "Qualcomm reported $1.59 billion in automotive sales.",
-              "Qualcomm reported fiscal third-quarter earnings on Wednesday that were in line with analyst expectations, but it provided light guidance for current-quarter earnings on in-line revenue, blaming the ongoing supply crunch for computer parts, especially memory.",
+              "On Wednesday, Qualcomm also announced that it had completed the acquisition of Modular, a buzzy software company making programming technology for AI, and the company said it would unveil its AI software platform at a conference in August.",
               "The company's handsets business remains the largest slice of chip sales, although Qualcomm under Amon is looking to diversify to cars, smart glasses, and robots, and is targeting non-smartphone sales to be 60% of the company's revenues next year.",
-              "Qualcomm is taking concrete measures to expand its margins going forward, CEO Cristiano Amon said in an interview, including raising prices across the board starting on September 1 for the company's chips, most of which currently go to smartphone makers, and looking for other ways to streamline the company's supply chain.",
-              "On Wednesday, Qualcomm also announced that it had completed the acquisition of Modular, a buzzy software company making programming technology for AI, and the company said it would unveil its AI software platform at a conference in August."
-            ],
-            "INTC": [
-              "Thanks to the artificial intelligence boom, Intel also saw its fastest quarterly revenue growth rate in nearly 15 years.",
-              "Shares of Intel are 3% higher this morning after the company beat top- and bottom-line expectations for the second quarter.",
-              "Applied Materials and Advanced Micro Devices surged 15% and 13%, respectively, while Intel jumped 11%.",
-              "Intel's foundry landed Fortinet as its first named customer under Tan earlier this week, but it's using an older manufacturing technology to make security chips.",
-              "Intel's gross margin also recovered to 42%, up from 2.5% in the year-ago period, which the company attributed to benefits of scale with more revenue, as well as selling chips with higher margins and pricing.",
-              "Intel is boosting its capital expenditures, targeting a \"meaningful increase\" next year, as it aggressively tries to morph into a manufacturer of chips for other companies.",
-              "Intel said it expects flat PC sales in the third quarter because of the memory shortage.",
-              "It's still Intel's biggest unit, but the robust growth is coming from its data center business, where revenue rose 59% to $6.3 billion.",
-              "Intel said it had reached 10 long-term agreements, and CFO David Zinsner said the company is supply constrained, with data center customers demanding more than it can produce.",
-              "Intel's 25% revenue growth was the fastest for any quarter since the third quarter of 2011 .",
-              "Here's how the chipmaker did versus LSEG consensus estimates Intel shares are up over 170% so far in 2026 as of Thursday's close after soaring 84% last year, when the U.S. government took a 10% stake in the company as part of an effort to support U.S. chip manufacturing."
-            ],
-            "ORCL": [
-              "Oracle 's stock is also higher before the bell after the software company struck a 10-year deal with the Pentagon worth up to $7 billion."
+              "Qualcomm is taking concrete measures to expand its margins going forward, CEO Cristiano Amon said in an interview, including raising prices across the board starting on September 1 for the company's chips, most of which currently go to smartphone makers, and looking for other ways to streamline the company's supply chain."
             ],
             "AMD": [
               "Applied Materials and Advanced Micro Devices surged 15% and 13%, respectively, while Intel jumped 11%."
             ],
             "AMAT": [
+              "Applied Materials and Advanced Micro Devices surged 15% and 13%, respectively, while Intel jumped 11%."
+            ],
+            "INTC": [
               "Applied Materials and Advanced Micro Devices surged 15% and 13%, respectively, while Intel jumped 11%."
             ],
             "LRCX": [
@@ -139,26 +123,28 @@
             ],
             "MRVL": [
               "Marvell Technology gained 13% and Nvidia rose nearly 3%."
-            ],
-            "FTNT": [
-              "Intel's foundry landed Fortinet as its first named customer under Tan earlier this week, but it's using an older manufacturing technology to make security chips."
             ]
           },
           "related_tickers": [
-            {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 11
-            },
             {
               "ticker": "QCOM",
               "name": "Qualcomm",
               "count": 9
             },
             {
+              "ticker": "GLW",
+              "name": "Corning",
+              "count": 3
+            },
+            {
               "ticker": "MSFT",
               "name": "Microsoft",
               "count": 3
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 2
             },
             {
               "ticker": "AAPL",
@@ -174,28 +160,22 @@
               "ticker": "LRCX",
               "name": "Lam Research",
               "count": 2
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 1
             }
           ],
           "ticker_summary": {
-            "QCOM": "Qualcomm is experiencing supply chain issues and increasing input costs, yet maintains healthy revenues and seeks diversification through AI software and automotive sales.",
-            "ORCL": "Oracle’s stock is higher following a $7 billion contract with the Pentagon related to the AI-driven semiconductor boom.",
+            "GLW": "Corning’s networking solutions are experiencing growth due to increased demand from AI data centers.",
             "AAPL": "Apple anticipates weaker consumer demand and a revenue problem due to higher Mac and iPad prices resulting from a memory chip shortage.",
-            "AMZN": "Amazon.com’s earnings boosted optimism about artificial intelligence spending, driving a rally in U.S. technology stocks.",
             "MSFT": "Microsoft’s strong earnings and Azure growth fueled a rally in U.S. technology stocks and chip stocks.",
             "SKHY": "SK hynix’s stock rose alongside U.S. tech firms due to renewed optimism about AI spending.",
             "MU": "Micron Technology is being acknowledged by Musk for its allocation of memory chips.",
             "NVDA": "Nvidia’s AI systems are becoming a significant cost increase for hyperscalers, driving a rise in its stock price.",
-            "INTC": "Intel experienced its fastest quarterly revenue growth in nearly 15 years due to a surge in data center business revenue.",
+            "QCOM": "Qualcomm is experiencing supply chain issues and increasing input costs, yet maintains healthy revenues and seeks diversification through AI software and automotive sales.",
             "AMD": "Advanced Micro Devices saw a 13% increase alongside Applied Materials and Intel in the AI-driven semiconductor boom.",
             "AMAT": "Applied Materials, Advanced Micro Devices, and Intel experienced significant stock increases due to the AI-driven semiconductor boom.",
             "LRCX": "Lam Research shares surged 18% following a broad rally in chip stocks driven by Microsoft and Lam Research’s earnings.",
             "MRVL": "Marvell Technology gained 13%, indicating a positive business impact related to the AI-driven semiconductor boom.",
-            "FTNT": "Fortinet is now Intel’s first named customer for an AI-driven semiconductor boom."
+            "AMZN": "Amazon.com is seeing a surge in demand for computing power, driving billion-dollar deals for chips.",
+            "INTC": "Intel’s stock price rose 11% alongside competitors Applied Materials and Advanced Micro Devices."
           }
         },
         {
@@ -346,364 +326,15 @@
             }
           ],
           "ticker_summary": {
-            "GOOG": "Alphabet is cited as a historical comparison for Apple’s reliance on Google’s AI technology.",
-            "SKHY": "SK Hynix benefits from the AI boom through increased demand for memory chips and data center infrastructure.",
-            "AMZN": "Amazon.com is investing heavily in AI capital expenditures alongside other hyperscalers.",
-            "META": "Meta Platforms is investing heavily in AI capital expenditures alongside other hyperscalers.",
             "AAPL": "Apple has outperformed the market by avoiding heavy AI investment, despite concerns about falling behind in the field.",
+            "GOOG": "Alphabet is cited as a historical comparison for Apple’s reliance on Google’s AI technology.",
             "MU": "Micron Technology is benefiting from the AI boom through demand for memory chips and data center infrastructure.",
             "MSFT": "Microsoft is cited as a hyperscaler investing hundreds of billions in AI build-outs alongside competitors.",
             "NVDA": "Nvidia’s market capitalization fell as investors shifted focus from AI chips to broader data center infrastructure, despite remaining a dominant provider of Nvidia-based data centers.",
-            "SNDK": "Sandisk is positioned to benefit from the AI boom due to demand for memory chips and data center infrastructure."
-          }
-        },
-        {
-          "cluster_id": 29,
-          "name": "Cloud gaming & entertainment inflation",
-          "summary": "Rising costs and streaming fatigue are driving consumers toward ad-supported, cloud-based gaming and home entertainment alternatives.",
-          "count": 4,
-          "children": [
-            {
-              "name": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo",
-              "summary": "…game and network services in the latest fiscal year, while Nintendo's approached 16% .",
-              "hash": "42c323de26c27d40",
-              "chunk_key": "42c323de26c27d40_c001",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
-              "summary": "…Microsoft had rallied 16% during Thursday's regular session after reporting faster-than-expected Azure cloud growth, reinforcing confidence that AI infrastructure spending remains …",
-              "hash": "8b03ba9aca72148f",
-              "chunk_key": "8b03ba9aca72148f_c001",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Microsoft beats cloud expectations as full-year Azure revenue tops $100 billion",
-              "summary": "At that size, the business trails Amazon Web Services while remaining larger than Alphabet's Google Cloud.",
-              "hash": "64819d4faa6f458e",
-              "chunk_key": "64819d4faa6f458e_c002",
-              "article_date": "2026-07-28 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
-              "summary": "Amazon and Microsoft have devised new ways to get people playing video games in the cloud.",
-              "hash": "d1d03bd00978db8a",
-              "chunk_key": "d1d03bd00978db8a_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "MSFT": [
-              "D.A. Davidson's Gil Luria on Microsoft layoffs: Gaming business has become 'almost irrelevant'",
-              "Microsoft CEO Satya Nadella told analysts on the software maker's Wednesday earnings call that in gaming, the company is \"making the necessary decisions required across our content portfolio, platform and operations to reset the business for long-term growth.\"",
-              "Microsoft placed a giant bet on gaming with the $75.4 billion acquisition of Call of Duty publisher Activision Blizzard in 2023.",
-              "During the fiscal fourth quarter, Microsoft introduced a cost-efficient AI coding model , picked LinkedIn executive Dan Shapero to take over the business social network and lowered Xbox Game Pass subscription prices.",
-              "Microsoft said in January that around 45% of its $625 billion in commercial remaining performance obligations were tied to OpenAI.",
-              "Microsoft shares rose in extended trading on Wednesday after the software maker disclosed strong fiscal fourth-quarter revenue.",
-              "Here's how the company did relative to LSEG consensus: Microsoft's revenue grew about 18% year over year in the quarter, which ended on June 30, according to a statement .",
-              "Meanwhile, Microsoft is confronting \"some concentration risk\" with its OpenAI relationship, especially with the ascent of open-source models, Deutsche Bank analysts, who recommend buying Microsoft stock, said in a note last week.",
-              "Microsoft cited a $3.2 billion gain from its investment in artificial intelligence lab Anthropic and lower-than-expected costs tied to its first-ever voluntary retirement program .",
-              "Andrew Jackson, head of equity strategy at Ortus Advisors, said Microsoft's stronger-than-expected quarterly results \"sparked a huge rebound for risk-on and AI,\" helping reverse the recent sell-off in technology stocks.",
-              "The digital commerce company debuted Luna in 2020, three years after Microsoft had introduced Game Pass, and one year after cloud challenger Google revealed its own cloud streaming option, Stadia ."
-            ],
-            "AMZN": [
-              "Amazon's gaming head, Jeff Gattis, told CNBC in an interview that the company doesn't aim to lure hardcore gamers or compete with console makers.",
-              "Amazon entered the cloud gaming market during the Covid pandemic, as gaming was gaining popularity with people spending more time at home.",
-              "Amazon has recently shut down or offloaded several of its titles, including its massively multiplayer online games \"New World\" and a planned Lord of the Rings project.",
-              "Amazon , meanwhile, announced plans to add the Luna cloud gaming service to its Prime Video streaming platform.",
-              "Amazon is working to fix an awareness gap among consumers who may not know about or understand its gaming strategy, Gattis said."
-            ],
-            "EA": [
-              "Publishers Electronic Arts and Take-Two Interactive have experimented with ads and quickly backpedaled in response to criticism ."
-            ],
-            "GOOG": [
-              "The digital commerce company debuted Luna in 2020, three years after Microsoft had introduced Game Pass, and one year after cloud challenger Google revealed its own cloud streaming option, Stadia ."
-            ],
-            "MCD": [
-              "In 2024, some players complained about a McDonald's ad appearing on a screen for selecting games."
-            ],
-            "META": [
-              "Since Meta executive Asha Sharma replaced Phil Spencer in February as Xbox CEO, she has appointed new leaders , touted a forthcoming console , pushed for exclusive games and dropped subscription prices ."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 11
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 5
-            },
-            {
-              "ticker": "EA",
-              "name": "Electronic Arts",
-              "count": 1
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "MCD",
-              "name": "McDonald's",
-              "count": 1
-            },
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "EA": "Electronic Arts’ experimentation with advertising has prompted a swift retreat following negative feedback.",
-            "GOOG": "Alphabet debuted Luna and Stadia, attempting to compete with Microsoft’s Game Pass in the cloud gaming market.",
-            "MCD": "McDonald’s ad appearing on gaming screens suggests a business impact related to cloud gaming & entertainment inflation.",
-            "META": "Meta Platforms’ executive appointment signals a shift toward prioritizing cloud gaming and entertainment content.",
-            "MSFT": "Microsoft’s gaming business is diminishing, prompting strategic shifts and a reliance on AI investments to offset concentration risk.",
-            "AMZN": "Amazon.com is attempting to integrate cloud gaming into Prime Video, despite shutting down previous gaming titles."
-          }
-        },
-        {
-          "cluster_id": 52,
-          "name": "AI infrastructure debt surge",
-          "summary": "The tech industry's massive AI spending is driving unprecedented debt and capex growth, straining balance sheets and raising concerns over sustainability and return on investment.",
-          "count": 4,
-          "children": [
-            {
-              "name": "Dwindling cash and soaring memory costs: Tech's ballooning AI buildout",
-              "summary": "Almost four years into the artificial intelligence boom, the world's biggest tech companies are still making grand promises about the future.",
-              "hash": "98891210464e6167",
-              "chunk_key": "98891210464e6167_c000",
-              "article_date": "2026-07-30 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Moody's says AI spending threatens credit quality of Amazon, Meta, Alphabet",
-              "summary": "The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers,…",
-              "hash": "92c6e44a4fba945a",
-              "chunk_key": "92c6e44a4fba945a_c000",
-              "article_date": "2026-07-23 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Bond market anxiety is growing over AI capex budgets",
-              "summary": "Investors are getting increasingly uncomfortable with the amount of capital needed to make the artificial intelligence buildout a reality.",
-              "hash": "cb495d8c63c15a67",
-              "chunk_key": "cb495d8c63c15a67_c000",
-              "article_date": "2026-07-23 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
-              "summary": "The Pentagon on Thursday announced a contract with Oracle worth almost $7 billion over a decade, a big win for the software maker, which has been punished by investors this year.",
-              "hash": "65ae2851f5eb1f19",
-              "chunk_key": "65ae2851f5eb1f19_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "ORCL": [
-              "The Pentagon on Thursday announced a contract with Oracle worth almost $7 billion over a decade, a big win for the software maker, which has been punished by investors this year.",
-              "The contract covers the use of Oracle software in on-premises data centers for branches of the military, the U.S. intelligence community and the Coast Guard, according to a statement.",
-              "Kirsten Davies, the Department of Defense's chief information officer, said in the release that the agency is saving at least $441 million for taxpayers \"by fundamentally improving how we procure on-premises Oracle capabilities.\"",
-              "Oracle co-founder Larry Ellison has long been a supporter of President Donald Trump, reportedly contributing $45 million to a nonprofit backing Trump's 2024 presidential campaign.",
-              "Ellison was among the first guests to appear in the White House during Trump's second term, announcing plans for Stargate artificial intelligence data centers in the U.S. Trump supported Oracle taking a stake in TikTok's U.S. business, and in May, the Defense Department announced agreements with Oracle and other tech companies around AI deployments in classified networks.",
-              "Still, Oracle shares are down 38% this year, as investors have grown concerned that AI could hurt growth prospects for software incumbents.",
-              "Oracle said in June that quarterly software revenue declined 2% from a year earlier, though the company's database software is widely used inside large companies.",
-              "Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status.",
-              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
-              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture.",
-              "Yet executives at the company remain confident in Oracle's ability to win the AI race.",
-              "Oracle is facing questions from investors about how active it plans to be in the debt market in the coming years, as the buildout and leasing of data centers continue to become more capital intensive."
-            ],
-            "AMZN": [
-              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
-              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.",
-              "Amazon boosted its capital spending forecast for the year on Thursday to $220 billion, the highest among the four hyperscalers.",
-              "Amazon also reported negative free cash flow for the trailing 12 months of $7.6 billion, a day after Meta disclosed a 91% drop in cash generation from a year earlier.",
-              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies."
-            ],
-            "META": [
-              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
-              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.",
-              "Amazon also reported negative free cash flow for the trailing 12 months of $7.6 billion, a day after Meta disclosed a 91% drop in cash generation from a year earlier.",
-              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies.",
-              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture.",
-              "Meta is looking to finance its $12 billion Texas data center with pricing expected to be finalized early next week, according to a source familiar with the talks, who asked not to be named in order to discuss the company's plans."
-            ],
-            "MSFT": [
-              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
-              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat."
-            ],
-            "MCO": [
-              "The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said.",
-              "Moody's said that lease commitments across the group have ballooned to $1.2 trillion.",
-              "While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line.",
-              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.",
-              "In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions."
-            ],
-            "GS": [
-              "AI spending among the megacaps is projected to reach $765 billion this year, before rising to nearly $1.2 trillion in 2027, according to Goldman Sachs ."
-            ],
-            "GOOG": [
-              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies."
-            ],
-            "NVDA": [
-              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "ORCL",
-              "name": "Oracle",
-              "count": 12
-            },
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 6
-            },
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 5
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 2
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 1
-            },
-            {
-              "ticker": "NVDA",
-              "name": "Nvidia",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "ORCL": "Oracle’s shares are down, and Moody’s reports that the company’s credit quality is threatened by a surge in AI infrastructure debt.",
-            "AMZN": "Amazon.com is seeing credit spreads widen as fixed-income investors demand more reward to lend to the company’s debt.",
-            "META": "Meta is seeing credit spreads widen as fixed-income investors demand more reward to lend to the company due to its infrastructure debt.",
-            "MSFT": "Microsoft is cited as a company whose strong balance sheet mitigates the threat of increased debt related to AI infrastructure.",
-            "GOOG": "Alphabet is experiencing wider credit spreads due to increased debt related to AI infrastructure.",
-            "NVDA": "Nvidia’s expanding partnerships with OpenAI and hyperscalers suggest a surge in infrastructure debt."
-          }
-        },
-        {
-          "cluster_id": 55,
-          "name": "AI-driven cloud expansion",
-          "summary": "Amazon and its peers are scaling AI infrastructure and cloud services, driving massive capital spending and revenue growth despite concerns over profitability and market returns.",
-          "count": 4,
-          "children": [
-            {
-              "name": "Dwindling cash and soaring memory costs: Tech's ballooning AI buildout",
-              "summary": "…revenue growth dramatic, but the profitability is rising,\" Mark Mahaney , an analyst at Evercore ISI, told CNBC's \"Closing Bell: Overtime\" after the report.",
-              "hash": "98891210464e6167",
-              "chunk_key": "98891210464e6167_c003",
-              "article_date": "2026-07-30 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Amazon's AWS posts fastest growth since 2021, citing AI and chip demand",
-              "summary": "Amazon's cloud segment grew faster than analysts had predicted in the second quarter, with revenue increasing almost 37%, marking the strongest expansion since 2021.",
-              "hash": "d2d22f2e8a511035",
-              "chunk_key": "d2d22f2e8a511035_c000",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-              "summary": "…in Amazon's cloud segment expanded 37% year over year during the quarter, surpassing Wall Street's expectations for 31% growth.",
-              "hash": "992b60b6c46e8593",
-              "chunk_key": "992b60b6c46e8593_c001",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Google's Kurian says cloud customers are spending 50% more",
-              "summary": "Google 's cloud chief Thomas Kurian said the company's existing customers are shelling out \"roughly 50% more\" than they've already committed to spend on its products, which helped …",
-              "hash": "224af4ee7d39bf4d",
-              "chunk_key": "224af4ee7d39bf4d_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "GOOG": [
-              "Google 's cloud chief Thomas Kurian said the company's existing customers are shelling out \"roughly 50% more\" than they've already committed to spend on its products, which helped drive its red-hot cloud growth during the second quarter.",
-              "Following Alphabet's results, it was \"although hard to see anyone matching GOOGL's pace of sequential dollar revenue growth, which raises the possibility of share shifts that could be a modest investor concern,\" Evercore analysts Mark Mahaney and Greg Melich wrote in a Monday note."
-            ],
-            "AMZN": [
-              "Wedbush analysts said in a Friday note that Amazon's report was the \"cleanest beat\" among the hyperscalers it covers, while management offered the clearest explanation of how it will achieve returns on its capex spend.",
-              "Amazon said it more than doubled the number of new customers for its online pharmacy service, and grew same-day prescription deliveries \"nearly 5x.\"",
-              "Amazon has increasingly looked to highlight its in-house chips division, which includes the Trainium and Graviton brands, as a newer growth pillar for the company.",
-              "Here's how the company did, compared with estimates from analysts polled by LSEG: Wall Street was also looking at other key revenue numbers: Amazon said it expects to spend even more on AI, with capital expenditures projected to hit $220 billion this year, CEO Andy Jassy said on a conference call with investors.",
-              "Amazon reported surging cloud growth during the second quarter, pointing to strong artificial intelligence demand, and the company boosted its capital spending forecast for the year.",
-              "Like its peers, Amazon has been racing to open data centers full of artificial intelligence chips that customers demand.",
-              "Amazon remains a larger force in cloud computing than any other company."
-            ],
-            "MU": [
-              "But across the megacap landscape, none of the stocks — unless you include Micron — are having breakout years, despite healthy revenue growth."
-            ],
-            "META": [
-              "In the second quarter, AWS said that it would start to host OpenAI models and that Meta would use hundreds of thousands of its Graviton chips in a three-year deal."
-            ],
-            "MSFT": [
-              "Microsoft said Wednesday that revenue from Azure and other cloud services were growing 43% , compared with 40% in the March quarter."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "AMZN",
-              "name": "Amazon.com",
-              "count": 7
-            },
-            {
-              "ticker": "GOOG",
-              "name": "Alphabet",
-              "count": 2
-            },
-            {
-              "ticker": "MU",
-              "name": "Micron Technology",
-              "count": 1
-            },
-            {
-              "ticker": "META",
-              "name": "Meta Platforms",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "MU": "Micron Technology is the only publicly traded stock among megacaps experiencing breakout revenue growth related to AI-driven cloud expansion.",
-            "META": "Meta Platforms will utilize its Graviton chips and host OpenAI models within a three-year agreement.",
-            "GOOG": "Alphabet’s cloud revenue is growing rapidly, potentially leading to modest investor concerns due to possible share shifts.",
-            "AMZN": "Amazon.com is increasing capital spending on AI and expects surging cloud growth due to strong artificial intelligence demand."
+            "SKHY": "SK Hynix benefits from the AI boom through increased demand for memory chips and data center infrastructure.",
+            "SNDK": "Sandisk is positioned to benefit from the AI boom due to demand for memory chips and data center infrastructure.",
+            "AMZN": "Amazon.com is investing heavily in AI capital expenditures alongside other hyperscalers.",
+            "META": "Meta Platforms is investing heavily in AI capital expenditures alongside other hyperscalers."
           }
         },
         {
@@ -838,15 +469,273 @@
             }
           ],
           "ticker_summary": {
-            "AMD": "Advanced Micro Devices has entered into agreements related to AI infrastructure expansion with SpaceX, Google, and Broadcom.",
-            "AVGO": "Broadcom has expanded its AI infrastructure business through agreements with Advanced Micro Devices, SpaceX, and Google.",
-            "GOOG": "Alphabet is investing heavily in AI infrastructure through partnerships and direct investments in AI labs and companies.",
-            "MS": "Morgan Stanley is leading a $15 billion loan to expand AI infrastructure for Anthropic, a project facilitated by Nexus Data Centers.",
             "AMZN": "Amazon.com is not a thriving cloud-computing business like Alphabet and Microsoft, unlike Meta.",
             "META": "Meta Platforms’ investments in AI infrastructure are significantly impacting its free cash flow and driving substantial costs.",
             "MSFT": "Microsoft is poised to report earnings alongside Meta, reflecting its expansion within AI infrastructure.",
+            "AMD": "Advanced Micro Devices has entered into agreements related to AI infrastructure expansion with SpaceX, Google, and Broadcom.",
+            "AVGO": "Broadcom has expanded its AI infrastructure business through agreements with Advanced Micro Devices, SpaceX, and Google.",
             "TSLA": "Tesla has entered into agreements with Advanced Micro Devices, SpaceX, Google, and Broadcom regarding AI infrastructure expansion.",
+            "GOOG": "Alphabet is investing heavily in AI infrastructure through partnerships and direct investments in AI labs and companies.",
+            "MS": "Morgan Stanley is leading a $15 billion loan to expand AI infrastructure for Anthropic, a project facilitated by Nexus Data Centers.",
             "SPCX": "Space Exploration Technologies has entered into agreements with AMD, Google, and Broadcom regarding AI infrastructure expansion."
+          }
+        },
+        {
+          "cluster_id": 29,
+          "name": "Cloud gaming & entertainment inflation",
+          "summary": "Rising costs and streaming fatigue are driving consumers toward ad-supported, cloud-based gaming and home entertainment alternatives.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo",
+              "summary": "…game and network services in the latest fiscal year, while Nintendo's approached 16% .",
+              "hash": "42c323de26c27d40",
+              "chunk_key": "42c323de26c27d40_c001",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+              "summary": "…Microsoft had rallied 16% during Thursday's regular session after reporting faster-than-expected Azure cloud growth, reinforcing confidence that AI infrastructure spending remains …",
+              "hash": "8b03ba9aca72148f",
+              "chunk_key": "8b03ba9aca72148f_c001",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Microsoft beats cloud expectations as full-year Azure revenue tops $100 billion",
+              "summary": "At that size, the business trails Amazon Web Services while remaining larger than Alphabet's Google Cloud.",
+              "hash": "64819d4faa6f458e",
+              "chunk_key": "64819d4faa6f458e_c002",
+              "article_date": "2026-07-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "MSFT": [
+              "D.A. Davidson's Gil Luria on Microsoft layoffs: Gaming business has become 'almost irrelevant'",
+              "Microsoft CEO Satya Nadella told analysts on the software maker's Wednesday earnings call that in gaming, the company is \"making the necessary decisions required across our content portfolio, platform and operations to reset the business for long-term growth.\"",
+              "Microsoft placed a giant bet on gaming with the $75.4 billion acquisition of Call of Duty publisher Activision Blizzard in 2023.",
+              "Microsoft shares rose in extended trading on Wednesday after the software maker disclosed strong fiscal fourth-quarter revenue.",
+              "During the fiscal fourth quarter, Microsoft introduced a cost-efficient AI coding model , picked LinkedIn executive Dan Shapero to take over the business social network and lowered Xbox Game Pass subscription prices.",
+              "Microsoft cited a $3.2 billion gain from its investment in artificial intelligence lab Anthropic and lower-than-expected costs tied to its first-ever voluntary retirement program .",
+              "Microsoft said in January that around 45% of its $625 billion in commercial remaining performance obligations were tied to OpenAI.",
+              "Meanwhile, Microsoft is confronting \"some concentration risk\" with its OpenAI relationship, especially with the ascent of open-source models, Deutsche Bank analysts, who recommend buying Microsoft stock, said in a note last week.",
+              "Here's how the company did relative to LSEG consensus: Microsoft's revenue grew about 18% year over year in the quarter, which ended on June 30, according to a statement .",
+              "Andrew Jackson, head of equity strategy at Ortus Advisors, said Microsoft's stronger-than-expected quarterly results \"sparked a huge rebound for risk-on and AI,\" helping reverse the recent sell-off in technology stocks."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 10
+            }
+          ],
+          "ticker_summary": {
+            "MSFT": "Microsoft’s gaming business is diminishing, prompting strategic shifts and a reliance on AI investments to offset concentration risk with OpenAI."
+          }
+        },
+        {
+          "cluster_id": 52,
+          "name": "AI infrastructure debt surge",
+          "summary": "The tech industry's massive AI spending is driving unprecedented debt and capex growth, straining balance sheets and raising concerns over sustainability and return on investment.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Dwindling cash and soaring memory costs: Tech's ballooning AI buildout",
+              "summary": "Almost four years into the artificial intelligence boom, the world's biggest tech companies are still making grand promises about the future.",
+              "hash": "98891210464e6167",
+              "chunk_key": "98891210464e6167_c000",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Moody's says AI spending threatens credit quality of Amazon, Meta, Alphabet",
+              "summary": "The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers,…",
+              "hash": "92c6e44a4fba945a",
+              "chunk_key": "92c6e44a4fba945a_c000",
+              "article_date": "2026-07-23 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Bond market anxiety is growing over AI capex budgets",
+              "summary": "Investors are getting increasingly uncomfortable with the amount of capital needed to make the artificial intelligence buildout a reality.",
+              "hash": "cb495d8c63c15a67",
+              "chunk_key": "cb495d8c63c15a67_c000",
+              "article_date": "2026-07-23 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AMZN": [
+              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
+              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.",
+              "Amazon also reported negative free cash flow for the trailing 12 months of $7.6 billion, a day after Meta disclosed a 91% drop in cash generation from a year earlier.",
+              "Amazon boosted its capital spending forecast for the year on Thursday to $220 billion, the highest among the four hyperscalers.",
+              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies."
+            ],
+            "META": [
+              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.",
+              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
+              "Amazon also reported negative free cash flow for the trailing 12 months of $7.6 billion, a day after Meta disclosed a 91% drop in cash generation from a year earlier.",
+              "Meta is looking to finance its $12 billion Texas data center with pricing expected to be finalized early next week, according to a source familiar with the talks, who asked not to be named in order to discuss the company's plans.",
+              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture.",
+              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies."
+            ],
+            "MSFT": [
+              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
+              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat."
+            ],
+            "MCO": [
+              "In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions.",
+              "The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said.",
+              "Moody's said that lease commitments across the group have ballooned to $1.2 trillion.",
+              "While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line.",
+              "Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat."
+            ],
+            "ORCL": [
+              "Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status.",
+              "The moves \"threaten credit quality\" for the six companies tracked by Moody's, which include Microsoft, Amazon , Alphabet, Meta, Oracle and CoreWeave, according to the report.",
+              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture.",
+              "Yet executives at the company remain confident in Oracle's ability to win the AI race.",
+              "Oracle is facing questions from investors about how active it plans to be in the debt market in the coming years, as the buildout and leasing of data centers continue to become more capital intensive."
+            ],
+            "GS": [
+              "AI spending among the megacaps is projected to reach $765 billion this year, before rising to nearly $1.2 trillion in 2027, according to Goldman Sachs ."
+            ],
+            "GOOG": [
+              "It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google , Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies."
+            ],
+            "NVDA": [
+              "The company has a growing relationship with OpenAI and hyperscalers like Meta and Nvidia , which are also working with Oracle on cloud architecture."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 6
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 5
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 2
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "NVDA",
+              "name": "Nvidia",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "AMZN": "Amazon.com is seeing credit spreads widen as fixed-income investors demand more reward to lend to the company’s debt.",
+            "META": "Meta is seeing credit spreads widen as fixed-income investors demand more reward to lend to the company due to its infrastructure debt.",
+            "MSFT": "Microsoft is cited as a company whose strong balance sheet mitigates the threat of increased debt related to AI infrastructure.",
+            "GOOG": "Alphabet is experiencing wider credit spreads due to increased debt related to AI infrastructure.",
+            "NVDA": "Nvidia’s expanding partnerships with OpenAI and hyperscalers suggest a surge in infrastructure debt."
+          }
+        },
+        {
+          "cluster_id": 55,
+          "name": "AI-driven cloud expansion",
+          "summary": "Amazon and its peers are scaling AI infrastructure and cloud services, driving massive capital spending and revenue growth despite concerns over profitability and market returns.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Dwindling cash and soaring memory costs: Tech's ballooning AI buildout",
+              "summary": "…revenue growth dramatic, but the profitability is rising,\" Mark Mahaney , an analyst at Evercore ISI, told CNBC's \"Closing Bell: Overtime\" after the report.",
+              "hash": "98891210464e6167",
+              "chunk_key": "98891210464e6167_c003",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Amazon's AWS posts fastest growth since 2021, citing AI and chip demand",
+              "summary": "Amazon's cloud segment grew faster than analysts had predicted in the second quarter, with revenue increasing almost 37%, marking the strongest expansion since 2021.",
+              "hash": "d2d22f2e8a511035",
+              "chunk_key": "d2d22f2e8a511035_c000",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+              "summary": "…in Amazon's cloud segment expanded 37% year over year during the quarter, surpassing Wall Street's expectations for 31% growth.",
+              "hash": "992b60b6c46e8593",
+              "chunk_key": "992b60b6c46e8593_c001",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "AMZN": [
+              "Wedbush analysts said in a Friday note that Amazon's report was the \"cleanest beat\" among the hyperscalers it covers, while management offered the clearest explanation of how it will achieve returns on its capex spend.",
+              "Amazon has increasingly looked to highlight its in-house chips division, which includes the Trainium and Graviton brands, as a newer growth pillar for the company.",
+              "Amazon said it more than doubled the number of new customers for its online pharmacy service, and grew same-day prescription deliveries \"nearly 5x.\"",
+              "Here's how the company did, compared with estimates from analysts polled by LSEG: Wall Street was also looking at other key revenue numbers: Amazon said it expects to spend even more on AI, with capital expenditures projected to hit $220 billion this year, CEO Andy Jassy said on a conference call with investors.",
+              "Amazon reported surging cloud growth during the second quarter, pointing to strong artificial intelligence demand, and the company boosted its capital spending forecast for the year.",
+              "Amazon remains a larger force in cloud computing than any other company.",
+              "Like its peers, Amazon has been racing to open data centers full of artificial intelligence chips that customers demand."
+            ],
+            "MU": [
+              "But across the megacap landscape, none of the stocks — unless you include Micron — are having breakout years, despite healthy revenue growth."
+            ],
+            "GOOG": [
+              "Following Alphabet's results, it was \"although hard to see anyone matching GOOGL's pace of sequential dollar revenue growth, which raises the possibility of share shifts that could be a modest investor concern,\" Evercore analysts Mark Mahaney and Greg Melich wrote in a Monday note."
+            ],
+            "META": [
+              "In the second quarter, AWS said that it would start to host OpenAI models and that Meta would use hundreds of thousands of its Graviton chips in a three-year deal."
+            ],
+            "MSFT": [
+              "Microsoft said Wednesday that revenue from Azure and other cloud services were growing 43% , compared with 40% in the March quarter."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 7
+            },
+            {
+              "ticker": "MU",
+              "name": "Micron Technology",
+              "count": 1
+            },
+            {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 1
+            },
+            {
+              "ticker": "META",
+              "name": "Meta Platforms",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "AMZN": "Amazon.com is increasing capital spending on AI and expects surging cloud growth due to strong artificial intelligence demand.",
+            "MU": "Micron Technology is the only publicly traded stock among megacaps experiencing breakout revenue growth related to AI-driven cloud expansion.",
+            "META": "Meta Platforms will utilize its Graviton chips and host OpenAI models within a three-year agreement.",
+            "GOOG": "Alphabet’s rapid revenue growth suggests potential investor concern due to possible share shifts."
           }
         },
         {
@@ -920,8 +809,8 @@
             }
           ],
           "ticker_summary": {
-            "META": "Meta is investing heavily in capital expenditures while revenue increases, suggesting a shift in resource allocation.",
             "GOOG": "Alphabet’s search-derived traffic is facing uncertainty due to Google’s AI Overviews.",
+            "META": "Meta is investing heavily in capital expenditures while revenue increases, suggesting a shift in resource allocation.",
             "RDDT": "Reddit’s shares sank as investors worry about declining search referrals from Google due to AI Overviews."
           }
         },
@@ -929,7 +818,7 @@
           "cluster_id": 57,
           "name": "AI chip market competition",
           "summary": "AMD and Nvidia compete in AI-driven data center chips, with AMD launching Helios and Nvidia's Vera CPU to challenge existing market dominance.",
-          "count": 2,
+          "count": 1,
           "children": [
             {
               "name": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
@@ -939,26 +828,17 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Cerebras stock gains on AMD partnership",
-              "summary": "…After going public at $185, the stock shot up as high as $386.34 in its debut before falling below $161 in late June. With Thursday's pop, the shares are trading at $220.",
-              "hash": "1d5b4a75e97259dd",
-              "chunk_key": "1d5b4a75e97259dd_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "NVDA": [
+              "Nvidia said it's secured AI memory supply from South Korea's SK Hynix , as the chipmaker tries to lock in a key component for its advanced processors and systems.",
+              "The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said.",
               "SK Hynix affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems.",
               "Nvidia said it's targeting enough capacity to require 2 gigawatts of power, which indicates a massive buildout with hundreds of thousands of graphics processing units.",
               "Nvidia is aggressively securing supply of high-bandwidth memory, which is essential for its GPUs and systems, as the AI boom has created a global memory shortage.",
               "\"The expansion will include a co-develop opportunity for us on the next-generation SK Hynix AI memory, and this will help us secure a stable supply of HBM memory,\" Raj Mirpuri, Nvidia enterprise vice president, said on a call with reporters.",
-              "Nvidia said it's secured AI memory supply from South Korea's SK Hynix , as the chipmaker tries to lock in a key component for its advanced processors and systems.",
-              "Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs.",
-              "The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said."
+              "Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs."
             ],
             "SKHY": [
               "Nvidia said it's secured AI memory supply from South Korea's SK Hynix , as the chipmaker tries to lock in a key component for its advanced processors and systems.",
@@ -979,15 +859,15 @@
             }
           ],
           "ticker_summary": {
-            "SKHY": "SK Hynix will secure a stable supply of HBM memory through co-development with Nvidia.",
-            "NVDA": "Nvidia is securing AI memory supply and investing in data centers to meet growing demand for its GPUs."
+            "NVDA": "Nvidia is securing AI memory supply and investing in data centers to meet growing demand for its GPUs.",
+            "SKHY": "SK Hynix will secure a stable supply of HBM memory through co-development with Nvidia."
           }
         }
       ]
     },
     {
       "name": "AI Society Impact",
-      "count": 17,
+      "count": 18,
       "children": [
         {
           "cluster_id": 44,
@@ -1018,6 +898,15 @@
               "summary": "…exact capabilities that will shape the future of cybersecurity,\" Andrew Garbarino, chairman of the House Committee on Homeland Security, previously told CNBC.",
               "hash": "3a18f987585813c3",
               "chunk_key": "3a18f987585813c3_c002",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings",
+              "summary": "For months, cybersecurity leaders warned that artificial intelligence would reshape the threat landscape, compressing weeks- and dayslong cyberattacks into a matter of minutes.",
+              "hash": "580572019e9afac7",
+              "chunk_key": "580572019e9afac7_c000",
               "article_date": "2026-07-30 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -1111,15 +1000,6 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-              "summary": "Rep. Ted Lieu, D-Calif., and Rep. Nathaniel Moran, R-Texas, on Thursday introduced a bill called the \"AI Kill Switch Act,\" which would require artificial intelligence companies to …",
-              "hash": "1b78863513ace6cf",
-              "chunk_key": "1b78863513ace6cf_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -1131,8 +1011,8 @@
               "Google's government affairs vice president, Wilson L. White, only made passing references to Gemini in a speech on July 24, while Tencent Vice President Cai Guangzhong took the stage after White to emphasize growing adoption of its Hunyuan LLM and a cloud project in Thailand."
             ],
             "MSFT": [
-              "It's also working to fend off competition from Chinese startups and tech giants Google and Microsoft , which have been touting cost-effective models.",
               "Microsoft CEO Satya Nadella repeatedly highlighted his company's cost-effective models during its quarterly earnings call with investors on Wednesday, following the launch of what it described as a cheap-but-performant cybersecurity model earlier this week.",
+              "It's also working to fend off competition from Chinese startups and tech giants Google and Microsoft , which have been touting cost-effective models.",
               "Officials and executives have been weighing whether or not to limit access to Chinese models in the U.S., which prompted a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , to release a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models.",
               "Microsoft, Meta and other major technology companies signed it.",
               "Microsoft , Meta , Palantir and dozens of other companies signed the letter.",
@@ -1146,8 +1026,8 @@
               "U.S. lawmakers have requested information from food delivery company DoorDash on its use of Chinese artificial intelligence models, CNBC has learned, as scrutiny around American businesses' use of systems developed by China ramps up.",
               "In a letter obtained by CNBC, the chairmen of two House committees conducting a joint investigation into security implications of U.S. companies using Chinese AI models asked DoorDash to share \"information and documents\" relating to its evaluation and deployment of AI systems from China.",
               "\"DoorDash proudly supports American AI leadership and is working to ensure AI benefits Main Street, not just the biggest companies,\" a DoorDash spokesperson told CNBC.",
-              "The letter cited a post on X by DoorDash founder Andy Fang that details how the company is delegating lower-level AI work to Chinese AI model Kimi K2.6, which is developed by Moonshot AI.",
-              "DoorDash's AI research lab had said on X that it had seen Kimi K2.6 and Anthropic's Fable 5 vastly outperform other Anthropic models it had used, including \"Sonnet 4.6 and Opus 4.8 harness at a cheaper cost.\""
+              "DoorDash's AI research lab had said on X that it had seen Kimi K2.6 and Anthropic's Fable 5 vastly outperform other Anthropic models it had used, including \"Sonnet 4.6 and Opus 4.8 harness at a cheaper cost.\"",
+              "The letter cited a post on X by DoorDash founder Andy Fang that details how the company is delegating lower-level AI work to Chinese AI model Kimi K2.6, which is developed by Moonshot AI."
             ],
             "AMZN": [
               "OpenAI kick-started the AI boom with the launch of its ChatGPT chatbot in 2022, and has been racing to secure the computing power it deems necessary to meet future demand for its models and services as it faces heightened competition from the likes of Anthropic , Google , Amazon and Meta .",
@@ -1162,14 +1042,17 @@
             ],
             "NVDA": [
               "In September, Nvidia said it would invest up to $100 billion in OpenAI as part of a strategic partnership where the company would deploy at least 10 gigawatts of Nvidia systems.",
-              "That investment never materialized, though Nvidia contributed $30 billion to the record-breaking funding round that OpenAI closed in March.",
               "Nvidia CEO Jensen Huang said it \" might be the last time \" the company invests in OpenAI before it goes public.",
+              "That investment never materialized, though Nvidia contributed $30 billion to the record-breaking funding round that OpenAI closed in March.",
               "OpenAI is in discussions with Nvidia about a backstop of up to $250 billion that would help fund its ambitious plans to lease a massive new artificial intelligence data center, CNBC confirmed.",
               "The backstop would let OpenAI raise debt for a 10-gigawatt data center campus in Pike County, Ohio , on the strength of Nvidia's credit, according to a person familiar with the discussions who asked not to be named because the details are confidential.",
               "Officials and executives have been weighing whether or not to limit access to Chinese models in the U.S., which prompted a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , to release a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models.",
               "Last week, a coalition led by Nvidia published an open letter arguing that America's AI leadership will depend on building a strong open ecosystem.",
               "OpenAI CEO Sam Altman and Nvidia 's Jensen Huang were among tech leaders who met with lawmakers and Trump administration officials in Washington, D.C., this week, all trying to influence upcoming decisions.",
               "Nvidia , Microsoft , Meta , Palantir and more than 20 other companies released a letter Friday urging policymakers to avoid \"premature restrictions\" on open-weight artificial intelligence models that would \"stifle competition or drive innovation overseas.\""
+            ],
+            "PANW": [
+              "At the time, Palo Alto Networks ' product and technology chief Lee Klarich warned that AI-driven exploits would soon become the new norm and businesses had a three-to-five-month window to outpace their foes."
             ],
             "PLTR": [
               "Officials and executives have been weighing whether or not to limit access to Chinese models in the U.S., which prompted a coalition of tech companies, including Nvidia , Microsoft , Meta and Palantir , to release a letter on Friday urging policymakers to avoid \"premature restrictions\" on open-weight models.",
@@ -1229,15 +1112,16 @@
             }
           ],
           "ticker_summary": {
+            "GOOG": "Alphabet is facing heightened competition in AI from various companies, including Microsoft, Amazon, and Chinese startups.",
             "MSFT": "Microsoft is facing competition in AI and cybersecurity, leading to a coalition urging policymakers to avoid restrictions on open-weight models.",
             "COIN": "Coinbase is leveraging Chinese AI models to lower costs, a trend highlighted by its CEO.",
             "DASH": "DoorDash is facing congressional scrutiny regarding its use of Chinese AI models and its evaluation of AI systems.",
-            "NVDA": "Nvidia is involved in discussions about providing a credit backstop for OpenAI’s data center plans and advocating for an open AI ecosystem.",
-            "PLTR": "Palantir is included in a coalition of tech companies urging policymakers to avoid restrictions on AI models.",
-            "NYT": "The New York Times’ allies are lobbying for restrictions on open-weight models amid AI competition and cybersecurity concerns.",
-            "GOOG": "Alphabet is facing heightened competition in AI from various companies, including Microsoft, Amazon, and Chinese startups.",
             "AMZN": "Amazon is facing heightened competition in the AI space, seeking computing power to meet growing demand.",
             "META": "Meta is facing heightened competition in AI and is part of a coalition urging policymakers to avoid restrictions on open-weight models.",
+            "NVDA": "Nvidia is involved in discussions about providing a credit backstop for OpenAI’s data center plans and advocating for an open AI ecosystem.",
+            "PANW": "Palo Alto Networks anticipates a growing need to respond to AI-driven cyberattacks within a three-to-five-month timeframe.",
+            "PLTR": "Palantir is included in a coalition of tech companies urging policymakers to avoid restrictions on AI models.",
+            "NYT": "The New York Times’ allies are lobbying for restrictions on open-weight models amid AI competition and cybersecurity concerns.",
             "TSLA": "Tesla’s Elon Musk, through his SpaceX company, supports the AI competition and cybersecurity topic.",
             "SPCX": "Space Exploration Technologies’ Elon Musk supports the AI letter through his social media platform, X."
           }
@@ -1246,8 +1130,17 @@
           "cluster_id": 66,
           "name": "AI equity and public control",
           "summary": "The articles explore growing public and policy demands for equitable AI development, including shared ownership, data compensation, and democratic governance to counterbalance corporate dominance and ensure broader societal benefits.",
-          "count": 3,
+          "count": 4,
           "children": [
+            {
+              "name": "Within Uber-Waymo split, there's a key labor battle over AVs in Washington, D.C.",
+              "summary": "…of companies like Waymo, giving them no choice but to turn to human drivers in order to stay afloat in local markets.",
+              "hash": "120fa83207729e91",
+              "chunk_key": "120fa83207729e91_c004",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Op-ed: Over 2,000 proposals target AI. None address long-term regulatory needs",
               "summary": "Every several weeks, we hear reports of mind-expanding new capabilities from the AI community.",
@@ -1277,6 +1170,10 @@
             }
           ],
           "ticker_context": {
+            "UBER": [
+              "\"It is dishonest and disrespectful that these multibillion-dollar corporations are denying workers much-needed benefits so they can skip out on taxes and make workers and taxpayers foot their bill,\" said Teamsters President Sean O'Brien in a statement ripping Uber by name once the approved measure cleared its final legal hurdles.",
+              "Following the enactment of statewide legislation that would have classified app-based drivers as employees rather than independent contractors, Uber spent over $59 million — the single largest donation on either side — lobbying for Prop. 22, a ballot measure that sought to overturn the statute."
+            ],
             "TSLA": [
               "While the idea of a universal basic income — or a \" universal high income \" program as Elon Musk calls it — to combat mass unemployment has been bandied about for years, there is a simpler labor market mechanism for distributing future economic efficiencies created by AI that already has a global precedent."
             ],
@@ -1291,6 +1188,11 @@
             ]
           },
           "related_tickers": [
+            {
+              "ticker": "UBER",
+              "name": "Uber Technologies",
+              "count": 2
+            },
             {
               "ticker": "TSLA",
               "name": "Tesla",
@@ -1313,6 +1215,7 @@
             }
           ],
           "ticker_summary": {
+            "UBER": "Uber Technologies spent $59 million lobbying to prevent driver classification as employees, facing criticism for denying worker benefits.",
             "TSLA": "Tesla is invoked as a past precedent for AI equity and public control.",
             "MSFT": "Microsoft’s researcher argues against government control of companies within the AI equity discussion.",
             "ORCL": "Oracle is cited as a historical comparison for OpenAI as they both seek political cover regarding grid changes.",
@@ -1329,7 +1232,7 @@
           "cluster_id": 1,
           "name": "Premium film experience demand",
           "summary": "A surge in demand for premium large-format screenings, especially IMAX 70mm, is driving box office performance and investor confidence in Imax, fueled by Christopher Nolan's \"The Odyssey\" and its cultural impact.",
-          "count": 4,
+          "count": 3,
           "children": [
             {
               "name": "'Spider-Man: Brand New Day' sets domestic box office preview record with $72M",
@@ -1355,15 +1258,6 @@
               "hash": "cb08628ae24a8bf1",
               "chunk_key": "cb08628ae24a8bf1_c004",
               "article_date": "2026-07-24 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "'The Odyssey' is cleaning up for Imax. Expect the momentum to continue",
-              "summary": "…to investors on an earnings call Thursday. \"Our presales for the second weekend would qualify on its own as one of our biggest opening weekends ever,\" he said.",
-              "hash": "bd9ed42e8b9e2b7a",
-              "chunk_key": "bd9ed42e8b9e2b7a_c001",
-              "article_date": "2026-07-22 00:00:00",
               "provider": "CNBC",
               "value": 1
             }
@@ -1477,12 +1371,77 @@
             }
           ],
           "ticker_summary": {
+            "CMCSA": "Comcast’s strategy involves partnering with YouTube to monetize Peacock content and enhance advertising capabilities within the streaming aggregation race.",
             "DIS": "Walt Disney is pursuing wholesale deals to compete with other media companies for streaming content viewership.",
             "NFLX": "Netflix is losing out on live NFL games to competitors, prompting discussions about wholesale content deals.",
             "ROKU": "Roku’s streaming service lacks scale, yet it offers Fox a substantial aggregation platform for a potential shift toward streaming.",
             "WBD": "Warner Bros. Discovery is pursuing partnerships to compete with tech platforms for viewership time and revenue.",
-            "GOOG": "Google’s YouTube Premium is driving brainstorming for potential partnerships in the streaming aggregation race.",
-            "CMCSA": "Comcast’s strategy involves partnering with YouTube to monetize Peacock content and enhance advertising capabilities within the streaming aggregation race."
+            "GOOG": "Google’s YouTube Premium is driving brainstorming for potential partnerships in the streaming aggregation race."
+          }
+        },
+        {
+          "cluster_id": 70,
+          "name": "Women-driven apparel growth",
+          "summary": "Major apparel brands are expanding women's markets to drive revenue, with strong performance and investor interest in gender-inclusive product strategies and growth.",
+          "count": 2,
+          "children": [
+            {
+              "name": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+              "summary": "Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig , who spoke exclusively with CNBC about h…",
+              "hash": "ae6056a50fd519e8",
+              "chunk_key": "ae6056a50fd519e8_c000",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Reformation opens flat in NYSE debut; CEO says company is 'ready to scale'",
+              "summary": "…impact of President Donald Trump 's tariffs. As of the first quarter of 2026, the company owns 70 stores across the U.S., UK, Canada and France.",
+              "hash": "764d13a516107452",
+              "chunk_key": "764d13a516107452_c001",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "C": [
+              "The IPO is backed by J.P. Morgan , Morgan Stanley , Citigroup and RBC Capital Markets."
+            ],
+            "MS": [
+              "The IPO is backed by J.P. Morgan , Morgan Stanley , Citigroup and RBC Capital Markets."
+            ],
+            "BBY": [
+              "As he prepares to take the helm, Bonfig has said he's focused on four key pillars : advancing Best Buy as a retail and technology company, improving its reach, enhancing the customer experience and focusing on being a human-powered company.",
+              "Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig , who spoke exclusively with CNBC about his strategy for the company.",
+              "Bonfig has also said he's looking into ways to capitalize on the artificial intelligence boom and Best Buy's spot in that next chapter.",
+              "This week, Best Buy opened two new stores, one in Jonesboro, Arkansas, and one in Cape Cod , Massachusetts, which Bonfig told CNBC illustrates his strategy as he prioritizes returning the company to long-term and sustainable growth.",
+              "When Best Buy joins a new, smaller community, he said, the company has found more customers physically go to a store for the first time, but they also use the app and digital channels as well.",
+              "The second opening, in Cape Cod, is slightly larger than Best Buy's normal medium-format stores, coming in at 28,000 square feet, but Bonfig said it's another example of finding \"the right size store in the right location in the right node.\"",
+              "For the current fiscal year, Best Buy has said it expects comparable sales in the range of a decline of 1% to an increase of 1%."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "BBY",
+              "name": "Best Buy",
+              "count": 7
+            },
+            {
+              "ticker": "C",
+              "name": "Citigroup",
+              "count": 1
+            },
+            {
+              "ticker": "MS",
+              "name": "Morgan Stanley",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "C": "Citigroup is participating in the IPO financing for women-driven apparel growth.",
+            "MS": "Morgan Stanley is participating in the IPO financing of women-driven apparel growth.",
+            "BBY": "Best Buy anticipates a slight sales decline this fiscal year while seeking growth through store expansions and digital integration."
           }
         },
         {
@@ -1549,59 +1508,18 @@
           "ticker_summary": {
             "UAL": "United Airlines faces increased competition due to JetBlue’s decision to forgo a lie-flat business class option."
           }
-        },
-        {
-          "cluster_id": 70,
-          "name": "Women-driven apparel growth",
-          "summary": "Major apparel brands are expanding women's markets to drive revenue, with strong performance and investor interest in gender-inclusive product strategies and growth.",
-          "count": 1,
-          "children": [
-            {
-              "name": "Reformation opens flat in NYSE debut; CEO says company is 'ready to scale'",
-              "summary": "…impact of President Donald Trump 's tariffs. As of the first quarter of 2026, the company owns 70 stores across the U.S., UK, Canada and France.",
-              "hash": "764d13a516107452",
-              "chunk_key": "764d13a516107452_c001",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "C": [
-              "The IPO is backed by J.P. Morgan , Morgan Stanley , Citigroup and RBC Capital Markets."
-            ],
-            "MS": [
-              "The IPO is backed by J.P. Morgan , Morgan Stanley , Citigroup and RBC Capital Markets."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "C",
-              "name": "Citigroup",
-              "count": 1
-            },
-            {
-              "ticker": "MS",
-              "name": "Morgan Stanley",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "C": "Citigroup is participating in the IPO financing for women-driven apparel growth.",
-            "MS": "Morgan Stanley is participating in the IPO financing of women-driven apparel growth."
-          }
         }
       ]
     },
     {
       "name": "Economic Headwinds",
-      "count": 14,
+      "count": 13,
       "children": [
         {
           "cluster_id": 28,
           "name": "Consumer spending decline",
           "summary": "Shrinking consumer spending, driven by rising grocery prices and inflation, is pressuring retailers and food producers, while the Fed faces divided views on whether to hike rates to combat persistent inflation.",
-          "count": 14,
+          "count": 13,
           "children": [
             {
               "name": "These Fed alternative indicators are showing inflation is at its lowest in years",
@@ -1719,15 +1637,6 @@
               "article_date": "2026-07-26 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-              "summary": "…to 187,000 in the week ended July 18, the Labor Department reported. That was the fewest claims since 1969, when the U.S. population was 60% of what it is today.",
-              "hash": "e3ef3eec23f451ed",
-              "chunk_key": "e3ef3eec23f451ed_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -1756,13 +1665,13 @@
     },
     {
       "name": "Financial Market Dynamics",
-      "count": 19,
+      "count": 16,
       "children": [
         {
           "cluster_id": 48,
           "name": "Volatility & Earnings Risk",
           "summary": "The articles analyze market reactions to upcoming earnings reports, focusing on volatility strategies, investor sentiment, and the potential for short-term price moves in key sectors.",
-          "count": 6,
+          "count": 5,
           "children": [
             {
               "name": "The S&P 500 is stuck. This obscure index could determine the market’s next move",
@@ -1808,15 +1717,6 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
-              "summary": "Barchart and Cboe LiveVol, the biggest positions were concentrated around the 7,500 level in the S&P 500.",
-              "hash": "ba3fba31cd8f7363",
-              "chunk_key": "ba3fba31cd8f7363_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
@@ -1854,95 +1754,6 @@
             "PLTR": "Palantir trades at a premium and is being considered for investment despite potential valuation vulnerability.",
             "AAPL": "Apple’s options trading shows a shift toward bearish sentiment, reversing earlier bullish flows.",
             "MSFT": "Microsoft’s rapid market capitalization gain has removed immediate binary event risk following Q4 earnings."
-          }
-        },
-        {
-          "cluster_id": 51,
-          "name": "Geopolitical & Tech Market Volatility",
-          "summary": "Global stock markets fluctuate due to geopolitical tensions and semiconductor sector performance, with oil prices and Fed rate decisions driving risk-off sentiment.",
-          "count": 5,
-          "children": [
-            {
-              "name": "Nasdaq futures rise after Wall Street rebound; Kospi soars 13%, triggers trading curbs",
-              "summary": "Nasdaq futures edged higher in overnight trading as Wall Street staged a sharp rebound, with upbeat earnings from Amazon adding to optimism.",
-              "hash": "5787908ab779aca5",
-              "chunk_key": "5787908ab779aca5_c000",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-              "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
-              "hash": "250806ea563ba2e8",
-              "chunk_key": "250806ea563ba2e8_c000",
-              "article_date": "2026-07-28 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "What a divided Fed means for investors",
-              "summary": "…monetary policy helped put investors in a risk-off mood on Wednesday.",
-              "hash": "c38ce8259ffcfab1",
-              "chunk_key": "c38ce8259ffcfab1_c002",
-              "article_date": "2026-07-27 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-              "summary": "…barrel they hit earlier this month. The S&P 500 is now down about 2% since the consecutive evening strikes by the U.S. began on July 12.",
-              "hash": "3aadcef47d472aa1",
-              "chunk_key": "3aadcef47d472aa1_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Oil spurs a sell-off, Trump's new tariffs and more: Morning Squawk",
-              "summary": "Whether you're spending the weekend seeing \"The Odyssey\" or playing video games , we have the latest news to know on either pastime. Stock futures are higher this morning.",
-              "hash": "babd01615a6db651",
-              "chunk_key": "babd01615a6db651_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "IBKR": [
-              "\"These problems became too big to ignore,\" said Steve Sosnick, chief strategist at Interactive Brokers, about the move in stocks on Thursday."
-            ],
-            "JPM": [
-              "\"We have consistently argued since 2nd half of March to use the equity weakness brought on by the Iran conflict to buy into, as the off-ramp and the eventual deal were likely, in our view,\" wrote JPMorgan equity strategists in a note earlier this month."
-            ],
-            "MSFT": [
-              "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft, which jumped 16% after the software giant posted stronger-than-expected Azure cloud growth."
-            ],
-            "INTC": [
-              "Shares of Intel are 3% higher this morning after the company beat top- and bottom-line expectations for the second quarter."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
-              "count": 1
-            },
-            {
-              "ticker": "MSFT",
-              "name": "Microsoft",
-              "count": 1
-            },
-            {
-              "ticker": "INTC",
-              "name": "Intel",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "MSFT": "Microsoft’s Azure cloud growth drove a significant rally, reflecting market volatility.",
-            "INTC": "Intel’s shares rose 3% following better-than-expected second-quarter results.",
-            "JPM": "JPMorgan Chase is recommending buying equities based on the expectation of a deal following the Iran conflict."
           }
         },
         {
@@ -2047,6 +1858,56 @@
             "RBLX": "Roblox was included in a list of notable IPOs five years ago, suggesting potential future public offerings.",
             "SPCX": "SpaceX’s past IPO success is being contrasted with a decline in companies choosing to go public, despite current market conditions.",
             "GS": "Goldman Sachs Group is expanding its services to cater to wealthy clients seeking investments in private companies."
+          }
+        },
+        {
+          "cluster_id": 51,
+          "name": "Geopolitical & Tech Market Volatility",
+          "summary": "Global stock markets fluctuate due to geopolitical tensions and semiconductor sector performance, with oil prices and Fed rate decisions driving risk-off sentiment.",
+          "count": 3,
+          "children": [
+            {
+              "name": "Nasdaq futures rise after Wall Street rebound; Kospi soars 13%, triggers trading curbs",
+              "summary": "Nasdaq futures edged higher in overnight trading as Wall Street staged a sharp rebound, with upbeat earnings from Amazon adding to optimism.",
+              "hash": "5787908ab779aca5",
+              "chunk_key": "5787908ab779aca5_c000",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+              "summary": "The Dow Jones Industrial Average fell more than 1,000 points on Wednesday after the Federal Reserve decided to keep interest rates steady while U.S. oil neared $85 per barrel.",
+              "hash": "250806ea563ba2e8",
+              "chunk_key": "250806ea563ba2e8_c000",
+              "article_date": "2026-07-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "What a divided Fed means for investors",
+              "summary": "…monetary policy helped put investors in a risk-off mood on Wednesday.",
+              "hash": "c38ce8259ffcfab1",
+              "chunk_key": "c38ce8259ffcfab1_c002",
+              "article_date": "2026-07-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "MSFT": [
+              "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft, which jumped 16% after the software giant posted stronger-than-expected Azure cloud growth."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "MSFT": "Microsoft’s Azure cloud growth drove a significant rally, reflecting market volatility."
           }
         },
         {
@@ -2250,7 +2111,7 @@
     },
     {
       "name": "Financial and Supply Chain Risks",
-      "count": 9,
+      "count": 11,
       "children": [
         {
           "cluster_id": 34,
@@ -2263,6 +2124,15 @@
               "summary": "Chipotle Mexican Grill on Wednesday raised its same-store sales growth forecast for the year after topping analysts' quarterly earnings and revenue expectations.",
               "hash": "05a778bf1ab9ed57",
               "chunk_key": "05a778bf1ab9ed57_c000",
+              "article_date": "2026-07-28 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "Starbucks stock jumps as coffee giant raises full-year outlook",
+              "summary": "…to be paying off for Starbucks, which had seen its sales slump as it lost many of its loyal customers to competitors like Dutch Bros.",
+              "hash": "dcbe226fac6b1681",
+              "chunk_key": "dcbe226fac6b1681_c002",
               "article_date": "2026-07-28 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -2284,46 +2154,45 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Oil spurs a sell-off, Trump's new tariffs and more: Morning Squawk",
-              "summary": "…who've been loyal to the Ridgeline,\" American Honda Motor's Lance Woelfer told CNBC's Michael Wayland .",
-              "hash": "babd01615a6db651",
-              "chunk_key": "babd01615a6db651_c002",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "CMG": [
+              "During the quarter, Chipotle opened 100 new locations and one international restaurant operated by a partner.",
+              "\"We're seeing encouraging progress because we're focused on the right growth drivers—bringing meaningful menu innovation to our guests, deepening engagement through Chipotle Rewards, elevating hospitality in every restaurant, and expanding opportunities to serve more group occasions,\" CEO Scott Boatwright said in a statement.",
               "\"We believe Chipotle continues to offer one of the strongest value propositions in the industry,\" Boatwright said on the call.",
               "Boatwright also said Chipotle's menu innovation had an \"outsized impact\" on it winning over both younger consumers and lower-income diners.",
               "On a call with analysts, Boatwright said the company's performance was driven by strength in its seasonal Chipotle Honey Chicken and recently introduced cilantro lime sauce, as well as its rewards program.",
-              "Chipotle reported second-quarter net income of $403.5 million, or 32 cents per share, down from $436.1 million, or 32 cents per share, a year earlier.",
               "Still, Chipotle said the cyclospora outbreak had about a 2 percentage point impact on sales in the second half of July, which it incorporated into its guidance.",
               "Company executives on a call with analysts said that Chipotle \"maintains a very robust food safety program.\"",
-              "\"We're seeing encouraging progress because we're focused on the right growth drivers—bringing meaningful menu innovation to our guests, deepening engagement through Chipotle Rewards, elevating hospitality in every restaurant, and expanding opportunities to serve more group occasions,\" CEO Scott Boatwright said in a statement.",
-              "During the quarter, Chipotle opened 100 new locations and one international restaurant operated by a partner."
+              "Chipotle reported second-quarter net income of $403.5 million, or 32 cents per share, down from $436.1 million, or 32 cents per share, a year earlier."
             ],
             "PFGC": [
               "Meanwhile, restaurant supply has become increasingly concentrated too, with broadline distributors like Sysco , US Foods and Performance Food Group serving hundreds of thousands of restaurants and institutional kitchens nationwide."
             ],
             "SYY": [
-              "Those deals expanded Sysco's reach in fresh-cut produce and value-added processing, allowing a larger share of restaurants to source ingredients through the same distribution network.",
-              "Sysco, the nation's largest foodservice distributor, has spent the past decade expanding its fresh produce business by acquiring regional distributors including Paragon Foods in Pennsylvania, The Coastal Companies in the mid-Atlantic and Greco and Sons , a specialty food distributor with 10 distribution centers across the country.",
+              "Meanwhile, restaurant supply has become increasingly concentrated too, with broadline distributors like Sysco , US Foods and Performance Food Group serving hundreds of thousands of restaurants and institutional kitchens nationwide.",
               "While federal regulators blocked Sysco's proposed $8.2 billion acquisition of US Foods in 2015 on antitrust grounds, both companies have continued growing through smaller acquisitions of regional distributors and fresh produce processors.",
-              "Meanwhile, restaurant supply has become increasingly concentrated too, with broadline distributors like Sysco , US Foods and Performance Food Group serving hundreds of thousands of restaurants and institutional kitchens nationwide."
+              "Sysco, the nation's largest foodservice distributor, has spent the past decade expanding its fresh produce business by acquiring regional distributors including Paragon Foods in Pennsylvania, The Coastal Companies in the mid-Atlantic and Greco and Sons , a specialty food distributor with 10 distribution centers across the country.",
+              "Those deals expanded Sysco's reach in fresh-cut produce and value-added processing, allowing a larger share of restaurants to source ingredients through the same distribution network."
             ],
             "QSR": [
               "The current FDA investigation around cyclosporiasis has focused on shredded iceberg lettuce distributed through Taylor Farms' foodservice business, an ingredient that reached Taco Bell restaurants and other foodservice customers across multiple states.",
-              "Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill.",
-              "The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states."
+              "The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states.",
+              "Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill."
             ],
             "USFD": [
-              "While federal regulators blocked Sysco's proposed $8.2 billion acquisition of US Foods in 2015 on antitrust grounds, both companies have continued growing through smaller acquisitions of regional distributors and fresh produce processors.",
+              "In 2016, US Foods acquired Freshway Foods , a fresh fruit and vegetable processor, repacker and distributor in the eastern half of the United States.",
               "Meanwhile, restaurant supply has become increasingly concentrated too, with broadline distributors like Sysco , US Foods and Performance Food Group serving hundreds of thousands of restaurants and institutional kitchens nationwide.",
-              "In 2016, US Foods acquired Freshway Foods , a fresh fruit and vegetable processor, repacker and distributor in the eastern half of the United States."
+              "While federal regulators blocked Sysco's proposed $8.2 billion acquisition of US Foods in 2015 on antitrust grounds, both companies have continued growing through smaller acquisitions of regional distributors and fresh produce processors."
+            ],
+            "SBUX": [
+              "Here's what the company reported for the quarter ended June 28 compared with what Wall Street was expecting, based on a survey of analysts by LSEG: The coffee giant reported fiscal third-quarter net income attributable to Starbucks of $1.05 billion, or 91 cents per share, up from $558.3 million, or 49 cents per share, a year earlier.",
+              "For fiscal 2026, Starbucks now expects adjusted earnings per share in a range of $2.55 to $2.65, up from its prior outlook of $2.25 to $2.45 per share.",
+              "In November, Starbucks announced it was forming a joint venture with Boyu Capital, which would take over operations in the coffee chain's second-largest market.",
+              "Although Starbucks' overall revenue fell, its sales at stores open at least 13 months climbed 7.9%, topping Wall Street estimates of 6%, according to StreetAccount.",
+              "Under Niccol's \"Back to Starbucks\" strategy, the company has focused on improving service and making cafes more welcoming in its home market.",
+              "Refreshers have grown to become a $2 billion drink platform for Starbucks and often drive customers to its cafes during the afternoon, helping fuel business outside of the morning coffee rush."
             ]
           },
           "related_tickers": [
@@ -2331,6 +2200,11 @@
               "ticker": "CMG",
               "name": "Chipotle Mexican Grill",
               "count": 8
+            },
+            {
+              "ticker": "SBUX",
+              "name": "Starbucks",
+              "count": 6
             },
             {
               "ticker": "SYY",
@@ -2354,19 +2228,29 @@
             }
           ],
           "ticker_summary": {
+            "CMG": "Chipotle reported a 2 percentage point sales impact due to a cyclospora outbreak, while maintaining a robust food safety program.",
             "PFGC": "Performance Food Group faces increased supply chain risks due to the growing concentration of restaurant supply within broadline distributors.",
             "SYY": "Sysco’s expansion in fresh produce through acquisitions has increased its share of the restaurant supply chain.",
+            "QSR": "Restaurant Brands International faces potential liability due to the widespread illness linked to shredded iceberg lettuce supplied by Taylor Farms.",
             "USFD": "US Foods continues to grow through acquisitions in the restaurant supply chain, despite a failed antitrust attempt.",
-            "CMG": "Chipotle reported a 2 percentage point sales impact due to a cyclospora outbreak, while maintaining a robust food safety program.",
-            "QSR": "Restaurant Brands International faces potential liability due to the widespread illness linked to shredded iceberg lettuce supplied by Taylor Farms."
+            "SBUX": "Starbucks’ revenue fell overall, but sales at established stores increased, driven by growing refresher sales."
           }
         },
         {
           "cluster_id": 15,
           "name": "Stock manipulation and fraud",
           "summary": "The articles detail fraudulent stock manipulation schemes involving deli and shell companies, leading to inflated market values and significant financial losses, with legal and regulatory responses.",
-          "count": 2,
+          "count": 3,
           "children": [
+            {
+              "name": "Indonesia's state telecom said to consider selling VC arm MDI Ventures",
+              "summary": "…CNBC could not independently verify that report. Danantara didn't respond to a request for comment.",
+              "hash": "f58631a042535df9",
+              "chunk_key": "f58631a042535df9_c002",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
               "summary": "Shares of telehealth company Hims and Hers Health fell sharply Wednesday after the Federal Trade Commission sued the company, alleging it misled consumers about privacy protections…",
@@ -2395,6 +2279,10 @@
               "\"As we have long stated, what the Steiners were subjected to by former eBay employees in 2019 was wrong, reprehensible and should never have happened,\" the company said.",
               "The company said the conduct \"is not representative of eBay's culture\" and that following the incident, it has installed new leaders and \"strengthened its policies, procedures, controls and training.\""
             ],
+            "GOOG": [
+              "Google also denied offering any benefit in exchange for the ministry's decision.",
+              "A Jakarta court last month sentenced Nadiem Makarim , a co-founder of the ride-hailing app Gojek, to 10 years in prison for abusing his authority as education minister, in a case linked to the procurement of Chromebook laptops from Google ."
+            ],
             "META": [
               "The FTC, joined by Los Angeles County and Utah, alleged Hims and Hers shared users' sensitive health information with online advertising platforms including Meta Platforms and Snap Inc. through tracking technologies embedded on its website."
             ]
@@ -2406,6 +2294,11 @@
               "count": 6
             },
             {
+              "ticker": "GOOG",
+              "name": "Alphabet",
+              "count": 2
+            },
+            {
               "ticker": "META",
               "name": "Meta Platforms",
               "count": 1
@@ -2413,56 +2306,25 @@
           ],
           "ticker_summary": {
             "EBAY": "eBay agreed to a $56 million settlement regarding a harassment scheme, addressing past misconduct and implementing policy changes.",
+            "GOOG": "Alphabet is invoked as a past precedent for stock manipulation due to a court-linked case involving abuse of authority.",
             "META": "Meta Platforms is implicated as a recipient of shared user health information via tracking technologies."
-          }
-        },
-        {
-          "cluster_id": 37,
-          "name": "Prediction market regulation clash",
-          "summary": "Regulatory and legal battles over prediction markets' classification as gambling or financial derivatives intensify amid state and federal jurisdiction disputes.",
-          "count": 2,
-          "children": [
-            {
-              "name": "New York sues Kalshi, says prediction market is an 'illegal gambling operation'",
-              "summary": "The Commodity Futures Trading Commission , which sees itself as the federal regulator for prediction markets, filed for a temporary restraining order against enforcement actions by…",
-              "hash": "732b28c932d8ed21",
-              "chunk_key": "732b28c932d8ed21_c002",
-              "article_date": "2026-07-29 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "44 states say CFTC has no authority over sports prediction markets",
-              "summary": "…all event contracts are swaps, a derivative that is regulated by the commission .",
-              "hash": "cc8f3e05f09fef44",
-              "chunk_key": "cc8f3e05f09fef44_c001",
-              "article_date": "2026-07-27 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "CME": [
-              "In its own letter to the CFTC, derivatives marketplace CME Group disagreed with this definition."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "CME",
-              "name": "CME Group",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "CME": "CME Group disagreed with a CFTC definition related to prediction market regulation."
           }
         },
         {
           "cluster_id": 36,
           "name": "Prediction market surge and regulation",
           "summary": "Prediction market volumes explode during the 2026 FIFA World Cup, driving innovation, institutional interest, and regulatory scrutiny over jurisdiction and market integrity.",
-          "count": 1,
+          "count": 2,
           "children": [
+            {
+              "name": "How traders gain an edge on prediction markets beyond just reading the odds",
+              "summary": "…noting it's not replacing his retirement fund. What it is, however, is \"enough to pay for my AI bills,\" he said.",
+              "hash": "8f31f9daebcbc761",
+              "chunk_key": "8f31f9daebcbc761_c003",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "CME brings 23-hour futures trading to SpaceX, Micron and others",
               "summary": "Investors looking to wager on stocks such as SpaceX and Micron Technology now have a new tool: single-stock futures that trade for nearly 24 hours a day.",
@@ -2532,25 +2394,66 @@
             }
           ],
           "ticker_summary": {
+            "AAPL": "Apple is included in prediction markets linked to several high-profile IPOs, suggesting a potential market exposure.",
             "CME": "CME Group is expanding into leveraged single-stock futures, supporting a surge in prediction markets.",
             "TSLA": "Tesla is referenced as a company with a perpetual futures market surrounding it, linked to a prediction market surge.",
             "MU": "Micron Technology is now included in single-stock futures, linked to publicly traded companies like SpaceX.",
-            "SPCX": "Space Exploration Technologies’ IPO is driving a surge in prediction markets for the company and related stocks.",
-            "AAPL": "Apple is included in prediction markets linked to several high-profile IPOs, suggesting a potential market exposure.",
-            "NVDA": "Nvidia is included in prediction markets linked to publicly traded companies like SpaceX, Tesla, and Apple."
+            "NVDA": "Nvidia is included in prediction markets linked to publicly traded companies like SpaceX, Tesla, and Apple.",
+            "SPCX": "Space Exploration Technologies’ IPO is driving a surge in prediction markets for the company and related stocks."
+          }
+        },
+        {
+          "cluster_id": 37,
+          "name": "Prediction market regulation clash",
+          "summary": "Regulatory and legal battles over prediction markets' classification as gambling or financial derivatives intensify amid state and federal jurisdiction disputes.",
+          "count": 2,
+          "children": [
+            {
+              "name": "New York sues Kalshi, says prediction market is an 'illegal gambling operation'",
+              "summary": "The Commodity Futures Trading Commission , which sees itself as the federal regulator for prediction markets, filed for a temporary restraining order against enforcement actions by…",
+              "hash": "732b28c932d8ed21",
+              "chunk_key": "732b28c932d8ed21_c002",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "44 states say CFTC has no authority over sports prediction markets",
+              "summary": "…all event contracts are swaps, a derivative that is regulated by the commission .",
+              "hash": "cc8f3e05f09fef44",
+              "chunk_key": "cc8f3e05f09fef44_c001",
+              "article_date": "2026-07-27 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            }
+          ],
+          "ticker_context": {
+            "CME": [
+              "In its own letter to the CFTC, derivatives marketplace CME Group disagreed with this definition."
+            ]
+          },
+          "related_tickers": [
+            {
+              "ticker": "CME",
+              "name": "CME Group",
+              "count": 1
+            }
+          ],
+          "ticker_summary": {
+            "CME": "CME Group disagreed with a CFTC definition related to prediction market regulation."
           }
         }
       ]
     },
     {
       "name": "Future-Driven Innovation",
-      "count": 12,
+      "count": 10,
       "children": [
         {
           "cluster_id": 2,
           "name": "Space tech & satellite expansion",
           "summary": "The articles highlight competitive growth in satellite internet networks, with Amazon, SpaceX, and Leo advancing low Earth orbit constellations amid regulatory changes and market scrutiny.",
-          "count": 6,
+          "count": 5,
           "children": [
             {
               "name": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive rules",
@@ -2596,55 +2499,36 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "SpaceX launches massive Starship rocket in first test flight since IPO",
-              "summary": "…of its new Starlink V3 satellites into orbit, a first chance for the company to see how they performed in flight The satellites were intended to burn up after about 20 minutes.",
-              "hash": "c2a4ff2cd7983377",
-              "chunk_key": "c2a4ff2cd7983377_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "TSLA": [
-              "SpaceX has now erased more than $1.2 trillion in market cap since its high price of $225.64 in June – almost exactly the value of Elon Musk's other company, Tesla , whose shares just fell to near one-year lows.",
-              "Elon Musk's aerospace and defense contractor designed Starship, the largest rocket ever built or flown, to be fully reusable and to lift more cargo for less cost into orbit."
+              "SpaceX has now erased more than $1.2 trillion in market cap since its high price of $225.64 in June – almost exactly the value of Elon Musk's other company, Tesla , whose shares just fell to near one-year lows."
             ],
             "SPCX": [
               "SpaceX has now erased more than $1.2 trillion in market cap since its high price of $225.64 in June – almost exactly the value of Elon Musk's other company, Tesla , whose shares just fell to near one-year lows.",
-              "On Monday, SpaceX fell for the 13th session out of the last 16, shedding more than 1% to end at $113.50.",
-              "While some of the options flows are getting more balanced between bulls and bears, the biggest single SpaceX trades of the day on Monday were neutral to bullish.",
               "SpaceX's first earnings report since its initial public offering paves the way for investors to sell 20% of their eligible locked-up stock, a total of up to 911.5 million shares, on the second full trading day immediately following the first earnings release date — that is, Aug.",
+              "While some of the options flows are getting more balanced between bulls and bears, the biggest single SpaceX trades of the day on Monday were neutral to bullish.",
+              "On Monday, SpaceX fell for the 13th session out of the last 16, shedding more than 1% to end at $113.50.",
               "FAA Administrator Bryan Bedford in May said SpaceX President Gwynne Shotwel l told him her company aimed to reach 10,000 launches annually within the next five years, Reuters reported at the time.",
+              "The proposed rule by the Federal Aviation Administration would be a boon for Elon Musk's SpaceX and Blue Origin , founded by Jeff Bezos , as well as other rocket launch companies.",
               "In September 2024, SpaceX was fined a combined $150,000 by the Environmental Protection Agency and the Texas Commission on Environmental Quality after those agencies determined the company had violated the Clean Water Act in connection with the discharge of tens of thousands of gallons of what was classified as industrial wastewater from a launch pad in Boca Chica, Texas, National Public Radio reported that year.",
               "In June, the Department of Justice asked a federal judge in Mississippi to dismiss a lawsuit filed by the NAACP against Musk's artificial lab xAI , which is owned by SpaceX, that accuses xAI of violating the Clean Air Act in its use of dozens of methane gas-burning turbines to power its AI data centers without proper permits or pollution controls.",
-              "The proposed rule by the Federal Aviation Administration would be a boon for Elon Musk's SpaceX and Blue Origin , founded by Jeff Bezos , as well as other rocket launch companies.",
+              "The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network.",
               "And SpaceX's stock continued its downward slide, dropping 7.2% over five days to close at $115.07 Friday, its lowest since the company's record initial public offering last month.",
-              "On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown.",
+              "Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public.",
               "SpaceX plans to use Starship to bring U.S. astronauts back to the Moon's surface, and Musk wants the rocket to eventually power manned missions to Mars.",
               "SpaceX previously scrubbed a test flight last week, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the event.",
-              "Meanwhile, SpaceX's stock has been on a steady downward trajectory over the past month following an initial pop when the company went public.",
+              "On Friday evening, SpaceX will again attempt the 13th test flight of Starship , the largest rocket ever built or flown.",
               "In a post on X, which is owned by SpaceX, the company said it delayed the test flight planned for Thursday \"due to weather.\"",
-              "The rocket is designed to be fully reusable and is considered crucial for SpaceX's near-term aims to vastly grow its Starlink satellite network.",
-              "In a post on X, which is owned by SpaceX, the company said it delayed an earlier test flight planned for Thursday \"due to weather.\"",
-              "Besides using their largest rockets to launch the new, larger satellites, SpaceX wants to use the Starship rocket to bring U.S. astronauts back to the moon's surface, and to eventually power manned missions to Mars.",
-              "SpaceX is now developing Starmind satellites, which the company intends to launch and eventually use as orbital data centers.",
-              "About 18 minutes into Friday's test flight, SpaceX successfully deployed 20 of its new Starlink V3 satellites into orbit, a first chance for the company to see how they performed in flight.",
-              "SpaceX's stock has dropped in four of the past five weeks, slumping 43% from its peak close on June 16.",
-              "The upper stage of the rocket made a \"soft splashdown\" in the Indian Ocean, SpaceX said, \"coming to rest intact in the Indian Ocean and providing critical views of an intact heatshield for the first time.\"",
-              "SpaceX launched its massive Starship rocket Friday evening from its company town and launch facility in Starbase, Texas, in a 13th test flight and the first since the company's record IPO last month.",
-              "TMF Associates' Tim Farrar, a satellite services industry expert, said the test flight showed SpaceX has made some progress with Starship but \"remains a long way from achieving rapid reusability of the entire ship.\"",
-              "It also previously scrubbed a test flight on July 16, after the rocket's booster triggered a hold, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said during a livestream of the earlier event.",
               "The company has been working to build out its Leo internet-from-space network since last April, which aims to compete with SpaceX 's Starlink, the dominant low earth orbit internet provider with a constellation of more than 10,000 satellites.",
               "SpaceX and Tesla have erased a cumulative $1.5 trillion in market cap since mid-June, after an almost 50% sell-off in SpaceX since its high and an 18% drop in Tesla since earnings last week.",
               "It might get even crazier next week, based on options pricing around SpaceX's earnings report on Tuesday, and the end of the lockup period for SpaceX insiders two days after.",
               "Options prices are implying a 15% swing in SpaceX after earnings, with implied volatility of 122 in the stock – higher than every company in the S&P 500 other than SanDisk, which dropped 16% on Tuesday."
             ],
             "AMZN": [
-              "Amazon previously said it expects the Globalstar deal to close in 2027, with deployment of the D2D network beginning in 2028.",
               "\"Amazon looks forward to delivering on the promise of D2D connectivity, including to the millions of people living, traveling and working in places beyond the reach of existing networks today,\" the company wrote.",
+              "Amazon previously said it expects the Globalstar deal to close in 2027, with deployment of the D2D network beginning in 2028.",
               "The company first telegraphed plans to launch a D2D network in April, when Amazon announced that it would acquire satellite operator Globalstar in a deal worth about $11.6 billion .",
               "Amazon has asked federal regulators to approve a request to launch up to 5,105 internet satellites as part of a constellation that will provide direct-to-device connectivity."
             ],
@@ -2656,7 +2540,7 @@
             {
               "ticker": "SPCX",
               "name": "Space Exploration Technologies",
-              "count": 28
+              "count": 19
             },
             {
               "ticker": "AMZN",
@@ -2666,13 +2550,13 @@
             {
               "ticker": "TSLA",
               "name": "Tesla",
-              "count": 2
+              "count": 1
             }
           ],
           "ticker_summary": {
-            "TSLA": "Tesla’s shares fell to near one-year lows, mirroring SpaceX’s market capitalization decline.",
-            "SPCX": "Space Exploration Technologies’ stock is declining, and the company faces fines and lawsuits related to environmental violations, while a new FAA rule could benefit competitors.",
-            "AMZN": "Amazon.com is planning to launch a satellite constellation to deliver direct-to-device connectivity, with deployment expected in 2028."
+            "AMZN": "Amazon.com is planning to launch a satellite constellation to deliver direct-to-device connectivity, with deployment expected in 2028.",
+            "TSLA": "Tesla’s shares fell to near one-year lows, mirroring a decline in SpaceX’s market capitalization.",
+            "SPCX": "Space Exploration Technologies’ stock is declining, and the company faces fines related to environmental violations, impacting investor sentiment."
           }
         },
         {
@@ -2738,7 +2622,7 @@
           "cluster_id": 7,
           "name": "Quality turnaround in auto manufacturing",
           "summary": "Ford is overcoming past quality and recall issues through structural changes, improved processes, and a focus on warranty cost reduction, signaling a long-term shift toward higher vehicle reliability and customer trust.",
-          "count": 2,
+          "count": 1,
           "children": [
             {
               "name": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
@@ -2748,20 +2632,10 @@
               "article_date": "2026-07-27 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Honda teases new American-built midsize pickup truck",
-              "summary": "Honda Motor on Thursday confirmed a next-generation model of its Ridgeline pickup truck will be produced in the U.S. following a temporary production stoppage later this year.",
-              "hash": "a2fa7b3799756fed",
-              "chunk_key": "a2fa7b3799756fed_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "F": [
-              "Heading into Ford's earnings report, Jefferies upgraded Ford and General Motors' stocks to buy from hold.",
               "Ford's raised guidance includes full-year adjusted earnings before interest and taxes of between $10 billion and $11 billion, up from $8.5 billion to $10.5 billion.",
               "\"We delivered another strong quarter and raised our full-year guidance, but the more important story is the growing evidence that Ford is becoming a more profitable, more disciplined and genuinely different company,\" Ford CEO Jim Farley said in a release.",
               "Ford cut expected losses of its Model e EV business to about $4 billion, compared with previous expectations of losses between $4 billion and $4.5 billion, and said it also expected slightly better results for its credit arm.",
@@ -2770,6 +2644,7 @@
               "Ford reconfirmed plans to deliver full-year material and warranty cost reductions of approximately $1 billion despite an influx of recent recalls for the automaker.",
               "Ford CFO Sherry House said the automaker's recovery of F-Series pickup truck production will continue into the back half of the year, reconfirming a roughly $1 billion improvement compared with last year's reported impact.",
               "Ford said Tuesday it expects to recover about $2.5 billion of its vehicle volume lost due to the fires, which was the low end of a range of up to $3 billion.",
+              "Heading into Ford's earnings report, Jefferies upgraded Ford and General Motors' stocks to buy from hold.",
               "Ford Motor raised its 2026 earnings forecast Tuesday after beating Wall Street's second-quarter earnings expectations despite reporting a decline in revenue that slightly missed estimates."
             ],
             "GM": [
@@ -2829,13 +2704,13 @@
     },
     {
       "name": "Global Policy Shifts",
-      "count": 16,
+      "count": 7,
       "children": [
         {
           "cluster_id": 11,
           "name": "Global tariff enforcement",
           "summary": "The U.S. is expanding and challenging international tariffs under Section 301 and IEEPA, targeting forced labor and trade practices while facing legal and political pushback.",
-          "count": 8,
+          "count": 6,
           "children": [
             {
               "name": "Trump says Russia sanctions bill should add Iran tariffs",
@@ -2890,34 +2765,16 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
-              "summary": "The Trump administration will impose new tariffs just after midnight ET Friday on dozens of countries over alleged forced-labor violations, according to a notice in the Federal Reg…",
-              "hash": "a4f6bf324c6ab273",
-              "chunk_key": "a4f6bf324c6ab273_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-              "summary": "…world, and we are recognized globally, including in the U.S., for our leadership.\"",
-              "hash": "266096166afee633",
-              "chunk_key": "266096166afee633_c001",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
             "AMZN": [
-              "Amazon, last April , landed in hot water with the White House after it was reported that the company planned to display the cost of Trump's tariffs next to some products on its site.",
-              "Many of Amazon's third-party sellers who import their goods from overseas were forced to raise prices due to the levies, and have since applied to receive tariff refunds."
+              "Many of Amazon's third-party sellers who import their goods from overseas were forced to raise prices due to the levies, and have since applied to receive tariff refunds.",
+              "Amazon, last April , landed in hot water with the White House after it was reported that the company planned to display the cost of Trump's tariffs next to some products on its site."
             ],
             "AAPL": [
-              "Major companies, including Apple , Walmart , Costco , Home Depot and General Motors , all said they would apply for refunds.",
-              "Apple said Thursday its earnings per share were lifted 5%, or 11 cents, by tariff refunds in the third quarter."
+              "Apple said Thursday its earnings per share were lifted 5%, or 11 cents, by tariff refunds in the third quarter.",
+              "Major companies, including Apple , Walmart , Costco , Home Depot and General Motors , all said they would apply for refunds."
             ],
             "COST": [
               "Major companies, including Apple , Walmart , Costco , Home Depot and General Motors , all said they would apply for refunds."
@@ -2944,95 +2801,6 @@
           ],
           "ticker_summary": {
             "AMZN": "Amazon.com is facing scrutiny due to tariffs imposed on its third-party sellers’ imported goods."
-          }
-        },
-        {
-          "cluster_id": 41,
-          "name": "Energy supply chain disruptions",
-          "summary": "Ongoing tensions and attacks in the Strait of Hormuz are disrupting global oil shipping, increasing energy price volatility, and undermining confidence in energy supply stability.",
-          "count": 7,
-          "children": [
-            {
-              "name": "U.S. oil reserve stressed as emergency oil releases strain infrastructure",
-              "summary": "Department is implementing a $1.4 billion plan to repair the SPR but had to narrow the scope of the project to stay within budget.",
-              "hash": "d23ee16635cd0cf7",
-              "chunk_key": "d23ee16635cd0cf7_c001",
-              "article_date": "2026-07-27 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump",
-              "summary": "…been reported in Iran, and the two countries appear to be holding to a pause in hostilities.",
-              "hash": "2e0f4d4c185b0b09",
-              "chunk_key": "2e0f4d4c185b0b09_c001",
-              "article_date": "2026-07-26 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Ukraine hits Iranian vessels, Tehran accuses Kyiv of 'hostile and criminal act'",
-              "summary": "Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap …",
-              "hash": "cb35186447be1762",
-              "chunk_key": "cb35186447be1762_c000",
-              "article_date": "2026-07-25 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Saudi military strikes Iran-backed Houthi targets in Yemen",
-              "summary": "…the Red Sea and the Bab el-Mandeb Strait. Al-Malki said the Houthis had carried out a \"reckless and cowardly act by targeting commercial vessels in the Red Sea.\"",
-              "hash": "842beb3154becbe6",
-              "chunk_key": "842beb3154becbe6_c001",
-              "article_date": "2026-07-24 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Strait of Hormuz traffic may not return to normal for 12 months or longer",
-              "summary": "Market odds on Kalshi for when the Strait of Hormuz maritime traffic will return to normal are below 50% as of Friday afternoon.",
-              "hash": "602efd984b52303c",
-              "chunk_key": "602efd984b52303c_c000",
-              "article_date": "2026-07-23 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Oil tankers face attack on multiple fronts as wars escalate in Middle East and Europe",
-              "summary": "…and Iran on June 17 to reopen the strait.",
-              "hash": "2985a2e08883ef14",
-              "chunk_key": "2985a2e08883ef14_c001",
-              "article_date": "2026-07-23 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "Southwest Airlines shipped fuel from Texas to California amid supply worries",
-              "summary": "How volatile are fuel markets this year?",
-              "hash": "66440667ea050bc3",
-              "chunk_key": "66440667ea050bc3_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            }
-          ],
-          "ticker_context": {
-            "LUV": [
-              "Southwest Airlines hired a ship this spring to send jet fuel from Texas to California, where prices are much higher and concerns had grown about supply, Chief Financial Officer Tom Doxey told CNBC."
-            ],
-            "UAL": [
-              "Last week, United Airlines , which flies more internationally than any other U.S. carrier, said it is using the latest available fuel prices for its quarterly estimates because prices have been so volatile."
-            ]
-          },
-          "related_tickers": [
-            {
-              "ticker": "LUV",
-              "name": "Southwest Airlines",
-              "count": 1
-            }
-          ],
-          "ticker_summary": {
-            "LUV": "Southwest Airlines is incurring higher costs due to transporting jet fuel to address supply chain disruptions."
           }
         },
         {
@@ -3071,14 +2839,23 @@
     },
     {
       "name": "Healthtech Innovation",
-      "count": 1,
+      "count": 2,
       "children": [
         {
           "cluster_id": 9,
           "name": "Long-acting GLP-1 implant innovation",
           "summary": "A biotech company is developing a long-acting semaglutide implant to improve patient adherence and maintain weight loss, amid growing demand for convenient, sustained obesity treatments.",
-          "count": 1,
+          "count": 2,
           "children": [
+            {
+              "name": "Direct GLP-1 prescriptions make Walmart, Costco, Amazon big weight-loss winners",
+              "summary": "She notes LillyDirect's cash prices, which run $299 to $449 a month, with the better pricing tied to refilling within 45 days.",
+              "hash": "c1c0f020aea0774d",
+              "chunk_key": "c1c0f020aea0774d_c002",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "UPS, FedEx and logistics giants are investing in the healthcare boom",
               "summary": "…gene therapies, though the biggest challenge is that the margin for error is small — even a brief stray from the correct temperature can ruin the medicines, Bolla said.",
@@ -3090,15 +2867,38 @@
             }
           ],
           "ticker_context": {
+            "AMZN": [
+              "Employers are dropping coverage for GLP-1 drugs like Wegovy and Zepbound in greater numbers, nudging more patients to direct-to-consumer prescription programs , and providing Walmart, Costco, CVS and Amazon the opportunity to gain a greater share of the market.",
+              "Amazon, which has spent years attempting to increase its healthcare footprint, is targeting the opportunity as well.",
+              "Amazon's history of healthcare efforts includes shutting down its Amazon Care telehealth service at the end of 2022, just weeks after unveiling its $3.9 billion deal for One Medical."
+            ],
+            "BRK-B": [
+              "Years earlier, it walked away from Haven, its joint health care venture with JPMorgan Chase and Berkshire Hathaway, which dissolved in 2021 without producing the cost savings the three companies had promised."
+            ],
+            "COST": [
+              "Employers are dropping coverage for GLP-1 drugs like Wegovy and Zepbound in greater numbers, nudging more patients to direct-to-consumer prescription programs , and providing Walmart, Costco, CVS and Amazon the opportunity to gain a greater share of the market.",
+              "\"If one of my customers wants to do a DTC program and has to go to CVS or Costco, those pharmacies don't have access to the rest of their portfolio,\" Price said."
+            ],
+            "AJG": [
+              "Seth Friedman, pharmacy & health plan services practice leader at Gallagher, says on the other side of the opportunity for the retail chains are the independent pharmacies and non-chain players, who stand to be the big losers in this shift."
+            ],
+            "JPM": [
+              "Years earlier, it walked away from Haven, its joint health care venture with JPMorgan Chase and Berkshire Hathaway, which dissolved in 2021 without producing the cost savings the three companies had promised."
+            ],
+            "WMT": [
+              "Employers are dropping coverage for GLP-1 drugs like Wegovy and Zepbound in greater numbers, nudging more patients to direct-to-consumer prescription programs , and providing Walmart, Costco, CVS and Amazon the opportunity to gain a greater share of the market.",
+              "Walmart shuttered its Walmart Health clinics and virtual care service entirely in 2024, closing all 51 locations across six states after concluding the primary-care business wasn't sustainable amid reimbursement pressures and rising costs — five years after it first opened the clinics.",
+              "According to the most recent published data from Drug Channels Institute, a pharmacy industry research firm, Walmart currently holds 4.8% of the pharmacy market, well behind CVS's 14.7% and Walgreens' 14.6%."
+            ],
             "CHRW": [
               "C.H. Robinson told CNBC the logistics company had surpassed $1 billion in revenue in healthcare logistics alone over the past year, largely due to the growth in GLP-1 drugs, as it has been investing in temperature-controlled facilities."
             ],
             "FDX": [
-              "As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals.",
-              "FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products.",
               "On an earnings call in June, FedEx's Chief Customer Officer Brie Carere told analysts that healthcare transportation revenue in fiscal year 2026 reached nearly $10 billion.",
+              "Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs.",
               "\"We're building end-to-end solutions focused on global pharma customers, and what's so important with global pharma is that you have to recognize that there's a patient at the end of every delivery or someone that's waiting to be treated,\" said Nick Gennari, FedEx's president of healthcare.",
-              "Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs."
+              "FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products.",
+              "As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals."
             ]
           },
           "related_tickers": [
@@ -3108,12 +2908,43 @@
               "count": 5
             },
             {
-              "ticker": "CHRW",
-              "name": "C.H. Robinson Worldwide",
+              "ticker": "AMZN",
+              "name": "Amazon.com",
+              "count": 3
+            },
+            {
+              "ticker": "WMT",
+              "name": "Walmart",
+              "count": 3
+            },
+            {
+              "ticker": "COST",
+              "name": "Costco Wholesale",
+              "count": 2
+            },
+            {
+              "ticker": "BRK-B",
+              "name": "Berkshire Hathaway",
+              "count": 1
+            },
+            {
+              "ticker": "AJG",
+              "name": "Arthur J. Gallagher",
+              "count": 1
+            },
+            {
+              "ticker": "JPM",
+              "name": "JPMorgan Chase",
               "count": 1
             }
           ],
           "ticker_summary": {
+            "AMZN": "Amazon is seeking a greater market share in the GLP-1 prescription drug space due to reduced payer coverage.",
+            "BRK-B": "Berkshire Hathaway dissolved its Haven healthcare venture without achieving anticipated cost savings.",
+            "COST": "Costco is positioned to gain market share in GLP-1 prescriptions due to increased demand for direct-to-consumer programs.",
+            "AJG": "Arthur J. Gallagher stands to benefit from the shift toward long-acting GLP-1 implants by supporting independent pharmacies.",
+            "JPM": "JPMorgan Chase dissolved a healthcare venture, Haven, without achieving anticipated savings, suggesting a risk in similar ventures.",
+            "WMT": "Walmart’s closure of healthcare clinics has created an opportunity for Walmart, Costco, CVS, and Amazon to increase market share in the GLP-1 drug market.",
             "CHRW": "C.H. Robinson’s revenue has grown significantly due to increased logistics related to GLP-1 drugs.",
             "FDX": "FedEx is adapting its logistics strategies to ship and store specialized medications, anticipating $10 billion in healthcare transportation revenue."
           }
@@ -3122,7 +2953,7 @@
     },
     {
       "name": "U.S. Policy Pressures",
-      "count": 11,
+      "count": 12,
       "children": [
         {
           "cluster_id": 63,
@@ -3140,10 +2971,28 @@
               "value": 1
             },
             {
+              "name": "Building for 131°F: Europe confronts the growing threat of a ‘quiet catastrophe’",
+              "summary": "…but recent heat waves prompted a change of plan.",
+              "hash": "89f7a0a07d60d002",
+              "chunk_key": "89f7a0a07d60d002_c001",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
               "name": "Trump floats pulling Blanche AG nom until after GOP holdouts leave",
               "summary": "President Donald Trump on Thursday said he is open to \"temporarily withdrawing\" Todd Blanche 's nomination for U.S. attorney general until after two Republican holdouts, Sens.",
               "hash": "bc75a2a63ce0d645",
               "chunk_key": "bc75a2a63ce0d645_c000",
+              "article_date": "2026-07-29 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
+            {
+              "name": "David Hearn Reflecting Pool vandalism case: Pirro seeks dismissal",
+              "summary": "U.S. Attorney for the District of Columbia Jeanine Pirro on Friday moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with vandalizing the Reflecting Pool of…",
+              "hash": "5b2050d5775313df",
+              "chunk_key": "5b2050d5775313df_c000",
               "article_date": "2026-07-29 00:00:00",
               "provider": "CNBC",
               "value": 1
@@ -3201,34 +3050,12 @@
               "article_date": "2026-07-23 00:00:00",
               "provider": "CNBC",
               "value": 1
-            },
-            {
-              "name": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
-              "summary": "House Oversight Committee Chair James Comer said Thursday that former JPMorgan Chase investment banking chief Jes Staley encouraged the bank to retain Jeffrey Epstein as a client d…",
-              "hash": "19ec9f386138299a",
-              "chunk_key": "19ec9f386138299a_c000",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
-            },
-            {
-              "name": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
-              "summary": "…A DOJ spokesperson, in a statement to CNBC, said, \"This judge threatened our attorneys with sanctions unless subpoenas were withdrawn, and blocked us from presenting the meticulous…",
-              "hash": "fc422342b5ee5437",
-              "chunk_key": "fc422342b5ee5437_c002",
-              "article_date": "2026-07-22 00:00:00",
-              "provider": "CNBC",
-              "value": 1
             }
           ],
           "ticker_context": {
-            "JPM": [
-              "House Oversight Committee Chair James Comer said Thursday that former JPMorgan Chase investment banking chief Jes Staley encouraged the bank to retain Jeffrey Epstein as a client despite internal red flags about the convicted sex offender."
-            ],
             "NYT": [
               "Clayton did eventually testify before the Senate Select Committee on Intelligence earlier this month, but the hearing turned contentious when he declined to state outright that Joe Biden won the 2020 election and defended the subpoenaing of New York Times journalists for their reporting on a Qatari jet that was gifted to Trump.",
-              "President Donald Trump on Friday defended his Department of Justice 's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane.",
-              "The Department of Justice withdrew subpoenas it had obtained seeking grand jury testimony from and phone records of New York Times reporters involved in an article about security issues involving President Donald Trump 's new Air Force One jet, prosecutors told a federal judge in New York on Thursday."
+              "President Donald Trump on Friday defended his Department of Justice 's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane."
             ],
             "GOOG": [
               "President Donald Trump on Friday defended his Department of Justice 's issuance of subpoenas to New York Times reporters, as it was revealed that Google also received a subpoena in the same criminal investigation of the leak of information about the president's new Air Force One plane.",
@@ -3238,33 +3065,36 @@
           },
           "related_tickers": [
             {
-              "ticker": "NYT",
-              "name": "New York Times",
-              "count": 3
-            },
-            {
               "ticker": "GOOG",
               "name": "Alphabet",
               "count": 3
             },
             {
-              "ticker": "JPM",
-              "name": "JPMorgan Chase",
-              "count": 1
+              "ticker": "NYT",
+              "name": "New York Times",
+              "count": 2
             }
           ],
           "ticker_summary": {
-            "JPM": "JPMorgan Chase faces scrutiny due to its former chief’s alleged encouragement of retaining Jeffrey Epstein as a client.",
             "GOOG": "Alphabet received a subpoena from the Department of Justice regarding subscriber information linked to a phone number.",
-            "NYT": "New York Times reporters received Justice Department subpoenas related to reporting on Trump’s Air Force One."
+            "NYT": "New York Times journalists received subpoenas as part of a criminal investigation related to the leak of information about the President’s plane."
           }
         },
         {
           "cluster_id": 25,
           "name": "Crypto asset regulation and transparency",
           "summary": "The articles highlight growing scrutiny and legislative efforts surrounding presidential and corporate involvement in cryptocurrency, focusing on transparency, potential market manipulation, and regulatory frameworks for digital assets.",
-          "count": 1,
+          "count": 2,
           "children": [
+            {
+              "name": "Trump Media's new paid data service gives faster access to Trump’s posts",
+              "summary": "Trump Media and Technology Group 's new paid data service launched on Aug<!DOT!",
+              "hash": "b24243f61828404b",
+              "chunk_key": "b24243f61828404b_c000",
+              "article_date": "2026-07-30 00:00:00",
+              "provider": "CNBC",
+              "value": 1
+            },
             {
               "name": "Warren, Schiff urge SEC to probe Trump Media API service",
               "summary": "…on the Nasdaq as DJT, the president's initials.",
@@ -3283,18 +3113,19 @@
               "TMTG operates Truth Social, the social media platform where Trump's account is the most followed by far, and the company has branched into numerous other sectors, including cryptocurrency and fusion power .",
               "On July 16, TMTG announced Truth API, a so-called licensed data service providing \"real-time access to posts from the highest-ranking Truth Social accounts.\"",
               "They asked Atkins to complete a legal analysis of Trump Media's new service, including laws that \"prohibit insider trading and market manipulation,\" before it begins on Aug.",
-              "A Trump Media spokesperson pushed back in a statement to CNBC, accusing Senate Democrats of mischaracterizing the service \"either out of ideological opposition to free markets or a failure to grasp the distinction between public and nonpublic information — or, quite possibly, both.\""
+              "A Trump Media spokesperson pushed back in a statement to CNBC, accusing Senate Democrats of mischaracterizing the service \"either out of ideological opposition to free markets or a failure to grasp the distinction between public and nonpublic information — or, quite possibly, both.\"",
+              "Trump's family is also the largest shareholder in Trump Media, the public company that operates Truth Social."
             ]
           },
           "related_tickers": [
             {
               "ticker": "DJT",
               "name": "Trump Media Technology Group",
-              "count": 7
+              "count": 8
             }
           ],
           "ticker_summary": {
-            "DJT": "Trump Media Technology Group is seeking a legal analysis to ensure its new data service complies with regulations against insider trading and market manipulation."
+            "DJT": "Trump Media Technology Group is requesting a legal analysis to ensure its new data service complies with regulations against insider trading and market manipulation."
           }
         }
       ]
