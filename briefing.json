@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-08-07T23:44:48.097538-04:00",
-  "snapshot_date": "2026-08-08",
+  "generated_at": "2026-09-04T21:35:32.414984-04:00",
+  "snapshot_date": "2026-09-05",
   "schedule": [
-    {
-      "date": "2026-08-07",
-      "type": "nfp",
-      "label": "Non-Farm Payrolls"
-    },
-    {
-      "date": "2026-08-07",
-      "type": "unrate",
-      "label": "Unemployment Rate"
-    },
-    {
-      "date": "2026-08-12",
-      "type": "cpi",
-      "label": "CPI Release"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "pce",
-      "label": "PCE Release"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "gdp",
-      "label": "GDP"
-    },
     {
       "date": "2026-09-04",
       "type": "nfp",
@@ -43,6 +18,11 @@
       "label": "ECB Rate Decision"
     },
     {
+      "date": "2026-09-11",
+      "type": "cpi",
+      "label": "CPI Release"
+    },
+    {
       "date": "2026-09-16",
       "type": "fed",
       "label": "FOMC Rate Decision"
@@ -56,20 +36,35 @@
       "date": "2026-09-18",
       "type": "boj",
       "label": "BOJ Rate Decision"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "pce",
+      "label": "PCE Release"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "gdp",
+      "label": "GDP"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "nfp",
+      "label": "Non-Farm Payrolls"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "unrate",
+      "label": "Unemployment Rate"
     }
   ],
   "macro_outcomes": [
     {
       "name": "CPI (Inflation)",
       "type": "cpi",
-      "latest_value": "3.7% (YoY)",
-      "latest_date": "2026-06-01",
+      "latest_value": "3.5% (YoY)",
+      "latest_date": "2026-07-01",
       "trend": [
-        {
-          "date": "2026-04-01",
-          "value": "3.9% (YoY)",
-          "raw": 3.947
-        },
         {
           "date": "2026-05-01",
           "value": "4.3% (YoY)",
@@ -79,6 +74,11 @@
           "date": "2026-06-01",
           "value": "3.7% (YoY)",
           "raw": 3.7265
+        },
+        {
+          "date": "2026-07-01",
+          "value": "3.5% (YoY)",
+          "raw": 3.5398
         }
       ]
     },
@@ -86,45 +86,45 @@
       "name": "PCE (Inflation)",
       "type": "pce",
       "latest_value": "3.7% (YoY)",
-      "latest_date": "2026-06-01",
+      "latest_date": "2026-07-01",
       "trend": [
-        {
-          "date": "2026-04-01",
-          "value": "3.8% (YoY)",
-          "raw": 3.7907
-        },
         {
           "date": "2026-05-01",
           "value": "4.1% (YoY)",
-          "raw": 4.079
+          "raw": 4.1114
         },
         {
           "date": "2026-06-01",
           "value": "3.7% (YoY)",
-          "raw": 3.6681
+          "raw": 3.717
+        },
+        {
+          "date": "2026-07-01",
+          "value": "3.7% (YoY)",
+          "raw": 3.7012
         }
       ]
     },
     {
       "name": "Non-Farm Payrolls",
       "type": "nfp",
-      "latest_value": "-23K (MoM)",
-      "latest_date": "2026-07-01",
+      "latest_value": "+162K (MoM)",
+      "latest_date": "2026-08-01",
       "trend": [
         {
-          "date": "2026-05-01",
-          "value": "+63K (MoM)",
-          "raw": 63.0
-        },
-        {
           "date": "2026-06-01",
-          "value": "+20K (MoM)",
-          "raw": 20.0
+          "value": "+31K (MoM)",
+          "raw": 31.0
         },
         {
           "date": "2026-07-01",
-          "value": "-23K (MoM)",
-          "raw": -23.0
+          "value": "+21K (MoM)",
+          "raw": 21.0
+        },
+        {
+          "date": "2026-08-01",
+          "value": "+162K (MoM)",
+          "raw": 162.0
         }
       ]
     },
@@ -132,13 +132,8 @@
       "name": "Unemployment Rate",
       "type": "unrate",
       "latest_value": "4.10%",
-      "latest_date": "2026-07-01",
+      "latest_date": "2026-08-01",
       "trend": [
-        {
-          "date": "2026-05-01",
-          "value": "4.30%",
-          "raw": 4.3
-        },
         {
           "date": "2026-06-01",
           "value": "4.20%",
@@ -148,20 +143,20 @@
           "date": "2026-07-01",
           "value": "4.10%",
           "raw": 4.1
+        },
+        {
+          "date": "2026-08-01",
+          "value": "4.10%",
+          "raw": 4.1
         }
       ]
     },
     {
       "name": "Job Openings (JOLTS)",
       "type": "jolts",
-      "latest_value": "7.36M",
-      "latest_date": "2026-06-01",
+      "latest_value": "7.27M",
+      "latest_date": "2026-07-01",
       "trend": [
-        {
-          "date": "2026-04-01",
-          "value": "7.58M",
-          "raw": 7585.0
-        },
         {
           "date": "2026-05-01",
           "value": "7.54M",
@@ -169,8 +164,13 @@
         },
         {
           "date": "2026-06-01",
-          "value": "7.36M",
-          "raw": 7359.0
+          "value": "7.18M",
+          "raw": 7182.0
+        },
+        {
+          "date": "2026-07-01",
+          "value": "7.27M",
+          "raw": 7271.0
         }
       ]
     },
@@ -193,7 +193,7 @@
         {
           "date": "2026-04-01",
           "value": "$32.5T",
-          "raw": 32475.21
+          "raw": 32486.066
         }
       ]
     },
@@ -276,7 +276,7 @@
       "type": "boe",
       "latest_value": "3.75%",
       "latest_date": "2026-07-30",
-      "direction": "hold",
+      "direction": null,
       "source": "boe_official",
       "trend": [
         {
@@ -297,150 +297,150 @@
       {
         "ticker": "^GSPC",
         "label": "S&P 500",
-        "close": 7757.6401,
-        "change_pct": 0.62,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 7718.6001,
+        "change_pct": -0.38,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "^IXIC",
         "label": "Nasdaq",
-        "close": 26690.6152,
-        "change_pct": 1.3,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 26506.9902,
+        "change_pct": -0.29,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "^N225",
         "label": "Nikkei 225",
-        "close": 65606.7109,
-        "change_pct": -0.12,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 65020.94,
+        "change_pct": 1.26,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "^KS11",
         "label": "KOSPI",
-        "close": 6258.77,
-        "change_pct": -0.6,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 6687.21,
+        "change_pct": 1.64,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "^VIX",
         "label": "VIX",
-        "close": 14.9,
-        "change_pct": -1.65,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 14.53,
+        "change_pct": 1.47,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       }
     ],
     "fx": [
       {
         "ticker": "DX-Y.NYB",
         "label": "DXY",
-        "close": 99.604,
-        "change_pct": -0.37,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 99.157,
+        "change_pct": 0.16,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "EURUSD=X",
         "label": "EUR/USD",
-        "close": 1.1562,
-        "change_pct": 0.04,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 1.1621,
+        "change_pct": 0.31,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "JPY=X",
         "label": "USD/JPY",
-        "close": 157.745,
-        "change_pct": 0.09,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 156.221,
+        "change_pct": -1.7,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "GBPUSD=X",
         "label": "GBP/USD",
-        "close": 1.3493,
-        "change_pct": 0.17,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 1.3517,
+        "change_pct": 0.25,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "KRW=X",
         "label": "USD/KRW",
-        "close": 1407.45,
-        "change_pct": -0.96,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 1345.99,
+        "change_pct": -0.69,
+        "as_of": "2026-09-05",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       }
     ],
     "crypto": [
       {
         "ticker": "BTC-USD",
         "label": "Bitcoin",
-        "close": 64902.9805,
-        "change_pct": 0.87,
-        "as_of": "2026-08-08",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 79694.6406,
+        "change_pct": -1.31,
+        "as_of": "2026-09-05",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "ETH-USD",
         "label": "Ethereum",
-        "close": 1913.72,
-        "change_pct": 0.57,
-        "as_of": "2026-08-08",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 2455.55,
+        "change_pct": -1.78,
+        "as_of": "2026-09-05",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       }
     ],
     "commodities": [
       {
         "ticker": "CL=F",
         "label": "WTI Crude",
-        "close": 77.08,
-        "change_pct": -0.27,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 91.22,
+        "change_pct": -0.09,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       },
       {
         "ticker": "GC=F",
         "label": "Gold",
-        "close": 4401.2998,
-        "change_pct": 3.76,
-        "as_of": "2026-08-07",
-        "updated_at": "2026-08-07T23:17:09.963988-04:00"
+        "close": 4477.2002,
+        "change_pct": -0.32,
+        "as_of": "2026-09-04",
+        "updated_at": "2026-09-04T21:35:02.910621-04:00"
       }
     ],
     "bonds": [
       {
         "ticker": "US2Y",
         "label": "2Y Treasury",
-        "close": 4.199,
-        "change_pct": -1.08,
-        "as_of": "2026-08-07"
+        "close": 4.374,
+        "change_pct": 0.92,
+        "as_of": "2026-09-04"
       },
       {
         "ticker": "US5Y",
         "label": "5Y Treasury",
-        "close": 4.357,
-        "change_pct": -0.73,
-        "as_of": "2026-08-07"
+        "close": 4.548,
+        "change_pct": 0.86,
+        "as_of": "2026-09-04"
       },
       {
         "ticker": "US10Y",
         "label": "10Y Treasury",
-        "close": 4.649,
-        "change_pct": -0.45,
-        "as_of": "2026-08-07"
+        "close": 4.784,
+        "change_pct": 0.46,
+        "as_of": "2026-09-04"
       },
       {
         "ticker": "US30Y",
         "label": "30Y Treasury",
-        "close": 5.202,
-        "change_pct": -0.19,
-        "as_of": "2026-08-07"
+        "close": 5.244,
+        "change_pct": 0.02,
+        "as_of": "2026-09-04"
       }
     ]
   },
@@ -448,114 +448,114 @@
     "by_news": {
       "top_tickers": [
         {
-          "ticker": "ABNB",
-          "name": "Airbnb",
-          "mentions": 18,
-          "score": 0.7778,
-          "positive_pct": 83.3,
-          "negative_pct": 5.6,
-          "top_cluster": "AI-driven hospitality growth"
+          "ticker": "NVDA",
+          "name": "Nvidia",
+          "mentions": 40,
+          "score": 0.85,
+          "positive_pct": 90.0,
+          "negative_pct": 5.0,
+          "top_cluster": "AI infrastructure financing"
         },
         {
-          "ticker": "DIS",
-          "name": "Walt Disney",
-          "mentions": 16,
-          "score": 0.75,
-          "positive_pct": 87.5,
-          "negative_pct": 12.5,
-          "top_cluster": "Disney's growth strategies"
+          "ticker": "EQIX",
+          "name": "Equinix",
+          "mentions": 19,
+          "score": 0.7895,
+          "positive_pct": 89.5,
+          "negative_pct": 10.5,
+          "top_cluster": "AI infrastructure financing"
         },
         {
-          "ticker": "VSNT",
-          "name": "Versant Media Group",
-          "mentions": 7,
+          "ticker": "HOOD",
+          "name": "Robinhood Markets",
+          "mentions": 14,
+          "score": 0.8571,
+          "positive_pct": 92.9,
+          "negative_pct": 7.1,
+          "top_cluster": "Regulatory battle over prediction markets"
+        },
+        {
+          "ticker": "AVGO",
+          "name": "Broadcom",
+          "mentions": 17,
+          "score": 0.7647,
+          "positive_pct": 88.2,
+          "negative_pct": 11.8,
+          "top_cluster": "AI infrastructure financing"
+        },
+        {
+          "ticker": "SNOW",
+          "name": "Snowflake",
+          "mentions": 8,
           "score": 1.0,
           "positive_pct": 100.0,
           "negative_pct": 0.0,
-          "top_cluster": "Streaming vs. Linear TV Shift"
-        },
-        {
-          "ticker": "MSFT",
-          "name": "Microsoft",
-          "mentions": 13,
-          "score": 0.7692,
-          "positive_pct": 84.6,
-          "negative_pct": 7.7,
-          "top_cluster": "AI competition and IPO race"
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms",
-          "mentions": 10,
-          "score": 0.8,
-          "positive_pct": 90.0,
-          "negative_pct": 10.0,
-          "top_cluster": "AI-driven traffic shifts"
+          "top_cluster": "AI-driven software resilience"
         }
       ],
       "top_clusters": [
         {
-          "cluster_id": 4,
-          "label": "Energy supply disruptions",
-          "meta_category": "Policy and Systemic Risks",
+          "cluster_id": 36,
+          "label": "Inflation and rate policy uncertainty",
+          "meta_category": "Economic instability",
+          "article_count": 26
+        },
+        {
+          "cluster_id": 41,
+          "label": "AI infrastructure financing",
+          "meta_category": "AI and Space Convergence",
+          "article_count": 24
+        },
+        {
+          "cluster_id": 58,
+          "label": "Energy supply chain disruptions",
+          "meta_category": "Energy System Resilience",
+          "article_count": 13
+        },
+        {
+          "cluster_id": 47,
+          "label": "AI enterprise competition",
+          "meta_category": "AI and Space Convergence",
           "article_count": 11
         },
         {
-          "cluster_id": 60,
-          "label": "AI security and global competition",
-          "meta_category": "AI Transformation Landscape",
-          "article_count": 7
-        },
-        {
-          "cluster_id": 6,
-          "label": "Food safety and supply chain risks",
-          "meta_category": "Economic Disruption Trends",
-          "article_count": 6
-        },
-        {
-          "cluster_id": 24,
-          "label": "Volatility & Earnings Risk",
-          "meta_category": "Market Dynamics & Trends",
-          "article_count": 6
-        },
-        {
-          "cluster_id": 38,
-          "label": "AI-driven cloud spending surge",
-          "meta_category": "AI Economy Transformation",
-          "article_count": 5
+          "cluster_id": 10,
+          "label": "Social media regulation surge",
+          "meta_category": "Policy and Technology Shifts",
+          "article_count": 8
         }
       ]
     },
     "by_price": [
       {
-        "ticker": "DOCS",
-        "name": "Doximity",
-        "close": 27.4,
-        "change_pct": 32.62
+        "ticker": "RARE",
+        "name": "Ultragenyx Pharmaceutical",
+        "close": 14.85,
+        "change_pct": -44.03
       },
       {
-        "ticker": "TWLO",
-        "name": "Twilio",
-        "close": 241.28,
-        "change_pct": 24.89
+        "ticker": "MSTR",
+        "name": "Strategy",
+        "close": 144.82,
+        "change_pct": 17.56
       },
       {
-        "ticker": "TTD",
-        "name": "Trade Desk",
-        "close": 13.8,
-        "change_pct": -21.9
+        "ticker": "HOOD",
+        "name": "Robinhood Markets",
+        "close": 124.72,
+        "change_pct": 16.57
       },
       {
-        "ticker": "ABNB",
-        "name": "Airbnb",
-        "close": 178.07,
-        "change_pct": 17.43
+        "ticker": "SNOW",
+        "name": "Snowflake",
+        "close": 356.47,
+        "change_pct": 16.55
       },
       {
-        "ticker": "CELH",
-        "name": "Celsius",
-        "close": 27.77,
-        "change_pct": 16.83
+        "ticker": "CRCL",
+        "name": "Circle Internet Group",
+        "close": 103.23,
+        "change_pct": 16.46
       }
     ],
     "debuts": []
