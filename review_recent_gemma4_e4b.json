@@ -1,0 +1,153 @@
+{
+  "generated_at": "2026-09-30T02:40:32.011221-04:00",
+  "mode": "recent",
+  "model": "gemma4_e4b",
+  "topics_hash": "bb7399a6337343f10426bc0290a13073",
+  "agent_hash": "de93556495c6e4f8cd673accf406890e",
+  "reports": [
+    {
+      "cluster_id": 33,
+      "cluster_name": "AI-driven cybersecurity surge",
+      "cluster_summary": "Cisco stock dropped almost 5% on Tuesday (Sep 22), while Cisco reported $17.25 billion in revenue (Sep 22), and Island, which counts American Airlines, Chipotle, Pfizer, and major banks among its customers, is facing increased competition from Palo Alto Networks.",
+      "findings": [
+        {
+          "ticker": "AAL",
+          "category": "known-noise-pattern",
+          "excerpt": "American Airlines Group is cited as a customer of Island, which provides cybersecurity services to numerous companies.",
+          "reasoning": "Deterministic check fired (citation source echo): summary describes the company as a cited customer/client of another company, not as the subject of its own business claim.",
+          "confidence": "high"
+        },
+        {
+          "ticker": "CMG",
+          "category": "known-noise-pattern",
+          "excerpt": "Chipotle Mexican Grill is cited as a customer among a growing list of companies served by Island.",
+          "reasoning": "Deterministic check fired (citation source echo): summary describes the company as a cited customer/client of another company, not as the subject of its own business claim.",
+          "confidence": "high"
+        },
+        {
+          "ticker": "PFE",
+          "category": "known-noise-pattern",
+          "excerpt": "Island, which counts Pfizer among its customers, is experiencing a surge in demand for cybersecurity services.",
+          "reasoning": "Deterministic check fired (citation source echo): summary describes the company as a cited customer/client of another company, not as the subject of its own business claim.",
+          "confidence": "high"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "CSCO",
+          "summary": "Cisco stock dropped almost 5% on Tuesday (Sep 22) as Piper Sandler cut its price target.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "AAL",
+          "summary": "American Airlines Group is cited as a customer of Island, which provides cybersecurity services to numerous companies.",
+          "fired": [
+            "citation source echo"
+          ],
+          "flagged": true
+        },
+        {
+          "ticker": "CMG",
+          "summary": "Chipotle Mexican Grill is cited as a customer among a growing list of companies served by Island.",
+          "fired": [
+            "citation source echo"
+          ],
+          "flagged": true
+        },
+        {
+          "ticker": "PANW",
+          "summary": "Palo Alto Networks is facing increased competition from pure-play cybersecurity firms and startups in the AI security market.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "PFE",
+          "summary": "Island, which counts Pfizer among its customers, is experiencing a surge in demand for cybersecurity services.",
+          "fired": [
+            "citation source echo"
+          ],
+          "flagged": true
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 46,
+      "cluster_name": "AI-driven cloud competition",
+      "cluster_summary": "Microsoft shares are up 3% this year (Sep 25), while Meta’s Muse app rose to the top of Apple’s App Store, and Apple’s Instinct and OpenClaw tools are gaining popularity alongside Microsoft’s Frontier program and Autopilot preview.",
+      "findings": [],
+      "debug_checks": [
+        {
+          "ticker": "AAPL",
+          "summary": "Apple’s App Store has seen the Muse app rise in popularity.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "META",
+          "summary": "Meta’s Muse app rose to the top of the App Store following the popularity of similar tools.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "MSFT",
+          "summary": "Microsoft’s Copilot app is being updated to handle complex productivity tasks and code, aiming to entice Office 365 customers to pay for advanced AI tools.",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 42,
+      "cluster_name": "Inflation and rate hike expectations",
+      "cluster_summary": "Goldman Sachs and Bank of America both now anticipate another interest rate increase, with Goldman Sachs projecting one in October and Bank of America expecting one in December.",
+      "findings": [
+        {
+          "ticker": "GS",
+          "category": "known-noise-pattern",
+          "excerpt": "Goldman Sachs Group is forecasting an October rate increase and another move in December.",
+          "reasoning": "Tool flagged as Macro Forecaster (Category 3). The summary presents Goldman Sachs' projection on the timing of future interest rate hikes, which is a macro view on the economy, not a claim about GS's own business performance or customers.",
+          "confidence": "high"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "GS",
+          "summary": "Goldman Sachs Group is forecasting an October rate increase and another move in December.",
+          "fired": [
+            "a macro forecaster"
+          ],
+          "flagged": true
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 69,
+      "cluster_name": "Converging consumer spending",
+      "cluster_summary": "The Bank of America’s analysis indicates that consumers are not reducing spending despite rising costs associated with leisure activities (“funflation”).",
+      "findings": [
+        {
+          "ticker": "BAC",
+          "category": "known-noise-pattern",
+          "excerpt": "Bank of America suggests consumers are not cutting back despite rising costs of “fun”.",
+          "reasoning": "Tool flagged as Macro Forecaster (Category 3). The summary attributes the macro view (consumer spending resilience) to the institution's analysis, which is a direct match for Category 3.",
+          "confidence": "high"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "BAC",
+          "summary": "Bank of America suggests consumers are not cutting back despite rising costs of “fun”.",
+          "fired": [
+            "a macro forecaster"
+          ],
+          "flagged": true
+        }
+      ],
+      "agent_error": null
+    }
+  ]
+}
