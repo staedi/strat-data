@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-10-16T18:26:55.085442-04:00",
+  "mode": "recent",
+  "model": "static",
+  "topics_hash": "9904fb5e81461db2dca1c17ce33ad7bd",
+  "agent_hash": "c788733415ff08c51459253531062f2d",
+  "reports": [
+    {
+      "cluster_id": 42,
+      "cluster_name": "Tax-efficient investing strategies",
+      "cluster_summary": "Employers have faced uncertainty regarding alternative investments in 401(k) plans due to shifting government policies and a lawsuit concerning an Intel retirement plan.",
+      "findings": [
+        {
+          "ticker": "a",
+          "category": "known-noise-pattern",
+          "excerpt": "a",
+          "reasoning": "a",
+          "confidence": "medium"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "INTC",
+          "summary": "Intel’s retirement plan lawsuit before the Supreme Court could influence employers’ investment strategies in 401(k)s (Oct 10).",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 33,
+      "cluster_name": "Energy warfare and market disruption",
+      "cluster_summary": "SpaceX indicated that Starlink services are available in over 160 markets, and Zelenskyy noted concerns regarding restrictions on the system’s use.",
+      "findings": [
+        {
+          "ticker": "a",
+          "category": "known-noise-pattern",
+          "excerpt": "a",
+          "reasoning": "a",
+          "confidence": "medium"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "SPCX",
+          "summary": "Space Exploration Technologies’ Starlink operations are subject to restrictions in multiple markets.",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    }
+  ]
+}
