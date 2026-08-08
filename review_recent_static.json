@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-09-29T10:05:46.319806-04:00",
+  "mode": "recent",
+  "model": "static",
+  "topics_hash": "4b4ddf84c6e055ccb2c12048b852d2ef",
+  "agent_hash": "de93556495c6e4f8cd673accf406890e",
+  "reports": [
+    {
+      "cluster_id": 33,
+      "cluster_name": "AI-driven cybersecurity surge",
+      "cluster_summary": "Cisco stock dropped almost 5% on Tuesday (Sep 22), while Cisco reported $17.25 billion in revenue (Sep 22), and Island, which counts American Airlines, Chipotle, Pfizer, and major banks among its customers, is facing increased competition from Palo Alto Networks.",
+      "findings": [
+        {
+          "ticker": "a",
+          "category": "known-noise-pattern",
+          "excerpt": "a",
+          "reasoning": "a",
+          "confidence": "medium"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "CSCO",
+          "summary": "Cisco stock dropped almost 5% on Tuesday (Sep 22) as Piper Sandler cut its price target.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "AAL",
+          "summary": "American Airlines Group is cited as a customer of Island, which provides cybersecurity services to numerous companies.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "CMG",
+          "summary": "Chipotle Mexican Grill is cited as a customer among a growing list of companies served by Island.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "PANW",
+          "summary": "Palo Alto Networks is facing increased competition from pure-play cybersecurity firms and startups in the AI security market.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "PFE",
+          "summary": "Island, which counts Pfizer among its customers, is experiencing a surge in demand for cybersecurity services.",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 42,
+      "cluster_name": "Inflation and rate hike expectations",
+      "cluster_summary": "Bank of America and Goldman Sachs Group both indicated an October rate increase and another move in December.",
+      "findings": [
+        {
+          "ticker": "a",
+          "category": "known-noise-pattern",
+          "excerpt": "a",
+          "reasoning": "a",
+          "confidence": "medium"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "BAC",
+          "summary": "Bank of America anticipates another rate increase in December.",
+          "fired": [],
+          "flagged": false
+        },
+        {
+          "ticker": "GS",
+          "summary": "Goldman Sachs Group is forecasting an October rate increase and another move in December.",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    },
+    {
+      "cluster_id": 69,
+      "cluster_name": "Converging consumer spending",
+      "cluster_summary": "The Bank of America’s analysis indicates that consumers are not reducing spending despite rising costs associated with leisure activities (“funflation”).",
+      "findings": [
+        {
+          "ticker": "a",
+          "category": "known-noise-pattern",
+          "excerpt": "a",
+          "reasoning": "a",
+          "confidence": "medium"
+        }
+      ],
+      "debug_checks": [
+        {
+          "ticker": "BAC",
+          "summary": "Bank of America suggests consumers are not cutting back despite rising costs of “fun”.",
+          "fired": [],
+          "flagged": false
+        }
+      ],
+      "agent_error": null
+    }
+  ]
+}
